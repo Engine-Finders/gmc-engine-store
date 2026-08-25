@@ -1,0 +1,57 @@
+{
+  "sectionTitle": "Featured Engines in Stock",
+  "sectionDescription": "Ready-stock units available to buy now – sourced from our currently verified-demand catalogue.",
+  "viewAllText": "See all engines",
+  "viewAllHref": "/engines",
+  "buyButtonText": "Buy it now",
+  "engines": [
+    {
+      "id": "om651-w204",
+      "image": "/images/engines/mercedes-om-651924-diesel-engine.png",
+      "condition": "Reconditioned",
+      "title": "Mercedes OM651 Engine",
+      "subtitle": "C-Class W204",
+      "price": "£1,795.00",
+      "installments": "or pay in instalments at checkout",
+      "inStock": true,
+      "stockLabel": "In stock - ready to ship",
+      "buyHref": "/engines/om651/mercedes-c-class-w204"
+    },
+    {
+      "id": "om642-w906",
+      "image": "/images/engines/mercedes-om642-diesel-engine.png",
+      "condition": "Used",
+      "title": "Mercedes OM642 Engine",
+      "subtitle": "Sprinter W906",
+      "price": "£1,495.00",
+      "installments": "or pay in instalments at checkout",
+      "inStock": true,
+      "stockLabel": "In stock - ready to ship",
+      "buyHref": "/engines/om642-w906"
+    },
+    {
+      "id": "m274-w205",
+      "image": "/images/engines/mercedes-m271-petrol-engine.png",
+      "condition": "Used",
+      "title": "Mercedes M274 Engine",
+      "subtitle": "C-Class W205",
+      "price": "£1,095.00",
+      "installments": "or pay in instalments at checkout",
+      "inStock": true,
+      "stockLabel": "In stock - ready to ship",
+      "buyHref": "/engines/m274-w205"
+    },
+    {
+      "id": "om646-w204",
+      "image": "/images/engines/mercedes-om654920-diesel-engine-removebg-preview.png",
+      "condition": "Used",
+      "title": "Mercedes OM646 Engine",
+      "subtitle": "C-Class W204",
+      "price": "£695.00",
+      "installments": "or pay in instalments at checkout",
+      "inStock": true,
+      "stockLabel": "In stock - ready to ship",
+      "buyHref": "/engines/om646-w204"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "sectionTitle": "Frequently Asked Questions",
+  "faqs": [
+    {
+      "question": "How does GMC work?",
+      "answer": "Enter your registration number or browse by brand and model to find the exact engine your vehicle needs. Every engine is shown at a fixed, listed price with its condition, warranty and delivery estimate stated upfront - add it to your basket and buy it directly, the same way you'd buy anything else online."
+    },
+    {
+      "question": "Is GMC a marketplace or a comparison site?",
+      "answer": "GMC is a direct-purchase engine store. You buy a specific engine at the price shown on the page - there are no quotes to request and no suppliers to compare. If you're still working out what's wrong with your vehicle, or you'd rather get a fitted-price quote from a specialist instead of buying the engine outright, GMC may not be the right stop for that stage of the job."
+    },
+    {
+      "question": "What condition are the engines in?",
+      "answer": "Every listing states its condition clearly - used engines are removed from a donor vehicle, tested, and sold with recorded mileage; reconditioned engines are fully stripped, machined and rebuilt with new wear parts and a 12-month, unlimited-mileage warranty. Where both are available for your vehicle, you can choose between them on the listing page."
+    },
+    {
+      "question": "What if the engine doesn't fit my vehicle?",
+      "answer": "Every listing is verified against your registration before you order, and full compatibility details are shown on the page. If an engine you've ordered turns out not to be compatible, you can return it uninstalled within 14 days for a full refund including original delivery."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "sectionTitle": "Used or Reconditioned - Which Should You Buy?",
+  "options": [
+    {
+      "type": "Used engines",
+      "description": "Removed from a donor vehicle, tested, and sold with recorded mileage. The cost-effective route where donor supply is strong - every used unit states its own warranty term before you buy.",
+      "icon": "car"
+    },
+    {
+      "type": "Reconditioned engines",
+      "description": "Fully stripped, machined and rebuilt with new wear parts, then tested before dispatch. Carries a 12-month, unlimited-mileage warranty - the right choice for maximum service life.",
+      "icon": "wrench"
+    }
+  ]
+}

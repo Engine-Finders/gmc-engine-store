@@ -1,0 +1,25 @@
+{
+  "eyebrow": "TRUSTED BY THOUSANDS OF CUSTOMERS ACROSS THE UK",
+  "trustpilot": {
+    "label": "Excellent",
+    "rating": "4.8 out of 5 based on 2,300+ reviews",
+    "brand": "Trustpilot"
+  },
+  "items": [
+    {
+      "icon": "shield-check",
+      "title": "12-Month Warranty",
+      "description": "On reconditioned engines"
+    },
+    {
+      "icon": "lock",
+      "title": "Secure Checkout",
+      "description": "Safe payments, no hidden fees or charges"
+    },
+    {
+      "icon": "truck",
+      "title": "UK Nationwide Delivery",
+      "description": "2-4 working days, fast and tracked"
+    }
+  ]
+}

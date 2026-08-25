@@ -1,0 +1,12 @@
+{
+  "links": [
+    { "label": "Engines", "href": "/engines", "dropdown": true },
+    { "label": "Brands", "href": "/brands", "dropdown": true },
+    { "label": "Buying Guides", "href": "/guides", "dropdown": false },
+    { "label": "Warranty", "href": "/warranty", "dropdown": false },
+    { "label": "Delivery", "href": "/delivery", "dropdown": false },
+    { "label": "About Us", "href": "/about", "dropdown": false },
+    { "label": "Contact", "href": "/contact", "dropdown": false }
+  ],
+  "checkFitment": { "label": "Check Fitment", "href": "#reg-check" }
+}

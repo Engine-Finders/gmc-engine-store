@@ -1,0 +1,24 @@
+{
+  "sectionTitle": "How Buying Works",
+  "sectionDescription": "Three steps, no quotes, no callbacks.",
+  "steps": [
+    {
+      "number": 1,
+      "title": "Verify fit by reg",
+      "description": "Enter your registration or browse to your model - we confirm the exact engine code your vehicle needs.",
+      "icon": "search"
+    },
+    {
+      "number": 2,
+      "title": "Order at the listed price",
+      "description": "Choose used or reconditioned where both are available, then buy at the fixed price shown on the page.",
+      "icon": "cart"
+    },
+    {
+      "number": 3,
+      "title": "Dispatched with warranty",
+      "description": "Your engine ships UK-wide with tracking, backed by warranty and a 14-day uninstalled return.",
+      "icon": "truck"
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "c-class": {
+    "slug": "c-class",
+    "brandSlug": "mercedes-benz-engines",
+    "seo": {
+      "title": "Mercedes C-Class Engines for Sale | Used & Reconditioned | GMC",
+      "description": "Buy used and reconditioned Mercedes C-Class engines at fixed prices. 17 engine families across W203 to W206, verified fitment by reg, warranty, UK delivery. From £595."
+    },
+    "hero": {
+      "brand": "Mercedes-Benz",
+      "model": "C-Class",
+      "logo": "/images/brands/Brand_logo.png",
+      "titleSuffix": "Engines for Sale —",
+      "highlight": "Used & Reconditioned",
+      "description": "Every C-Class engine from W203 to W206 — verified fitment by registration, fixed prices, UK delivery.",
+      "longDescription": "Buy replacement Mercedes C-Class engines online at fixed, listed prices. We cover 17 engine families across all four generations sold in the UK since 2000 — from the OM646 and OM651 diesels through the M271 and M272 petrols to the C63's AMG V8s — each supplied as an application-verified unit with warranty and nationwide delivery.",
+      "carImage": "/images/models/Modelpage_C.png",
+      "carImageLight": "/images/models/Modelpage_C_light.png",
+      "regCheck": { "placeholder": "ENTER REG NUMBER", "buttonText": "Find my engine", "countryFlag": "GB" },
+      "trustBadges": [
+        { "icon": "shield-check", "title": "12-Month Warranty", "subtitle": "Unlimited mileage on recon" },
+        { "icon": "shield", "title": "Verified Fitment", "subtitle": "Checked by registration" },
+        { "icon": "truck", "title": "UK Nationwide Delivery", "subtitle": "Fast & secure, 2–4 days" },
+        { "icon": "returns", "title": "14-Day Returns", "subtitle": "Uninstalled, full refund" }
+      ],
+      "cards": [
+        { "code": "OM646", "spec": "2.2 CDI Diesel", "condition": "Used", "priceFrom": "£695", "image": "/images/engines/mercedes-om654920-diesel-engine-removebg-preview.png", "inStock": true, "href": "/engines/om646", "pos": { "top": 118, "left": 30, "width": 194, "rotate": -3, "z": 22 } },
+        { "code": "OM651", "spec": "2.1 CDI Diesel", "condition": "Reconditioned", "priceFrom": "£895", "image": "/images/engines/mercedes-om-651924-diesel-engine.png", "inStock": true, "href": "/engines/om651", "featured": true, "pos": { "top": 52, "left": 244, "width": 222, "rotate": 0, "z": 26 } },
+        { "code": "OM654", "spec": "2.0 CDI Diesel", "condition": "Used", "priceFrom": "£1,795", "image": "/images/engines/mercedes-om642-diesel-engine.png", "inStock": true, "href": "/engines/om654", "pos": { "top": 98, "left": 486, "width": 189, "rotate": 2, "z": 24 } },
+        { "code": "M274", "spec": "1.6 – 2.0 Petrol", "condition": "Used", "priceFrom": "£895", "image": "/images/engines/mercedes-m271-petrol-engine.png", "inStock": true, "href": "/engines/m274", "pos": { "top": 168, "left": 695, "width": 183, "rotate": 4, "z": 21 } },
+        { "code": "M271", "spec": "1.8 CGI Petrol", "condition": "Used", "priceFrom": "£895", "image": "/images/engines/mercedes-m271-petrol-engine.png", "inStock": true, "href": "/engines/m271", "pos": { "top": 396, "left": 0, "width": 185, "rotate": -5, "z": 20 } },
+        { "code": "M276", "spec": "3.5 V6 Petrol", "condition": "Used", "priceFrom": "£995", "image": "/images/engines/mercedes-m271-petrol-engine.png", "inStock": true, "href": "/engines/m276", "pos": { "top": 440, "left": 715, "width": 183, "rotate": 5, "z": 20 } }
+      ]
+    },
+    "featured": {
+      "title": "Featured C-Class Engines in Stock",
+      "subtitle": "Ready-stock units for every C-Class generation, available to buy now at the listed price — dispatched within one working day.",
+      "viewAllText": "View all engines",
+      "viewAllHref": "/engines",
+      "buyButtonText": "Buy it now",
+      "engines": [
+        { "id": "om651-w204", "condition": "Reconditioned", "title": "Mercedes OM651 Engine —", "subtitle": "C-Class W204 (C200/C220/C250 CDI)", "price": "£1,795.00", "stockLabel": "In stock — ready to ship", "image": "/images/engines/mercedes-om-651924-diesel-engine.png", "buyHref": "/engines/om651/mercedes-c-class-w204" },
+        { "id": "om651-w205", "condition": "Used", "title": "Mercedes OM651 Engine —", "subtitle": "C-Class W205 (C220d/C250d)", "price": "£895.00", "stockLabel": "In stock — ready to ship", "image": "/images/engines/mercedes-om-651924-diesel-engine.png", "buyHref": "/engines/om651-w205" },
+        { "id": "m271-w204", "condition": "Used", "title": "Mercedes M271 Engine —", "subtitle": "C-Class W204 (C180/C200/C250 CGI)", "price": "£895.00", "stockLabel": "In stock — ready to ship", "image": "/images/engines/mercedes-m271-petrol-engine.png", "buyHref": "/engines/m271-w204" },
+        { "id": "om646-w204", "condition": "Used", "title": "Mercedes OM646 Engine —", "subtitle": "C-Class W203/W204 (C200/C220 CDI)", "price": "£695.00", "stockLabel": "In stock — ready to ship", "image": "/images/engines/mercedes-om654920-diesel-engine-removebg-preview.png", "buyHref": "/engines/om646-w204" },
+        { "id": "om654-w205", "condition": "Used", "title": "Mercedes OM654 Engine —", "subtitle": "C-Class W205/W206 (C220d/C300d)", "price": "£1,795.00", "stockLabel": "In stock — ready to ship", "image": "/images/engines/mercedes-om642-diesel-engine.png", "buyHref": "/engines/om654-w205" },
+        { "id": "m272-w204", "condition": "Used", "title": "Mercedes M272 Engine —", "subtitle": "C-Class W203/W204 (C280/C300/C350)", "price": "£995.00", "stockLabel": "In stock — ready to ship", "image": "/images/engines/mercedes-m271-petrol-engine.png", "buyHref": "/engines/m272-w204" },
+        { "id": "r9m-w205", "condition": "Used", "title": "Renault R9M 1.6 dCi Engine —", "subtitle": "C-Class W205 (C180d/C200d)", "price": "£795.00", "stockLabel": "In stock — ready to ship", "image": "/images/engines/mercedes-om654920-diesel-engine-removebg-preview.png", "buyHref": "/engines/r9m-w205" },
+        { "id": "m156-w204", "condition": "Used", "title": "Mercedes-AMG M156 Engine —", "subtitle": "C63 AMG W204 (6.2 V8)", "price": "£4,495.00", "stockLabel": "In stock — ready to ship", "image": "/images/engines/mercedes-m271-petrol-engine.png", "buyHref": "/engines/m156-w204" },
+        { "id": "om651-w204-b", "condition": "Reconditioned", "title": "Mercedes OM651 Engine —", "subtitle": "C-Class W204 (C200/C220/C250 CDI)", "price": "£1,795.00", "stockLabel": "In stock — ready to ship", "image": "/images/engines/mercedes-om-651924-diesel-engine.png", "buyHref": "/engines/om651/mercedes-c-class-w204" },
+        { "id": "om651-w205-b", "condition": "Used", "title": "Mercedes OM651 Engine —", "subtitle": "C-Class W205 (C220d/C250d)", "price": "£895.00", "stockLabel": "In stock — ready to ship", "image": "/images/engines/mercedes-om-651924-diesel-engine.png", "buyHref": "/engines/om651-w205" },
+        { "id": "m271-w204-b", "condition": "Used", "title": "Mercedes M271 Engine —", "subtitle": "C-Class W204 (C180/C200/C250 CGI)", "price": "£895.00", "stockLabel": "In stock — ready to ship", "image": "/images/engines/mercedes-m271-petrol-engine.png", "buyHref": "/engines/m271-w204" },
+        { "id": "om646-w204-b", "condition": "Used", "title": "Mercedes OM646 Engine —", "subtitle": "C-Class W203/W204 (C200/C220 CDI)", "price": "£695.00", "stockLabel": "In stock — ready to ship", "image": "/images/engines/mercedes-om654920-diesel-engine-removebg-preview.png", "buyHref": "/engines/om646-w204" },
+        { "id": "om654-w205-b", "condition": "Used", "title": "Mercedes OM654 Engine —", "subtitle": "C-Class W205/W206 (C220d/C300d)", "price": "£1,795.00", "stockLabel": "In stock — ready to ship", "image": "/images/engines/mercedes-om642-diesel-engine.png", "buyHref": "/engines/om654-w205" },
+        { "id": "m272-w204-b", "condition": "Used", "title": "Mercedes M272 Engine —", "subtitle": "C-Class W203/W204 (C280/C300/C350)", "price": "£995.00", "stockLabel": "In stock — ready to ship", "image": "/images/engines/mercedes-m271-petrol-engine.png", "buyHref": "/engines/m272-w204" },
+        { "id": "r9m-w205-b", "condition": "Used", "title": "Renault R9M 1.6 dCi Engine —", "subtitle": "C-Class W205 (C180d/C200d)", "price": "£795.00", "stockLabel": "In stock — ready to ship", "image": "/images/engines/mercedes-om654920-diesel-engine-removebg-preview.png", "buyHref": "/engines/r9m-w205" },
+        { "id": "m156-w204-b", "condition": "Used", "title": "Mercedes-AMG M156 Engine —", "subtitle": "C63 AMG W204 (6.2 V8)", "price": "£4,495.00", "stockLabel": "In stock — ready to ship", "image": "/images/engines/mercedes-m271-petrol-engine.png", "buyHref": "/engines/m156-w204" }
+      ]
+    },
+    "engineTable": {
+      "title": "Every Engine Fitted to the Mercedes C-Class",
+      "subtitle": "All 17 engine families across four generations. Pick your generation, find your variant, and follow the engine link to buy. Outputs shown are typical UK figures; engines marked \"hub pending\" are being added.",
+      "generations": ["All Generations", "W203", "W204", "W205", "W206"],
+      "columns": ["Variant", "Engine code", "Engine page", "Fuel", "Years", "Output"],
+      "viewAllText": "View all 17 engine families",
+      "viewAllHref": "#engine-families",
+      "rows": [
+        { "gen": "W203", "variant": "C180", "code": "M111", "page": "Hub pending", "href": "", "fuel": "Petrol", "years": "2000–2002", "output": "129 PS" },
+        { "gen": "W203", "variant": "C200 Kompressor", "code": "M111", "page": "Hub pending", "href": "", "fuel": "Petrol", "years": "2000–2002", "output": "163 PS" },
+        { "gen": "W203", "variant": "C230 Kompressor", "code": "M111", "page": "Hub pending", "href": "", "fuel": "Petrol", "years": "2001–2004", "output": "192 PS" },
+        { "gen": "W203", "variant": "C180 Kompressor", "code": "M271", "page": "M271 engines", "href": "/engines/m271", "fuel": "Petrol", "years": "2002–2007", "output": "143 PS" },
+        { "gen": "W203", "variant": "C200 Kompressor", "code": "M271", "page": "M271 engines", "href": "/engines/m271", "fuel": "Petrol", "years": "2002–2007", "output": "163 PS" },
+        { "gen": "W203", "variant": "C240", "code": "M112", "page": "M112 engines", "href": "/engines/m112", "fuel": "Petrol", "years": "2000–2005", "output": "170 PS" },
+        { "gen": "W203", "variant": "C320", "code": "M112", "page": "M112 engines", "href": "/engines/m112", "fuel": "Petrol", "years": "2000–2005", "output": "218 PS" },
+        { "gen": "W203", "variant": "C230", "code": "M272", "page": "M272 engines", "href": "/engines/m272", "fuel": "Petrol", "years": "2005–2007", "output": "204 PS" },
+        { "gen": "W203", "variant": "C280", "code": "M272", "page": "M272 engines", "href": "/engines/m272", "fuel": "Petrol", "years": "2005–2007", "output": "231 PS" },
+        { "gen": "W203", "variant": "C350", "code": "M272", "page": "M272 engines", "href": "/engines/m272", "fuel": "Petrol", "years": "2005–2007", "output": "272 PS" },
+        { "gen": "W203", "variant": "C32 AMG", "code": "M112 (supercharged)", "page": "M112 engines", "href": "/engines/m112", "fuel": "Petrol", "years": "2001–2004", "output": "354 PS" },
+        { "gen": "W203", "variant": "C55 AMG", "code": "M113", "page": "M113 engines", "href": "/engines/m113", "fuel": "Petrol", "years": "2004–2007", "output": "367 PS" },
+        { "gen": "W203", "variant": "C200 CDI", "code": "OM611", "page": "OM611 engines", "href": "/engines/om611", "fuel": "Diesel", "years": "2000–2003", "output": "116 PS" },
+        { "gen": "W203", "variant": "C220 CDI", "code": "OM611", "page": "OM611 engines", "href": "/engines/om611", "fuel": "Diesel", "years": "2000–2003", "output": "143 PS" },
+        { "gen": "W203", "variant": "C200 CDI", "code": "OM646", "page": "OM646 engines", "href": "/engines/om646", "fuel": "Diesel", "years": "2003–2007", "output": "122 PS" },
+        { "gen": "W203", "variant": "C220 CDI", "code": "OM646", "page": "OM646 engines", "href": "/engines/om646", "fuel": "Diesel", "years": "2003–2007", "output": "150 PS" },
+        { "gen": "W203", "variant": "C270 CDI", "code": "OM612", "page": "OM612/OM647 engines", "href": "/engines/om612", "fuel": "Diesel", "years": "2000–2005", "output": "170 PS" },
+        { "gen": "W203", "variant": "C30 CDI AMG", "code": "OM612 (3.0)", "page": "OM612/OM647 engines", "href": "/engines/om612", "fuel": "Diesel", "years": "2002–2004", "output": "231 PS" },
+        { "gen": "W203", "variant": "C320 CDI", "code": "OM642", "page": "OM642 engines", "href": "/engines/om642", "fuel": "Diesel", "years": "2005–2007", "output": "224 PS" },
+        { "gen": "W204", "variant": "C180 Kompressor", "code": "M271", "page": "M271 engines", "href": "/engines/m271", "fuel": "Petrol", "years": "2007–2009", "output": "156 PS" },
+        { "gen": "W204", "variant": "C180 CGI", "code": "M271", "page": "M271 engines", "href": "/engines/m271", "fuel": "Petrol", "years": "2009–2012", "output": "156 PS" },
+        { "gen": "W204", "variant": "C180 (1.6)", "code": "M274", "page": "M274 engines", "href": "/engines/m274", "fuel": "Petrol", "years": "2012–2014", "output": "156 PS" },
+        { "gen": "W204", "variant": "C200 Kompressor / CGI", "code": "M271", "page": "M271 engines", "href": "/engines/m271", "fuel": "Petrol", "years": "2007–2013", "output": "184 PS" },
+        { "gen": "W204", "variant": "C250 CGI", "code": "M271", "page": "M271 engines", "href": "/engines/m271", "fuel": "Petrol", "years": "2009–2014", "output": "204 PS" },
+        { "gen": "W204", "variant": "C230", "code": "M272", "page": "M272 engines", "href": "/engines/m272", "fuel": "Petrol", "years": "2007–2009", "output": "204 PS" },
+        { "gen": "W204", "variant": "C280 / C300", "code": "M272", "page": "M272 engines", "href": "/engines/m272", "fuel": "Petrol", "years": "2007–2014", "output": "231 PS" },
+        { "gen": "W204", "variant": "C350", "code": "M272", "page": "M272 engines", "href": "/engines/m272", "fuel": "Petrol", "years": "2007–2011", "output": "272 PS" },
+        { "gen": "W204", "variant": "C350 CGI", "code": "M276", "page": "M276 engines", "href": "/engines/m276", "fuel": "Petrol", "years": "2011–2014", "output": "306 PS" },
+        { "gen": "W204", "variant": "C63 AMG", "code": "M156", "page": "M156 engines", "href": "/engines/m156", "fuel": "Petrol", "years": "2008–2014", "output": "457–487 PS" },
+        { "gen": "W204", "variant": "C200 CDI", "code": "OM646", "page": "OM646 engines", "href": "/engines/om646", "fuel": "Diesel", "years": "2007–2010", "output": "136 PS" },
+        { "gen": "W204", "variant": "C220 CDI", "code": "OM646", "page": "OM646 engines", "href": "/engines/om646", "fuel": "Diesel", "years": "2007–2009", "output": "170 PS" },
+        { "gen": "W204", "variant": "C200 CDI", "code": "OM651", "page": "OM651 engines", "href": "/engines/om651", "fuel": "Diesel", "years": "2010–2014", "output": "136 PS" },
+        { "gen": "W204", "variant": "C220 CDI", "code": "OM651", "page": "OM651 engines", "href": "/engines/om651", "fuel": "Diesel", "years": "2009–2014", "output": "170 PS" },
+        { "gen": "W204", "variant": "C250 CDI", "code": "OM651", "page": "OM651 engines", "href": "/engines/om651", "fuel": "Diesel", "years": "2008–2014", "output": "204 PS" },
+        { "gen": "W204", "variant": "C320 CDI", "code": "OM642", "page": "OM642 engines", "href": "/engines/om642", "fuel": "Diesel", "years": "2007–2009", "output": "224 PS" },
+        { "gen": "W204", "variant": "C350 CDI", "code": "OM642", "page": "OM642 engines", "href": "/engines/om642", "fuel": "Diesel", "years": "2009–2014", "output": "231–265 PS" },
+        { "gen": "W205", "variant": "C160 / C180 / C200", "code": "M274", "page": "M274 engines", "href": "/engines/m274", "fuel": "Petrol", "years": "2014–2018", "output": "129–184 PS" },
+        { "gen": "W205", "variant": "C250", "code": "M274", "page": "M274 engines", "href": "/engines/m274", "fuel": "Petrol", "years": "2014–2018", "output": "211 PS" },
+        { "gen": "W205", "variant": "C300", "code": "M274", "page": "M274 engines", "href": "/engines/m274", "fuel": "Petrol", "years": "2014–2018", "output": "245 PS" },
+        { "gen": "W205", "variant": "C200 / C300 EQ Boost", "code": "M264", "page": "M264 engines", "href": "/engines/m264", "fuel": "Petrol", "years": "2018–2021", "output": "184–258 PS" },
+        { "gen": "W205", "variant": "C350e", "code": "M274", "page": "M274 engines", "href": "/engines/m274", "fuel": "Petrol", "years": "2015–2018", "output": "211 PS (PHEV)" },
+        { "gen": "W205", "variant": "C43 AMG", "code": "M276", "page": "M276 engines", "href": "/engines/m276", "fuel": "Petrol", "years": "2016–2021", "output": "367–390 PS" },
+        { "gen": "W205", "variant": "C63 / C63 S", "code": "M177", "page": "M177 engines", "href": "/engines/m177", "fuel": "Petrol", "years": "2015–2021", "output": "476–510 PS" },
+        { "gen": "W205", "variant": "C180d / C200d", "code": "OM626 (Renault R9M)", "page": "R9M engines", "href": "/engines/r9m", "fuel": "Diesel", "years": "2014–2018", "output": "116/136 PS" },
+        { "gen": "W205", "variant": "C220d / C250d", "code": "OM651", "page": "OM651 engines", "href": "/engines/om651", "fuel": "Diesel", "years": "2014–2018", "output": "170/204 PS" },
+        { "gen": "W205", "variant": "C200d / C220d / C300d", "code": "OM654", "page": "OM654 engines", "href": "/engines/om654", "fuel": "Diesel", "years": "2018–2021", "output": "160–245 PS" },
+        { "gen": "W205", "variant": "C300de", "code": "OM654", "page": "OM654 engines", "href": "/engines/om654", "fuel": "Diesel", "years": "2018–2021", "output": "194 PS (PHEV)" },
+        { "gen": "W206", "variant": "C180 / C200 / C300", "code": "M254", "page": "Hub pending", "href": "", "fuel": "Petrol", "years": "2021–present", "output": "170–258 PS" },
+        { "gen": "W206", "variant": "C300e", "code": "M254", "page": "Hub pending", "href": "", "fuel": "Petrol", "years": "2022–present", "output": "204 PS (PHEV)" },
+        { "gen": "W206", "variant": "C220d / C300d", "code": "OM654 (654M)", "page": "OM654 engines", "href": "/engines/om654", "fuel": "Diesel", "years": "2021–present", "output": "200/265 PS" },
+        { "gen": "W206", "variant": "C43 AMG", "code": "M139", "page": "M139 engines", "href": "/engines/m139", "fuel": "Petrol", "years": "2022–present", "output": "408 PS" },
+        { "gen": "W206", "variant": "C63 S E Performance", "code": "M139 (M139L)", "page": "M139 engines", "href": "/engines/m139", "fuel": "Petrol", "years": "2023–present", "output": "476 PS engine (PHEV)" }
+      ]
+    },
+    "priceGuide": {
+      "title": "C-Class Engine Price Guide by Generation",
+      "subtitle": "The lowest current listed engine price for each C-Class generation. Every unit is priced individually on its listing by application and condition.",
+      "note": "Prices shown are current lowest listed prices and update as stock changes. The price on each listing is the price you pay — no hidden fees at checkout.",
+      "rangeStart": "2000",
+      "rangeEnd": "2025",
+      "generations": [
+        { "code": "W203", "years": "2000–2007", "variants": 19, "families": 7, "priceFrom": "£595", "route": "M112 petrol V6", "image": "/images/models/Modelpage_car2.png" },
+        { "code": "W204", "years": "2007–2014", "variants": 17, "families": 8, "priceFrom": "£695", "route": "OM646 diesel", "image": "/images/models/Modelpage_car.png", "current": true },
+        { "code": "W205", "years": "2014–2021", "variants": 11, "families": 7, "priceFrom": "£795", "route": "R9M 1.6 diesel", "image": "/images/models/Modelpage_car2.png" },
+        { "code": "W206", "years": "2021–present", "variants": 5, "families": 4, "priceFrom": "£1,795", "route": "OM654 diesel", "image": "/images/models/Modelpage_car2.png" }
+      ]
+    },
+    "usedVsRecon": {
+      "title": "Used or Reconditioned — Which C-Class Engine to Buy?",
+      "options": [
+        { "icon": "car", "title": "Used C-Class engines", "text": "The OM646, M271 and M112 families have had strong donor availability historically, which tends to keep tested used units well priced — often the cost-effective route for W203 and early W204 cars. Every used unit lists its recorded mileage and warranty term before you buy." },
+        { "icon": "shield-check", "title": "Reconditioned C-Class engines", "text": "For the OM651 and OM654 diesels used across later C-Classes, a fully rebuilt unit with a 12-month, unlimited-mileage warranty is available as a selectable option on most listings — the right choice where maximum service life matters more than the lowest price." }
+      ]
+    },
+    "generations": {
+      "title": "C-Class Engines Through the Generations",
+      "items": [
+        { "code": "W203", "years": "2000–2007", "image": "/images/models/Modelpage_car2.png", "text": "Launched on M111 petrols and OM611 diesels, then transitioned mid-life to the M271 Kompressor and OM646 — the families that define its replacement market today." },
+        { "code": "W204", "years": "2007–2014", "image": "/images/models/Modelpage_car2.png", "text": "Brought the OM651 diesel from 2008 alongside the M271 CGI, with the C63's M156 6.2 as the range's highest-value engine." },
+        { "code": "W205", "years": "2014–2021", "image": "/images/models/Modelpage_car2.png", "text": "Paired M274 petrols with OM651 diesels at launch and used a Renault-sourced 1.6 diesel in entry cars, before the 2018 facelift introduced the OM654 and M264." },
+        { "code": "W206", "years": "2021–present", "image": "/images/models/Modelpage_car2.png", "text": "Consolidates onto the M254 petrol and OM654 diesel with 48-volt assistance, while AMG moves to the four-cylinder M139." }
+      ]
+    },
+    "faqs": {
+      "title": "C-Class Engine Buying FAQs",
+      "items": [
+        { "q": "Which engines were fitted to the Mercedes C-Class?", "a": "Seventeen engine families cover the C-Class from 2000 to the present. W203 cars used M111, M271, M112 and M113 petrols with OM611, OM612, OM646 and OM642 diesels; the W204 added the OM651 and the C63's M156; the W205 ran M274, M264 and M276 petrols with OM651, OM654 and a Renault-sourced 1.6 diesel; and the current W206 pairs the OM654 diesel with AMG's M139. Every family has its own page listing every compatible unit." },
+        { "q": "How do I know which engine my C-Class has?", "a": "The fastest way is the registration checker on this page — it identifies your exact model year and factory-fitted engine code from DVLA vehicle data before you order. You can also find the engine details recorded on your V5C registration document, and the engine code is stamped on the block itself. If two engines served your variant across a transition year, the checker confirms which one your car left the factory with." },
+        { "q": "Should I buy a used or reconditioned C-Class engine?", "a": "It depends on the family. The OM646, M271 and M112 have had strong donor availability historically, so a tested used unit is often the cost-effective route. For the OM651 and OM654 diesels used across later cars, a reconditioned unit with a 12-month unlimited-mileage warranty is available as a selectable option on most listings — the right choice where maximum service life matters more than the lowest price." },
+        { "q": "What warranty and delivery come with a C-Class engine?", "a": "Reconditioned C-Class engines carry a 12-month, unlimited-mileage warranty on internal mechanical components, and used engines state their own warranty term on each listing before you buy. Delivery is UK mainland by kerbside pallet, typically 2 to 4 working days for in-stock units with tracking emailed on dispatch, and any engine that proves incompatible can be returned uninstalled within 14 days for a full refund." }
+      ]
+    },
+    "related": {
+      "title": "Related Mercedes Models",
+      "models": [
+        { "name": "E-Class Engines", "href": "/mercedes-benz-engines/e-class" },
+        { "name": "CLA Engines", "href": "/mercedes-benz-engines/cla" },
+        { "name": "GLC Engines", "href": "/mercedes-benz-engines/glc" },
+        { "name": "CLK Engines", "href": "/mercedes-benz-engines/clk" },
+        { "name": "All Mercedes-Benz Engines", "href": "/mercedes-benz-engines", "all": true }
+      ]
+    },
+    "cta": {
+      "title": "Find the right C-Class engine in under a minute",
+      "description": "Enter your registration, confirm the fit, and buy at the listed price — warranty and UK delivery included.",
+      "buttonText": "Check Fitment by Reg",
+      "buttonHref": "#reg-check",
+      "image": "/images/engines/pop-om642.png"
+    }
+  }
+}

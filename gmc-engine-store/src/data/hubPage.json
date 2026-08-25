@@ -1,0 +1,416 @@
+{
+  "om651": {
+    "engineSlug": "om651",
+    "seo": {
+      "title": "Mercedes OM651 Engine for Sale | Used & Reconditioned | GMC",
+      "description": "Buy a Mercedes OM651 2.1 diesel engine, used or reconditioned, configured for your vehicle. 8 application-specific units covering C-Class to Sprinter. From £895. UK delivery.",
+      "canonical": "https://example.com/engines/om651/"
+    },
+    "breadcrumb": [
+      {
+        "label": "Home",
+        "href": "/"
+      },
+      {
+        "label": "Engines",
+        "href": "/engines"
+      },
+      {
+        "label": "Mercedes Engines",
+        "href": "/mercedes-benz"
+      },
+      {
+        "label": "OM651 Engine"
+      }
+    ],
+    "hero": {
+      "brand": "Mercedes-Benz",
+      "brandLogo": "/images/brands/logo-mercedes.png",
+      "titleLead": "Mercedes OM651 Engine -",
+      "titleHighlight": "Used & Reconditioned",
+      "titleTail": " for Sale",
+      "alsoKnownAs": "Also known as: OM651 DE22LA, variant codes .911-.957",
+      "description": "Fits C-Class, E-Class, GLC, ML/GLE, Sprinter, Vito, A-Class/CLA/GLA and more - verified fitment, fixed prices, UK delivery.",
+      "heroImage": "/images/hub/hero_dark_cut.png",
+      "heroImageLight": "/images/hub/hero_light_cut.png",
+      "quickSpecs": [
+        {
+          "icon": "cog",
+          "value": "2143cc",
+          "label": "Displacement"
+        },
+        {
+          "icon": "fuel",
+          "value": "Diesel",
+          "label": "Fuel"
+        },
+        {
+          "icon": "calendar",
+          "value": "2008-2018",
+          "label": "Production"
+        }
+      ],
+      "specCards": [
+        {
+          "icon": "cog",
+          "value": "2143cc",
+          "label": "Displacement"
+        },
+        {
+          "icon": "fuel",
+          "value": "Diesel",
+          "label": "Fuel"
+        },
+        {
+          "icon": "calendar",
+          "value": "2008-2018",
+          "label": "Production"
+        },
+        {
+          "icon": "config",
+          "value": "4-Cylinder",
+          "label": "Configuration"
+        },
+        {
+          "icon": "box",
+          "value": "Multiple",
+          "label": "Applications"
+        }
+      ],
+      "regCheck": {
+        "countryFlag": "GB",
+        "placeholder": "ENTER REG NUMBER",
+        "buttonText": "Check fit"
+      },
+      "microTrust": [
+        "Exact model match",
+        "Engine code confirmed",
+        "100% secure"
+      ],
+      "trustBadges": [
+        {
+          "icon": "shield-check",
+          "title": "Verified Fitment",
+          "subtitle": "Checked by registration"
+        },
+        {
+          "icon": "shield-check",
+          "title": "12-Month Warranty",
+          "subtitle": "On reconditioned units"
+        },
+        {
+          "icon": "truck",
+          "title": "UK Nationwide Delivery",
+          "subtitle": "2-4 working days"
+        },
+        {
+          "icon": "repeat",
+          "title": "14-Day Returns",
+          "subtitle": "Uninstalled, full refund"
+        }
+      ]
+    },
+    "applications": {
+      "title": "Buy an OM651 Engine for Your Vehicle",
+      "subtitle": "8 application-specific units - each configured and priced for its vehicle. Buy at the listed price; every unit ships with warranty and UK delivery.",
+      "ctaText": "View unit",
+      "units": [
+        {
+          "id": "w204",
+          "condition": "Used",
+          "title": "C-Class W204",
+          "subtitle": "C200/C220/C250 CDI · 2008-2014",
+          "price": "£895",
+          "image": "/images/listings/engine_trim.png",
+          "href": "/engines/om651/mercedes-c-class-w204"
+        },
+        {
+          "id": "w205",
+          "condition": "Used",
+          "title": "C-Class W205",
+          "subtitle": "C220d/C250d · 2014-2018",
+          "price": "£1,095",
+          "image": "/images/listings/engine_trim.png",
+          "href": "/engines/om651/mercedes-c-class-w205"
+        },
+        {
+          "id": "w212",
+          "condition": "Used",
+          "title": "E-Class W212",
+          "subtitle": "E200/E220/E250 CDI · 2009-2016",
+          "price": "£1,050",
+          "image": "/images/listings/engine_trim.png",
+          "href": "/engines/om651/mercedes-e-class-w212"
+        },
+        {
+          "id": "glk-glc",
+          "condition": "Used",
+          "title": "GLK & GLC",
+          "subtitle": "X204/X253 · 220/250 CDI",
+          "price": "£1,150",
+          "image": "/images/listings/engine_trim.png",
+          "href": "/engines/om651/mercedes-glk-glc"
+        },
+        {
+          "id": "w166",
+          "condition": "Reconditioned",
+          "title": "ML/GLE W166",
+          "subtitle": "250 BlueTEC · 2011-2018",
+          "price": "£2,395",
+          "image": "/images/listings/engine_trim.png",
+          "href": "/engines/om651/mercedes-ml-gle-w166"
+        },
+        {
+          "id": "w906",
+          "condition": "Used",
+          "title": "Sprinter W906",
+          "subtitle": "210-316 CDI range · 2009-2018",
+          "price": "£1,495",
+          "image": "/images/listings/engine_trim.png",
+          "href": "/engines/om651/mercedes-sprinter-w906"
+        },
+        {
+          "id": "vito",
+          "condition": "Used",
+          "title": "Vito & V-Class",
+          "subtitle": "W639/W447 · 110-119 CDI",
+          "price": "£1,395",
+          "image": "/images/listings/engine_trim.png",
+          "href": "/engines/om651/mercedes-vito-v-class"
+        },
+        {
+          "id": "a-cla-gla",
+          "condition": "Reconditioned",
+          "title": "A-Class, CLA & GLA",
+          "subtitle": "Transverse · A200/A220 CDI",
+          "price": "£2,250",
+          "image": "/images/listings/engine_trim.png",
+          "href": "/engines/om651/mercedes-a-cla-gla"
+        }
+      ]
+    },
+    "compatibility": {
+      "title": "Full OM651 Compatibility",
+      "intro": "Every model and generation that used the OM651, linked to its unit page. Confirm your exact spec with the registration checker above.",
+      "columns": [
+        "Model",
+        "Chassis",
+        "Variants",
+        "Years",
+        "Config.",
+        "Unit page"
+      ],
+      "note": "Confirm your exact spec with the registration checker above.",
+      "rows": [
+        {
+          "model": "C-Class",
+          "chassis": "W204",
+          "variants": "C200/C220/C250 CDI",
+          "years": "2008-2014",
+          "config": "Longitudinal",
+          "linkText": "View unit",
+          "href": "/engines/om651/mercedes-c-class-w204"
+        },
+        {
+          "model": "C-Class",
+          "chassis": "W205",
+          "variants": "C200d/C220d/C250d",
+          "years": "2014-2018",
+          "config": "Longitudinal",
+          "linkText": "View unit",
+          "href": "/engines/om651/mercedes-c-class-w205"
+        },
+        {
+          "model": "E-Class",
+          "chassis": "W212",
+          "variants": "E200/E220/E250 CDI",
+          "years": "2009-2016",
+          "config": "Longitudinal",
+          "linkText": "View unit",
+          "href": "/engines/om651/mercedes-e-class-w212"
+        },
+        {
+          "model": "GLK",
+          "chassis": "X204",
+          "variants": "220/250 CDI",
+          "years": "2009-2015",
+          "config": "Longitudinal",
+          "linkText": "View unit",
+          "href": "/engines/om651/mercedes-glk-glc"
+        },
+        {
+          "model": "GLC",
+          "chassis": "X253",
+          "variants": "220d/250d",
+          "years": "2015-2019",
+          "config": "Longitudinal",
+          "linkText": "View unit",
+          "href": "/engines/om651/mercedes-glk-glc"
+        },
+        {
+          "model": "SLK",
+          "chassis": "R172",
+          "variants": "250 CDI",
+          "years": "2012-2015",
+          "config": "Longitudinal",
+          "linkText": "See E-Class unit",
+          "href": "/engines/om651/mercedes-e-class-w212"
+        },
+        {
+          "model": "ML / GLE",
+          "chassis": "W166",
+          "variants": "250 BlueTEC",
+          "years": "2011-2018",
+          "config": "Longitudinal",
+          "linkText": "View unit",
+          "href": "/engines/om651/mercedes-ml-gle-w166"
+        },
+        {
+          "model": "Sprinter",
+          "chassis": "W906",
+          "variants": "210-316 CDI range",
+          "years": "2009-2018",
+          "config": "Van",
+          "linkText": "View unit",
+          "href": "/engines/om651/mercedes-sprinter-w906"
+        },
+        {
+          "model": "Vito",
+          "chassis": "W639/W447",
+          "variants": "110-119 CDI range",
+          "years": "2010-2018+",
+          "config": "Van",
+          "linkText": "View unit",
+          "href": "/engines/om651/mercedes-vito-v-class"
+        },
+        {
+          "model": "A-Class",
+          "chassis": "W176",
+          "variants": "A200/A220 CDI",
+          "years": "2012-2018",
+          "config": "Transverse",
+          "linkText": "View unit",
+          "href": "/engines/om651/mercedes-a-cla-gla"
+        },
+        {
+          "model": "CLA",
+          "chassis": "C117",
+          "variants": "200d/220d",
+          "years": "2013-2018",
+          "config": "Transverse",
+          "linkText": "View unit",
+          "href": "/engines/om651/mercedes-a-cla-gla"
+        },
+        {
+          "model": "GLA",
+          "chassis": "X156",
+          "variants": "200d/220d",
+          "years": "2014-2018",
+          "config": "Transverse",
+          "linkText": "View unit",
+          "href": "/engines/om651/mercedes-a-cla-gla"
+        }
+      ]
+    },
+    "prices": {
+      "title": "OM651 Engine Prices",
+      "intro": "Every application priced individually. All 8 units shown - no selection, this is the complete list for this engine.",
+      "columns": [
+        "Application",
+        "Used from",
+        "Reconditioned from"
+      ],
+      "note": "Prices shown are current lowest listed prices and update as stock changes. The price on each listing is the price you pay - no hidden fees at checkout.",
+      "rows": [
+        {
+          "application": "C-Class W204",
+          "used": "£895",
+          "recon": "£1,795"
+        },
+        {
+          "application": "C-Class W205",
+          "used": "£1,095",
+          "recon": "£1,995"
+        },
+        {
+          "application": "E-Class W212",
+          "used": "£1,050",
+          "recon": "£1,895"
+        },
+        {
+          "application": "GLK & GLC",
+          "used": "£1,150",
+          "recon": "£2,050"
+        },
+        {
+          "application": "ML/GLE W166",
+          "used": "-",
+          "recon": "£2,395"
+        },
+        {
+          "application": "Sprinter W906",
+          "used": "£1,495",
+          "recon": "£2,495"
+        },
+        {
+          "application": "Vito & V-Class",
+          "used": "£1,395",
+          "recon": "£2,350"
+        },
+        {
+          "application": "A-Class/CLA/GLA",
+          "used": "-",
+          "recon": "£2,250"
+        }
+      ]
+    },
+    "whatYouGet": {
+      "titleLead": "What You Get with an ",
+      "titleHighlight": "OM651",
+      "titleTail": " Engine",
+      "includedTitle": "What's included:",
+      "includedBody": "Fully reconditioned long block where applicable (block, head, crank, pistons, rings), or a tested used long block with recorded mileage. Compression and leak-down tested before dispatch. 12-month, unlimited-mileage warranty on reconditioned units; used units carry their own stated warranty term.",
+      "excludedTitle": "Not included:",
+      "excluded": [
+        "Turbocharger, injectors and high-pressure fuel pump",
+        "Ancillaries (alternator, starter motor, aircon compressor)",
+        "Fitting labour (supply-only price shown)",
+        "Coolant, oil and other consumables"
+      ],
+      "asideTitle": "Used or reconditioned?",
+      "asideBody": "Availability varies by application - car and van applications with donor supply are more commonly offered used, while the ML/GLE and A-Class/CLA/GLA applications on this page are currently reconditioned-only. Each application card above shows exactly which condition and price is available for your vehicle."
+    },
+    "faqs": {
+      "title": "OM651 Engine Buying FAQs",
+      "subtitle": "Everything you need to know before you buy the right OM651 engine for your vehicle.",
+      "items": [
+        {
+          "q": "Which vehicles use the Mercedes OM651 engine?",
+          "a": "The OM651 is a 2.1-litre four-cylinder diesel fitted across Mercedes-Benz's range between 2008 and 2018. It covers the C-Class (W204 and W205), E-Class (W212), GLK and early GLC, SLK R172, ML/GLE W166, the A-Class/CLA/GLA family in transverse form, and van specification in the Sprinter W906 and Vito/V-Class. Each application is sold as its own configured unit, so buy at the listed price for your exact vehicle."
+        },
+        {
+          "q": "Is the OM651 the same engine in a car and a van?",
+          "a": "The core architecture is shared, but car, transverse and van versions are not interchangeable as complete units - sump design, turbo arrangement, ancillary brackets and injector specification differ between them. That's why this engine is sold as separate application-specific units rather than one generic listing, each configured and priced for its own vehicle."
+        },
+        {
+          "q": "Should I buy a used or reconditioned OM651?",
+          "a": "Both are available depending on the application. A used engine is removed from a donor vehicle and tested before sale; a reconditioned engine is fully stripped, machined and rebuilt with new wear parts and carries a 12-month, unlimited-mileage warranty. Each application page shows which conditions are currently available and at what price, so you can buy at the listed price that suits your budget."
+        },
+        {
+          "q": "How do I confirm an OM651 fits my vehicle?",
+          "a": "Enter your registration number in the checker on this page or on any application listing - it confirms your exact model, year and factory-fitted engine code from DVLA vehicle data before you order. Every application page also lists its full compatible-model range, so you can check directly before you buy."
+        },
+        {
+          "q": "What warranty and delivery come with an OM651 engine?",
+          "a": "Reconditioned OM651 units carry a 12-month, unlimited-mileage warranty; used units state their own warranty term on the listing before you buy. Delivery is UK mainland by kerbside pallet, typically 2 to 4 working days for in-stock units, and any engine that proves incompatible can be returned uninstalled within 14 days for a full refund."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Find your OM651 engine in under a minute",
+      "body": "Enter your registration, confirm the fit, and buy at the listed price - warranty and UK delivery included.",
+      "buttonText": "Check Fitment by Reg",
+      "buttonHref": "#reg-check"
+    }
+  }
+}

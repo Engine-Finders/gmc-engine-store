@@ -1,0 +1,315 @@
+================================================================================
+GMC ENGINE STORE - PROJECT HANDOVER
+================================================================================
+
+
+Live preview:    Vercel (gmc-engine-store.vercel.app)
+
+--------------------------------------------------------------------------------
+1. WHAT THIS IS
+--------------------------------------------------------------------------------
+A marketing / e-commerce front end for GMC, a UK supplier of used and
+reconditioned car engines. Visitors identify the right engine for their vehicle
+(by browsing brand -> model -> engine, or by entering a registration number) and
+buy at a listed price.
+
+The build is FRONT END ONLY. All content is static JSON; there is no database,
+no API, no checkout and no auth yet. Buttons like "Add to basket" and the
+registration lookup are presentational.
+
+The work to date is a pixel-accurate implementation of designer-supplied PNG
+mockups, in both desktop and mobile layouts, plus a light/dark theme on the
+newer page types.
+
+--------------------------------------------------------------------------------
+2. TECH STACK
+--------------------------------------------------------------------------------
+Next.js            14.2.5   App Router, TypeScript, static generation (SSG)
+React              18.3.1
+TypeScript         5
+Tailwind CSS       3.4.7    darkMode: "class"; config in tailwind.config.js
+framer-motion      12       carousel / card animations only
+sharp              0.35     BUILD-TIME image tooling (see section 8), not runtime
+PostCSS/Autoprefixer        standard Next.js setup
+
+No test framework, no state library, no CMS, no UI component library.
+Styling is Tailwind utility classes; there is no CSS-in-JS. The only hand-written
+CSS lives in src/app/globals.css (background textures, scrollbar hiding, and a
+text-size-adjust fix).
+
+Commands (run inside gmc-engine-store/):
+  npm install
+  npm run dev      -> http://localhost:3000
+  npm run build    -> production build
+  npm run start    -> serve the production build
+  npm run lint
+
+--------------------------------------------------------------------------------
+3. ARCHITECTURE - THE ONE THING TO UNDERSTAND
+--------------------------------------------------------------------------------
+Every page is DATA-DRIVEN. A page type is written once as a set of React
+components; each individual page is one entry in a JSON file, keyed by its URL
+slug. Adding a new brand, model, engine or listing means ADDING A JSON ENTRY -
+no new components, no new routes.
+
+    src/data/<type>Page.json    content, keyed by slug
+            |
+    src/lib/<type>.ts           lookup helper + generateStaticParams source
+            |
+    src/app/.../page.tsx        dynamic route, reads the helper
+            |
+    src/components/<type>/      the section components for that page type
+
+Pages are pre-rendered at build time (SSG). Each route exports
+generateStaticParams(), which enumerates the keys of its JSON file, so a new
+JSON entry produces a new static page on the next build.
+
+--------------------------------------------------------------------------------
+4. PAGES / ROUTES
+--------------------------------------------------------------------------------
+There are five page types. Only one example of each is populated today.
+
+(1) HOME                 /
+    src/app/page.tsx  -- static, not slug-driven
+    Sections: Hero, BrowseByBrand, FeaturedEngines, HowItWorks, ShopByBrand,
+              InfoCards, PopularEngines, GmcAndFaq, CTA
+    Data: hero.json, brands.json, engines.json, howItWorks.json,
+          shopByBrand.json, features.json, faqs.json, cta.json and others.
+
+(2) BRAND PAGE           /[brandSlug]              e.g. /mercedes-benz-engines
+    Data: brandPage.json    Helper: src/lib/brand.ts
+    Components: src/components/brand/* plus BrandHero.tsx
+    Sections: hero (3-card carousel + car + orbit rings + trust bar),
+              how it works, featured engines, shop by model, engine families,
+              price guide, used vs reconditioned, about, warranty & delivery,
+              FAQs, CTA.
+
+(3) MODEL PAGE           /[brandSlug]/[modelSlug]
+                         e.g. /mercedes-benz-engines/c-class
+    Data: modelPage.json    Helper: src/lib/model.ts
+    Components: src/components/model/*
+    Sections: hero (engine cards scattered around a car), featured engines,
+              engine table with generation tabs, price guide timeline,
+              used/generations, FAQs, related models, CTA.
+    Supports light + dark mode.
+
+(4) ENGINE HUB PAGE      /engines/[engineSlug]     e.g. /engines/om651
+    Data: hubPage.json      Helper: src/lib/hub.ts
+    Components: src/components/hub/*
+    Sections: HubHero (engine on a glowing pedestal + 5 floating spec cards),
+              HubApplications (8 application units - grid on desktop, carousel
+              on mobile), HubTables (full compatibility + price tables),
+              HubWhatYouGet (included / not included), HubFaqs (+ CTA banner).
+    Supports light + dark mode. This is the most recently built page.
+
+(5) LISTING PAGE         /engines/[engineSlug]/[applicationSlug]
+                         e.g. /engines/om651/mercedes-c-class-w204
+    Data: listingPage.json  Helper: src/lib/listing.ts
+    Components: src/components/listing/*
+    Sections: ListingHero (image gallery + buy panel + reg check),
+              ListingAbout, ListingCompatible, ListingInfoCards, ListingFaqs.
+    Supports light + dark mode.
+    NOTE: the hub page links to eight listing URLs but only the W204 one exists
+    in listingPage.json. The other seven 404 until their entries are added.
+
+--------------------------------------------------------------------------------
+5. SHARED COMPONENTS
+--------------------------------------------------------------------------------
+src/components/
+  Header.tsx         sticky nav, 68px tall + 1px border = 69px. Several heroes
+                     compute their height as calc(100svh - 69px); if the header
+                     height changes, those must change with it. Contains the
+                     light/dark toggle (rendered only on themed pages).
+  Footer.tsx         site footer, driven by footer.json + navigation.json
+  Icon.tsx           ALL icons - a name -> SVG path map, ~50 entries. Unknown
+                     names fall back to a "help" icon silently rather than
+                     throwing, so a typo shows a wrong icon, not an error.
+  UkFlag.tsx         inline SVG flag for the registration input
+  UkMap.tsx          delivery map graphic
+  SectionHeading.tsx shared heading block
+  TrustBar / TrustStrip / HeroCarousel / HeroOrbit   home + brand hero pieces
+
+src/components/model/ModelThemeShell.tsx
+  The light/dark provider. Holds the theme, persists it to localStorage
+  ("gmc-model-theme"), applies the `dark` class, and exposes a context that
+  Header's toggle consumes. Used by the model, hub and listing pages; the home
+  and brand pages are dark-only by design and render no toggle.
+
+--------------------------------------------------------------------------------
+6. DATA FILES (src/data/)
+--------------------------------------------------------------------------------
+Page-type content (keyed by slug - this is where new pages are added):
+  brandPage.json    -> "mercedes-benz-engines"
+  modelPage.json    -> "c-class"
+  hubPage.json      -> "om651"
+  listingPage.json  -> "om651-mercedes-c-class-w204"
+                       (key = <engineSlug>-<applicationSlug>)
+
+Homepage + shared content:
+  hero.json, brands.json, brand.json, engines.json, features.json, faqs.json,
+  cta.json, howItWorks.json, shopByBrand.json, buyEngine.json,
+  buyersGuides.json, isRightForYou.json, usedVsReconditioned.json,
+  warrantyDelivery.json, trustStrip.json, regCheck.json, navigation.json,
+  footer.json, seo.json
+
+TypeScript types are INFERRED from the JSON, e.g.
+
+    export type HubPageData = (typeof hubPage)[keyof typeof hubPage];
+
+So editing the JSON changes the types automatically, and a missing field is a
+compile error rather than a runtime crash. Keep every entry in a file the same
+shape, or the inferred type narrows unexpectedly.
+
+--------------------------------------------------------------------------------
+7. IMAGES (public/images/)
+--------------------------------------------------------------------------------
+  brands/    brand logos, cars, shop-by-brand tiles, uk_map.png
+  models/    model page hero cars (separate light and dark versions)
+  listings/  engine.png, engine_trim.png, podium.png, listing_about.png
+  hub/       hero_dark.png, hero_light.png, hero_dark_cut.png, hero_light_cut.png
+  engines/, features/
+
+IMPORTANT - two recurring gotchas with these assets:
+
+a) TRANSPARENT PADDING. Several source PNGs waste a lot of their canvas on
+   transparency (engine.png is 583x428 but the engine occupies only 269x288 -
+   about 27% of the width and 16% of the height is empty). That makes a
+   thumbnail look small no matter what CSS size you give it. engine_trim.png is
+   the alpha-cropped version used for thumbnails. The UNtrimmed engine.png is
+   still used for the listing hero's main stage, because its podium positioning
+   depends on that original padding - do not swap one for the other blindly.
+
+b) OPAQUE BACKGROUNDS. hero_dark.png / hero_light.png ship with a solid black /
+   white background baked in. hero_dark_cut.png / hero_light_cut.png are the
+   cutout versions actually used on the page. See section 8.
+
+--------------------------------------------------------------------------------
+8. BUILD-TIME SCRIPTS (gmc-engine-store/scripts/)
+--------------------------------------------------------------------------------
+These are developer tools run by hand; they are NOT part of the app build.
+
+  cutout_hero.js     Removes the flat background from the hub hero artwork while
+                     KEEPING the glowing podium and rings. Ordinary background
+                     removers destroy the glow, because they do subject
+                     segmentation and the glow is light, not an object. This
+                     script keys on luminance instead, in opposite directions per
+                     theme, and borrows the engine matte from the light render
+                     for the dark one (the two renders are pixel-aligned).
+                     Run: node scripts/cutout_hero.js
+  crop.js            crops an image to its alpha bounding box
+  extract.js         asset extraction helper
+  shot.js            CDP screenshot tool with device emulation, for QA
+                     (needs Chrome started with --remote-debugging-port)
+  md_to_brandpage.py Parses a MOCKUP markdown file into a brandPage.json entry.
+                     Only the BRAND page has this; the model/hub/listing
+                     equivalents were deprioritised and do not exist.
+
+--------------------------------------------------------------------------------
+9. DESIGN SOURCES
+--------------------------------------------------------------------------------
+Two kinds of source material live at the repo root, E:\Job:
+
+  MOCKUP-01-homepage.md               content: copy, links, table data
+  MOCKUP-02-brand-page-mercedes.md
+  MOCKUP-03-model-page-c-class.md
+  MOCKUP-04-hub-page-om651.md
+  MOCKUP-05-listing-page-om651-w204.md
+
+  GMC Homepage UI/      PNG exports: the visual design, per section, desktop
+  GMC Brandpage UI/     and mobile ("Section 1.png", "Section 1-mobile.png",
+  GMC Modelpage UI/     and so on)
+  GMC ListingPage UI/
+  GMCHub/
+
+The markdown files carry the words; the PNG folders carry the layout. Both were
+needed to build each page - the markdown alone does not describe the design.
+
+The PNG folders total about 65 MB and are now listed in E:\Job\.gitignore.
+See section 12 for the action still outstanding on those.
+
+--------------------------------------------------------------------------------
+10. CONVENTIONS THE CLIENT ASKED FOR
+--------------------------------------------------------------------------------
+  - Section corner radius 10-14px on panels (rounded-xl)
+  - Consistent vertical rhythm: py-6 lg:py-7 on page sections
+  - Section headings: logo/icon parallel with the title, description starting
+    directly beneath the icon
+  - Featured cards are distinguished by a thin glowing BORDER only - identical
+    fill to the others, never a different background colour
+  - Alternating subtle section background shades within the same colour family
+
+--------------------------------------------------------------------------------
+11. KNOWN TRAPS (documented at length in gmc-engine-store/CONTEXT.md)
+--------------------------------------------------------------------------------
+Read CONTEXT.md before touching hero layouts. The short version:
+
+  GLASSMORPHISM. The frosted spec cards use backdrop-filter, which blurs only
+  what is BEHIND them. Two rules: (a) the backdrop needs visible detail - over a
+  flat fill the glass looks painted on, which is why the heroes keep a faint dot
+  texture; (b) a transformed ANCESTOR creates a "backdrop root" and silently
+  kills the blur. That is why card tilt is applied with the independent CSS
+  `rotate:` property while the float animation drives `translate:` - so no
+  transformed wrapper is needed. Do not wrap these cards in a motion.div.
+
+  VIEWPORT FIT. Heroes that must fill one screen use a MINIMUM height
+  (min-h-[calc(100svh-69px)]) on mobile and a hard height only from lg. A fixed
+  height on mobile is dangerous: the layout has one flexible row, so on any
+  device whose text wraps one line more than expected, that row collapses and
+  the layout visibly breaks. This happened on a real Android and was invisible
+  in desktop devtools emulation.
+
+  ANDROID TEXT INFLATION. Chrome on Android enlarges text in some layouts
+  ("font boosting"), which device emulation never reproduces. globals.css pins
+  it with text-size-adjust: 100%. Always verify mobile on a real phone.
+
+  TEXT CLIPPING. Flex/grid children with min-w-0 can shrink below their content;
+  without break-words a long word overflows and gets clipped by an ancestor's
+  overflow-hidden. Prefer wrapping over `truncate` in narrow mobile columns.
+
+  WINDOWS .next CORRUPTION. Running `next build` while `next dev` is running on
+  the same directory produces errors like "Cannot find module for page: /" or
+  UNKNOWN errno -4094. Stop the dev server before building. .next/ is gitignored
+  for the same reason - it used to be committed, which caused file-locking
+  crashes.
+
+  IMAGES ARE REPLACED ELEMENTS. Setting left+right insets on an <img> does not
+  size it: width:auto resolves to the image's INTRINSIC width. Put the insets on
+  a wrapper div and let the img fill it.
+
+--------------------------------------------------------------------------------
+12. STATE OF PLAY / NEXT STEPS
+--------------------------------------------------------------------------------
+Done:      home, brand, model, hub and listing pages, desktop + mobile,
+           light/dark on the last three.
+
+Not done / open items:
+  - Only ONE example page exists per dynamic type. Populating real content means
+    adding JSON entries (see section 3).
+  - Seven of the eight hub -> listing links 404 (section 4).
+  - No backend: reg lookup, basket, checkout, search and the cart badge are all
+    presentational.
+  - md_to_modelpage / md_to_hubpage / md_to_listingpage converters were never
+    written; only the brand page has one.
+  - The design PNG folders are in .gitignore as requested, BUT they are ALREADY
+    TRACKED by git (32 files). .gitignore does not affect files already in the
+    index, so they will keep being versioned until they are untracked with:
+
+        git rm -r --cached "GMC Homepage UI" "GMC Brandpage UI" \
+                           "GMC Modelpage UI" "GMC ListingPage UI" "GMCHub"
+
+    That leaves the files on disk but removes them from future commits. It has
+    NOT been run - it is a deliberate decision to make, because afterwards the
+    folders exist only on local machines and are no longer recoverable from the
+    repo by a new developer. Consider shared storage for them first.
+
+--------------------------------------------------------------------------------
+13. FURTHER DOCUMENTATION
+--------------------------------------------------------------------------------
+  gmc-engine-store/CONTEXT.md   The detailed engineering handoff: per-page
+                                architecture notes, the glassmorphism rules,
+                                hero layout mechanics, screenshot/QA workflow,
+                                and the full list of gotchas. Written for
+                                whoever picks up the code next - read it first.
+  E:\Job\MOCKUP-*.md            Source content for each page type.
+  This file                     Orientation / overview.
+================================================================================

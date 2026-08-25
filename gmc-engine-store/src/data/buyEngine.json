@@ -1,0 +1,41 @@
+{
+  "sectionTitle": "Popular Engine Families",
+  "sectionDescription": "Our highest-demand engine hubs right now, each covering every compatible vehicle application.",
+  "viewAllText": "All engine hubs",
+  "viewAllHref": "/engines",
+  "fromLabel": "From",
+  "engines": [
+    {
+      "code": "OM651",
+      "spec": "2.1 CDI - Diesel",
+      "years": "2006-2018",
+      "priceFrom": "£895",
+      "image": "/images/engines/pop-om642.png",
+      "href": "/engines/om651"
+    },
+    {
+      "code": "OM642",
+      "spec": "3.0 V6 CDI - Diesel",
+      "years": "2005-2020",
+      "priceFrom": "£1,095",
+      "image": "/images/engines/pop-om642.png",
+      "href": "/engines/om642"
+    },
+    {
+      "code": "OM646",
+      "spec": "2.2 CDI - Diesel",
+      "years": "2002-2010",
+      "priceFrom": "£695",
+      "image": "/images/engines/pop-om642.png",
+      "href": "/engines/om646"
+    },
+    {
+      "code": "M272",
+      "spec": "2.5-3.5 V6 - Petrol",
+      "years": "2004-2011",
+      "priceFrom": "£995",
+      "image": "/images/engines/pop-om642.png",
+      "href": "/engines/m272"
+    }
+  ]
+}

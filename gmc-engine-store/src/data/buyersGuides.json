@@ -1,0 +1,20 @@
+{
+  "sectionTitle": "Buyer's Guides",
+  "sectionDescription": "Straightforward guidance for buying with confidence - not a repair manual.",
+  "viewAllText": "All guides",
+  "viewAllHref": "/guides",
+  "guides": [
+    {
+      "title": "What's included when you buy an engine",
+      "description": "What every listing covers as standard, and what's supplied separately - turbo, injectors, ancillaries and fitting.",
+      "icon": "package",
+      "href": "/guides/whats-included"
+    },
+    {
+      "title": "Core exchange, explained",
+      "description": "How returning your old unit works, what a core charge is, and how to avoid one where it applies.",
+      "icon": "repeat",
+      "href": "/guides/core-exchange"
+    }
+  ]
+}

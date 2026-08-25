@@ -1,0 +1,20 @@
+{
+  "sectionTitle": "Shop by Brand",
+  "sectionDescription": "Every brand we cover, from full-range premium marques to flagship-model coverage on volume brands.",
+  "viewAllText": "All brands",
+  "viewAllHref": "/brands",
+  "brands": [
+    { "name": "Mercedes-Benz", "logo": "/images/brands/sbl-mercedes.png", "href": "/mercedes-benz-engines" },
+    { "name": "BMW", "logo": "/images/brands/sbl-bmw.png", "href": "/bmw-engines" },
+    { "name": "Jaguar", "logo": "/images/brands/sbl-jaguar.png", "href": "/jaguar-engines" },
+    { "name": "Land Rover", "logo": "/images/brands/sbl-landrover.png", "href": "/land-rover-engines" },
+    { "name": "Range Rover", "logo": "/images/brands/sbl-rangerover.png", "href": "/range-rover-engines" },
+    { "name": "Audi", "logo": "/images/brands/sbl-audi.png", "href": "/audi-engines" },
+    { "name": "Volkswagen", "logo": "/images/brands/sbl-vw.png", "href": "/volkswagen-engines" },
+    { "name": "MINI", "logo": "/images/brands/sbl-mini.png", "href": "/mini-engines" },
+    { "name": "Ford", "logo": "/images/brands/sbl-ford.png", "href": "/ford-engines" },
+    { "name": "Vauxhall", "logo": "/images/brands/sbl-vauxhall.png", "href": "/vauxhall-engines" },
+    { "name": "Toyota", "logo": "/images/brands/sbl-toyota.png", "href": "/toyota-engines" },
+    { "name": "All brands", "logo": "", "href": "/brands" }
+  ]
+}

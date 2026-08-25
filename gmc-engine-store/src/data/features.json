@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "icon": "shield",
+      "title": "Verified Fitment",
+      "description": "Checked by registration"
+    },
+    {
+      "icon": "warranty",
+      "title": "12-Month Warranty",
+      "description": "On reconditioned units"
+    },
+    {
+      "icon": "truck",
+      "title": "UK Nationwide Delivery",
+      "description": "2-4 working days"
+    },
+    {
+      "icon": "returns",
+      "title": "14-Day Returns",
+      "description": "Uninstalled, full refund"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+node_modules
+# Design reference exports (PNG mockups from the designer).
+# Large binaries that are inputs to the build process, not part of it — the
+# implementation notes in gmc-engine-store/CONTEXT.md record what each showed.
+# Keep a local copy; they are NOT recoverable from the repo once ignored.
+GMC Homepage UI/
+GMC Brandpage UI/
+GMC Modelpage UI/
+GMC ListingPage UI/
+GMCHub/

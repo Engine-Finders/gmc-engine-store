@@ -1,0 +1,67 @@
+{
+  "sectionTitle": "Browse by brand",
+  "sectionDescription": "Know your engine or just want to look around? Start with your manufacturer.",
+  "viewAllText": "All brands",
+  "viewAllHref": "/brands",
+  "brands": [
+    {
+      "name": "Mercedes-Benz",
+      "logo": "/images/brands/logo-mercedes.png",
+      "car": "/images/brands/car-mercedes.png",
+      "engineCount": 489,
+      "glow": "#6aa4ff",
+      "glowBright": "#b3d6ff",
+      "href": "/mercedes-benz-engines"
+    },
+    {
+      "name": "BMW",
+      "logo": "/images/brands/logo-bmw.png",
+      "car": "/images/brands/car-bmw.png",
+      "engineCount": 412,
+      "glow": "#2f7bff",
+      "glowBright": "#7cc4ff",
+      "href": "/bmw-engines"
+    },
+    {
+      "name": "Jaguar",
+      "logo": "/images/brands/logo-jaguar.png",
+      "car": "/images/brands/car-jaguar.png",
+      "engineCount": 156,
+      "glow": "#9aa6b2",
+      "glowBright": "#dbe4ee",
+      "href": "/jaguar-engines"
+    },
+    {
+      "name": "Land Rover",
+      "logo": "/images/brands/logo-landrover.png",
+      "car": "/images/brands/car-landrover.png",
+      "engineCount": 208,
+      "glow": "#3ddc84",
+      "glowBright": "#8dffc2",
+      "href": "/land-rover-engines"
+    },
+    {
+      "name": "Audi",
+      "logo": "/images/brands/logo-audi.png",
+      "car": "/images/brands/car-audi.png",
+      "engineCount": 315,
+      "glow": "#ff8a3d",
+      "glowBright": "#ffc394",
+      "href": "/audi-engines"
+    },
+    {
+      "name": "Volkswagen",
+      "logo": "/images/brands/logo-vw.png",
+      "car": "/images/brands/car-vw.png",
+      "engineCount": 386,
+      "glow": "#8a7bff",
+      "glowBright": "#c3b8ff",
+      "href": "/volkswagen-engines"
+    }
+  ],
+  "allBrandsCard": {
+    "name": "All Brands",
+    "count": "41+ Brands",
+    "targetId": "shop-by-brand"
+  }
+}

@@ -1,0 +1,48 @@
+import type { Metadata } from "next";
+import { notFound } from "next/navigation";
+import Header from "@/components/Header";
+import Footer from "@/components/Footer";
+import ModelThemeShell from "@/components/model/ModelThemeShell";
+import ListingHero from "@/components/listing/ListingHero";
+import ListingAbout from "@/components/listing/ListingAbout";
+import ListingCompatible from "@/components/listing/ListingCompatible";
+import ListingInfoCards from "@/components/listing/ListingInfoCards";
+import ListingFaqs from "@/components/listing/ListingFaqs";
+import { getListingData, listingParams } from "@/lib/listing";
+
+type Params = { engineSlug: string; applicationSlug: string };
+
+export function generateStaticParams() {
+  return listingParams();
+}
+
+export function generateMetadata({ params }: { params: Params }): Metadata {
+  const data = getListingData(params.engineSlug, params.applicationSlug);
+  if (!data) return {};
+  return {
+    title: data.seo.title,
+    description: data.seo.description,
+    alternates: { canonical: data.seo.canonical },
+  };
+}
+
+export default function ListingPage({ params }: { params: Params }) {
+  const data = getListingData(params.engineSlug, params.applicationSlug);
+  if (!data) notFound();
+
+  return (
+    <>
+      <ModelThemeShell>
+        <Header />
+        <main>
+          <ListingHero data={data} />
+          <ListingAbout data={data} />
+          <ListingCompatible data={data.compatible} />
+          <ListingInfoCards data={data} />
+          <ListingFaqs data={data.faqs} />
+        </main>
+      </ModelThemeShell>
+      <Footer />
+    </>
+  );
+}

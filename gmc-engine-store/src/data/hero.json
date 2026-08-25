@@ -1,0 +1,168 @@
+{
+  "eyebrow": "UK's Trusted Online Engine Store",
+  "titleLine1": "Buy your next",
+  "titleHighlight": "engine",
+  "titleLine1Suffix": " online.",
+  "description": "Used and reconditioned engines at fixed prices – verified fitment, warranty and UK delivery included.",
+  "form": {
+    "title": "Find your engine by reg",
+    "description": "We'll confirm your exact model, year and factory engine code before you buy.",
+    "countryFlag": "GB",
+    "placeholder": "ENTER REG NUMBER",
+    "buttonText": "Find my engine",
+    "badges": [
+      {
+        "icon": "lock",
+        "text": "100% Secure"
+      },
+      {
+        "icon": "check-circle",
+        "text": "No payment required"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "code": "OM651",
+      "spec": "2.1 CDI Diesel",
+      "condition": "Reconditioned",
+      "price": "£1,795",
+      "inStock": true,
+      "image": "/images/engines/hero-om651.png",
+      "href": "/engines/om651",
+      "featured": true,
+      "pos": {
+        "left": 190,
+        "top": 30,
+        "width": 206,
+        "z": 40,
+        "rx": 5,
+        "ry": -18,
+        "rz": -2
+      },
+      "bg": "#000"
+    },
+    {
+      "code": "N47D20",
+      "spec": "2.0 Diesel",
+      "condition": "Used",
+      "price": "£795",
+      "inStock": true,
+      "image": "/images/engines/hero-om651.png",
+      "href": "/engines/n47d20",
+      "featured": false,
+      "pos": {
+        "left": 16,
+        "top": 16,
+        "width": 140,
+        "z": 30,
+        "rx": 6,
+        "ry": 40,
+        "rz": -5
+      },
+      "bg": "#000"
+    },
+    {
+      "code": "AJ126",
+      "spec": "3.0 V6 Diesel",
+      "condition": "Reconditioned",
+      "price": "£3,295",
+      "inStock": true,
+      "image": "/images/engines/hero-om651.png",
+      "href": "/engines/aj126",
+      "featured": false,
+      "pos": {
+        "left": 420,
+        "top": 46,
+        "width": 150,
+        "z": 30,
+        "rx": 6,
+        "ry": -40,
+        "rz": 4
+      },
+      "bg": "#000"
+    },
+    {
+      "code": "K9K",
+      "spec": "1.5 DCI Diesel",
+      "condition": "Used",
+      "price": "£1,295",
+      "inStock": true,
+      "image": "/images/engines/hero-om651.png",
+      "href": "/engines/k9k",
+      "featured": false,
+      "pos": {
+        "left": 592,
+        "top": 4,
+        "width": 108,
+        "z": 20,
+        "opacity": 0.62,
+        "rx": 7,
+        "ry": -46,
+        "rz": 6
+      },
+      "bg": "#060a11"
+    },
+    {
+      "code": "M57",
+      "spec": "3.0 Diesel",
+      "condition": "Used",
+      "price": "£1,695",
+      "inStock": true,
+      "image": "/images/engines/hero-om651.png",
+      "href": "/engines/m57",
+      "featured": false,
+      "pos": {
+        "left": 584,
+        "top": 182,
+        "width": 124,
+        "z": 25,
+        "opacity": 0.9,
+        "rx": 7,
+        "ry": -42,
+        "rz": 5
+      },
+      "bg": "#081220"
+    },
+    {
+      "code": "M274",
+      "spec": "2.0 Petrol",
+      "condition": "Used",
+      "price": "£1,095",
+      "inStock": true,
+      "image": "/images/engines/hero-om651.png",
+      "href": "/engines/m274",
+      "featured": false,
+      "pos": {
+        "left": 10,
+        "top": 250,
+        "width": 140,
+        "z": 28,
+        "rx": 6,
+        "ry": 40,
+        "rz": -6
+      },
+      "bg": "#000"
+    },
+    {
+      "code": "306DT",
+      "spec": "3.0 Diesel",
+      "condition": "Used",
+      "price": "£2,695",
+      "inStock": true,
+      "image": "/images/engines/hero-om651.png",
+      "href": "/engines/306dt",
+      "featured": false,
+      "pos": {
+        "left": 412,
+        "top": 278,
+        "width": 150,
+        "z": 26,
+        "rx": 6,
+        "ry": -34,
+        "rz": 3
+      },
+      "bg": "#000"
+    }
+  ]
+}

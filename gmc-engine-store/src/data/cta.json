@@ -1,0 +1,8 @@
+{
+  "title": "Find your engine in under a minute",
+  "description": "Enter your registration, confirm the fit, and buy at the listed price - warranty and UK delivery included.",
+  "countryFlag": "GB",
+  "placeholder": "ENTER REG NUMBER",
+  "buttonText": "Check Fitment by Reg",
+  "buttonHref": "#reg-check"
+}

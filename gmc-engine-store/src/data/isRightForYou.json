@@ -1,0 +1,19 @@
+{
+  "sectionTitle": "Is GMC the Right Stop for You?",
+  "options": [
+    {
+      "title": "This is GMC",
+      "audience": "You know what engine you need and want to buy it",
+      "description": "GMC is a direct-purchase engine store - fixed prices, verified fitment, buy today. If you're at this stage, you're in the right place.",
+      "icon": "check",
+      "isPositive": true
+    },
+    {
+      "title": "Not quite yet?",
+      "audience": "Still working out what's wrong, or want a fitted-price quote first",
+      "description": "If you haven't confirmed the fault yet, or you'd rather compare fitted quotes from local specialists before buying a part outright, that's a different kind of service to the one GMC provides.",
+      "icon": "help",
+      "isPositive": false
+    }
+  ]
+}

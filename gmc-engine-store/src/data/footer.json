@@ -1,0 +1,43 @@
+{
+  "logo": "GMC",
+  "tagline": "Engine Store",
+  "description": "© GMC. Engine compatibility is general fitment guidance - always confirm against your vehicle's registration before ordering.",
+  "columns": [
+    {
+      "title": "Shop",
+      "links": [
+        { "label": "All Engines", "href": "/engines" },
+        { "label": "All Brands", "href": "/brands" },
+        { "label": "Mercedes-Benz Engines", "href": "/mercedes-benz-engines" }
+      ]
+    },
+    {
+      "title": "Help",
+      "links": [
+        { "label": "Buying Guides", "href": "/guides" },
+        { "label": "Warranty", "href": "/warranty" },
+        { "label": "Delivery", "href": "/delivery" },
+        { "label": "Returns", "href": "/returns" }
+      ]
+    },
+    {
+      "title": "Company",
+      "links": [
+        { "label": "About Us", "href": "/about" },
+        { "label": "Contact", "href": "/contact" },
+        { "label": "Privacy Policy", "href": "/privacy" },
+        { "label": "Terms", "href": "/terms" }
+      ]
+    }
+  ],
+  "social": [
+    { "name": "Facebook", "icon": "facebook", "href": "#" },
+    { "name": "Instagram", "icon": "instagram", "href": "#" },
+    { "name": "YouTube", "icon": "youtube", "href": "#" }
+  ],
+  "trustpilot": {
+    "rating": 4.8,
+    "label": "Excellent",
+    "basedOn": "2,365+ reviews"
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "om651-mercedes-c-class-w204": {
+    "engineSlug": "om651",
+    "applicationSlug": "mercedes-c-class-w204",
+    "seo": {
+      "title": "Used Mercedes OM651 Engine - C-Class W204 | GMC",
+      "description": "Used Mercedes OM651 2.1 diesel engine configured for C-Class W204 (C200/C220/C250 CDI), 2008-2014. £895, 12-month warranty option, UK delivery.",
+      "canonical": "https://example.com/engines/om651/mercedes-c-class-w204/"
+    },
+    "breadcrumb": [
+      {
+        "label": "Home",
+        "href": "/"
+      },
+      {
+        "label": "Engines",
+        "href": "/engines"
+      },
+      {
+        "label": "Mercedes Engines",
+        "href": "/mercedes-benz-engines"
+      },
+      {
+        "label": "OM651 Engine",
+        "href": "/engines/om651"
+      },
+      {
+        "label": "C-Class W204",
+        "href": ""
+      }
+    ],
+    "hero": {
+      "warrantyBadge": "12-MONTH WARRANTY INCLUDED",
+      "sku": "SKU: OM651-USED-W204-12M",
+      "title": "Used Mercedes OM651 Engine - C-Class W204",
+      "subtitle": "C200 / C220 / C250 CDI (2008–2014)",
+      "options": [
+        {
+          "id": "used",
+          "label": "Used — £895",
+          "note": "Default",
+          "price": "£895.00",
+          "default": true
+        },
+        {
+          "id": "recon",
+          "label": "Reconditioned — £1,795",
+          "note": "12-month warranty",
+          "price": "£1,795.00",
+          "default": false
+        }
+      ],
+      "warrantyNote": "Warranty term stated below - recorded mileage shown before you buy",
+      "stockLabel": "In stock — ready to ship",
+      "addToBasketText": "Add to basket",
+      "checkCompatibilityText": "Check compatibility",
+      "regCheck": {
+        "countryFlag": "GB",
+        "placeholder": "ENTER REG NUMBER",
+        "buttonText": "Check compatibility"
+      },
+      "fitmentNote": "We'll confirm fitment for your vehicle",
+      "podiumImage": "/images/listings/podium.png",
+      "gallery": [
+        "/images/listings/engine.png",
+        "/images/listings/engine.png",
+        "/images/listings/engine.png",
+        "/images/listings/engine.png",
+        "/images/listings/engine.png",
+        "/images/listings/engine.png",
+        "/images/listings/engine.png",
+        "/images/listings/engine.png"
+      ],
+      "specCards": [
+        {
+          "icon": "cog",
+          "value": "2143cc",
+          "label": "Displacement",
+          "pos": {
+            "top": 6,
+            "left": 3,
+            "rotate": -4
+          }
+        },
+        {
+          "icon": "calendar",
+          "value": "2008–2014",
+          "label": "Production Years",
+          "pos": {
+            "top": 6,
+            "left": 75,
+            "rotate": 4
+          }
+        },
+        {
+          "icon": "mercedes",
+          "value": "C-Class W204",
+          "label": "Compatible",
+          "pos": {
+            "top": 33,
+            "left": 0,
+            "rotate": -3
+          }
+        },
+        {
+          "icon": "gauge",
+          "value": "204 PS",
+          "label": "Max Output",
+          "pos": {
+            "top": 33,
+            "left": 78,
+            "rotate": 3
+          }
+        },
+        {
+          "icon": "fuel",
+          "value": "2.1 Diesel",
+          "label": "Fuel Type",
+          "pos": {
+            "top": 62,
+            "left": 3,
+            "rotate": -4
+          }
+        },
+        {
+          "icon": "config",
+          "value": "Longitudinal",
+          "label": "Configuration",
+          "pos": {
+            "top": 62,
+            "left": 74,
+            "rotate": 4
+          }
+        }
+      ],
+      "trustBadges": [
+        {
+          "icon": "shield-check",
+          "title": "12-Month Warranty",
+          "subtitle": "Unlimited mileage"
+        },
+        {
+          "icon": "shield",
+          "title": "Verified Fitment",
+          "subtitle": "Checked by registration"
+        },
+        {
+          "icon": "truck",
+          "title": "UK Nationwide Delivery",
+          "subtitle": "Fast & secure, 2–4 days"
+        },
+        {
+          "icon": "returns",
+          "title": "14-Day Returns",
+          "subtitle": "Uninstalled, full refund"
+        },
+        {
+          "icon": "cog",
+          "title": "Quality Assured",
+          "subtitle": "Tested to OEM standards"
+        }
+      ],
+      "thumbnails": [
+        "/images/listings/engine_trim.png",
+        "/images/listings/engine_trim.png",
+        "/images/listings/engine_trim.png",
+        "/images/listings/engine_trim.png",
+        "/images/listings/engine_trim.png",
+        "/images/listings/engine_trim.png",
+        "/images/listings/engine_trim.png",
+        "/images/listings/engine_trim.png"
+      ]
+    },
+    "about": {
+      "title": "About this unit",
+      "image": "/images/listings/listing_about.png",
+      "paragraphs": [
+        "This is the OM651 in its longitudinal C-Class W204 configuration - the version fitted to the four-cylinder diesel W204 range from 2008 to 2014, carrying part number OM651-USED-W204. If you drive a Sprinter, Vito, or one of the transverse compact models, the correct unit for your vehicle is on its own application page - see the other applications below.",
+        "This used unit is removed from a donor vehicle, tested, and supplied with recorded mileage; a fully reconditioned option with new wear parts is available above as a selectable tab. Early OM651 engines were affected by injector sealing issues addressed under a Mercedes service campaign, and the camshaft drive sits at the transmission end - both reasons worn units are typically replaced complete rather than repaired in the vehicle. Every unit we supply has injector seats inspected and the drive assembly checked as standard before dispatch."
+      ]
+    },
+    "included": {
+      "title": "What's included",
+      "includedTitle": "Included with this engine:",
+      "included": [
+        "Tested long block with recorded mileage",
+        "Injector seats inspected before dispatch",
+        "Compression and leak-down tested",
+        "Warranty term stated on this listing",
+        "UK mainland delivery"
+      ],
+      "excludedTitle": "Not included:",
+      "excluded": [
+        "Turbocharger(s), injectors and fuel pump",
+        "Ancillaries - alternator, starter, aircon compressor",
+        "Fitting labour (supply-only price shown)",
+        "Coolant, oil and other consumables"
+      ]
+    },
+    "compatible": {
+      "title": "Compatible W204 models",
+      "intro": "This page covers the C-Class W204 application only. The full OM651 fitment reference is on the",
+      "linkText": "Mercedes OM651 Engine guide.",
+      "linkHref": "/engines/om651",
+      "columns": [
+        "Variant",
+        "Chassis",
+        "Body",
+        "Years",
+        "Power",
+        "Turbo layout"
+      ],
+      "rows": [
+        {
+          "variant": "C200 CDI",
+          "chassis": "W204/S204",
+          "body": "Saloon/Estate",
+          "years": "2010–2014",
+          "power": "100kW/136hp",
+          "turbo": "Single turbo"
+        },
+        {
+          "variant": "C220 CDI",
+          "chassis": "W204/S204/C204",
+          "body": "Saloon/Estate/Coupe",
+          "years": "2008–2014",
+          "power": "125kW/170hp",
+          "turbo": "Single turbo"
+        },
+        {
+          "variant": "C250 CDI",
+          "chassis": "W204/S204/C204",
+          "body": "Saloon/Estate/Coupe",
+          "years": "2008–2014",
+          "power": "150kW/204hp",
+          "turbo": "Two-stage turbo"
+        }
+      ],
+      "note": "Not compatible with pre-2008 OM646-engined C-Class cars, or the V6 diesel C320/C350 CDI."
+    },
+    "warranty": {
+      "title": "Warranty, returns & delivery",
+      "paragraphs": [
+        "The warranty term for this used unit is stated above before you buy; the reconditioned option carries a 12-month, unlimited-mileage warranty.",
+        "If the vehicle turns out not to be compatible, return the engine uninstalled within 14 days for a full refund including original delivery cost.",
+        "UK mainland delivery only, typically 2–4 working days on a kerbside pallet, with tracking emailed on dispatch."
+      ]
+    },
+    "otherApplications": {
+      "title": "Other OM651 applications",
+      "items": [
+        {
+          "label": "C-Class W205 | C220d/C250d",
+          "href": "/engines/om651/mercedes-c-class-w205"
+        },
+        {
+          "label": "E-Class W212 | E200/220/250 CDI",
+          "href": "/engines/om651/mercedes-e-class-w212"
+        },
+        {
+          "label": "Sprinter W906 | Van specification",
+          "href": "/engines/om651/mercedes-sprinter-w906"
+        },
+        {
+          "label": "A/CLA/GLA | Transverse spec",
+          "href": "/engines/om651/mercedes-a-cla-gla"
+        }
+      ],
+      "footerLinkText": "Full Mercedes OM651 Engine guide and all applications",
+      "footerLinkHref": "/engines/om651"
+    },
+    "whyBuy": {
+      "title": "Why buy from GMC?",
+      "items": [
+        "Specialists in used & reconditioned engines",
+        "20,000+ engines supplied",
+        "Verified fitment by registration",
+        "Fixed prices - No hidden fees",
+        "Trusted by 1,250+ UK customers"
+      ]
+    },
+    "faqs": {
+      "title": "C-Class W204 engine FAQs",
+      "items": [
+        {
+          "q": "Q: Does this OM651 fit all diesel W204 C-Class models?",
+          "a": "A: This unit is configured for the four-cylinder 2.1 diesel W204 models - C200 CDI, C220 CDI and C250 CDI, built 2008–2014. It does not fit the earlier OM646-engined 2007–2008 cars or the V6 diesel C320/C350 CDI. Enter your registration in the checker on this page to confirm your exact specification before ordering."
+        },
+        {
+          "q": "Q: Is the C250 CDI version different from the C220 CDI?",
+          "a": "A: The C250 CDI uses a higher state of tune of the same base engine, with a two-stage turbocharging arrangement rather than the single turbo of the C200/C220 CDI. The long block we supply is common across these variants - your original turbocharging and fuel system carries over - but always confirm by registration so we allocate the correct configuration."
+        },
+        {
+          "q": "Q: My W204 is a 2009 car - should I worry about the injector issue?",
+          "a": "A: Early OM651 engines from roughly the 2009–2010 window were affected by injectors that could leak at the injector seat, addressed by a Mercedes service campaign at the time. Every used unit we supply has injector seats inspected before dispatch, and a reconditioned option with fully renewed injector seats is available as a selectable upgrade."
+        },
+        {
+          "q": "Q: What if the engine doesn't fit after all?",
+          "a": "A: If your vehicle turns out not to be compatible, return the engine uninstalled within 14 days of delivery for a full refund including original delivery cost. The registration checker exists to prevent this happening in the first place."
+        },
+        {
+          "q": "Q: What mileage and history does this used engine have?",
+          "a": "A: Recorded mileage and donor-vehicle history are shown on this listing before you buy, and every used unit is compression and leak-down tested prior to dispatch. If you'd prefer a fully rebuilt unit with new wear parts instead, the reconditioned option is shown as a selectable tab above at its own listed price."
+        }
+      ]
+    }
+  }
+}

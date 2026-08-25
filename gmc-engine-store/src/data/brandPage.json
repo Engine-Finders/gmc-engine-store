@@ -1,0 +1,746 @@
+{
+  "mercedes-benz-engines": {
+    "slug": "mercedes-benz-engines",
+    "seo": {
+      "title": "Mercedes-Benz Engines for Sale | Used & Reconditioned | GMC",
+      "description": "Buy used and reconditioned Mercedes-Benz engines at fixed prices. 27 engine families, verified fitment by reg, 12-month warranty, UK delivery. From £595."
+    },
+    "hero": {
+      "brand": "Mercedes-Benz",
+      "name": "Mercedes-Benz",
+      "logo": "/images/brands/Brand_logo.png",
+      "title": "Engines for Sale",
+      "highlight": "Used & Reconditioned",
+      "description": "Every Mercedes engine family from 2000 to the present — verified fitment by registration, fixed prices, UK delivery.",
+      "carImage": "/images/brands/Brandpage.png",
+      "regCheck": {
+        "placeholder": "ENTER REG NUMBER",
+        "buttonText": "Find my engine",
+        "countryFlag": "GB",
+        "helpText": "How registration lookup works"
+      },
+      "trustBadges": [
+        {
+          "icon": "shield-check",
+          "title": "12-Month Warranty",
+          "subtitle": "Unlimited mileage on recon"
+        },
+        {
+          "icon": "shield",
+          "title": "Verified Fitment",
+          "subtitle": "Checked by registration"
+        },
+        {
+          "icon": "truck",
+          "title": "UK Nationwide Delivery",
+          "subtitle": "Fast & secure, 2–4 days"
+        },
+        {
+          "icon": "returns",
+          "title": "14-Day Returns",
+          "subtitle": "Uninstalled, full refund"
+        }
+      ],
+      "cards": [
+        {
+          "code": "OM651",
+          "name": "2.1 CDI Diesel",
+          "ps": "143 — 204 PS",
+          "nm": "400 — 600 Nm",
+          "years": "2008 – Present",
+          "image": "/images/engines/mercedes-om-651924-diesel-engine.png",
+          "href": "/engines/om651"
+        },
+        {
+          "code": "OM642",
+          "name": "3.0 V6 CDI Diesel",
+          "ps": "190 — 265 PS",
+          "nm": "440 — 620 Nm",
+          "years": "2006 – Present",
+          "image": "/images/engines/mercedes-om642-diesel-engine.png",
+          "href": "/engines/om642"
+        },
+        {
+          "code": "M272",
+          "name": "3.5 – 5.5 V6 Petrol",
+          "ps": "272 — 388 PS",
+          "nm": "330 — 530 Nm",
+          "years": "2004 – Present",
+          "image": "/images/engines/mercedes-m271-petrol-engine.png",
+          "href": "/engines/m272"
+        },
+        {
+          "code": "OM646",
+          "name": "2.2 CDI Diesel",
+          "ps": "102 — 150 PS",
+          "nm": "250 — 340 Nm",
+          "years": "2002 – 2010",
+          "image": "/images/engines/mercedes-om654920-diesel-engine-removebg-preview.png",
+          "href": "/engines/om646"
+        },
+        {
+          "code": "M276",
+          "name": "3.0 V6 Petrol",
+          "ps": "333 — 367 PS",
+          "nm": "480 — 520 Nm",
+          "years": "2010 – Present",
+          "image": "/images/engines/mercedes-m271-petrol-engine.png",
+          "href": "/engines/m276"
+        },
+        {
+          "code": "M274",
+          "name": "1.6 / 2.0 Turbo Petrol",
+          "ps": "156 — 211 PS",
+          "nm": "250 — 350 Nm",
+          "years": "2011 – Present",
+          "image": "/images/engines/mercedes-om-651924-diesel-engine.png",
+          "href": "/engines/m274"
+        }
+      ]
+    },
+    "howItWorks": {
+      "title": "How Buying Works",
+      "steps": [
+        {
+          "number": 1,
+          "icon": "search",
+          "title": "Verify fit by reg",
+          "description": "Enter your registration or browse to your model — we confirm the exact engine code your vehicle needs."
+        },
+        {
+          "number": 2,
+          "icon": "cart",
+          "title": "Order at the fixed price",
+          "description": "Choose used or reconditioned where both are available, then buy at the fixed price shown on the page."
+        },
+        {
+          "number": 3,
+          "icon": "truck",
+          "title": "Dispatched with warranty",
+          "description": "Your engine ships UK-wide with tracking, backed by warranty and a 14-day uninstalled return."
+        }
+      ]
+    },
+    "featuredEngines": {
+      "title": "Featured Mercedes Engines in Stock",
+      "subtitle": "Ready-stock units available to buy now at the listed price — dispatched within one working day.",
+      "viewAllText": "See all engines",
+      "viewAllHref": "/engines",
+      "buyButtonText": "Buy it now",
+      "engines": [
+        {
+          "id": "om651-w204",
+          "condition": "Reconditioned",
+          "title": "Mercedes OM651 Engine —",
+          "subtitle": "C-Class W204 (C200/C220/C250 CDI)",
+          "price": "£1,795.00",
+          "stockLabel": "In stock — ready to ship",
+          "image": "/images/engines/mercedes-om-651924-diesel-engine.png",
+          "buyHref": "/engines/om651/mercedes-c-class-w204"
+        },
+        {
+          "id": "om642-w906",
+          "condition": "Used",
+          "title": "Mercedes OM642 Engine —",
+          "subtitle": "Sprinter W906 3.0 V6 CDI",
+          "price": "£1,495.00",
+          "stockLabel": "In stock — ready to ship",
+          "image": "/images/engines/mercedes-om642-diesel-engine.png",
+          "buyHref": "/engines/om642-w906"
+        },
+        {
+          "id": "m271-w204",
+          "condition": "Used",
+          "title": "Mercedes M271 Engine —",
+          "subtitle": "C-Class W204 (C180/C200 Kompressor)",
+          "price": "£895.00",
+          "stockLabel": "In stock — ready to ship",
+          "image": "/images/engines/mercedes-m271-petrol-engine.png",
+          "buyHref": "/engines/m271-w204"
+        },
+        {
+          "id": "k9k-w176",
+          "condition": "Used",
+          "title": "Renault K9K 1.5 dCi Engine —",
+          "subtitle": "Mercedes A-Class W176 (A180d)",
+          "price": "£645.00",
+          "stockLabel": "In stock — ready to ship",
+          "image": "/images/engines/mercedes-om654920-diesel-engine-removebg-preview.png",
+          "buyHref": "/engines/k9k-w176"
+        },
+        {
+          "id": "m272-w211",
+          "condition": "Used",
+          "title": "Mercedes M272 Engine —",
+          "subtitle": "E-Class W211 3.5 V6",
+          "price": "£1,295.00",
+          "stockLabel": "In stock — ready to ship",
+          "image": "/images/engines/mercedes-m271-petrol-engine.png",
+          "buyHref": "/engines/m272-w211"
+        },
+        {
+          "id": "om646-w203",
+          "condition": "Used",
+          "title": "Mercedes OM646 Engine —",
+          "subtitle": "C-Class W203 2.2 CDI",
+          "price": "£795.00",
+          "stockLabel": "In stock — ready to ship",
+          "image": "/images/engines/mercedes-om654920-diesel-engine-removebg-preview.png",
+          "buyHref": "/engines/om646-w203"
+        },
+        {
+          "id": "m276-w212",
+          "condition": "Reconditioned",
+          "title": "Mercedes M276 Engine —",
+          "subtitle": "E-Class W212 3.0 V6",
+          "price": "£2,195.00",
+          "stockLabel": "In stock — ready to ship",
+          "image": "/images/engines/mercedes-m271-petrol-engine.png",
+          "buyHref": "/engines/m276-w212"
+        },
+        {
+          "id": "om654-w205",
+          "condition": "Used",
+          "title": "Mercedes OM654 Engine —",
+          "subtitle": "C-Class W205 2.0d",
+          "price": "£1,895.00",
+          "stockLabel": "In stock — ready to ship",
+          "image": "/images/engines/mercedes-om642-diesel-engine.png",
+          "buyHref": "/engines/om654-w205"
+        }
+      ]
+    },
+    "shopByModel": {
+      "title": "Shop Mercedes Engines by Model",
+      "subtitle": "Every model page lists all engines fitted across every generation. Pick your model to find your engine.",
+      "viewAllText": "View all 23 models",
+      "viewAllHref": "/mercedes-benz-engines/models",
+      "allModelsLabel": "View all models",
+      "allModelsCount": "23 models available",
+      "models": [
+        {
+          "name": "A-Class",
+          "chassis": "W168 – W177",
+          "families": "10 engine families",
+          "image": "/images/brands/Brandpage_car.png",
+          "href": "/mercedes-benz-engines/a-class"
+        },
+        {
+          "name": "B-Class",
+          "chassis": "W245 – W247",
+          "families": "7 engine families",
+          "image": "/images/brands/Brandpage_car.png",
+          "href": "/mercedes-benz-engines/b-class"
+        },
+        {
+          "name": "C-Class",
+          "chassis": "W203 – W206",
+          "families": "17 engine families",
+          "image": "/images/brands/Brandpage_car.png",
+          "href": "/mercedes-benz-engines/c-class"
+        },
+        {
+          "name": "CLA",
+          "chassis": "C117 – C118",
+          "families": "7 engine families",
+          "image": "/images/brands/Brandpage_car.png",
+          "href": "/mercedes-benz-engines/cla"
+        },
+        {
+          "name": "CLK",
+          "chassis": "W209",
+          "families": "5 engine families",
+          "image": "/images/brands/Brandpage_car.png",
+          "href": "/mercedes-benz-engines/clk"
+        },
+        {
+          "name": "CLS",
+          "chassis": "W219 – C257",
+          "families": "8 engine families",
+          "image": "/images/brands/Brandpage_car.png",
+          "href": "/mercedes-benz-engines/cls"
+        },
+        {
+          "name": "E-Class",
+          "chassis": "W210 – W214",
+          "families": "21 engine families",
+          "image": "/images/brands/Brandpage_car.png",
+          "href": "/mercedes-benz-engines/e-class"
+        },
+        {
+          "name": "S-Class",
+          "chassis": "W220 – W223",
+          "families": "13 engine families",
+          "image": "/images/brands/Brandpage_car.png",
+          "href": "/mercedes-benz-engines/s-class"
+        },
+        {
+          "name": "CL",
+          "chassis": "W215 – W216",
+          "families": "4 engine families",
+          "image": "/images/brands/Brandpage_car.png",
+          "href": "/mercedes-benz-engines/cl"
+        },
+        {
+          "name": "SL",
+          "chassis": "R230 – R232",
+          "families": "7 engine families",
+          "image": "/images/brands/Brandpage_car.png",
+          "href": "/mercedes-benz-engines/sl"
+        },
+        {
+          "name": "SLK / SLC",
+          "chassis": "R170 – R172",
+          "families": "7 engine families",
+          "image": "/images/brands/Brandpage_car.png",
+          "href": "/mercedes-benz-engines/slk-slc"
+        },
+        {
+          "name": "G-Class",
+          "chassis": "W463",
+          "families": "7 engine families",
+          "image": "/images/brands/Brandpage_car.png",
+          "href": "/mercedes-benz-engines/g-class"
+        },
+        {
+          "name": "GLA",
+          "chassis": "X156 – H247",
+          "families": "8 engine families",
+          "image": "/images/brands/Brandpage_car.png",
+          "href": "/mercedes-benz-engines/gla"
+        },
+        {
+          "name": "GLB",
+          "chassis": "X247",
+          "families": "3 engine families",
+          "image": "/images/brands/Brandpage_car.png",
+          "href": "/mercedes-benz-engines/glb"
+        },
+        {
+          "name": "GLK",
+          "chassis": "X204",
+          "families": "4 engine families",
+          "image": "/images/brands/Brandpage_car.png",
+          "href": "/mercedes-benz-engines/glk"
+        },
+        {
+          "name": "GLC",
+          "chassis": "X253 – X254",
+          "families": "7 engine families",
+          "image": "/images/brands/Brandpage_car.png",
+          "href": "/mercedes-benz-engines/glc"
+        },
+        {
+          "name": "GLE (ML)",
+          "chassis": "W163 – W167",
+          "families": "13 engine families",
+          "image": "/images/brands/Brandpage_car.png",
+          "href": "/mercedes-benz-engines/gle-ml"
+        },
+        {
+          "name": "GLS (GL)",
+          "chassis": "X164 – X167",
+          "families": "6 engine families",
+          "image": "/images/brands/Brandpage_car.png",
+          "href": "/mercedes-benz-engines/gls-gl"
+        },
+        {
+          "name": "R-Class",
+          "chassis": "W251",
+          "families": "3 engine families",
+          "image": "/images/brands/Brandpage_car.png",
+          "href": "/mercedes-benz-engines/r-class"
+        },
+        {
+          "name": "Vito & V-Class",
+          "chassis": "W638 – W447",
+          "families": "5 engine families",
+          "image": "/images/brands/Brandpage_car.png",
+          "href": "/mercedes-benz-engines/vito-v-class"
+        },
+        {
+          "name": "Sprinter",
+          "chassis": "901 – 907",
+          "families": "6 engine families",
+          "image": "/images/brands/Brandpage_car.png",
+          "href": "/mercedes-benz-engines/sprinter"
+        },
+        {
+          "name": "Citan",
+          "chassis": "W415 – W420",
+          "families": "1 engine family",
+          "image": "/images/brands/Brandpage_car.png",
+          "href": "/mercedes-benz-engines/citan"
+        },
+        {
+          "name": "X-Class",
+          "chassis": "470",
+          "families": "2 engine families",
+          "image": "/images/brands/Brandpage_car.png",
+          "href": "/mercedes-benz-engines/x-class"
+        }
+      ]
+    },
+    "engineFamilies": {
+      "title": "All Mercedes-Benz Engine Families",
+      "description": "27 engine families, each with its own dedicated page covering every compatible model, condition and price. \"From\" prices are the lowest current listed price across that engine's applications.",
+      "image": "/images/engines/pop-om642.png",
+      "families": [
+        {
+          "code": "OM651",
+          "spec": "2.1 CDI · 4-cyl diesel · 2008–2018",
+          "priceFrom": "£895",
+          "href": "/engines/om651"
+        },
+        {
+          "code": "OM642",
+          "spec": "3.0 V6 CDI · 2005–2020",
+          "priceFrom": "£1,095",
+          "href": "/engines/om642"
+        },
+        {
+          "code": "OM646",
+          "spec": "2.2 CDI · 2002–2010",
+          "priceFrom": "£695",
+          "href": "/engines/om646"
+        },
+        {
+          "code": "OM654",
+          "spec": "2.0d · 2016–present",
+          "priceFrom": "£1,795",
+          "href": "/engines/om654"
+        },
+        {
+          "code": "OM656",
+          "spec": "3.0d · 2017–present",
+          "priceFrom": "£1,995",
+          "href": "/engines/om656"
+        },
+        {
+          "code": "OM640",
+          "spec": "2.0 CDI (transverse) · 2004–2012",
+          "priceFrom": "£595",
+          "href": "/engines/om640"
+        },
+        {
+          "code": "OM611",
+          "spec": "2.2 CDI · 2000–2006",
+          "priceFrom": "£595",
+          "href": "/engines/om611"
+        },
+        {
+          "code": "OM612 / OM647",
+          "spec": "2.7 CDI · 2000–2006",
+          "priceFrom": "£695",
+          "href": "/engines/om612"
+        },
+        {
+          "code": "M271",
+          "spec": "1.8 Kompressor/CGI · 2002–2015",
+          "priceFrom": "£795",
+          "href": "/engines/m271"
+        },
+        {
+          "code": "M272",
+          "spec": "2.5–3.5 V6 · 2004–2011",
+          "priceFrom": "£995",
+          "href": "/engines/m272"
+        },
+        {
+          "code": "M276",
+          "spec": "3.0TT/3.5 V6 · 2010–2020",
+          "priceFrom": "£1,295",
+          "href": "/engines/m276"
+        },
+        {
+          "code": "M274 (M270)",
+          "spec": "1.6/2.0 turbo · 2011–2019",
+          "priceFrom": "£995",
+          "href": "/engines/m274"
+        },
+        {
+          "code": "M264 (M260)",
+          "spec": "2.0 EQ Boost · 2018–present",
+          "priceFrom": "£1,385",
+          "href": "/engines/m264"
+        },
+        {
+          "code": "M266",
+          "spec": "1.5–2.0 NA (transverse) · 2004–2012",
+          "priceFrom": "£595",
+          "href": "/engines/m266"
+        },
+        {
+          "code": "M112",
+          "spec": "2.6–3.7 V6 · 1998–2005",
+          "priceFrom": "£595",
+          "href": "/engines/m112"
+        },
+        {
+          "code": "M113",
+          "spec": "4.3–5.4 V8 · 1998–2011",
+          "priceFrom": "£895",
+          "href": "/engines/m113"
+        },
+        {
+          "code": "M273",
+          "spec": "4.7/5.5 V8 · 2005–2013",
+          "priceFrom": "£1,395",
+          "href": "/engines/m273"
+        },
+        {
+          "code": "M278",
+          "spec": "4.7 biturbo V8 · 2010–2019",
+          "priceFrom": "£1,995",
+          "href": "/engines/m278"
+        },
+        {
+          "code": "M256",
+          "spec": "3.0 I6 turbo · 2017–present",
+          "priceFrom": "£2,495",
+          "href": "/engines/m256"
+        },
+        {
+          "code": "M156",
+          "spec": "6.2 V8 NA · AMG · 2006–2015",
+          "priceFrom": "£4,495",
+          "href": "/engines/m156"
+        },
+        {
+          "code": "M157",
+          "spec": "5.5 biturbo V8 · AMG · 2011–2018",
+          "priceFrom": "£5,495",
+          "href": "/engines/m157"
+        },
+        {
+          "code": "M177 / M178",
+          "spec": "4.0 biturbo V8 · AMG · 2015–present",
+          "priceFrom": "£6,495",
+          "href": "/engines/m177"
+        },
+        {
+          "code": "M133",
+          "spec": "2.0 turbo · AMG · 2013–2019",
+          "priceFrom": "£1,595",
+          "href": "/engines/m133"
+        },
+        {
+          "code": "M139",
+          "spec": "2.0 turbo · AMG · 2019–present",
+          "priceFrom": "£1,995",
+          "href": "/engines/m139"
+        },
+        {
+          "code": "K9K",
+          "spec": "1.5 dCi Renault diesel · 2012–present",
+          "priceFrom": "£595",
+          "href": "/engines/k9k"
+        },
+        {
+          "code": "R9M",
+          "spec": "1.6 dCi Renault diesel · 2014–present",
+          "priceFrom": "£795",
+          "href": "/engines/r9m"
+        },
+        {
+          "code": "M9T",
+          "spec": "2.3 dCi Renault biturbo · 2017–2020",
+          "priceFrom": "£1,195",
+          "href": "/engines/m9t"
+        }
+      ]
+    },
+    "priceGuide": {
+      "title": "Mercedes Engine Price Guide",
+      "description": "Typical listed prices for the most in-demand Mercedes engine families. Every unit is priced individually on its listing by application and condition.",
+      "columns": [
+        "Engine family",
+        "Used from",
+        "Reconditioned from",
+        "Note"
+      ],
+      "rows": [
+        {
+          "family": "OM651 2.1 CDI",
+          "used": "£895",
+          "recon": "£1,795",
+          "note": "Core Mercedes diesel family"
+        },
+        {
+          "family": "OM642 3.0 V6 CDI",
+          "used": "£1,095",
+          "recon": "£2,295",
+          "note": "Car, van and 4x4 applications"
+        },
+        {
+          "family": "OM646 2.2 CDI",
+          "used": "£695",
+          "recon": "£1,595",
+          "note": "Strong used availability"
+        },
+        {
+          "family": "M271 1.8",
+          "used": "£795",
+          "recon": "£1,695",
+          "note": "Kompressor and CGI variants"
+        },
+        {
+          "family": "M272 V6",
+          "used": "£995",
+          "recon": "£1,995",
+          "note": "Priced per displacement variant"
+        },
+        {
+          "family": "K9K 1.5 dCi",
+          "used": "£595",
+          "recon": "£1,295",
+          "note": "Shared hub — huge donor supply"
+        },
+        {
+          "family": "OM654 2.0d",
+          "used": "£1,795",
+          "recon": "£2,895",
+          "note": "Later cars, rising demand"
+        },
+        {
+          "family": "M156 6.2 AMG",
+          "used": "£4,495",
+          "recon": "£7,995",
+          "note": "High-value AMG unit"
+        }
+      ],
+      "note": "Prices shown are current lowest listed prices and update as stock changes. The price on each listing is the price you pay — no hidden fees at checkout.",
+      "image": "/images/engines/mercedes-om642-diesel-engine.png"
+    },
+    "usedVsRecon": {
+      "title": "Used or Reconditioned — Which Mercedes Engine to Buy?",
+      "options": [
+        {
+          "icon": "car",
+          "title": "Used Mercedes engines",
+          "paragraphs": [
+            "Removed from a donor vehicle, inspected and tested before sale, with recorded mileage stated on the listing. The lower-cost route — well suited to high-supply families like the OM646, M271 and K9K where donor availability keeps prices down.",
+            "Every used unit carries its own warranty term, shown before you buy."
+          ]
+        },
+        {
+          "icon": "shield-check",
+          "title": "Reconditioned Mercedes engines",
+          "paragraphs": [
+            "Fully stripped, machined and rebuilt with new wear parts, then tested before dispatch — with known weak points addressed as standard during the build.",
+            "The right choice where you want maximum service life, backed by a 12-month, unlimited-mileage warranty.",
+            "Available as a selectable option on most listings."
+          ]
+        }
+      ]
+    },
+    "about": {
+      "title": "About Mercedes-Benz Engines",
+      "logo": "/images/brands/Brand_logo.png",
+      "carImage": "/images/brands/Brandpage_about.png",
+      "paragraphs": [
+        "Mercedes-Benz organises its engines into two code families: OM for diesels and M for petrols. Since 2000, the range has included the OM646 and OM651 four-cylinder diesels fitted across C-Class, E-Class and van models, the OM642 V6 diesel used from the E-Class through to the Sprinter, and petrol families including the M271 four-cylinder and M272 V6. From 2016 the OM654 and OM656 introduced the current diesel generation, while AMG models run their own line from the M156 6.2 V8 to today's M177 4.0 biturbo.",
+        "Two things matter when buying a replacement. First, Mercedes engines are application-specific: the same family can differ in sump, turbo arrangement and ancillaries between a saloon, an SUV and a van, so we sell configured units, not generic engines. Second, several modern Mercedes engines are Renault-Nissan sourced — the 1.5 diesel in the A-Class is the Renault K9K and the 1.6 diesel in the C-Class and Vito is the Renault R9M — which we list under their most widely traded names with every Mercedes code cross-referenced, so the engine you find is always the engine that fits."
+      ]
+    },
+    "warrantyDelivery": {
+      "title": "Warranty & Delivery on Mercedes Engines",
+      "items": [
+        {
+          "icon": "shield-check",
+          "title": "Warranty & returns",
+          "paragraphs": [
+            "Reconditioned engines carry a 12-month, unlimited-mileage warranty on internal mechanical components; used engines state their warranty term on each listing.",
+            "If an engine turns out not to be compatible, return it uninstalled within 14 days for a full refund including original delivery."
+          ]
+        },
+        {
+          "icon": "truck",
+          "title": "Delivery",
+          "paragraphs": [
+            "UK mainland delivery by kerbside pallet, typically 2–4 working days for in-stock units, with tracking emailed on dispatch.",
+            "Van and V6 units ship on heavy-duty pallets at no extra cost — the delivery price shown at checkout is the price you pay."
+          ]
+        }
+      ]
+    },
+    "faqs": {
+      "title": "Mercedes Engine Buying FAQs",
+      "subtitle": "Answers to the most common questions about buying a Mercedes engine from GMC.",
+      "items": [
+        {
+          "q": "Which Mercedes-Benz engines do you sell?",
+          "a": "We cover 27 Mercedes engine families spanning every UK model from 2000 to the present — diesel families like the OM651, OM642 and OM646, petrol families like the M271, M272 and M276, the AMG range from the M156 to the M177, and the Renault-shared units fitted to compact models and vans. Each engine is sold as an application-specific unit verified for your exact vehicle."
+        },
+        {
+          "q": "Are your Mercedes engines used or reconditioned?",
+          "a": "A used engine is removed from a donor vehicle and tested before sale; a reconditioned engine is fully stripped, machined and rebuilt with new wear parts. Each listing shows the used price and, where available, the reconditioned price as a selectable option — so you choose the condition and warranty level that suits your budget."
+        },
+        {
+          "q": "How do I know an engine fits my Mercedes?",
+          "a": "Enter your registration number in the checker on any page. It identifies your exact model, year and factory-fitted engine code from DVLA vehicle data before you order, and every listing states precisely which models and years it is configured for. If a delivered engine turns out not to be compatible, you can return it uninstalled within 14 days for a full refund."
+        },
+        {
+          "q": "Why do some Mercedes engines have Renault codes?",
+          "a": "Mercedes sourced several engines from the Renault-Nissan alliance. The 1.5 diesel in the A-Class and Citan is the Renault K9K, and the 1.6 diesel in the C-Class and Vito is the Renault R9M — Mercedes badges them OM607, OM608, OM626 and OM622. We list these under their most widely traded name, with every Mercedes code shown clearly, so you always land on the right engine."
+        },
+        {
+          "q": "What warranty comes with a Mercedes engine?",
+          "a": "Reconditioned Mercedes engines carry a 12-month, unlimited-mileage warranty covering internal mechanical failure. Used engines include their own warranty term, stated clearly on each listing before you buy. All warranty terms start from the delivery date and are backed by our 14-day uninstalled return policy if the engine turns out not to be compatible."
+        },
+        {
+          "q": "How quickly can a Mercedes engine be delivered?",
+          "a": "Engines held as ready stock are dispatched within one working day and typically arrive within 2 to 4 working days anywhere on the UK mainland, delivered by kerbside pallet with tracking emailed on dispatch. Listings that are built or prepared to order state their dispatch estimate clearly on the page before you order."
+        }
+      ],
+      "whyBuy": {
+        "title": "Why buy Mercedes engines from GMC?",
+        "items": [
+          {
+            "icon": "shield",
+            "title": "Verified Fitment",
+            "description": "Every engine is verified by registration so you get the exact engine that fits your Mercedes."
+          },
+          {
+            "icon": "shield-check",
+            "title": "12-Month Warranty",
+            "description": "Reconditioned engines include 12-month, unlimited-mileage warranty. Used engines have stated terms."
+          },
+          {
+            "icon": "truck",
+            "title": "UK Nationwide Delivery",
+            "description": "Fast & secure kerbside pallet delivery anywhere on the UK mainland, typically 2–4 working days."
+          },
+          {
+            "icon": "lock",
+            "title": "Secure Checkout",
+            "description": "Safe online payments with encrypted checkout and fraud protection for your peace of mind."
+          }
+        ]
+      }
+    },
+    "cta": {
+      "title": "Find the right Mercedes engine",
+      "highlight": "in under a minute",
+      "description": "Enter your registration, confirm the fit, and buy at the listed price — warranty and UK delivery included.",
+      "placeholder": "ENTER REG NUMBER",
+      "buttonText": "Find my engine",
+      "countryFlag": "GB",
+      "carImage": "/images/brands/Brandpage_cta.png",
+      "badges": [
+        {
+          "icon": "check-circle",
+          "text": "Verified by Registration"
+        },
+        {
+          "icon": "check-circle",
+          "text": "UK Delivery"
+        },
+        {
+          "icon": "check-circle",
+          "text": "Warranty Included"
+        }
+      ]
+    }
+  }
+}

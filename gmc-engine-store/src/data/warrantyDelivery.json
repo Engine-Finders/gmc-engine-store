@@ -1,0 +1,15 @@
+{
+  "sectionTitle": "Warranty & Delivery",
+  "items": [
+    {
+      "title": "Warranty & returns",
+      "description": "Reconditioned engines carry a 12-month, unlimited-mileage warranty; used engines state their own term on every listing. Return any engine uninstalled within 14 days for a full refund including original delivery.",
+      "icon": "shield-check"
+    },
+    {
+      "title": "Delivery",
+      "description": "UK mainland delivery by kerbside pallet, typically 2-4 working days for in-stock units, with tracking emailed on dispatch. The delivery price shown at checkout is the price you pay.",
+      "icon": "truck"
+    }
+  ]
+}

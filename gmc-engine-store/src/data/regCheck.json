@@ -1,0 +1,11 @@
+{
+  "title": "Find your engine by reg",
+  "description": "We'll confirm your exact model, year and factory engine code before you buy.",
+  "placeholder": "ENTER REG NUMBER",
+  "buttonText": "Find my engine",
+  "securityBadges": [
+    { "icon": "shield", "text": "100% Secure" },
+    { "icon": "card", "text": "No payment required" }
+  ],
+  "countryFlag": "GB"
+}
