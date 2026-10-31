@@ -38,6 +38,7 @@ Usage (from gmc-engine-store/):
 import argparse
 import hashlib
 import json
+import os
 import re
 import shutil
 import sys
@@ -49,7 +50,12 @@ ROOT = Path(__file__).resolve().parent.parent
 SOURCE_DIR = ROOT / "listing-md"
 DATA_OUT = ROOT / "src" / "data" / "listings"
 PUBLIC = ROOT / "public"
-ENGINE_IMAGES = ROOT.parent.parent / "engine-images"
+# Folder of background-removed engine photos (not in git). Order: --engine-images, $GMC_ENGINE_IMAGES,
+# <repo root>/engine-images, then an engine-images folder next to the repo.
+ENGINE_IMAGES = next(
+    (p for p in (ROOT.parent / "engine-images", ROOT.parent.parent / "engine-images") if p.exists()),
+    ROOT.parent / "engine-images",
+)
 ENGINE_OUT = PUBLIC / "images" / "listings" / "engines"
 DEFAULT_DIR = PUBLIC / "images" / "listings" / "default"
 
@@ -722,7 +728,12 @@ def main():
     ap.add_argument("--limit", type=int, default=0)
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--report", help="write every source problem (skipped files, duplicates, content gaps) to this JSON file")
+    ap.add_argument("--engine-images", help="folder of engine photos (default: $GMC_ENGINE_IMAGES or <repo root>/engine-images)")
     args = ap.parse_args()
+    global ENGINE_IMAGES
+    override = args.engine_images or os.environ.get("GMC_ENGINE_IMAGES")
+    if override:
+        ENGINE_IMAGES = Path(override)
 
     imgs = EngineImages()
     copied, stats = {}, Counter()

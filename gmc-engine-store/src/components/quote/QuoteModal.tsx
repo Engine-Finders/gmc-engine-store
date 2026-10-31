@@ -35,7 +35,7 @@ function QuotePopup({ onClose, opts }: { onClose: () => void; opts: QuoteOptions
       </button>
 
       <h2 className="pr-8 text-[22px] font-extrabold leading-tight tracking-tight text-ink-900">{opts.heading || "Get your free engine quote"}</h2>
-      <p className="mb-4 mt-1 text-[13px] text-ink-600">Enter your registration to confirm fitment, then leave your details and a specialist will call you back.</p>
+      <p className="mb-4 mt-1 text-[13px] text-ink-500">Enter your registration to confirm fitment, then leave your details and a specialist will call you back.</p>
 
       <QuoteForm opts={opts} source="quote-popup" idPrefix="popup" />
     </div>

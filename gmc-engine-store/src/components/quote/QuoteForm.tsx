@@ -97,7 +97,7 @@ export default function QuoteForm({ opts = {}, source = "quote-popup", idPrefix 
       {vehicle && (
         <div className="rounded-lg border border-primary-200 bg-[#f4f7fc] px-3 py-2.5 text-[13px] text-ink-800">
           <p className="font-bold text-ink-900">{[vehicle.make, vehicle.model].filter(Boolean).join(" ") || vehicle.vrm}</p>
-          <p className="mt-0.5 text-ink-600">
+          <p className="mt-0.5 text-ink-500">
             {[vehicle.year, vehicle.engineCapacity && litres(vehicle.engineCapacity), vehicle.fuelType, vehicle.colour].filter(Boolean).join(" · ")}
           </p>
         </div>

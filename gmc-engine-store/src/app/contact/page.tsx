@@ -62,7 +62,7 @@ export default function ContactPage() {
           <div className="mx-auto grid max-w-content grid-cols-1 gap-5 px-3 lg:grid-cols-[1.25fr_1fr] lg:gap-6 lg:px-0">
             <div id="enquiry-form" className="scroll-mt-24 rounded-2xl border border-line bg-white p-5 shadow-card sm:p-7">
               <h2 className="text-[22px] font-extrabold tracking-tight text-ink-900">{data.form.title}</h2>
-              <p className="mb-4 mt-1 text-[13px] text-ink-600">{data.form.description}</p>
+              <p className="mb-4 mt-1 text-[13px] text-ink-500">{data.form.description}</p>
               <QuoteForm source="contact-page" idPrefix="contact" />
             </div>
 
