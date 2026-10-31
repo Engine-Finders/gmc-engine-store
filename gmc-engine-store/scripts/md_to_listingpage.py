@@ -734,6 +734,11 @@ def main():
     override = args.engine_images or os.environ.get("GMC_ENGINE_IMAGES")
     if override:
         ENGINE_IMAGES = Path(override)
+    if not ENGINE_IMAGES.exists():
+        msg = f"engine photo folder not found: {ENGINE_IMAGES}  (pass --engine-images <folder> or set GMC_ENGINE_IMAGES)"
+        if not args.dry_run:
+            sys.exit(msg + chr(10) + "Refusing to write pages without it: every gallery would fall back to the placeholder.")
+        print("WARNING:", msg)
 
     imgs = EngineImages()
     copied, stats = {}, Counter()

@@ -33,6 +33,10 @@ BMW_FRONT = "12.16.15 PM (1)"
 BMW_BAY = "12.16.15 PM (2)"
 
 
+if not SRC.exists():
+    raise SystemExit(f"contact-sheet folder not found: {SRC}  (put the brand contact sheets in <repo root>/default_images)")
+
+
 def find(suffix):
     hits = [p for p in SRC.glob("*.jpeg") if p.stem.endswith(suffix)]
     # "12.18.12 PM" is a suffix of the "(n)" names too: pick the shortest stem
