@@ -1,0 +1,96 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "om654",
+ "applicationSlug": "mercedes-e-class-w213-e200d-saloon",
+ "engineCode": "OM654",
+ "condition": "used",
+ "seo": {
+  "title": "Used OM654 Engine — Mercedes E-Class W213 (E200d) Saloon 2016-2020",
+  "description": "Used OM654 engine for Mercedes E-Class W213 E200d Saloon 2016-2020. £2,495 with 12-month warranty and fast UK delivery. In stock — ready to ship.",
+  "canonical": "https://engined.co.uk/engines/om654/mercedes-e-class-w213-e200d-saloon/"
+ },
+ "hero": {
+  "title": "Used OM654 Engine — Mercedes E-Class W213 (E200d) Saloon 2016-2020",
+  "subtitle": "Used OM654 engine for E-Class W213 E200d Saloon — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: OM654-USED-W213-E200D-SAL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,495",
+    "note": "12-month warranty",
+    "price": "£2,495.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £3,600",
+    "note": "12-month warranty",
+    "price": "£3,600.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used OM654 engine for Mercedes E-Class W213 E200d Saloon 2016-2020, complete assembly.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "OM654",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2016-2020",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W213",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-om654-engine.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment by entering your registration at checkout — we verify against your VIN before dispatch.",
+  "list": [
+   "E-Class W213 (E200d) 2016-2020"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (block, head, sump, timing cover)",
+   "Tested before dispatch with compression and leak-down report",
+   "12-month warranty as standard",
+   "New gaskets and seals on reassembly",
+   "Oil pump and water pump checked and replaced if worn"
+  ],
+  "excluded": [
+   "Turbocharger (reusable if condition allows — sold separately if required)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, air conditioning compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this OM654 engine now, or view the OM654 engine range for other applications.",
+  "crossLink": "← Back to all OM654 engines"
+ }
+}

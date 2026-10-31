@@ -1,0 +1,91 @@
+{
+ "brand": "jaguar",
+ "brandName": "Jaguar",
+ "engineSlug": "aj133",
+ "applicationSlug": "recon-jaguar-xfr-x250-aj133s-5-0-sc-saloon-2009",
+ "engineCode": "AJ133S",
+ "condition": "recon",
+ "seo": {
+  "title": "Recon Jaguar AJ133S Engine — XFR X250 5.0 SC | Engined",
+  "description": "Reconditioned AJ133S engine for Jaguar XFR (X250) 5.0 Supercharged Saloon. £5,200 fixed price, tested before dispatch, 12-month warranty & UK delivery.",
+  "canonical": "https://engined.co.uk/engines/aj133/recon-jaguar-xfr-x250-aj133s-5-0-sc-saloon-2009/"
+ },
+ "hero": {
+  "title": "Reconditioned Jaguar AJ133S 5.0 V8 Supercharged Engine — XF (X250) XFR Saloon 2009-2015",
+  "subtitle": "Reconditioned AJ133S engine for Jaguar XFR (X250) 5.0 Supercharged Saloon — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: AJ133-RECON-XF-X250-XFR-SC-SALOON",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £5,200",
+    "note": "12-month warranty",
+    "price": "£5,200.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned AJ133S 5.0 V8 supercharged engine for Jaguar XFR X250 saloon, complete longitudinal assembly with Eaton supercharger.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJ133S",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2009-2015",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X250",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/jaguar-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/jaguar-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jlr-aj133-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Verify fitment for your specific chassis using our registration checker before purchasing this AJ133S engine.",
+  "list": [
+   "Jaguar XF (X250) XFR 5.0 Supercharged (510 PS) Saloon (2009-2015)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch",
+   "Warranty as standard",
+   "Longitudinal saloon specification components",
+   "Eaton supercharger unit",
+   "Engine wiring harness"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this AJ133S engine now, or view the full AJ133S engine range for other applications.",
+  "crossLink": "← Back to all AJ133S engines"
+ }
+}

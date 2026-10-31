@@ -1,0 +1,83 @@
+{
+ "brand": "suzuki",
+ "brandName": "Suzuki",
+ "engineSlug": "k-series-small",
+ "applicationSlug": "suzuki-wagon-r-1-0-mpv-2000-recon",
+ "engineCode": "K10B",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned Suzuki K10B Engine — Wagon R 1.0 MPV 2000-2008",
+  "description": "K10B reconditioned engine for Suzuki Wagon R 1.0 MPV 2000-2008. Used £355, 12-month warranty, tested before dispatch, UK delivery. In stock.",
+  "canonical": "https://engined.co.uk/engines/k-series-small/suzuki-wagon-r-1-0-mpv-2000-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned Suzuki K10B Engine — Suzuki Wagon R (1.0) MPV 2000-2008",
+  "subtitle": "SUB — Reconditioned K10B engine for Suzuki Wagon R 1.0 MPV — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: K10B-RECON-WAGONR",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £355",
+    "note": "12-month warranty",
+    "price": "£355.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned Suzuki K10B engine for Suzuki Wagon R 1.0 MPV, 3-cylinder petrol, tested before dispatch",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "K10B",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2000-2008",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Suzuki Wagon R",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our reg checker to confirm your Suzuki Wagon R 1.0 before ordering — this K10B engine fits the application listed below.",
+  "list": [
+   "Suzuki Wagon R (1.0 MPV) 2000-2008"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New gaskets and seals",
+   "Oil and filter service components"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this K10B engine now, or view full K10B range for other fits.",
+  "crossLink": "← Back to all K10B engines"
+ }
+}

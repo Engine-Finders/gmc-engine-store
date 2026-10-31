@@ -1,0 +1,95 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "b58",
+ "applicationSlug": "bmw-5-series-g30-540i-saloon-2017-recon",
+ "engineCode": "B58",
+ "condition": "recon",
+ "seo": {
+  "title": "Recon BMW B58 Engine — 5 Series G30 540i Saloon 2017+",
+  "description": "BMW B58 · Recon · Fits 5 Series G30 540i, 6 Series G32 640i, 7 Series G11 740i — £8,280. 12-month warranty, UK delivery. Includes PHEV variants.",
+  "canonical": "https://engined.co.uk/engines/b58/bmw-5-series-g30-540i-saloon-2017-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW B58 Engine — 5 Series G30 (540i) Saloon 2017-present",
+  "subtitle": "Reconditioned B58 engine for 5 Series G30 540i, 6 Series G32 640i, 7 Series G11 740i and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: B58-RECON-G30-540I",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £8,280",
+    "note": "12-month warranty",
+    "price": "£8,280.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "BMW B58 engine for 5 Series G30 540i Saloon — reconditioned 3.0-litre executive unit",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "B58",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2017-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "G30, G32, G11, G15",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-b58-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "This reconditioned BMW B58 engine is confirmed to fit the applications listed below. Use our registration checker to confirm compatibility with your specific vehicle, including PHEV variants.",
+  "list": [
+   "5 Series Saloon (G30) 2017-present — 540i (340 hp)",
+   "6 Series (G32) — 640i",
+   "7 Series (G11) — 740i, 745e, 750e",
+   "8 Series (G15) — 840i",
+   "PHEV variants (745e, 750e)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Full inspection and compression test",
+   "Drained and flushed",
+   "UK delivery included"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries (alternator, starter, AC compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this B58 engine now, or view the full B58 engine range for other applications.",
+  "crossLink": "← Back to all B58 engines"
+ }
+}

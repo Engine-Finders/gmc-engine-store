@@ -1,0 +1,96 @@
+{
+ "brand": "jaguar",
+ "brandName": "Jaguar",
+ "engineSlug": "ingenium-2-0-diesel",
+ "applicationSlug": "land-rover-evoque-l538-ed4-diesel-2015",
+ "engineCode": "204DTD",
+ "condition": "used",
+ "seo": {
+  "title": "Used 204DTD 2.0 Ingenium Diesel Engine — Range Rover Evoque (L538) eD4 SUV 2015-Present | Engined",
+  "description": "Used 204DTD engine for Range Rover Evoque (L538) eD4 2.0 Diesel SUV 2015-Present. Fixed price £2,155, tested before dispatch, 12-month warranty included.",
+  "canonical": "https://engined.co.uk/engines/ingenium-2-0-diesel/land-rover-evoque-l538-ed4-diesel-2015/"
+ },
+ "hero": {
+  "title": "Used 204DTD 2.0 Ingenium Diesel Engine — Range Rover Evoque (L538) eD4 SUV 2015-Present",
+  "subtitle": "Used 204DTD engine for Range Rover Evoque (L538) eD4 2.0 Diesel SUV — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 204DTD-USED-EVOQUE-L538-eD4",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,155",
+    "note": "12-month warranty",
+    "price": "£2,155.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,880",
+    "note": "12-month warranty",
+    "price": "£2,880.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used 204DTD 2.0 Ingenium turbo diesel engine for Range Rover Evoque L538 eD4, transverse configuration, ready for installation.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "204DTD",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2015-Present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L538",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/jaguar-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/jaguar-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/jaguar-jaguar-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment by entering your registration number above to ensure this 204DTD engine matches your Range Rover Evoque (L538).",
+  "list": [
+   "Range Rover Evoque (L538) SUV (eD4 2.0 Diesel 150 PS) 2015-Present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (204DTD 2.0 Inline-4 Turbo Diesel)",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Transverse configuration specific to Evoque L538",
+   "Single-turbo Ingenium specification"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system (unless specified as included in specific lot)",
+   "Ancillaries (alternator, starter, AC compressor if not part of core assembly)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 204DTD engine now, or view the full 204DTD engine range for other applications.",
+  "crossLink": "← Back to all 204DTD engines"
+ }
+}

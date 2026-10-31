@@ -1,0 +1,97 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "n47",
+ "applicationSlug": "bmw-3-series-e90-318d-saloon-2008",
+ "engineCode": "N47",
+ "condition": "used",
+ "seo": {
+  "title": "Used N47 Engine — BMW 3 Series E90 318d Saloon 2008-2011",
+  "description": "N47 · Used · E90 318d Saloon · 143 PS · £1,166 · Tested before dispatch · 12-month warranty · UK delivery. Buy this compatible 3 Series engine online.",
+  "canonical": "https://engined.co.uk/engines/n47/bmw-3-series-e90-318d-saloon-2008/"
+ },
+ "hero": {
+  "title": "Used N47 Engine — BMW 3 Series E90 318d Saloon 2008-2011",
+  "subtitle": "Used N47 engine for BMW 3 Series Saloon (E90) 318d and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N47-USED-G2-E90-318D-FL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,166.00",
+    "note": "12-month warranty",
+    "price": "£1,166.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,935.00",
+    "note": "12-month warranty",
+    "price": "£1,935.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "BMW N47 engine for E90 318d Saloon facelift, a 2.0-litre diesel engine for mid-size saloon cars",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N47",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2008-2011",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E90",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-n47-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check if this N47 engine fits your vehicle below. Use our reg-checker for guaranteed compatibility.",
+  "list": [
+   "BMW 3 Series (E90) 318d Saloon 2008-2011 — 143 PS"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch",
+   "12-month warranty as standard",
+   "Fully pressure and vacuum tested",
+   "All oil and fluid changes completed",
+   "UK-wide delivery included"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N47 engine now, or view the full N47 engine range for other applications.",
+  "crossLink": "← Back to all N47 engines"
+ }
+}

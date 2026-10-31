@@ -1,0 +1,92 @@
+{
+ "brand": "citroen",
+ "brandName": "Citroen",
+ "engineSlug": "dw10",
+ "applicationSlug": "citroen-dispatch-2-0-hdi-van-1999",
+ "engineCode": "DW10",
+ "condition": "used",
+ "seo": {
+  "title": "Used Citroën DW10 2.0 HDi Engine — Dispatch Van 1999-2006",
+  "description": "DW10 · used · Citroën Dispatch BU/BV/BW/BX Van 2.0 HDi · commercial-spec · £1,346 · 12-month warranty · UK delivery",
+  "canonical": "https://engined.co.uk/engines/dw10/citroen-dispatch-2-0-hdi-van-1999/"
+ },
+ "hero": {
+  "title": "Used Citroën DW10 2.0 HDi Engine — Dispatch Van 1999-2006",
+  "subtitle": "Used DW10 diesel engine for Citroën Dispatch BU/BV/BW/BX Van 2.0 HDi — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: DW10-USED-CITROEN-DISPATCH-HDI-VAN",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,346",
+    "note": "12-month warranty",
+    "price": "£1,346.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,156",
+    "note": "12-month warranty",
+    "price": "£2,156.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Citroën DW10 2.0 HDi engine for Dispatch Van 1999-2006 — tested commercial diesel unit",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "DW10",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "1999-2006",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Citroën Dispatch BU Van (1999-2006), Citroën Dispatch BV Van (1999-2006), Citroën Dispatch BW Van (1999-2006), Citroën Dispatch BX Van (1999-2006)",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/citroen-citroen-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your vehicle's compatibility below — use our reg-checker to confirm this DW10 engine matches your Citroën Dispatch exactly.",
+  "list": [
+   "Citroën Dispatch BU Van (1999-2006) — 2.0 HDi",
+   "Citroën Dispatch BV Van (1999-2006) — 2.0 HDi",
+   "Citroën Dispatch BW Van (1999-2006) — 2.0 HDi",
+   "Citroën Dispatch BX Van (1999-2006) — 2.0 HDi"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Comprehensive inspection report",
+   "Oil and filter service",
+   "UK mainland delivery"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this DW10 engine now, or view the full DW10 engine range for other applications.",
+  "crossLink": "← Back to all DW10 engines"
+ }
+}

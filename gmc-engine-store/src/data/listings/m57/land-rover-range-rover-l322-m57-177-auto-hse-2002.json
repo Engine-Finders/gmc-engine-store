@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "m57",
+ "applicationSlug": "land-rover-range-rover-l322-m57-177-auto-hse-2002",
+ "engineCode": "M57",
+ "condition": "used",
+ "seo": {
+  "title": "Used M57 3.0 TD6 Engine — Range Rover L322 HSE (177 PS, Auto) 2002–2004 | Engined",
+  "description": "Used Land Rover M57 3.0 TD6 diesel engine for Range Rover L322 HSE (177 PS, Auto) 2002–2004. Bench-tested, 12-month warranty, UK delivery. £1,895.",
+  "canonical": "https://engined.co.uk/engines/m57/land-rover-range-rover-l322-m57-177-auto-hse-2002/"
+ },
+ "hero": {
+  "title": "Used M57 3.0 TD6 Engine — Range Rover L322 HSE (177 PS, Auto) 2002–2004",
+  "subtitle": "Used M57 engine for Range Rover L322 HSE (177 PS, Auto) — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M57-USED-L322-HSE-AUTO-0204",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,895",
+    "note": "12-month warranty",
+    "price": "£1,895.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Land Rover M57 3.0 TD6 diesel engine for Range Rover L322 HSE auto 177 PS 2002–2004.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M57",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2002–2004",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L322",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration in our reg checker to confirm this M57 fits your Range Rover L322 HSE before you buy.",
+  "list": [
+   "Range Rover L322 HSE (3.0 TD6, Auto, 177 PS) 2002–2004"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly, ready to fit",
+   "Bench-tested and compression-checked before dispatch",
+   "12-month warranty as standard",
+   "New gaskets and seals fitted where required",
+   "Sump, timing cover and rocker cover included"
+  ],
+  "excluded": [
+   "Turbocharger (reused from your unit where serviceable, depending on condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, air conditioning compressor, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M57 engine now, or view the full M57 engine range for other applications.",
+  "crossLink": "← Back to all M57 engines"
+ }
+}

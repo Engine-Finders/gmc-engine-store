@@ -1,0 +1,84 @@
+{
+ "brand": "suzuki",
+ "brandName": "Suzuki",
+ "engineSlug": "boosterjet",
+ "applicationSlug": "suzuki-s-cross-1-4-boosterjet-suv-2016",
+ "engineCode": "K14C",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned Suzuki K14C Engine — S-Cross (1.4 Boosterjet) SUV 2016-Present | Engined",
+  "description": "Reconditioned Suzuki K14C engine for S-Cross and SX4 S-Cross 1.4 Boosterjet — used from £1,195, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/boosterjet/suzuki-s-cross-1-4-boosterjet-suv-2016/"
+ },
+ "hero": {
+  "title": "Reconditioned Suzuki K14C Engine — S-Cross (1.4 Boosterjet) SUV 2016-Present",
+  "subtitle": "Reconditioned K14C engine for S-Cross and SX4 S-Cross — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: K14C-RECON-SCROSS",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,195",
+    "note": "12-month warranty",
+    "price": "£1,195.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used and reconditioned Suzuki K14C 1.4 Boosterjet turbo petrol engine for S-Cross, transverse mount",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "K14C",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2016-Present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "S-Cross, SX4 S-Cross",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration below to confirm your Suzuki S-Cross or SX4 S-Cross takes the K14C 1.4 Boosterjet engine before you buy.",
+  "list": [
+   "Suzuki S-Cross — 1.4 Boosterjet (140 PS), K14C, transverse — 2016–Present",
+   "Suzuki SX4 S-Cross — 1.4 Boosterjet (140 PS), K14C, transverse — 2016–Present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New gaskets and seals fitted",
+   "UK delivery included"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this K14C engine now, or view the full K14C engine range for other applications.",
+  "crossLink": "← Back to all K14C engines"
+ }
+}

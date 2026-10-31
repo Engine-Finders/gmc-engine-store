@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n54",
+ "applicationSlug": "f02-740li-lwb-2008",
+ "engineCode": "N54",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW N54 Engine — 7 Series F02 (740Li) Saloon LWB 2008‑2012 | Engined",
+  "description": "Used BMW N54 engine for 7 Series F02 740Li Saloon LWB 2008-2012, 326 PS. Fixed £2,900, tested before dispatch, 12-month warranty, fast UK delivery.",
+  "canonical": "https://engined.co.uk/engines/bmw-n54/f02-740li-lwb-2008/"
+ },
+ "hero": {
+  "title": "Used BMW N54 Engine — 7 Series F02 (740Li) Saloon LWB 2008‑2012",
+  "subtitle": "SUB — Used N54 engine for BMW 7 Series F02 740Li Saloon LWB — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N54-USED-F02-740LI",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,900",
+    "note": "12-month warranty",
+    "price": "£2,900.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW N54 engine for 7 Series F02 740Li Saloon LWB 2008-2012, 326 PS, tested",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N54",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2008‑2012",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F02",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-n54-n55-n20-family-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration to confirm fitment before purchase — this N54 engine is listed for the following BMW 7 Series F02 applications.",
+  "list": [
+   "BMW 7 Series F02 (740Li 326 PS Saloon LWB) 2008‑2012"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "Warranty as standard",
+   "Cylinder head and block",
+   "Sump and timing cover"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N54 engine now, or view the full N54 engine range for other applications.",
+  "crossLink": "← Back to all N54 engines"
+ }
+}

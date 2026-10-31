@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "m278",
+ "applicationSlug": "mercedes-sl-r231-m278-455-prefl-roadster-2012",
+ "engineCode": "M278",
+ "condition": "used",
+ "seo": {
+  "title": "Used M278 4.7 V8 Engine — SL R231 (SL500, 455 PS) Pre-FL 2012–2016 | Engined",
+  "description": "Used M278 4.7 V8 biturbo engine for Mercedes SL R231 SL500 455 PS Pre-FL 2012–2016. Fixed £5,040, 12-month warranty, UK delivery. In stock, ready to ship.",
+  "canonical": "https://engined.co.uk/engines/m278/mercedes-sl-r231-m278-455-prefl-roadster-2012/"
+ },
+ "hero": {
+  "title": "Used M278 4.7 V8 Engine — SL R231 (SL500, 455 PS) Pre-FL 2012–2016",
+  "subtitle": "SUB — Used M278 engine for SL R231, SL500 and 455 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M278-USED-R231-SL500-PREFL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £5,040",
+    "note": "12-month warranty",
+    "price": "£5,040.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used M278 4.7 V8 biturbo engine for Mercedes SL R231 SL500 455 PS Pre-FL 2012–2016.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M278",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2012–2016",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "R231",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-m278-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration to confirm this used M278 engine fits your Mercedes SL R231 SL500 455 PS Pre-FL 2012–2016.",
+  "list": [
+   "SL R231 (Roadster — SL500 455 PS — M278 — 4.7 V8 Biturbo) 2012–2016"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Oil sump and timing covers"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M278 engine now, or view the full M278 engine range for other applications.",
+  "crossLink": "← Back to all M278 engines"
+ }
+}

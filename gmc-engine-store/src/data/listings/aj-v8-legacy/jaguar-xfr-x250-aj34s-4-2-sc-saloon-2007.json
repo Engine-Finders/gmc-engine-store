@@ -1,0 +1,91 @@
+{
+ "brand": "jaguar",
+ "brandName": "Jaguar",
+ "engineSlug": "aj-v8-legacy",
+ "applicationSlug": "jaguar-xfr-x250-aj34s-4-2-sc-saloon-2007",
+ "engineCode": "AJ34S",
+ "condition": "used",
+ "seo": {
+  "title": "Used Jaguar AJ34S Engine — XFR X250 4.2 SC Saloon | Engined",
+  "description": "Used AJ34S engine for Jaguar XFR (X250) 4.2 Supercharged Saloon. £2,754 fixed price, tested before dispatch, 12-month warranty & UK delivery.",
+  "canonical": "https://engined.co.uk/engines/aj-v8-legacy/jaguar-xfr-x250-aj34s-4-2-sc-saloon-2007/"
+ },
+ "hero": {
+  "title": "Used Jaguar AJ34S Engine — XFR (X250) 4.2 Supercharged Saloon 2007-2010",
+  "subtitle": "Used AJ34S engine for Jaguar XFR (X250) 4.2 V8 Supercharged Saloon — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: AJV8-USED-X250-42-SC-SALOON-AJ34S",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £3,795",
+    "note": "12-month warranty",
+    "price": "£3,795.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "AJ34S 4.2 V8 supercharged engine for Jaguar XFR X250 saloon, complete longitudinal assembly with Eaton M112.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJ34S",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2007-2010",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X250",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/jaguar-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/jaguar-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/jaguar-jaguar-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Verify fitment for your specific chassis using our registration checker before purchasing this AJ34S engine.",
+  "list": [
+   "Jaguar XFR (X250) 4.2 Supercharged (AJ34S) Saloon (2007-2010)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch",
+   "Warranty as standard",
+   "Longitudinal saloon specification components",
+   "Eaton M112 supercharger unit",
+   "Engine wiring harness"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this AJ34S engine now, or view the full AJ34S engine range for other applications.",
+  "crossLink": "← Back to all AJ34S engines"
+ }
+}

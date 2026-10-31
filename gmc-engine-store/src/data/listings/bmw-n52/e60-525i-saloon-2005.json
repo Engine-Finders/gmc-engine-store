@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n52",
+ "applicationSlug": "e60-525i-saloon-2005",
+ "engineCode": "N52",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW N52 Engine — 5 Series E60 (525i) Saloon 2005‑2007",
+  "description": "Used BMW N52 engine for 5 Series E60 525i Saloon 2005‑2007. Fixed £1,395, tested before dispatch, 12-month warranty and UK delivery. Reconditioned £1,895.",
+  "canonical": "https://engined.co.uk/engines/bmw-n52/e60-525i-saloon-2005/"
+ },
+ "hero": {
+  "title": "Used BMW N52 Engine — 5 Series E60 (525i) Saloon 2005‑2007",
+  "subtitle": "Used N52 engine for 5 Series E60 525i Saloon — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N52-USED-E60-525I-PREFL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,395",
+    "note": "12-month warranty",
+    "price": "£1,395.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW N52 engine for BMW 5 Series E60 525i Saloon 2005‑2007, pre‑LCI N52B25 executive saloon.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "BMW N52",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2005‑2007",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E60",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your registration with our reg checker before ordering to ensure this BMW N52 engine matches your E60 525i Saloon.",
+  "list": [
+   "BMW 5 Series (E60) 2005‑2007 — 525i (218 PS) Saloon"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Sump and timing covers"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N52 engine now, or view the full N52 engine range for other applications.",
+  "crossLink": "← Back to all N52 engines"
+ }
+}

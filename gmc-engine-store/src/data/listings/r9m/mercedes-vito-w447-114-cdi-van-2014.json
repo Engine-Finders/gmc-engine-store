@@ -1,0 +1,89 @@
+{
+ "brand": "renault",
+ "brandName": "Renault",
+ "engineSlug": "r9m",
+ "applicationSlug": "mercedes-vito-w447-114-cdi-van-2014",
+ "engineCode": "R9M",
+ "condition": "used",
+ "seo": {
+  "title": "Used Renault R9M Engine — Mercedes Vito W447 (114 CDI) Van 2014-2020",
+  "description": "Used Renault R9M engine for Mercedes Vito W447 114 CDI vans, 2014-2020. Tested before dispatch, 12-month warranty, UK delivery. £1,345. In stock.",
+  "canonical": "https://engined.co.uk/engines/r9m/mercedes-vito-w447-114-cdi-van-2014/"
+ },
+ "hero": {
+  "title": "Used Renault R9M Engine — Mercedes Vito W447 (114 CDI) Van 2014-2020",
+  "subtitle": "Used R9M engine for Mercedes Vito W447 114 CDI — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: R9M-USED-VITO-114CDI",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,345",
+    "note": "12-month warranty",
+    "price": "£1,345.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,155",
+    "note": "12-month warranty",
+    "price": "£2,155.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Renault R9M (OM622) 1.6 dCi 136 PS engine for Mercedes Vito W447 114 CDI van, R9M-470",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "R9M",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2014-2020",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W447",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment against your registration before ordering — this R9M fits the applications listed below.",
+  "list": [
+   "Mercedes Vito W447 (114 CDI, 1.6 dCi, ~136 PS, OM622/R9M-470) 2014–2020"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil sump and pick-up pipe",
+   "Core ancillaries as specified"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system components",
+   "Ancillaries not listed above",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this R9M engine now, or view the full R9M engine range for other applications.",
+  "crossLink": "← Back to all R9M engines"
+ }
+}

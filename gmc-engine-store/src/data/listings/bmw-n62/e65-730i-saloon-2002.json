@@ -1,0 +1,96 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n62",
+ "applicationSlug": "e65-730i-saloon-2002",
+ "engineCode": "N62",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW N62 Engine — 7 Series E65 (730i) Saloon 2002‑2005",
+  "description": "Used N62 engine for BMW 7 Series E65 730i Saloon 2002-2005. £2,655 fixed price, tested before dispatch, 12-month warranty and UK delivery included.",
+  "canonical": "https://engined.co.uk/engines/bmw-n62/e65-730i-saloon-2002/"
+ },
+ "hero": {
+  "title": "Used BMW N62 Engine — 7 Series E65 (730i) Saloon 2002‑2005",
+  "subtitle": "Used N62 engine for BMW 7 Series E65 730i Saloon — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N62-USED-E65-730I-PREFL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,655",
+    "note": "12-month warranty",
+    "price": "£2,655.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £5,315",
+    "note": "12-month warranty",
+    "price": "£5,315.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW N62 engine for E65 730i Saloon 2002-2005, Pre-LCI N62B36 3.6L V8 272PS, tested.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N62",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2002-2005",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E65",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our reg checker to confirm this N62 engine fits your BMW 7 Series E65 730i Saloon before ordering.",
+  "list": [
+   "BMW 7 Series E65 (730i 272 PS Saloon) 2002-2005"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Sump and timing cover"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N62 engine now, or view the full N62 engine range.",
+  "crossLink": "← Back to all N62 engines — https://engined.co.uk/engines/bmw-n62"
+ }
+}

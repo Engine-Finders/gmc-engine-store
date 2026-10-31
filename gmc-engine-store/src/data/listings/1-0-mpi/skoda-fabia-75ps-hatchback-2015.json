@@ -1,0 +1,90 @@
+{
+ "brand": "volkswagen",
+ "brandName": "Volkswagen",
+ "engineSlug": "1-0-mpi",
+ "applicationSlug": "skoda-fabia-75ps-hatchback-2015",
+ "engineCode": "EA211",
+ "condition": "used",
+ "seo": {
+  "title": "Used 1.0 MPI Engine — Škoda Fabia (75 PS) Hatchback 2015-present | Engined",
+  "description": "EA211 used 1.0 MPI engine for the Škoda Fabia NJ hatchback, 75 PS. Fixed price £995, tested before dispatch, 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/1-0-mpi/skoda-fabia-75ps-hatchback-2015/"
+ },
+ "hero": {
+  "title": "Used 1.0 MPI Engine — Škoda Fabia (75 PS) Hatchback 2015-present",
+  "subtitle": "Used EA211 engine for the Škoda Fabia NJ hatchback, 75 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: MPI-USED-FABIA-75-HATCH",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £995",
+    "note": "12-month warranty",
+    "price": "£995.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "EA211 used 1.0 MPI engine, Škoda Fabia NJ hatchback 75 PS 2015 on, transverse MQB petrol",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA211",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2015–present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "NJ",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/volkswagen-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/volkswagen-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/volkswagen-vw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration in our reg checker to confirm this 75 PS MPI engine fits your Fabia before you order.",
+  "list": [
+   "Škoda Fabia NJ (1.0 MPI 75 PS) 2015–present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Free UK delivery",
+   "14-day returns"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA211 engine now, or view the full EA211 engine range for other applications.",
+  "crossLink": "← Back to all EA211 engines"
+ }
+}

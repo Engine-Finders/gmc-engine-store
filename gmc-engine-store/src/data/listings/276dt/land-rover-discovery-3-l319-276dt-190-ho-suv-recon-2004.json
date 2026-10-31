@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "276dt",
+ "applicationSlug": "land-rover-discovery-3-l319-276dt-190-ho-suv-recon-2004",
+ "engineCode": "276DT",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned 276DT TDV6 Engine — Discovery 3 L319 | Engined",
+  "description": "Reconditioned 276DT engine for Land Rover Discovery 3 L319 (2004–2009). Fixed price £2,850, tested before dispatch, 12-month warranty & UK delivery.",
+  "canonical": "https://engined.co.uk/engines/276dt/land-rover-discovery-3-l319-276dt-190-ho-suv-recon-2004/"
+ },
+ "hero": {
+  "title": "Reconditioned 276DT TDV6 Engine — Discovery 3 L319 (High Output, 190 PS, Single-Turbo) 2004–2009",
+  "subtitle": "Reconditioned 276DT TDV6 engine for Land Rover Discovery 3 L319 — fixed price, tested before dispatch, 12-month warranty & UK delivery.",
+  "sku": "SKU: 276DT-RECON-DISCOVERY3-L319-190-HO",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,850",
+    "note": "12-month warranty",
+    "price": "£2,850.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned 276DT TDV6 single-turbo engine for Land Rover Discovery 3 L319, fully rebuilt and tested.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "276DT",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2004–2009",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L319",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number in our checker above to confirm this 276DT engine fits your Land Rover Discovery 3.",
+  "list": [
+   "Discovery 3 L319 (SUV) 2004–2009"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New gaskets and seals fitted",
+   "Fully rebuilt with renewed timing components"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 276DT engine now, or view the full 276DT engine range for other applications.",
+  "crossLink": "← Back to all 276DT engines"
+ }
+}

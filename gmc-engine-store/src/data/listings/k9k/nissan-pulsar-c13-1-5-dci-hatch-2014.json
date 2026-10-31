@@ -1,0 +1,82 @@
+{
+ "brand": "nissan",
+ "brandName": "Nissan",
+ "engineSlug": "k9k",
+ "applicationSlug": "nissan-pulsar-c13-1-5-dci-hatch-2014",
+ "engineCode": "K9K",
+ "condition": "used",
+ "seo": {
+  "title": "Used K9K Engine — Nissan Pulsar C13 (1.5 dCi) Hatchback 2014-2015",
+  "description": "Used K9K engine for Nissan Pulsar C13 1.5 dCi Hatchback. Fixed price £985, tested before dispatch, 12-month warranty and UK delivery. Recon: £1,935.",
+  "canonical": "https://engined.co.uk/engines/k9k/nissan-pulsar-c13-1-5-dci-hatch-2014/"
+ },
+ "hero": {
+  "title": "Used K9K Engine — Nissan Pulsar C13 (1.5 dCi) Hatchback 2014-2015",
+  "subtitle": "Used K9K engine for Nissan Pulsar C13 1.5 dCi Hatchback — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: K9K-USED-G1-PULSAR",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £985",
+    "note": "12-month warranty",
+    "price": "£985.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used K9K Engine — Nissan Pulsar C13 (1.5 dCi) Hatchback 2014-2015",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "K9K",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2014-2015",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "C13",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/renault-k9k-dci-diesel-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number in our checker above to confirm this K9K engine fits your specific Nissan Pulsar C13.",
+  "list": [
+   "Nissan Pulsar C13 (1.5 dCi) 2014-2015"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Clean, drained, and ready for installation",
+   "Full compression test report"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this K9K engine now, or view the full K9K engine range for other applications.",
+  "crossLink": "← Back to all K9K engines"
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n46",
+ "applicationSlug": "e83-2.0i-suv-2006",
+ "engineCode": "N46",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW N46 Engine — X3 E83 (2.0i) SUV 2006‑2008 | Engined",
+  "description": "Used BMW N46 engine for X3 E83 2.0i SUV 2006‑2008. Pre‑LCI N46B20 150PS, fully tested before dispatch. £985, 12-month warranty, fast UK delivery.",
+  "canonical": "https://engined.co.uk/engines/bmw-n46/e83-2.0i-suv-2006/"
+ },
+ "hero": {
+  "title": "Used BMW N46 Engine — X3 E83 (2.0i) SUV 2006‑2008",
+  "subtitle": "Used N46 engine for BMW X3 E83 2.0i SUV — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N46-USED-E83-2.0I-PREFL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £985",
+    "note": "12-month warranty",
+    "price": "£985.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW N46B20 150PS engine for X3 E83 2.0i SUV 2006‑2008, pre‑LCI AWD with heavy-duty cooling.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N46",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2006‑2008",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E83",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration to confirm fitment before ordering — this N46 engine fits the E83 2.0i SUV listed below.",
+  "list": [
+   "BMW X3 E83 (2.0i 150 PS SUV) 2006‑2008"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Sump and timing covers"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N46 engine now, or view the full N46 range for other applications.",
+  "crossLink": "← Back to all N46 engines"
+ }
+}

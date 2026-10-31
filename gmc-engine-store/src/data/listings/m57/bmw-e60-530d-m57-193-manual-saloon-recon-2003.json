@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "m57",
+ "applicationSlug": "bmw-e60-530d-m57-193-manual-saloon-recon-2003",
+ "engineCode": "M57",
+ "condition": "recon",
+ "seo": {
+  "title": "Recon M57 3.0 Engine BMW E60 530d | Engined",
+  "description": "Reconditioned M57 3.0 engine for BMW E60 530d (Manual, 193 PS, 2003-2005). Fixed price £2,500. Tested before dispatch, 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/m57/bmw-e60-530d-m57-193-manual-saloon-recon-2003/"
+ },
+ "hero": {
+  "title": "Reconditioned M57 3.0 Engine — BMW E60 530d (Manual, 193 PS) 2003–2005",
+  "subtitle": "Reconditioned M57 engine for BMW E60 530d — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M57-PEND-RECON-E60-530D-0305",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,500",
+    "note": "12-month warranty",
+    "price": "£2,500.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned M57 3.0 engine for BMW E60 530d Manual 193 PS, complete unit, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M57",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2003–2005",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E60",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number in our checker above to confirm exact fitment for your BMW E60 530d chassis before purchasing.",
+  "list": [
+   "BMW E60 530d 2003–2005 — Saloon — M57 193 PS — Manual — M57D30"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "All internal seals and gaskets replaced",
+   "Professionally cleaned and degreased"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "External ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M57 engine now, or view the full M57 engine range for other applications.",
+  "crossLink": "← Back to all M57 engines"
+ }
+}

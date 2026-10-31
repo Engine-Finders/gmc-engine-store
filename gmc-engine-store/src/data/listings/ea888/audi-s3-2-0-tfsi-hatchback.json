@@ -1,0 +1,97 @@
+{
+ "brand": "audi",
+ "brandName": "Audi",
+ "engineSlug": "ea888",
+ "applicationSlug": "audi-s3-2-0-tfsi-hatchback",
+ "engineCode": "EA888",
+ "condition": "used",
+ "seo": {
+  "title": "Used Audi EA888 2.0 TFSI Engine — S3 8P/8V (2.0 TFSI) Hatchback 2008-2020",
+  "description": "EA888 · Used · Audi S3 8P/8V 2.0 TFSI 265-310 PS — £2,525 · 12-month warranty · UK delivery.",
+  "canonical": "https://engined.co.uk/engines/ea888/audi-s3-2-0-tfsi-hatchback/"
+ },
+ "hero": {
+  "title": "Used Audi EA888 2.0 TFSI Engine — S3 8P/8V (2.0 TFSI) Hatchback 2008-2020",
+  "subtitle": "Used high-output EA888 2.0 TFSI engine for Audi S3 8P/8V (265-310 PS) — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA888-USED-S3-HATCH",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,525",
+    "note": "12-month warranty",
+    "price": "£2,525.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £3,680",
+    "note": "12-month warranty",
+    "price": "£3,680.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used high-output EA888 2.0 TFSI engine for Audi S3 8P/8V hatchback – 265-310 PS, larger turbo and strengthened internals",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA888",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2008-2020",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "8P,8V",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/audi-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/audi-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/audi-audi-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration for instant compatibility confirmation, or check the list below to see if this EA888 2.0 TFSI engine fits your vehicle.",
+  "list": [
+   "Audi S3 Hatchback (8P/8V) 2008-2020 — 2.0 TFSI (265-310 PS)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch with compression and leak-down checks",
+   "12-month warranty as standard",
+   "Full technical inspection report",
+   "Cam belt and water pump replaced where applicable",
+   "Oil and filter service completed"
+  ],
+  "excluded": [
+   "Turbocharger (reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, air conditioning compressor, power steering pump)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA888 engine now, or view the full EA888 engine range for other applications.",
+  "crossLink": "← Back to all EA888 engines (links to https://engined.co.uk/engines/ea888/)"
+ }
+}

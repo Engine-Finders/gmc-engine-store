@@ -1,0 +1,90 @@
+{
+ "brand": "jaguar",
+ "brandName": "Jaguar",
+ "engineSlug": "ingenium-2-0-diesel",
+ "applicationSlug": "land-rover-discovery-5-l462-d300-diesel-2017",
+ "engineCode": "204DTA",
+ "condition": "used",
+ "seo": {
+  "title": "Used 204DTA 2.0 Ingenium Diesel Engine — Discovery 5 (L462) D300 SUV 2017-Present",
+  "description": "Used 204DTA engine for Discovery 5 (L462) D300 SUV 2017-present. Fixed price £3,615, tested before dispatch, 12-month warranty & UK delivery.",
+  "canonical": "https://engined.co.uk/engines/ingenium-2-0-diesel/land-rover-discovery-5-l462-d300-diesel-2017/"
+ },
+ "hero": {
+  "title": "Used 204DTA 2.0 Ingenium Diesel Engine — Discovery 5 (L462) D300 SUV 2017-Present",
+  "subtitle": "Used 204DTA engine for Discovery 5 (L462) D300 SUV — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 204DTA-USED-DISCOVERY-L462-D300",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £3,615",
+    "note": "12-month warranty",
+    "price": "£3,615.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used 204DTA 2.0L longitudinal twin-turbo Ingenium diesel engine for Discovery 5 (L462) D300 SUV.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "204DTA",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2017-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L462",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/jaguar-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/jaguar-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/jaguar-jaguar-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment instantly by entering your registration number below to match your chassis code.",
+  "list": [
+   "Discovery 5 (L462) 2017-present — D300 2.0 Diesel (300 PS) SUV"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Longitudinal twin-turbo Ingenium unit",
+   "Highest-output configuration"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries not specified above",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 204DTA engine now, or view the full 204DTA engine range for other applications.",
+  "crossLink": "← Back to all 204DTA engines"
+ }
+}

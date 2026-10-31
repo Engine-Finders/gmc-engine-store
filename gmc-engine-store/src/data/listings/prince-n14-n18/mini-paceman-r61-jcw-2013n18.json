@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "prince-n14-n18",
+ "applicationSlug": "mini-paceman-r61-jcw-2013n18",
+ "engineCode": "N18",
+ "condition": "used",
+ "seo": {
+  "title": "Used N18 MINI R61 Paceman JCW | Engined",
+  "description": "Used N18 1.6 Turbo engine for MINI Paceman R61 JCW 2013–2014. £1,375, tested before dispatch, 12-month warranty, UK delivery. Order today.",
+  "canonical": "https://engined.co.uk/engines/prince-n14-n18/mini-paceman-r61-jcw-2013n18/"
+ },
+ "hero": {
+  "title": "Used Prince N18 1.6 Turbo Engine — MINI Paceman R61 JCW 2013–2014",
+  "subtitle": "Used N18 engine for MINI Paceman R61 JCW 2013–2014 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: PRINCE-USED-R61-JCW-N18",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,375",
+    "note": "12-month warranty",
+    "price": "£1,375.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used N18 1.6 Turbo engine for MINI Paceman R61 JCW 2013–2014, 211 PS, Valvetronic, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N18",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2013–2014",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "R61",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our reg checker to confirm this N18 engine fits your MINI Paceman R61 JCW 2013–2014 before you buy.",
+  "list": [
+   "MINI Paceman R61 (JCW 211 PS, N18) 2013–2014"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New gaskets and seals",
+   "New timing chain and tensioner"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N18 engine now, or view the full N18 engine range for other applications.",
+  "crossLink": "← Back to all N18 engines"
+ }
+}

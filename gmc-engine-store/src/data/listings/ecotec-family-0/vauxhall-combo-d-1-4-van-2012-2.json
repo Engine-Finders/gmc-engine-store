@@ -1,0 +1,90 @@
+{
+ "brand": "vauxhall",
+ "brandName": "Vauxhall",
+ "engineSlug": "ecotec-family-0",
+ "applicationSlug": "vauxhall-combo-d-1-4-van-2012-2",
+ "engineCode": "GM FAMILY 0 (A14XER)",
+ "condition": "used",
+ "seo": {
+  "title": "Used Ecotec Family 0 Engine — Vauxhall Combo D (1.4) Van 2012-2018 (PROVISIONAL)",
+  "description": "Used GM Family 0 1.4 petrol engine for Vauxhall Combo D van 2012-2018. £895 with 12-month warranty and UK delivery — verify fitment.",
+  "canonical": "https://engined.co.uk/engines/ecotec-family-0/vauxhall-combo-d-1-4-van-2012/"
+ },
+ "hero": {
+  "title": "Used Ecotec Family 0 Engine — Vauxhall Combo D (1.4) Van 2012-2018 (PROVISIONAL)",
+  "subtitle": "Used GM Family 0 engine for Vauxhall Combo D 1.4 van — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: ECOFAM0-USED-COMBO-D-14-VAN",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £895",
+    "note": "12-month warranty",
+    "price": "£895.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,495",
+    "note": "12-month warranty",
+    "price": "£1,495.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship ⚠️ contingent on fitment verification",
+  "imgAlt": "Used GM Family 0 1.4 petrol engine for Vauxhall Combo D van, transverse FWD commercial spec, 2012-2018",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "GM Family 0 (A14XER)",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2012-2018",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Vauxhall Combo D",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "⚠️ Check your registration before ordering. Fitment for this application is unconfirmed — verify that your Combo D takes a Family 0 engine before purchase.",
+  "list": [
+   "Vauxhall Combo D (1.4 petrol, A14XER, Van) 2012–2018 ⚠️ PROVISIONAL — VERIFY FITMENT"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block inspected",
+   "Sump and timing components fitted",
+   "Compression-tested with documentation supplied"
+  ],
+  "excluded": [
+   "Turbocharger (reused only if condition allows)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this GM Family 0 engine now, or view the full Ecotec Family 0 engine range for other applications.",
+  "crossLink": "← Back to all Ecotec Family 0 engines"
+ }
+}

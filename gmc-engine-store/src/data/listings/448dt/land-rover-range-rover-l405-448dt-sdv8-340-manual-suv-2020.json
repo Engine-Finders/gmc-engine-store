@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "448dt",
+ "applicationSlug": "land-rover-range-rover-l405-448dt-sdv8-340-manual-suv-2020",
+ "engineCode": "448DT",
+ "condition": "used",
+ "seo": {
+  "title": "Used 448DT 4.4 SDV8 Engine — Range Rover L405 (340 hp, Manual) 2020 | Engined",
+  "description": "Used 448DT 4.4 SDV8 engine for Range Rover L405 2020, 340 hp manual. Fixed price £4,720, tested before dispatch, 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/448dt/land-rover-range-rover-l405-448dt-sdv8-340-manual-suv-2020/"
+ },
+ "hero": {
+  "title": "Used 448DT 4.4 SDV8 Engine — Range Rover L405 (340 hp, Manual) 2020",
+  "subtitle": "SUB — Used 448DT engine for Range Rover L405 2020 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 448DT-USED-L405-340-MAN-2020",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £4,720",
+    "note": "12-month warranty",
+    "price": "£4,720.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used 448DT 4.4 SDV8 engine for Range Rover L405 2020, 340 hp manual — tested before dispatch",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "448DT",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2020",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L405",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration to confirm this 448DT fits your Range Rover L405 4.4 SDV8 manual.",
+  "list": [
+   "Range Rover L405 (SUV, 4.4 SDV8 340 hp, Manual, 448DT engine code) 2020"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New gaskets and seals",
+   "Ready for fitting"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 448DT engine now, or view the full 448DT engine range for other applications.",
+  "crossLink": "← Back to all 448DT engines"
+ }
+}

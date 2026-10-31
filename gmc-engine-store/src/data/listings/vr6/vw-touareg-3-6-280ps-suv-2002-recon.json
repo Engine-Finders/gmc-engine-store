@@ -1,0 +1,90 @@
+{
+ "brand": "volkswagen",
+ "brandName": "Volkswagen",
+ "engineSlug": "vr6",
+ "applicationSlug": "vw-touareg-3-6-280ps-suv-2002-recon",
+ "engineCode": "VR6",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned VR6 Engine — VW Touareg 3.6 FSI 280 PS",
+  "description": "Reconditioned VR6 engine for VW Touareg (3.6 FSI 280 PS, 7L). BWS code, renewed timing chains, rebuilt head, £3,910, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/vr6/vw-touareg-3-6-280ps-suv-2002-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned VR6 Engine — VW Touareg (3.6 FSI 280 PS) SUV 2002-2010",
+  "subtitle": "Reconditioned VR6 engine for VW Touareg 3.6 FSI 280 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: VR6-RECON-TOUAREG-36-SUV-12M",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £3,910",
+    "note": "12-month warranty",
+    "price": "£3,910.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned VR6 engine for VW Touareg 3.6 FSI 280 PS, BWS code, 2002-2010, renewed timing chains.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "VR6",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2002-2010",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "7L",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/volkswagen-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/volkswagen-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/volkswagen-vw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our registration checker to confirm this reconditioned VR6 engine fits your VW Touareg 7L before you buy.",
+  "list": [
+   "VW Touareg 7L (3.6 VR6 FSI 280 PS BWS — SUV) 2002-2010"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block included",
+   "Oil sump and timing cover included"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this VR6 engine now, or view the full VR6 engine range for other applications.",
+  "crossLink": "← Back to all VR6 engines"
+ }
+}

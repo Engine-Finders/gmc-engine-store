@@ -1,0 +1,98 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "m40d",
+ "applicationSlug": "bmw-x6-g06-m40d-suv-2020",
+ "engineCode": "M40D",
+ "condition": "used",
+ "seo": {
+  "title": "Used M40d 3.0 Twin-Turbo Engine — BMW X6 G06 (M40d) SUV 2020-present",
+  "description": "M40d · used · BMW X6 G06 M40d SUV · £4,225 · 12-month warranty · UK delivery. Tested before dispatch. Ready to ship.",
+  "canonical": "https://engined.co.uk/engines/m40d/bmw-x6-g06-m40d-suv-2020/"
+ },
+ "hero": {
+  "title": "Used M40d 3.0 Twin-Turbo Engine — BMW X6 G06 (M40d) SUV 2020-present",
+  "subtitle": "Used M40d engine for BMW X6 G06 M40d SUV 2020-present — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M40D-USED-G06-M40D-SUV",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £4,225",
+    "note": "12-month warranty",
+    "price": "£4,225.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £6,035",
+    "note": "12-month warranty",
+    "price": "£6,035.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "BMW M40d 3.0 Twin-Turbo engine for X6 G06 M40d SUV 2020-present — tested used unit with ancillaries",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M40d",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2020-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "G06",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-m40d-engine.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number above to confirm compatibility, or check the list below for exact vehicle fitment.",
+  "list": [
+   "BMW X6 SUV (G06) M40d 2020-present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (long block)",
+   "Tested before dispatch — compression, leak-down, and running checks",
+   "12-month warranty as standard",
+   "Timing chain and tensioner inspection",
+   "Oil and filter service completed",
+   "Full gasket and seal replacement",
+   "Compatible ECU mapping data provided"
+  ],
+  "excluded": [
+   "Turbocharger (reusable from your existing unit if serviceable)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, air conditioning compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M40d engine now, or view the full M40d engine range for other applications.",
+  "crossLink": "← Back to all M40d engines"
+ }
+}

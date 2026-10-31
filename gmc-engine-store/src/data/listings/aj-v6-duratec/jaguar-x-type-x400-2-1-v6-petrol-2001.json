@@ -1,0 +1,91 @@
+{
+ "brand": "jaguar",
+ "brandName": "Jaguar",
+ "engineSlug": "aj-v6-duratec",
+ "applicationSlug": "jaguar-x-type-x400-2-1-v6-petrol-2001",
+ "engineCode": "AJ-V6",
+ "condition": "used",
+ "seo": {
+  "title": "Used Jaguar AJ-V6 2.1 V6 Engine – X-Type X400 | Engined",
+  "description": "Used AJ-V6 engine for Jaguar X-Type X400 Saloon. 2.1L Naturally Aspirated V6 Petrol. Fixed price £795. 12-month warranty included. UK delivery available.",
+  "canonical": "https://engined.co.uk/engines/aj-v6-duratec/jaguar-x-type-x400-2-1-v6-petrol-2001/"
+ },
+ "hero": {
+  "title": "Used Jaguar AJ-V6 2.1 V6 Petrol Engine — X-Type (X400) 2001-2009",
+  "subtitle": "Used AJ-V6 engine for Jaguar X-Type X400 Saloon and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: AJV6-21-USED-XTYPE",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £795",
+    "note": "12-month warranty",
+    "price": "£795.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Jaguar AJ-V6 2.1L Naturally Aspirated V6 petrol engine for X-Type X400 Saloon, complete assembly.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJ-V6",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2001-2009",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X400",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/jaguar-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/jaguar-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/jaguar-jaguar-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration above to confirm this AJ-V6 engine fits your Jaguar X-Type X400 Saloon.",
+  "list": [
+   "X-Type (X400) 2.1 V6 Petrol Saloon (2001–2009)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (AJ-V6 2.1L V6 Petrol)",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder heads and camshafts included",
+   "ECU and wiring loom compatibility verified",
+   "Oil filter and sump plug included"
+  ],
+  "excluded": [
+   "Turbocharger (N/A - Naturally Aspirated)",
+   "Injectors/fuel system (unless specified as reusable)",
+   "Ancillaries (alternator, starter motor, AC compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this AJ-V6 engine now, or view the full AJ-V6 engine range for other applications.",
+  "crossLink": "← Back to all AJ-V6 engines"
+ }
+}

@@ -1,0 +1,97 @@
+{
+ "brand": "jaguar",
+ "brandName": "Jaguar",
+ "engineSlug": "aj126",
+ "applicationSlug": "jaguar-f-type-x152-380-ps-convertible-2013",
+ "engineCode": "AJ126",
+ "condition": "used",
+ "seo": {
+  "title": "Used Jaguar AJ126 3.0 V6 Engine F-Type X152 | Engined",
+  "description": "Used AJ126 engine for Jaguar F-Type (X152) V6 S 3.0 SC 380 PS Convertible 2013-2019. Fixed price £3,495, tested before dispatch, 12-month warranty included.",
+  "canonical": "https://engined.co.uk/engines/aj126/jaguar-f-type-x152-380-ps-convertible-2013/"
+ },
+ "hero": {
+  "title": "Used Jaguar AJ126 3.0 V6 Engine — F-Type (X152) V6 S 380 PS Convertible 2013-2019",
+  "subtitle": "Used AJ126 engine for Jaguar F-Type (X152) V6 S 3.0 SC (380 PS) Convertible — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: AJ126-USED-FTYPE-X152-380-CONV",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £3,495",
+    "note": "12-month warranty",
+    "price": "£3,495.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £5,000",
+    "note": "12-month warranty",
+    "price": "£5,000.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used AJ126 3.0 V6 engine for Jaguar F-Type X152 Convertible, sports car configuration, ready for installation.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJ126",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2013-2019",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X152",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/jaguar-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/jaguar-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jlr-aj126-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment by entering your registration number above to ensure this AJ126 engine matches your Jaguar F-Type (X152).",
+  "list": [
+   "Jaguar F-Type (X152) Convertible (V6 S 3.0 SC 380 PS) 2013-2019"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (AJ126 3.0 V6 Supercharged)",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Longitudinal configuration specific to F-Type X152",
+   "Supercharger unit included",
+   "Sports car-specific ancillaries"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition) – *Note: This is a supercharged engine, so turbo is N/A, but standard list applies.",
+   "Injectors/fuel system (unless specified as included in specific lot)",
+   "Ancillaries (alternator, starter, AC compressor if not part of core assembly)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this AJ126 engine now, or view the full AJ126 range for other applications.",
+  "crossLink": "← Back to all AJ126 engines"
+ }
+}

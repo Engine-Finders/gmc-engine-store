@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "aj300",
+ "applicationSlug": "jaguar-xe-x760-aj300-p300-saloon-2020",
+ "engineCode": "AJ300",
+ "condition": "used",
+ "seo": {
+  "title": "PENDING — AJ300 3.0 Petrol Engine — Jaguar XE X760 P300 (MHEV, Longitudinal) 2020–2022",
+  "description": "Used AJ300 3.0L engine for Jaguar XE X760 P300. Fixed £4,500 price, tested before dispatch. Includes 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/aj300/jaguar-xe-x760-aj300-p300-saloon-2020/"
+ },
+ "hero": {
+  "title": "PENDING — AJ300 3.0 Petrol Engine — Jaguar XE X760 P300 (MHEV, Longitudinal) 2020–2022",
+  "subtitle": "Used AJ300 engine for Jaguar XE X760 P300 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: AJ300-PEND-XE-P300-2022",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £4,500",
+    "note": "12-month warranty",
+    "price": "£4,500.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "PENDING — AJ300 3.0 Petrol Engine — Jaguar XE X760 P300 (MHEV, Longitudinal) 2020–2022",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJ300",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2020–2022",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X760",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm exact fitment for your saloon using our free registration checker before ordering your AJ300 engine.",
+  "list": [
+   "Jaguar XE X760 (3.0 Ingenium P300) 2020–2022"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch",
+   "12-month warranty as standard",
+   "Sump and oil pickup tube",
+   "Rocker cover and base gaskets"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this AJ300 engine now, or view the full AJ300 engine range for other applications.",
+  "crossLink": "← Back to all AJ300 engines"
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "m274",
+ "applicationSlug": "mercedes-c-class-w205-m274-211-prefl-saloon-recon-2014",
+ "engineCode": "M274",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned M274 Engine — C-Class W205 Saloon | Engined",
+  "description": "Reconditioned M274 engine for C-Class W205 C250 (211 PS) Pre-FL. Fixed price £2,595, tested before dispatch, includes 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/m274/mercedes-c-class-w205-m274-211-prefl-saloon-recon-2014/"
+ },
+ "hero": {
+  "title": "Reconditioned M274 2.0T Engine — C-Class W205 Saloon (C250, 211 PS) Pre-FL 2014–2017",
+  "subtitle": "Reconditioned M274 engine for C-Class W205 C250 (211 PS) Pre-FL and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M274-RECON-W205-C250-PREFL",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,595",
+    "note": "12-month warranty",
+    "price": "£2,595.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned M274 engine for Mercedes C-Class W205 C250 Pre-FL, complete assembly with renewed timing chain.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M274",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2014–2017",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W205",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-m274-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number in our checker above to confirm this reconditioned M274 engine is an exact match for your vehicle.",
+  "list": [
+   "C-Class W205 (C250 211 PS) 2014–2017"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Fully cleaned and inspected",
+   "VAT included"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M274 engine now, or view the full M274 engine range for other applications.",
+  "crossLink": "← Back to all M274 engines"
+ }
+}

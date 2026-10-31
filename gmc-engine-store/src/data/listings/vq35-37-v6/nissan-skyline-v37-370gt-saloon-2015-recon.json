@@ -1,0 +1,82 @@
+{
+ "brand": "nissan",
+ "brandName": "Nissan",
+ "engineSlug": "vq35-37-v6",
+ "applicationSlug": "nissan-skyline-v37-370gt-saloon-2015-recon",
+ "engineCode": "VQ37VHR",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned Nissan VQ37VHR Engine — Skyline V37 | Engined",
+  "description": "Reconditioned VQ37VHR engine for Nissan Skyline V37 370GT 2015-2019. Fixed price £3,445, tested before dispatch, UK delivery & 12-month warranty.",
+  "canonical": "https://engined.co.uk/engines/vq35-37-v6/nissan-skyline-v37-370gt-saloon-2015-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned Nissan VQ37VHR Engine — Nissan Skyline V37 (370GT) Saloon 2015-2019",
+  "subtitle": "Reconditioned VQ37VHR engine for Nissan Skyline V37 370GT — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: VQ37-RECON-SKYLINE-V37",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £3,445",
+    "note": "12-month warranty",
+    "price": "£3,445.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "VQ37VHR engine for Nissan Skyline V37 370GT 2015-2019, 3.7L V6 with VVEL, tested and ready for dispatch",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "VQ37VHR",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2015-2019",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "V37",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/nissan-nissan-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number in our checker above to confirm this VQ37VHR engine is the correct fit for your Nissan Skyline V37.",
+  "list": [
+   "Nissan Skyline V37 2015–2019 — 370GT (3.7L V6, 328 PS)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Fully stripped and cleaned",
+   "Compression tested"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this VQ37VHR engine now, or view the full VQ37VHR range for other applications.",
+  "crossLink": "← Back to all VQ37VHR engines"
+ }
+}

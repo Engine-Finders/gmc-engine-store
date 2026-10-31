@@ -1,0 +1,87 @@
+{
+ "brand": "citroen",
+ "brandName": "Citroen",
+ "engineSlug": "tu-series",
+ "applicationSlug": "citroen-xsara-1-6-tu5-hatchback-1997",
+ "engineCode": "TU5",
+ "condition": "used",
+ "seo": {
+  "title": "Used Citroën Xsara & Xsara Picasso 1.4/1.6 TU Engine — 1997-2010",
+  "description": "TU5 · used · Citroën Xsara/Xsara Picasso 1.4/1.6 · 75-109 PS · £495 · 12-month warranty · UK delivery",
+  "canonical": "https://engined.co.uk/engines/tu-series/citroen-xsara-1-6-tu5-hatchback-1997/"
+ },
+ "hero": {
+  "title": "Used Citroën Xsara & Xsara Picasso 1.4/1.6 TU Engine — 1997-2010",
+  "subtitle": "Used TU-series petrol engine for Citroën Xsara and Xsara Picasso 1.4 and 1.6 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: TU-USED-CITROEN-XSARA-TU5-HATCH",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £495",
+    "note": "12-month warranty",
+    "price": "£495.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Citroën TU5 1.6 engine for Xsara/Xsara Picasso 1997-2010 — tested petrol unit",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "TU5",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "1997-2010",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Citroën Xsara N1 Hatchback (1997-2004) — 1.4i, 1.6i 16V; Citroën Xsara N1 Estate (1997-2004) — 1.4i, 1.6i 16V; Citroën Xsara Picasso N68 MPV (1999-2010) — 1.6i",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/citroen-citroen-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your vehicle's compatibility below — use our reg-checker to confirm this TU-series engine matches your Citroën exactly.",
+  "list": [
+   "Citroën Xsara N1 Hatchback (1997-2004) — 1.4i (TU3)",
+   "Citroën Xsara N1 Hatchback (1997-2004) — 1.6i 16V (TU5JP4)",
+   "Citroën Xsara N1 Estate (1997-2004) — 1.4i (TU3)",
+   "Citroën Xsara N1 Estate (1997-2004) — 1.6i 16V (TU5JP4)",
+   "Citroën Xsara Picasso N68 MPV (1999-2010) — 1.6i (NFU/TU5)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Comprehensive inspection report",
+   "Oil and filter service",
+   "UK mainland delivery"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this TU-series engine now, or view the full TU-series engine range for other applications.",
+  "crossLink": "← Back to all TU-series engines"
+ }
+}

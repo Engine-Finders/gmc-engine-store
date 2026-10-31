@@ -1,0 +1,83 @@
+{
+ "brand": "nissan",
+ "brandName": "Nissan",
+ "engineSlug": "mr16ddt",
+ "applicationSlug": "nissan-tiida-c12-1-6-dig-t-hatch-2011",
+ "engineCode": "MR16DDT",
+ "condition": "used",
+ "seo": {
+  "title": "Used Nissan MR16DDT Engine — Tiida C12 1.6 DIG-T | Engined",
+  "description": "Used MR16DDT engine for Nissan Tiida C12 1.6 DIG-T hatchback. Fixed price £1,800 used, £2,700 reconditioned. Tested, UK delivery & 12-month warranty.",
+  "canonical": "https://engined.co.uk/engines/mr16ddt/nissan-tiida-c12-1-6-dig-t-hatch-2011/"
+ },
+ "hero": {
+  "title": "Used Nissan MR16DDT Engine — Nissan Tiida C12 (1.6 DIG-T) Hatch 2011-2014",
+  "subtitle": "Used MR16DDT engine for Nissan Tiida C12 1.6 DIG-T and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: MR16DDT-USED-TIIDA-C12-16DIGT-HATCH",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,800",
+    "note": "12-month warranty",
+    "price": "£1,800.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Nissan MR16DDT Engine — Nissan Tiida C12 (1.6 DIG-T) Hatch 2011-2014",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "MR16DDT",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2011-2014",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "C12",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/nissan-nissan-mr16ddt-engine-and-1-6-dig-t-engine.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number in our checker above to confirm this MR16DDT engine is the exact match for your vehicle.",
+  "list": [
+   "Nissan Tiida C12 (1.6 DIG-T 190 PS) 2011-2014"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "VAT inclusive pricing",
+   "Secure, palletised UK delivery"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system components",
+   "Ancillaries (alternator, starter motor, etc.)",
+   "Fitting and installation",
+   "ECU remapping or coding"
+  ]
+ },
+ "cta": {
+  "line": "Buy this MR16DDT engine now, or view the full MR16DDT range for other applications.",
+  "crossLink": "← Back to all MR16DDT engines"
+ }
+}

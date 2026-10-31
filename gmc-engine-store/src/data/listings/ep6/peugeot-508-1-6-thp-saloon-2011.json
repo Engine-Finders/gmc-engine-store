@@ -1,0 +1,89 @@
+{
+ "brand": "citroen",
+ "brandName": "Citroen",
+ "engineSlug": "ep6",
+ "applicationSlug": "peugeot-508-1-6-thp-saloon-2011",
+ "engineCode": "EP6",
+ "condition": "used",
+ "seo": {
+  "title": "Used Peugeot EP6 1.6 THP Engine — 508 1.6 THP 156 Saloon 2011-2014",
+  "description": "EP6 · used · Peugeot 508 W2 Saloon 1.6 THP · 156 PS · £950 · 12-month warranty · UK delivery",
+  "canonical": "https://engined.co.uk/engines/ep6/peugeot-508-1-6-thp-saloon-2011/"
+ },
+ "hero": {
+  "title": "Used Peugeot EP6 1.6 THP Engine — 508 1.6 THP 156 Saloon 2011-2014",
+  "subtitle": "Used EP6 petrol engine for Peugeot 508 W2 Saloon 1.6 THP 156 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EP6-USED-PEUGEOT-508-THP-SALOON",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £950",
+    "note": "12-month warranty",
+    "price": "£950.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,800",
+    "note": "12-month warranty",
+    "price": "£1,800.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Peugeot EP6 1.6 THP engine for 508 Saloon 2011-2014 — tested petrol unit",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EP6",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2011-2014",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Peugeot 508 W2 Saloon (2011-2014) — 1.6 THP 156",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/citroen-psa-bmw-ep6-prince-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your vehicle's compatibility below — use our reg-checker to confirm this EP6 engine matches your Peugeot 508 exactly.",
+  "list": [
+   "Peugeot 508 W2 Saloon (2011-2014) — 1.6 THP 156"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Comprehensive inspection report",
+   "Oil and filter service",
+   "UK mainland delivery"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EP6 engine now, or view the full EP6 engine range for other applications.",
+  "crossLink": "← Back to all EP6 engines"
+ }
+}

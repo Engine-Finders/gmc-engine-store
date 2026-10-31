@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "m40d",
+ "applicationSlug": "bmw-x5-g05-m40d-suv-2020-recon",
+ "engineCode": "M40D",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned M40d Engine — BMW X5 G05 2020-present",
+  "description": "M40d · reconditioned twin-turbo engine · BMW X5 G05 M40d SUV 2020-present — £6,035 · 12-month warranty · UK delivery. Tested before dispatch.",
+  "canonical": "https://engined.co.uk/engines/m40d/bmw-x5-g05-m40d-suv-2020-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned M40d 3.0 Twin-Turbo Engine — BMW X5 G05 (M40d) SUV 2020-present",
+  "subtitle": "Reconditioned M40d engine for BMW X5 G05 M40d SUV 2020-present — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M40D-RECON-G05-M40D-SUV",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £6,035",
+    "note": "12-month warranty",
+    "price": "£6,035.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned M40d 3.0 Twin-Turbo engine for BMW X5 G05 M40d SUV 2020-present – tested complete unit",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M40d",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2020-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "G05",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-m40d-engine.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "This reconditioned M40d engine is compatible with the following BMW X5 models — use our reg checker to confirm fitment for your specific vehicle.",
+  "list": [
+   "X5 SUV (G05) 2020-present — M40d (340 PS)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Full inspection and quality check",
+   "UK delivery included"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, subject to condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M40d engine now, or view the full M40d engine range for other applications.",
+  "crossLink": "← Back to all M40d engines"
+ }
+}

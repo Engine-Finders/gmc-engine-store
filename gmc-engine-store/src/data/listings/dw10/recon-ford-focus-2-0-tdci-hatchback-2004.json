@@ -1,0 +1,89 @@
+{
+ "brand": "citroen",
+ "brandName": "Citroen",
+ "engineSlug": "dw10",
+ "applicationSlug": "recon-ford-focus-2-0-tdci-hatchback-2004",
+ "engineCode": "DW10",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned Ford DW10 2.0 TDCi Engine — Focus/Mondeo 2004-2017",
+  "description": "DW10 · reconditioned · Ford Focus/Mondeo 2.0 TDCi Duratorq · 136-163 PS · £1,995 · 12-month warranty · UK delivery",
+  "canonical": "https://engined.co.uk/engines/dw10/recon-ford-focus-2-0-tdci-hatchback-2004/"
+ },
+ "hero": {
+  "title": "Reconditioned Ford DW10 2.0 TDCi Engine — Focus/Mondeo 2004-2017",
+  "subtitle": "Reconditioned DW10 diesel engine for Ford Focus and Mondeo 2.0 TDCi Duratorq — fully rebuilt, tested before dispatch, UK delivery.",
+  "sku": "SKU: DW10-RECON-FORD-FOCUS-TDCI-HATCH",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,995",
+    "note": "12-month warranty",
+    "price": "£1,995.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned Ford DW10 2.0 TDCi engine for Focus/Mondeo 2004-2017 — fully rebuilt Duratorq diesel unit",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "DW10",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2004-2017",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Ford Focus (2004-2017), Ford Mondeo (2004-2017)",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/citroen-citroen-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your vehicle's compatibility below — use our reg-checker to confirm this DW10 engine matches your Ford exactly.",
+  "list": [
+   "Ford Focus (2004-2017) — 2.0 TDCi Duratorq",
+   "Ford Mondeo (2004-2017) — 2.0 TDCi Duratorq"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Ford-specific ECU compatibility verified",
+   "Duratorq injector specification verified",
+   "Ford-compatible ancillaries",
+   "Rebuilt cylinder head",
+   "New timing components",
+   "Comprehensive inspection report",
+   "Oil and filter service",
+   "UK mainland delivery"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this DW10 engine now, or view the full DW10 engine range for other applications.",
+  "crossLink": "← Back to all DW10 engines"
+ }
+}

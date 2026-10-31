@@ -1,0 +1,84 @@
+{
+ "brand": "peugeot",
+ "brandName": "Peugeot",
+ "engineSlug": "1-3-cdti",
+ "applicationSlug": "vauxhall-corsavan-1-3-cdti-van-2006-recon",
+ "engineCode": "1.3 CDTI",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned Vauxhall 1.3 CDTI Corsavan Engine 2006-2015",
+  "description": "1.3 CDTI reconditioned engine for Vauxhall Corsavan 2006-2015. Used price £985, 12-month warranty, UK delivery. Check fitment by reg before ordering.",
+  "canonical": "https://engined.co.uk/engines/1-3-cdti/vauxhall-corsavan-1-3-cdti-van-2006-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned Vauxhall 1.3 CDTI Engine — Corsavan (1.3 CDTi) Van 2006‑2015",
+  "subtitle": "Reconditioned 1.3 CDTI engine for Vauxhall Corsavan — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 13CDTI-RECON-CORSAVAN",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £985",
+    "note": "12-month warranty",
+    "price": "£985.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "1.3 CDTI reconditioned engine for Vauxhall Corsavan 2006-2015, transverse commercial configuration",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "1.3 CDTI",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2006-2015",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Corsavan",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your registration with our reg checker before ordering to ensure this 1.3 CDTI engine matches your Vauxhall Corsavan.",
+  "list": [
+   "Vauxhall Corsavan 2006‑2015 — 1.3 CDTi (70‑90 PS), code: Z13DTE"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Sump and timing covers",
+   "Oil pump and water pump"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 1.3 CDTI engine now, or view the full 1.3 CDTI engine range for other applications.",
+  "crossLink": "← Back to all 1.3 CDTI engines"
+ }
+}

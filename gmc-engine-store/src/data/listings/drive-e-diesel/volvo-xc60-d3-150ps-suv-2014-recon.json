@@ -1,0 +1,82 @@
+{
+ "brand": "volvo",
+ "brandName": "Volvo",
+ "engineSlug": "drive-e-diesel",
+ "applicationSlug": "volvo-xc60-d3-150ps-suv-2014-recon",
+ "engineCode": "D4204T4",
+ "condition": "recon",
+ "seo": {
+  "title": "Recon D3 XC60 150PS | Engined [29 chars]",
+  "description": "Reconditioned D4204T4 D3 engine for Volvo XC60 P3 2014-2017",
+  "canonical": "https://engined.co.uk/engines/drive-e-diesel/volvo-xc60-d3-150ps-suv-2014-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned D3 Engine — Volvo XC60 (2.0 D3 150 PS) SUV 2014-2017",
+  "subtitle": "Reconditioned D4204T4 engine for Volvo XC60 P3 2014-2017 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: DRIVEE-RECON-XC60-D3-SUV-12M",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,495",
+    "note": "12-month warranty",
+    "price": "£2,495.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned D3 Engine — Volvo XC60 (2.0 D3 150 PS) SUV 2014-2017",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "D4204T4",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2014-2017",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "P3",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "<p>Confirm fitment with our registration checker before ordering — every XC60 P3",
+  "list": [
+   "Volvo XC60 P3 (2.0 D3 150 PS) 2014-2017"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete reconditioned engine assembly",
+   "Renewed timing belt and tensioners",
+   "Rebuilt cylinder head",
+   "Tested i-Art injectors",
+   "12-month warranty as standard",
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ],
+  "excluded": []
+ },
+ "cta": {
+  "line": "<p class=\"cta\">Buy this D4204T4 engine now, or",
+  "crossLink": "← Back to all Drive-E diesel engines</a>"
+ }
+}

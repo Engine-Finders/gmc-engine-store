@@ -1,0 +1,98 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "m52",
+ "applicationSlug": "bmw-5-series-e39-523i-estate-1995",
+ "engineCode": "M52",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW M52 Engine — 5 Series E39 (523i) Estate 1995-2000",
+  "description": "Used BMW M52 523i engine for E39 5 Series Estate & Saloon (1995-2000) — tested before dispatch, 12-month warranty, UK delivery. Fixed price £895.",
+  "canonical": "https://engined.co.uk/engines/m52/bmw-5-series-e39-523i-estate-1995/"
+ },
+ "hero": {
+  "title": "Used BMW M52 Engine — 5 Series E39 (523i) Estate 1995-2000",
+  "subtitle": "Used BMW M52 523i engine for E39 5 Series Estate and Saloon — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M52-USED-E39-523I-ESTATE",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £895",
+    "note": "12-month warranty",
+    "price": "£895.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,295",
+    "note": "12-month warranty",
+    "price": "£1,295.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW M52 523i engine for E39 5 Series Estate and Saloon (1995-2000)",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M52",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "1995-2000",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E39",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check compatibility with your vehicle using our registration checker, or see the exact models below.",
+  "list": [
+   "5 Series Estate (E39) 1995-2000 — 523i (170 PS)",
+   "5 Series Saloon (E39) 1995-2000 — 523i (170 PS)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Compression and leak-down tested",
+   "Oil and filter service completed",
+   "Camshaft and timing verified"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries (alternator, starter, air conditioning compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M52 engine now, or view the full M52 engine range for other applications.",
+  "crossLink": "← Back to all M52 engines"
+ }
+}

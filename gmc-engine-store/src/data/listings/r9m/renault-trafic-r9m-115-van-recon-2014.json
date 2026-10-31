@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "r9m",
+ "applicationSlug": "renault-trafic-r9m-115-van-recon-2014",
+ "engineCode": "R9M",
+ "condition": "recon",
+ "seo": {
+  "title": "Recon R9M Trafic 115 | Engined",
+  "description": "Reconditioned R9M 1.6 dCi engine for Renault Trafic III Panel Van (1.6 dCi 115 PS). Fixed £1,950, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/r9m/renault-trafic-r9m-115-van-recon-2014/"
+ },
+ "hero": {
+  "title": "Reconditioned R9M 1.6 dCi Engine — Renault Trafic III Panel Van (1.6 dCi 115, 115 PS) 2014–2018",
+  "subtitle": "Reconditioned R9M engine for Renault Trafic III Panel Van — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: R9M-RECON-TRAFIC-115",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,950",
+    "note": "12-month warranty",
+    "price": "£1,950.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned R9M 1.6 dCi engine for Renault Trafic III Panel Van, 1.6 dCi 115 PS, transverse.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "R9M",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2014–2018",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Trafic III, X82",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-mercedes-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with your registration before ordering — this R9M engine is listed for the following Trafic III application.",
+  "list": [
+   "Renault Trafic III Panel Van (1.6 dCi 115 PS) 2014–2018"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil sump and timing cover included",
+   "Cylinder head and block included"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this R9M engine now, or view the full R9M engine range for other applications.",
+  "crossLink": "← Back to all R9M engines — https://engined.co.uk/engines/r9m"
+ }
+}

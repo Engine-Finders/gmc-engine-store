@@ -1,0 +1,83 @@
+{
+ "brand": "renault",
+ "brandName": "Renault",
+ "engineSlug": "r9m",
+ "applicationSlug": "renault-trafic-ii-1-6-dci-115ps-van-2014-recon",
+ "engineCode": "R9M",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned Renault R9M Engine — Renault Trafic II (1.6 dCi 115 PS) Van 2014-2018",
+  "description": "Reconditioned Renault R9M engine for Trafic II 115 PS vans — tested before dispatch, 12-month warranty, UK delivery. Used from £1,345, recon £2,155.",
+  "canonical": "https://engined.co.uk/engines/r9m/renault-trafic-ii-1-6-dci-115ps-van-2014-recon/ ⛔ BLOCKED — slug collision"
+ },
+ "hero": {
+  "title": "Reconditioned Renault R9M Engine — Renault Trafic II (1.6 dCi 115 PS) Van 2014-2018",
+  "subtitle": "Reconditioned R9M engine for Renault Trafic II vans — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: R9M-RECON-TRAFIC-115",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,155",
+    "note": "12-month warranty",
+    "price": "£2,155.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned Renault R9M 1.6 dCi 115 PS engine for Trafic II van, R9M-452 longitudinal fitment",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "R9M",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2014-2018",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Trafic II",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment for your van using the reg checker below — this R9M listing covers the Trafic II applications shown.",
+  "list": [
+   "Renault Trafic II (1.6 dCi 115 PS, R9M-452) 2014–2018"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil sump and rocker cover",
+   "Gaskets and seals as required"
+  ],
+  "excluded": [
+   "Turbocharger (reusable if serviceable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries (alternator, starter motor, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this R9M engine now, or view the full R9M engine range for other applications.",
+  "crossLink": "← Back to all R9M engines"
+ }
+}

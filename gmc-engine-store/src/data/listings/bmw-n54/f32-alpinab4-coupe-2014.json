@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n54",
+ "applicationSlug": "f32-alpinab4-coupe-2014",
+ "engineCode": "N54",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW N54 Engine — 4 Series F32 (Alpina B4) Coupe 2014‑2019 | Engined",
+  "description": "Used N54 engine for Alpina B4 F32 Biturbo 410 PS Coupe 2014-2019. Fixed £2,530, tested before dispatch, 12-month warranty, and fast UK delivery.",
+  "canonical": "https://engined.co.uk/engines/bmw-n54/f32-alpinab4-coupe-2014/"
+ },
+ "hero": {
+  "title": "Used BMW N54 Engine — 4 Series F32 (Alpina B4) Coupe 2014‑2019",
+  "subtitle": "SUB — Used N54 engine for Alpina B4 Biturbo 410 PS Coupe — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N54-USED-F32-ALPINAB4",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,530",
+    "note": "12-month warranty",
+    "price": "£2,530.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW N54 engine for Alpina B4 F32 Biturbo 410 PS Coupe 2014-2019, tested",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N54",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2014‑2019",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F32",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-n54-n55-n20-family-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration to confirm fitment before purchase — this N54 engine is listed for the following Alpina B4 applications.",
+  "list": [
+   "Alpina B4 F32 (B4 Biturbo 410 PS Coupe) 2014‑2019"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "Warranty as standard",
+   "Cylinder head and block",
+   "Sump and timing cover"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N54 engine now, or view the full N54 engine range for other applications.",
+  "crossLink": "← Back to all N54 engines"
+ }
+}

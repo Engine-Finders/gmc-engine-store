@@ -1,0 +1,87 @@
+{
+ "brand": "citroen",
+ "brandName": "Citroen",
+ "engineSlug": "dv6",
+ "applicationSlug": "recon-peugeot-208-1-6-bluehdi-hatchback-2012",
+ "engineCode": "DV6",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned Peugeot DV6 Engine — 208 (1.6 BlueHDi) Hatchback 2012-2019",
+  "description": "DV6 · reconditioned · Peugeot 208 Hatchback 1.6 BlueHDi · 75 PS · £1,400 · 12-month warranty · UK delivery",
+  "canonical": "https://engined.co.uk/engines/dv6/recon-peugeot-208-1-6-bluehdi-hatchback-2012/"
+ },
+ "hero": {
+  "title": "Reconditioned Peugeot DV6 Engine — 208 (1.6 BlueHDi) Hatchback 2012-2019",
+  "subtitle": "Reconditioned DV6 diesel engine for Peugeot 208 Hatchback 1.6 BlueHDi — fully rebuilt, tested before dispatch, UK delivery.",
+  "sku": "SKU: DV6-RECON-PEUGEOT-208-BLUEHDI-HATCH",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,400",
+    "note": "12-month warranty",
+    "price": "£1,400.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned Peugeot DV6 1.6 BlueHDi engine for 208 Hatchback 2012-2019 — fully rebuilt diesel unit",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "DV6",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2012-2019",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Peugeot 208 Hatchback (2012-2019)",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/citroen-psa-dv6-1-6-hdi-diesel-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your vehicle's compatibility below — use our reg-checker to confirm this DV6 engine matches your Peugeot 208 exactly.",
+  "list": [
+   "Peugeot 208 Hatchback (2012-2019) — 1.6 BlueHDi"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Rebuilt cylinder head",
+   "Injector seat inspection and reconditioning",
+   "Emissions system verification",
+   "New timing components",
+   "Comprehensive inspection report",
+   "Oil and filter service",
+   "UK mainland delivery"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this DV6 engine now, or view the full DV6 engine range for other applications.",
+  "crossLink": "← Back to all DV6 engines"
+ }
+}

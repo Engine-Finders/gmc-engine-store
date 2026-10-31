@@ -1,0 +1,91 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n43-recon",
+ "applicationSlug": "e91-320i-estate-2008",
+ "engineCode": "N43B20",
+ "condition": "recon",
+ "seo": {
+  "title": "Recond N43 E91 320i Estate 2008‑2011 | Engined",
+  "description": "N43B20 reconditioned engine for BMW 3 Series E91 320i Estate (170PS) 2008‑2011. EU5 compliant, fully tested. £1,895 with 12-month warranty & UK delivery.",
+  "canonical": "https://engined.co.uk/engines/bmw-n43-recon/e91-320i-estate-2008/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW N43 Engine — 3 Series E91 (320i) Estate 2008‑2011",
+  "subtitle": "Reconditioned N43B20 engine for BMW 3 Series E91 320i Estate (170PS) 2008‑2011 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N43-RECON-E91-320I-FL",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,895",
+    "note": "12-month warranty",
+    "price": "£1,895.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned N43B20 engine for BMW 3 Series E91 320i Estate 2008‑2011 — complete unit with EU5 compliance and Estate ancillaries",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N43B20",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2008‑2011",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E91",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration to confirm compatibility, or review the exact fitment list below for this reconditioned N43 engine.",
+  "list": [
+   "BMW 3 Series (E91) 2008‑2011 — 320i (170 PS) Estate"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch",
+   "12-month warranty as standard",
+   "EU5 compliance verification",
+   "Engine oil and filter pre-fitted",
+   "UK delivery included"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N43B20 engine now, or view the full BMW N43 engine range for other applications.",
+  "crossLink": "← Back to all BMW N43 engines"
+ }
+}

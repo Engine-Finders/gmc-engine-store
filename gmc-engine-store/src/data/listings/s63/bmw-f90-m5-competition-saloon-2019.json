@@ -1,0 +1,96 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "s63",
+ "applicationSlug": "bmw-f90-m5-competition-saloon-2019",
+ "engineCode": "S63",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW S63 4.4 V8 Engine — F90 M5 Competition Saloon (625 PS) 2019–present",
+  "description": "Used BMW S63 engine for the BMW M5 F90 Competition Saloon (625 PS, 2019–present). £7,245 fixed price, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/s63/bmw-f90-m5-competition-saloon-2019/"
+ },
+ "hero": {
+  "title": "Used BMW S63 4.4 V8 Engine — F90 M5 Competition Saloon (625 PS) 2019–present",
+  "subtitle": "Used S63 engine for the BMW M5 F90 Competition Saloon — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: S63-USED-F90-M5C",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £7,245",
+    "note": "12-month warranty",
+    "price": "£7,245.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £10,870",
+    "note": "12-month warranty",
+    "price": "£10,870.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW S63B44TÜ2 engine for F90 M5 Competition Saloon, 625 PS, 2019 onwards, high-output variant",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "S63",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2019–present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F90",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-n63-s63-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment by entering your registration in our reg checker — this listing covers the applications below.",
+  "list": [
+   "BMW M5 F90 (Competition, 625 PS — S63B44TÜ2) 2019–present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Fully inspected and cleaned",
+   "Supplied ready to fit"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this S63 engine now, or view the full S63 engine range for other applications.",
+  "crossLink": "← Back to all S63 engines"
+ }
+}

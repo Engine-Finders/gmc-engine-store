@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "508ps",
+ "applicationSlug": "defender-l663-p525-2022",
+ "engineCode": "508PS",
+ "condition": "used",
+ "seo": {
+  "title": "Used 5.0 V8 Engine — Defender L663 V8 P525 2022-present",
+  "description": "Used 508PS 5.0 V8 engine for Defender L663 V8 P525 2022-present. £10,580 with 12-month warranty, tested before dispatch, UK delivery. Fits Defender L663.",
+  "canonical": "https://engined.co.uk/engines/508ps/defender-l663-p525-2022/"
+ },
+ "hero": {
+  "title": "Used 5.0 V8 Engine — Defender L663 V8 P525 2022-present",
+  "subtitle": "SUB — Used 508PS engine for Defender L663 V8 P525 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 508PS-USED-DEF-P525-LATE",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £10,580",
+    "note": "12-month warranty",
+    "price": "£10,580.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Land Rover 508PS 5.0 V8 supercharged engine for Defender L663 V8 P525 2022-present",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "508PS",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2022-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L663",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with your registration before ordering — this listing covers the applications below.",
+  "list": [
+   "Defender L663 (V8 P525 508PS, 525 PS) 2022-present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Sump and timing covers"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 508PS engine now, or view the full 508PS engine range for other applications.",
+  "crossLink": "← Back to all 508PS engines"
+ }
+}

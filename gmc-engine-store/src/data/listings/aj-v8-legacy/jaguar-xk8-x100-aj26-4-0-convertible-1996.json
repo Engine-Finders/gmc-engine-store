@@ -1,0 +1,90 @@
+{
+ "brand": "jaguar",
+ "brandName": "Jaguar",
+ "engineSlug": "aj-v8-legacy",
+ "applicationSlug": "jaguar-xk8-x100-aj26-4-0-convertible-1996",
+ "engineCode": "AJ26",
+ "condition": "used",
+ "seo": {
+  "title": "AJ26 XK8 X100 4.0 Conv 96-00 | Engined",
+  "description": "Used Jaguar AJ26 engine for XK8 (X100) 4.0 V8 Convertible 1996-2000. In stock, fixed £2,245, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/aj-v8-legacy/jaguar-xk8-x100-aj26-4-0-convertible-1996/"
+ },
+ "hero": {
+  "title": "Used Jaguar AJ26 Engine — XK8 (X100) 4.0 V8 Convertible 1996-2000",
+  "subtitle": "SUB — Used AJ26 engine for XK8 (X100) 4.0 V8 Convertible — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: AJV8-USED-X100-40-NA-CONV-AJ26",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,245",
+    "note": "12-month warranty",
+    "price": "£2,245.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Jaguar AJ26 4.0 V8 engine for XK8 X100 Convertible 1996-2000, longitudinal early two-state VVT.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJ26",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "1996-2000",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X100",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/jaguar-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/jaguar-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/jaguar-jaguar-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration to confirm fitment before ordering — this listing covers the XK8 (X100) 1996-2000 4.0 V8 (AJ26) Convertible.",
+  "list": [
+   "XK8 (X100) (4.0 V8 (AJ26) Convertible) 1996-2000"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Sump and timing cover"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this AJ26 engine now, or view the full AJ26 engine range for other applications.",
+  "crossLink": "← Back to all AJ26 engines"
+ }
+}

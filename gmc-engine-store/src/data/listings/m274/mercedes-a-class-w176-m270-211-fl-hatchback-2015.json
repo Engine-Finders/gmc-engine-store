@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "m274",
+ "applicationSlug": "mercedes-a-class-w176-m270-211-fl-hatchback-2015",
+ "engineCode": "M270",
+ "condition": "used",
+ "seo": {
+  "title": "Used M270 Engine A-Class W176 A250 211PS FL | Engined",
+  "description": "Used M270 2.0T engine for Mercedes A-Class W176 Hatchback A250 211 PS FL. Fixed price £1,395, tested before dispatch, 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/m274/mercedes-a-class-w176-m270-211-fl-hatchback-2015/"
+ },
+ "hero": {
+  "title": "Used M270 2.0T Engine — A-Class W176 (A250, 211 PS) Transverse FL 2015–2018",
+  "subtitle": "Used M270 engine for A-Class W176 Hatchback A250 211 PS and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M270-USED-W176-A250-FL",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,350",
+    "note": "12-month warranty",
+    "price": "£2,350.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used M270 2.0T engine for Mercedes A-Class W176 A250 211 PS transverse layout, tested.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M270",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2015–2018",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W176",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-m274-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number above to confirm this used M270 engine fits your Mercedes-Benz A-Class W176.",
+  "list": [
+   "Mercedes-Benz A-Class W176 2015–2018 (Hatchback) A250 211 PS M270 Transverse"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Higher-output specification",
+   "Transverse layout"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M270 engine now, or view the full M270 engine range for other applications.",
+  "crossLink": "← Back to all M270 engines"
+ }
+}

@@ -1,0 +1,84 @@
+{
+ "brand": "peugeot",
+ "brandName": "Peugeot",
+ "engineSlug": "1-3-cdti",
+ "applicationSlug": "vauxhall-corsa-d-1-3-cdti-hatch-2006",
+ "engineCode": "1.3 CDTI",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned Vauxhall 1.3 CDTI Engine — Corsa D (1.3 CDTi) Hatchback 2006‑2015",
+  "description": "Vauxhall 1.3 CDTI reconditioned engine for Corsa D 2006-2015 — fits A13DTC, A13DTE, Z13DTH. £895 used or £1,345 recon, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/1-3-cdti/vauxhall-corsa-d-1-3-cdti-hatch-2006/"
+ },
+ "hero": {
+  "title": "Reconditioned Vauxhall 1.3 CDTI Engine — Corsa D (1.3 CDTi) Hatchback 2006‑2015",
+  "subtitle": "Reconditioned 1.3 CDTI engine for Corsa D Hatchback 2006‑2015 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 13CDTI-RECON-CORSA-D",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £895",
+    "note": "12-month warranty",
+    "price": "£895.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned 1.3 CDTI engine for Vauxhall Corsa D 2006‑2015, transverse mount, codes A13DTC/A13DTE/Z13DTH.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "1.3 CDTI",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2006‑2015",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Corsa D",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "This 1.3 CDTI engine fits the Vauxhall Corsa D listed below. Enter your registration at checkout to confirm fitment before you order.",
+  "list": [
+   "Vauxhall Corsa D (1.3 CDTi, 75‑95 PS) 2006‑2015",
+   "Engine codes covered: A13DTC / A13DTE / A13DTR / Z13DTH / Z13DTE / B13DTC"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly — block, head, sump and rocker cover",
+   "Fully reconditioned to OEM specification with new gaskets and seals",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "UK delivery included"
+  ],
+  "excluded": [
+   "Turbocharger (reused from your engine if serviceable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, air conditioning compressor, pumps)",
+   "Fitting and installation labour"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 1.3 CDTI engine now, or view the full 1.3 CDTI engine range for other applications.",
+  "crossLink": "← Back to all 1.3 CDTI engines → https://engined.co.uk/engines/1-3-cdti"
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "brand": "peugeot",
+ "brandName": "Peugeot",
+ "engineSlug": "dw10",
+ "applicationSlug": "peugeot-206-2-0-hdi-110-hatch-1999-recon",
+ "engineCode": "PSA DW10",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned DW10 Engine — Peugeot 206 (2.0 HDi 110) Hatchback 1999-2006",
+  "description": "Prepared to order. Reconditioned PSA DW10 engine for Peugeot 206 2.0 HDi 110 (1999-2006). Used £715 or recon £1,165, tested, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/dw10/peugeot-206-2-0-hdi-110-hatch-1999-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned DW10 Engine — Peugeot 206 (2.0 HDi 110) Hatchback 1999-2006",
+  "subtitle": "Reconditioned PSA DW10 engine for Peugeot 206 2.0 HDi 110 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: DW10-RECON-206-HDI110",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,165",
+    "note": "12-month warranty",
+    "price": "£1,165.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned PSA DW10 2.0 HDi 110 16-valve engine for Peugeot 206 1999-2006, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "PSA DW10",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "1999-2006",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Peugeot 206 1999-2006",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration to confirm this reconditioned PSA DW10 engine fits your Peugeot 206 2.0 HDi 110 before ordering.",
+  "list": [
+   "Peugeot 206 (2.0 HDi 110 PS, early 16-valve DW10ATED4) 1999-2006"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Engine block and cylinder head",
+   "Sump and timing covers"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this DW10 engine now, or view full DW10 engine range for other applications.",
+  "crossLink": "← Back to all DW10 engines"
+ }
+}

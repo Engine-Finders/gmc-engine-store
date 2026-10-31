@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "m57",
+ "applicationSlug": "bmw-e46-320d-m57-136-auto-saloon-recon-1998",
+ "engineCode": "M57",
+ "condition": "recon",
+ "seo": {
+  "title": "M57 3.0 Engine — BMW E46 320d Auto | Engined",
+  "description": "M57 3.0 engine · Reconditioned · Fits BMW E46 320d Auto (1998-2000) · £2,200 · 12-month warranty, tested before dispatch, free UK delivery.",
+  "canonical": "https://engined.co.uk/engines/m57/bmw-e46-320d-m57-136-auto-saloon-recon-1998/"
+ },
+ "hero": {
+  "title": "Reconditioned M57 3.0 Engine — BMW E46 320d (Auto, 136 PS) 1998–2000",
+  "subtitle": "Reconditioned M57 engine for BMW E46 320d Auto and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M57-PEND-RECON-E46-320D-AUTO-9800",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,200",
+    "note": "12-month warranty",
+    "price": "£2,200.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "M57 3.0 engine for BMW E46 320d (Auto, 136 PS), reconditioned and ready for dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M57",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "1998–2000",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E46",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your registration to verify exact fitment for your BMW E46 320d before ordering this M57 engine.",
+  "list": [
+   "BMW E46 320d (Auto, 136 PS) 1998–2000"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Free UK mainland delivery",
+   "Core charge refund upon return of old unit"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M57 engine now, or view the full M57 engine range for other applications.",
+  "crossLink": "← Back to all M57 engines"
+ }
+}

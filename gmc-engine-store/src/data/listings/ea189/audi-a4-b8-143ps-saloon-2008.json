@@ -1,0 +1,96 @@
+{
+ "brand": "volkswagen",
+ "brandName": "Volkswagen",
+ "engineSlug": "ea189",
+ "applicationSlug": "audi-a4-b8-143ps-saloon-2008",
+ "engineCode": "EA189",
+ "condition": "used",
+ "seo": {
+  "title": "EA189 A4 B8 143PS Saloon | Engined",
+  "description": "Used EA189 2.0 TDI engine for Audi A4 B8 saloon, 143 PS (CAGA/CAHA), 2008-2015. Fixed price £1,250, tested before dispatch, 12-month warranty.",
+  "canonical": "https://engined.co.uk/engines/ea189/audi-a4-b8-143ps-saloon-2008/"
+ },
+ "hero": {
+  "title": "Used EA189 Engine — Audi A4 B8 (2.0 TDI 143 PS) Saloon 2008-2015 (CROSS-BRAND)",
+  "subtitle": "Used EA189 engine for Audi A4 B8 2.0 TDI 143 PS saloon — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA189-USED-A4-B8-143-SALOON",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,250",
+    "note": "12-month warranty",
+    "price": "£1,250.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,950",
+    "note": "12-month warranty",
+    "price": "£1,950.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used EA189 2.0 TDI 143 PS engine for Audi A4 B8 saloon, 2008-2015, longitudinal mount",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA189",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2008-2015",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "8K",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/volkswagen-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/volkswagen-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/volkswagen-vw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with our reg checker before you buy — this used EA189 suits the application listed below.",
+  "list": [
+   "Audi A4 B8 8K (2.0 TDI 143 PS, CAGA/CAHA, Saloon) 2008-2015"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil pump and sump",
+   "Cylinder head and block"
+  ],
+  "excluded": [
+   "Turbocharger (reusable — transferred from your unit where condition allows)",
+   "Injectors and fuel system",
+   "Ancillaries (alternator, starter motor, air conditioning compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA189 engine now, or view the full EA189 engine range for other applications.",
+  "crossLink": "← Back to all EA189 engines"
+ }
+}

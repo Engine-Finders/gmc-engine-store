@@ -1,0 +1,83 @@
+{
+ "brand": "peugeot",
+ "brandName": "Peugeot",
+ "engineSlug": "vq35-37-v6",
+ "applicationSlug": "infiniti-g37-v36-convertible-2008-2",
+ "engineCode": "VQ37VHR",
+ "condition": "used",
+ "seo": {
+  "title": "Used Nissan VQ37VHR Engine — Infiniti G37 V36 (Convertible) Convertible 2008-2013",
+  "description": "Used VQ37VHR engine for Infiniti G37 V36 Convertible (2008–2013). Fixed price £3,445, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/vq35-37-v6/infiniti-g37-v36-convertible-2008/"
+ },
+ "hero": {
+  "title": "Used Nissan VQ37VHR Engine — Infiniti G37 V36 (Convertible) Convertible 2008-2013",
+  "subtitle": "Used VQ37VHR engine for Infiniti G37 V36 Convertible — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: VQ37-USED-G37-V36-CONV",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £3,445",
+    "note": "12-month warranty",
+    "price": "£3,445.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Nissan VQ37VHR Engine — Infiniti G37 V36 (Convertible) Convertible 2008-2013",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "VQ37VHR",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2008–2013",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "V36",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with our registration checker before ordering — this VQ37VHR engine fits the applications listed below.",
+  "list": [
+   "Infiniti G37 V36 (Convertible — 3.7L V6, 328 PS) 2008–2013"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Both cylinder heads and block (matched set)",
+   "Oil sump and timing covers fitted"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries (alternator, starter, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this VQ37VHR engine now, or view the full VQ37VHR engine range for other applications.",
+  "crossLink": "← Back to all VQ37VHR engines"
+ }
+}

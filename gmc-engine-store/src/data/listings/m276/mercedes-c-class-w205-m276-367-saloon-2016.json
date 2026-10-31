@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "m276",
+ "applicationSlug": "mercedes-c-class-w205-m276-367-saloon-2016",
+ "engineCode": "M276",
+ "condition": "used",
+ "seo": {
+  "title": "Used M276 3.0 TT Engine — C-Class W205 C43 AMG Saloon",
+  "description": "Used M276 3.0 TT V6 engine for C-Class W205 Saloon C43 AMG 367 PS. Fixed price £3,220 with 12-month warranty and UK delivery. Tested before dispatch.",
+  "canonical": "https://engined.co.uk/engines/m276/mercedes-c-class-w205-m276-367-saloon-2016/"
+ },
+ "hero": {
+  "title": "Used M276 3.0 TT Engine — C-Class W205 Saloon (C43 AMG, 367 PS) 2016–2018",
+  "subtitle": "Used M276 engine for C-Class W205 Saloon, C43 AMG and 367 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M276-USED-G3-W205-C43",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £3,220",
+    "note": "12-month warranty",
+    "price": "£3,220.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used M276 3.0 TT V6 engine for Mercedes C-Class W205 C43 AMG 367 PS, 2016–2018, tested before dispatch",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M276",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2016–2018",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W205",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-m276-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration to confirm fitment before buying — this M276 listing covers the C-Class W205 C43 AMG 367 PS saloon.",
+  "list": [
+   "C-Class W205 (Saloon — C43 AMG 367 PS — M276 DE30 AL — 3.0 TT) 2016–2018"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New oil and filter",
+   "New gaskets and seals"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M276 engine now, or view the full M276 engine range for other applications.",
+  "crossLink": "← Back to all M276 engines"
+ }
+}

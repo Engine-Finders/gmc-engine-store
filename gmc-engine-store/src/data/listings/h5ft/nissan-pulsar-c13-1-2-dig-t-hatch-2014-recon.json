@@ -1,0 +1,82 @@
+{
+ "brand": "nissan",
+ "brandName": "Nissan",
+ "engineSlug": "h5ft",
+ "applicationSlug": "nissan-pulsar-c13-1-2-dig-t-hatch-2014-recon",
+ "engineCode": "H5FT",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned Nissan H5FT Engine — Nissan Pulsar C13 (1.2 DIG‑T) Hatchback 2014‑2018",
+  "description": "Reconditioned H5FT engine for Nissan Pulsar C13 1.2 DIG-T Hatchback. Used from £1,495, recon £2,500. Includes 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/h5ft/nissan-pulsar-c13-1-2-dig-t-hatch-2014-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned Nissan H5FT Engine — Nissan Pulsar C13 (1.2 DIG‑T) Hatchback 2014‑2018",
+  "subtitle": "Reconditioned H5FT engine for Nissan Pulsar C13 1.2 DIG-T Hatchback — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: H5FT-USED-G1-PULSAR",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,495",
+    "note": "12-month warranty",
+    "price": "£1,495.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned Nissan H5FT Engine — Nissan Pulsar C13 (1.2 DIG‑T) Hatchback 2014‑2018",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "H5FT",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2014-2018",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "C13",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/nissan-nissan-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number in our checker above to confirm this H5FT engine fits your specific Nissan Pulsar C13.",
+  "list": [
+   "Nissan Pulsar C13 (1.2 DIG-T) 2014-2018"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Clean, drained, and ready for installation",
+   "Full compression test report"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this H5FT engine now, or view the H5FT range for other applications.",
+  "crossLink": "← Back to all H5FT engines"
+ }
+}

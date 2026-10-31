@@ -1,0 +1,91 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n46",
+ "applicationSlug": "e92-320i-coupe-2009",
+ "engineCode": "N46",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW N46 Engine — 3 Series E92 (320i) Coupe 2009‑2012",
+  "description": "N46 · Used · BMW 3 Series E92 · 320i Coupe 2009‑2012 · 150 PS · LCI · £805 · 12-month warranty · UK delivery",
+  "canonical": "https://engined.co.uk/engines/bmw-n46/e92-320i-coupe-2009/"
+ },
+ "hero": {
+  "title": "Used BMW N46 Engine — 3 Series E92 (320i) Coupe 2009‑2012",
+  "subtitle": "Used N46 engine for BMW 320i E92 Coupe 2009‑2012 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N46-USED-E92-320I-FL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £805",
+    "note": "12-month warranty",
+    "price": "£805.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "BMW N46 engine for E92 320i Coupe 2009‑2012 — used LCI variant with DME compatibility",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N46",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2009‑2012",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E92",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our registration checker to confirm this engine matches your vehicle, or review the compatible models listed below.",
+  "list": [
+   "BMW 3 Series (E92) 2009‑2012 — 320i (150 PS) Coupe"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Full inspection report",
+   "Oil and filter service completed",
+   "UK delivery included"
+  ],
+  "excluded": [
+   "Turbocharger (reusable from original engine)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N46 engine now, or view the full N46 engine range for other applications.",
+  "crossLink": "← Back to all N46 engines"
+ }
+}

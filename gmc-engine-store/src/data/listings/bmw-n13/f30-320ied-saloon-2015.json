@@ -1,0 +1,91 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n13",
+ "applicationSlug": "f30-320ied-saloon-2015",
+ "engineCode": "N13",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW N13 Engine — 3 Series F30 (320i ED) Saloon 2015-2016",
+  "description": "N13 F30 320i ED · Used · 3 Series Saloon · £1,495 · 12-month warranty · UK delivery. Facelift EU6 170PS Efficient Dynamics calibration for LCI models.",
+  "canonical": "https://engined.co.uk/engines/bmw-n13/f30-320ied-saloon-2015/"
+ },
+ "hero": {
+  "title": "Used BMW N13 Engine — 3 Series F30 (320i ED) Saloon 2015-2016",
+  "subtitle": "Used N13 F30 320i ED engine for 3 Series Saloon — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N13-USED-F30-320IED-FL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,495",
+    "note": "12-month warranty",
+    "price": "£1,495.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW N13 F30 320i ED engine for 3 Series Saloon, facelift EU6 170PS Efficient Dynamics.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N13",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2015‑2016",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F30",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our reg-checker to confirm this BMW N13 engine is the correct fit for your vehicle.",
+  "list": [
+   "BMW 3 Series F30 (320i ED) Saloon 2015‑2016"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch (including compression, leak-down and oil pressure tests)",
+   "12-month warranty as standard",
+   "UK mainland delivery (included in price)",
+   "All gaskets and seals renewed",
+   "Correct specification for your vehicle"
+  ],
+  "excluded": [
+   "Turbocharger (reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries (starter motor, alternator, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N13 engine now, or view the full N13 engine range for other applications.",
+  "crossLink": "← Back to all BMW N13 engines"
+ }
+}

@@ -1,0 +1,82 @@
+{
+ "brand": "volvo",
+ "brandName": "Volvo",
+ "engineSlug": "drive-e-diesel",
+ "applicationSlug": "volvo-s60-d4-181ps-saloon-2014",
+ "engineCode": "D4204T5",
+ "condition": "used",
+ "seo": {
+  "title": "D4 S60 181PS Saloon | Engined [30 chars]",
+  "description": "Used D4204T5 D4 engine for Volvo S60 P3 2014-2018 — 2.0 D4",
+  "canonical": "https://engined.co.uk/engines/drive-e-diesel/volvo-s60-d4-181ps-saloon-2014/"
+ },
+ "hero": {
+  "title": "Used D4 Engine — Volvo S60 (2.0 D4 181 PS) Saloon 2014-2018",
+  "subtitle": "Used D4204T5 engine for Volvo S60 P3 2014-2018 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: DRIVEE-USED-S60-D4-SALOON",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,795",
+    "note": "12-month warranty",
+    "price": "£1,795.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used D4 Engine — Volvo S60 (2.0 D4 181 PS) Saloon 2014-2018",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "D4204T5",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2014-2018",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "P3",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "<p>Confirm fitment with our registration checker before ordering — every S60 P3",
+  "list": [
+   "Volvo S60 P3 (2.0 D4 181 PS) 2014-2018"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Core internals as built at the factory",
+   "Oil sump and cam cover",
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ],
+  "excluded": []
+ },
+ "cta": {
+  "line": "<p class=\"cta\">Buy this D4204T5 engine now, or",
+  "crossLink": "← Back to all Drive-E diesel engines</a>"
+ }
+}

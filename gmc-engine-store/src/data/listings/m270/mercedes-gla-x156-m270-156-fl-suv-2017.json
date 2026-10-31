@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "m270",
+ "applicationSlug": "mercedes-gla-x156-m270-156-fl-suv-2017",
+ "engineCode": "M270",
+ "condition": "used",
+ "seo": {
+  "title": "Used M270 2.0T Engine — GLA X156 (GLA200, 156 PS, Transverse) FL 2017–2019",
+  "description": "Used M270 engine for Mercedes GLA X156 SUV GLA200 (156 PS). Fixed price £1,395, tested before dispatch, UK delivery, 12-month warranty.",
+  "canonical": "https://engined.co.uk/engines/m270/mercedes-gla-x156-m270-156-fl-suv-2017/"
+ },
+ "hero": {
+  "title": "Used M270 2.0T Engine — GLA X156 (GLA200, 156 PS, Transverse) FL 2017–2019",
+  "subtitle": "Used M270 engine for GLA X156 SUV GLA200 156 PS and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M270-USED-X156-GLA200-FL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,395",
+    "note": "12-month warranty",
+    "price": "£1,395.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Mercedes M270 engine for GLA X156 SUV GLA200 transverse, complete assembly, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M270",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2017–2019",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X156",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-m270-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number in our checker above to confirm this M270 engine fits your Mercedes GLA X156.",
+  "list": [
+   "Mercedes-Benz GLA X156 SUV (GLA200 156 PS, Transverse) 2017–2019"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Renewed timing chain",
+   "OEM-spec gaskets and seals"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M270 engine now, or view the full M270 engine range for other applications.",
+  "crossLink": "← Back to all M270 engines"
+ }
+}

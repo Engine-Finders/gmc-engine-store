@@ -1,0 +1,91 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "om654q",
+ "applicationSlug": "mercedes-glb-x247-220d-suv-recon",
+ "engineCode": "OM654Q",
+ "condition": "recon",
+ "seo": {
+  "title": "Recon OM654q GLB X247 220d | Engined",
+  "description": "Reconditioned OM654q engine for Mercedes GLB X247 220d SUV 2020+. Recon price £3,100, tested before dispatch, 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/om654q/mercedes-glb-x247-220d-suv-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned OM654q Engine — Mercedes GLB X247 (220d) SUV 2020+",
+  "subtitle": "Reconditioned OM654q engine for Mercedes GLB X247 220d SUV — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: OM654Q-RECON-X247-220D-SUV",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £3,100",
+    "note": "12-month warranty",
+    "price": "£3,100.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned OM654q engine for Mercedes GLB X247 220d SUV 2020+, transverse compact spec, X247 SUV only.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "OM654q",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2020+",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X247",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-mercedes-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our reg checker to confirm this Reconditioned OM654q engine fits your Mercedes GLB X247 220d SUV 2020+.",
+  "list": [
+   "GLB SUV (X247) 2020+ — 220d",
+   "Fitment note: X247 SUV only."
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block included",
+   "Oil sump and timing cover included"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this OM654q engine now, or view the full OM654q engine range for other applications.",
+  "crossLink": "← Back to all OM654q engines"
+ }
+}

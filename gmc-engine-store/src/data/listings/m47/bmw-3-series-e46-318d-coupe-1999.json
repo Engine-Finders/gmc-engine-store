@@ -1,0 +1,89 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "m47",
+ "applicationSlug": "bmw-3-series-e46-318d-coupe-1999",
+ "engineCode": "M47",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW M47 — 3 Series E46 (318d) Coupé | Engined",
+  "description": "Used M47 engine for BMW 3 Series E46 (318d) Coupé — fits saloon, touring, and compact. Professionally tested, 12-month warranty included, free UK delivery £625",
+  "canonical": "https://engined.co.uk/engines/m47/bmw-3-series-e46-318d-coupe-1999/"
+ },
+ "hero": {
+  "title": "Used BMW M47 Engine — 3 Series E46 (318d) Coupé 1999-2005",
+  "subtitle": "<p><strong>Used M47 engine for BMW 3 Series E46 318d Coupé — fixed price, tested before dispatch, UK delivery.</strong></p>",
+  "sku": "SKU: M47-USED-E46-318D-COUPE",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £625",
+    "note": "12-month warranty",
+    "price": "£625.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW M47 Engine — 3 Series E46 (318d) Coupé 1999-2005",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M47",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "1999-2005",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E46",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "<p>Enter your registration for instant compatibility confirmation, or check the list below.</p>",
+  "list": [
+   "3 Series Coupé (E46) (318d 115 PS) 1999-2005"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch",
+   "12-month warranty as standard",
+   "Full inspection and compression testing",
+   "All necessary gaskets and seals",
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, etc.)",
+   "Fitting and installation services"
+  ],
+  "excluded": []
+ },
+ "cta": {
+  "line": "<p><strong>Buy this M47 engine now, or <a href=\"https://engined.co.uk/engines/m47\">view the full M47 engine range</a> for other applications.</strong></p>",
+  "crossLink": "← Back to all M47 engines</a></p>"
+ }
+}

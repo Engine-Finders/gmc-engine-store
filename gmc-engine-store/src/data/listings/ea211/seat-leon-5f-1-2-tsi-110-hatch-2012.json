@@ -1,0 +1,83 @@
+{
+ "brand": "seat",
+ "brandName": "Seat",
+ "engineSlug": "ea211",
+ "applicationSlug": "seat-leon-5f-1-2-tsi-110-hatch-2012",
+ "engineCode": "EA211",
+ "condition": "used",
+ "seo": {
+  "title": "EA211 Leon 5F 1.2 Used | Engined",
+  "description": "Used EA211 engine for SEAT Leon 5F 1.2 TSI 110 PS, code CJZA/CJZD — fixed price £805, tested before dispatch, 12-month warranty, and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/ea211/seat-leon-5f-1-2-tsi-110-hatch-2012/"
+ },
+ "hero": {
+  "title": "EA211 Leon 5F 1.2 Used",
+  "subtitle": "Used EA211 engine for SEAT Leon 5F 1.2 TSI 110 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA211-USED-G1-12TSI-LEON",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £805",
+    "note": "12-month warranty",
+    "price": "£805.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "EA211 Leon 5F 1.2 Used",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA211",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2012–2020",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "5F",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our registration checker to confirm fitment before ordering — this listing covers the applications below.",
+  "list": [
+   "SEAT Leon 5F (1.2 TSI 110 PS, code CJZA/CJZD) 2012–2020"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block as supplied",
+   "Sump, timing cover and oil pump where fitted"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA211 engine now, or view the full EA211 engine range for other applications.",
+  "crossLink": "← Back to all EA211 engines"
+ }
+}

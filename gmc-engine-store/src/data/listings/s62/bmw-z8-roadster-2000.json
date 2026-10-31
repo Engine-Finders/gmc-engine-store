@@ -1,0 +1,96 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "s62",
+ "applicationSlug": "bmw-z8-roadster-2000",
+ "engineCode": "S62",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW S62 5.0 V8 Engine — Z8 Roadster (400 PS) 2000–2003",
+  "description": "Used BMW S62 5.0 V8 engine for the BMW Z8 Roadster (400 PS) — fixed price £7,875, fully tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/s62/bmw-z8-roadster-2000/"
+ },
+ "hero": {
+  "title": "Used BMW S62 5.0 V8 Engine — Z8 Roadster (400 PS) 2000–2003",
+  "subtitle": "Used S62 engine for the BMW Z8 E52 Roadster (400 PS) — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: S62-USED-Z8",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £7,875",
+    "note": "12-month warranty",
+    "price": "£7,875.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £9,450",
+    "note": "12-month warranty",
+    "price": "£9,450.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW S62 5.0 V8 engine for Z8 E52 Roadster, 400 PS, dual VANOS — tested unit.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "S62",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2000–2003",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E52",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration in our checker to confirm this S62 fits your Z8 E52 Roadster before you buy.",
+  "list": [
+   "BMW Z8 E52 (Roadster, 400 PS) 2000–2003"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Timing components (belt/chain) where applicable",
+   "New gaskets and seals"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this S62 engine now, or view the full S62 engine range for other applications.",
+  "crossLink": "← Back to all S62 engines → https://engined.co.uk/engines/s62"
+ }
+}

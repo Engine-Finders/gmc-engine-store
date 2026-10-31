@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "aj-v8-5-0",
+ "applicationSlug": "jaguar-xj-x351-508pn-385-saloon-2009",
+ "engineCode": "508PN",
+ "condition": "used",
+ "seo": {
+  "title": "Used 508PN 5.0 V8 Engine — Jaguar XJ X351 (NA, 385hp) 2009–2013",
+  "description": "Used 508PN engine for Jaguar XJ X351 2009-2013. Fixed price £3,595, tested before dispatch, 12-month warranty & UK delivery. 5.0 V8 NA 385hp petrol.",
+  "canonical": "https://engined.co.uk/engines/aj-v8-5-0/jaguar-xj-x351-508pn-385-saloon-2009/"
+ },
+ "hero": {
+  "title": "Used 508PN 5.0 V8 Engine — Jaguar XJ X351 (NA, 385hp) 2009–2013",
+  "subtitle": "Used 508PN engine for Jaguar XJ X351 2009–2013 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 508PN-USED-XJ-385-0913",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £3,595",
+    "note": "12-month warranty",
+    "price": "£3,595.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "508PN engine for Jaguar XJ X351 saloon, 5.0 V8 NA 385hp, natural aspirated, tested before dispatch",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "508PN",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2009-2013",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X351",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Will a 508PS supercharged engine fit my XJ? Yes, same block; please use the registration checker above to confirm fitment.",
+  "list": [
+   "Jaguar XJ X351 (5.0 V8 NA 385hp) 2009–2013"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Fully cleaned and inspected",
+   "Ready for direct fitment"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 508PN engine now, or view the full 508PN range for other applications.",
+  "crossLink": "← Back to all 508PN engines"
+ }
+}

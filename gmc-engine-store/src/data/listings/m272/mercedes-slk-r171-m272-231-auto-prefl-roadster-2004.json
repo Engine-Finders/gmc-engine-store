@@ -1,0 +1,96 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "m272",
+ "applicationSlug": "mercedes-slk-r171-m272-231-auto-prefl-roadster-2004",
+ "engineCode": "M272 E30",
+ "condition": "used",
+ "seo": {
+  "title": "Used M272 3.0 V6 Engine — SLK R171 (SLK280/SLK300, 231 PS, Auto) Pre-FL 2004–2008 | Engined — 91 chars — FAIL (systemic, 6th)",
+  "description": "Used M272 3.0 V6 engine for the SLK R171 SLK280 and SLK300 (231 PS, Auto, 2004–2008). £1,295 fixed price, 12-month warranty, fast UK delivery. — 142 chars — PASS",
+  "canonical": "https://engined.co.uk/engines/m272/mercedes-slk-r171-m272-231-auto-prefl-roadster-2004/"
+ },
+ "hero": {
+  "title": "Used M272 3.0 V6 Engine — SLK R171 (SLK280/SLK300, 231 PS, Auto) Pre-FL 2004–2008",
+  "subtitle": "Used M272 engine for the SLK280 and SLK300 (SLK R171) — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M272-USED-R171-SLK280-AUTO-PREFL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,295",
+    "note": "12-month warranty",
+    "price": "£1,295.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,250",
+    "note": "12-month warranty",
+    "price": "£2,250.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used M272 3.0 V6 engine for Mercedes SLK R171 SLK280 SLK300 231 PS automatic pre-facelift roadster",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M272 E30",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2004–2008",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "R171",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-m272-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration before ordering — this M272 fits the pre-facelift R171 SLK280 and SLK300 automatic only. (111 chars)",
+  "list": [
+   "SLK R171 (SLK280/SLK300 231 PS, Auto, Roadster, M272 E30) 2004–2008"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Bench-tested before dispatch",
+   "12-month warranty as standard",
+   "Oil and filter service parts fitted",
+   "Pre-delivery inspection report"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries (alternator, starter, pumps, sensors)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M272 engine now, or view the full M272 engine range for other applications. (84 visible chars)",
+  "crossLink": "← Back to all M272 engines"
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "brand": "nissan",
+ "brandName": "Nissan",
+ "engineSlug": "r9m",
+ "applicationSlug": "nissan-x-trail-t32-1-6-dci-130-suv-2014",
+ "engineCode": "R9M",
+ "condition": "used",
+ "seo": {
+  "title": "Used Nissan R9M Engine — X-Trail T32 1.6 dCi | Engined",
+  "description": "Used R9M engine for Nissan X-Trail T32 1.6 dCi 130 PS. Fixed price £1,795 used, £2,695 reconditioned. Tested, UK delivery & 12-month warranty.",
+  "canonical": "https://engined.co.uk/engines/r9m/nissan-x-trail-t32-1-6-dci-130-suv-2014/"
+ },
+ "hero": {
+  "title": "Used Nissan R9M Engine — Nissan X‑Trail T32 (1.6 dCi 130 PS) SUV 2014-2019",
+  "subtitle": "Used R9M engine for Nissan X-Trail T32 1.6 dCi and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: R9M-USED-XTRAIL-T32",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,795",
+    "note": "12-month warranty",
+    "price": "£1,795.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Nissan R9M Engine — Nissan X‑Trail T32 (1.6 dCi 130 PS) SUV 2014-2019",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "R9M",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2014-2019",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "T32",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/nissan-nissan-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number in our checker above to confirm this R9M engine is the exact match for your vehicle.",
+  "list": [
+   "Nissan X-Trail T32 (1.6 dCi 130 PS) 2014-2019"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "VAT inclusive pricing",
+   "Secure, palletised UK delivery"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system components",
+   "Ancillaries (alternator, starter motor, etc.)",
+   "Fitting and installation",
+   "ECU remapping or coding"
+  ]
+ },
+ "cta": {
+  "line": "Buy this R9M engine now, or view the full R9M engine range for other applications.",
+  "crossLink": "← Back to all R9M engines"
+ }
+}

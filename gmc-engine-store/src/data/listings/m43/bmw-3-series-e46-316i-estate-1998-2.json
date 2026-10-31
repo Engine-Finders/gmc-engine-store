@@ -1,0 +1,101 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "m43",
+ "applicationSlug": "bmw-3-series-e46-316i-estate-1998-2",
+ "engineCode": "M43",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW M43 Engine — 3 Series E46 (316i) Estate 1998-2001",
+  "description": "Used BMW M43 engine for 3 Series E46 316i Estate (1998-2001). 105PS variant, fully tested, 12-month warranty, UK delivery. £310.",
+  "canonical": "https://engined.co.uk/engines/m43/bmw-3-series-e46-316i-estate-1998/"
+ },
+ "hero": {
+  "title": "Used BMW M43 Engine — 3 Series E46 (316i) Estate 1998-2001",
+  "subtitle": "Used M43 engine for 3 Series E46 316i Estate — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M43-USED-E46-316I-ESTATE",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £310",
+    "note": "12-month warranty",
+    "price": "£310.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW M43 engine for 3 Series E46 316i Estate 1998-2001 – complete assembly",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "BMW M43",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "1998-2001",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E46",
+    "label": "Compatible"
+   },
+   {
+    "icon": "gauge",
+    "value": "105 PS (316i)",
+    "label": "Max Output"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   },
+   {
+    "icon": "config",
+    "value": "M43B19",
+    "label": "Variant"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration at checkout to confirm compatibility, or check the list below for your specific model.",
+  "list": [
+   "BMW 3 Series Estate (E46) 1998-2001 — 316i (105 PS)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Full compression and leak-down testing",
+   "Oil and filter service completed",
+   "All gaskets and seals renewed"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system components",
+   "Ancillaries (alternator, starter motor, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this BMW M43 engine now, or view the full M43 engine range for other applications.",
+  "crossLink": "← Back to all M43 engines"
+ }
+}

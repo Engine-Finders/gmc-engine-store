@@ -1,0 +1,89 @@
+{
+ "brand": "peugeot",
+ "brandName": "Peugeot",
+ "engineSlug": "ecotec-family-0",
+ "applicationSlug": "vauxhall-meriva-a-1-4-mpv-2003",
+ "engineCode": "A14XEL / A14XER",
+ "condition": "used",
+ "seo": {
+  "title": "Used Vauxhall Ecotec Engine — Meriva A (1.4) MPV 2003-2010",
+  "description": "Used Ecotec Family 0 A14XEL/A14XER engine for Vauxhall Meriva A, Corsa D/E, Astra H/J and more — fixed price £805, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/ecotec-family-0/vauxhall-meriva-a-1-4-mpv-2003/"
+ },
+ "hero": {
+  "title": "Used Vauxhall Ecotec Engine — Meriva A (1.4) MPV 2003-2010",
+  "subtitle": "Used Ecotec Family 0 engine for Meriva A, Corsa D/E, Astra H/J and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: ECOFAM0-USED-MERIVA-A-14",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £805",
+    "note": "12-month warranty",
+    "price": "£805.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,345",
+    "note": "12-month warranty",
+    "price": "£1,345.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "A14XEL/A14XER Ecotec Family 0 used 1.4 petrol engine for Vauxhall Meriva A MPV 2003-2010",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "A14XEL / A14XER",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2003-2010",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Meriva A, Corsa D, Corsa E, Astra H, Astra J, Meriva B, Adam, Mokka A",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with our reg checker before you buy — this engine fits the applications listed below.",
+  "list": [
+   "Vauxhall Meriva A (1.4, 90‑100 PS, A14XEL/A14XER) 2003‑2010"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Fully tested before dispatch",
+   "12-month warranty as standard",
+   "Oil sump and rocker cover fitted",
+   "Gaskets and seals renewed as required"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this Ecotec Family 0 now, or view the full range for applications.",
+  "crossLink": "← Back to all Ecotec Family 0 engines → https://engined.co.uk/engines/ecotec-family-0/"
+ }
+}

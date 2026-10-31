@@ -1,0 +1,91 @@
+{
+ "brand": "jaguar",
+ "brandName": "Jaguar",
+ "engineSlug": "aj133",
+ "applicationSlug": "jaguar-f-type-x152-aj133s-p450-coupe-2013",
+ "engineCode": "AJ133S",
+ "condition": "used",
+ "seo": {
+  "title": "Used Jaguar AJ133S 5.0 V8 Supercharged Engine — F-Type (X152) P450 Coupe 2013-Present | Engined",
+  "description": "Used AJ133S Jaguar 5.0 V8 supercharged engine for F-Type (X152) P450 Coupe 2013-Present. £4,200 used, £6,300 reconditioned, 12-month warranty, UK delivery. Buy now.",
+  "canonical": "https://engined.co.uk/engines/aj133/jaguar-f-type-x152-aj133s-p450-coupe-2013/"
+ },
+ "hero": {
+  "title": "Used Jaguar AJ133S 5.0 V8 Supercharged Engine — F-Type (X152) P450 Coupe 2013-Present",
+  "subtitle": "Used AJ133S engine for F-Type P450 Coupe — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: AJ133-USED-FTYPE-X152-P450-COUPE",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £4,200",
+    "note": "12-month warranty",
+    "price": "£4,200.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £6,300",
+    "note": "12-month warranty",
+    "price": "£6,300.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Jaguar AJ133S 5.0 V8 supercharged used engine for F-Type X152 P450 Coupe 450 PS",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJ133S",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2013-Present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X152",
+    "label": "Compatible"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/jaguar-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/jaguar-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jlr-aj133-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration in our reg checker to confirm this AJ133S engine fits your F-Type (X152) P450 Coupe.",
+  "list": [
+   "F-Type X152 (P450 5.0 Supercharged 450 PS) 2013-present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Sump and timing cover"
+  ],
+  "excluded": [
+   "Supercharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this AJ133S engine now, or view the full AJ133S range for other applications.",
+  "crossLink": "← Back to all AJ133S engines"
+ }
+}

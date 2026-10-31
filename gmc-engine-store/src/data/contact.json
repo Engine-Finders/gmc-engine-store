@@ -1,0 +1,38 @@
+{
+  "seo": {
+    "title": "Contact GMC Engine Store | Free Engine Quote",
+    "description": "Get a free, fixed-price quote for a used or reconditioned engine. Enter your registration, tell us what you need and a specialist will call you back.",
+    "path": "/contact"
+  },
+  "hero": {
+    "kicker": "Contact",
+    "title": "Get your free",
+    "highlight": "engine quote",
+    "description": "Enter your registration and leave your details. A specialist confirms fitment and comes back to you with a fixed price, UK delivery included."
+  },
+  "form": {
+    "title": "Request a quote",
+    "description": "Takes a minute. We use your registration to check the exact engine for your car."
+  },
+  "steps": {
+    "title": "What happens next",
+    "items": [
+      { "icon": "search", "title": "We check your registration", "description": "We match your car to the exact engine and variant before quoting." },
+      { "icon": "clipboard", "title": "You get a fixed price", "description": "Used and reconditioned options, with the warranty terms on each listing." },
+      { "icon": "truck", "title": "We deliver across the UK", "description": "Tested, packed and sent to your door or your garage." }
+    ]
+  },
+  "reasons": [
+    { "icon": "shield-check", "title": "12-Month Warranty", "subtitle": "Unlimited mileage" },
+    { "icon": "shield", "title": "Verified Fitment", "subtitle": "Checked by registration" },
+    { "icon": "returns", "title": "14-Day Returns", "subtitle": "Uninstalled, full refund" }
+  ],
+  "details": {
+    "title": "Other ways to reach us",
+    "phone": "",
+    "whatsapp": "",
+    "email": "",
+    "address": "",
+    "hours": ""
+  }
+}

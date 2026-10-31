@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "om611",
+ "applicationSlug": "mercedes-v-class-w638-om611-102-mpv-recon-1999",
+ "engineCode": "OM611",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned OM611 2.2 CDI Engine — V-Class W638 MPV (V 200 CDI, 102 PS) 1999–2003",
+  "description": "Reconditioned OM611 2.2 CDI engine for Mercedes V-Class W638 MPV (V 200 CDI, 102 PS) 1999–2003. Tested before dispatch, 12-month warranty, UK delivery. £2,100.",
+  "canonical": "https://engined.co.uk/engines/om611/mercedes-v-class-w638-om611-102-mpv-recon-1999/"
+ },
+ "hero": {
+  "title": "Reconditioned OM611 2.2 CDI Engine — V-Class W638 MPV (V 200 CDI, 102 PS) 1999–2003",
+  "subtitle": "Reconditioned OM611 engine for Mercedes V-Class W638 (V 200 CDI, 102 PS) — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: OM611-RECON-G3-W638-102",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,100",
+    "note": "12-month warranty",
+    "price": "£2,100.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned OM611 2.2 CDI diesel engine for Mercedes V-Class W638 MPV, V 200 CDI 102 PS, transverse",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "OM611",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "1999–2003",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W638",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-mercedes-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with our reg checker before ordering — this reconditioned OM611 fits the following Mercedes V-Class W638 applications.",
+  "list": [
+   "V-Class W638 (V 200 CDI, 102 PS, MPV) 1999–2003"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (block, head, sump, timing cover)",
+   "Fully tested before dispatch",
+   "12-month warranty as standard",
+   "New gaskets and seals fitted",
+   "Oil and filter service kit"
+  ],
+  "excluded": [
+   "Turbocharger (reused where condition allows)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter, pumps)",
+   "Fitting and installation labour"
+  ]
+ },
+ "cta": {
+  "line": "Buy this OM611 engine now, or view the full OM611 engine range for other applications.",
+  "crossLink": "← Back to all OM611 engines"
+ }
+}

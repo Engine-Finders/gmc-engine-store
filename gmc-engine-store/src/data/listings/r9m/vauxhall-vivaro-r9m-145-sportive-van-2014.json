@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "r9m",
+ "applicationSlug": "vauxhall-vivaro-r9m-145-sportive-van-2014",
+ "engineCode": "R9M",
+ "condition": "used",
+ "seo": {
+  "title": "R9M Vivaro Sportive 145 | Engined",
+  "description": "Used R9M 1.6 dCi engine for Vauxhall Vivaro B Sportive (1.6 CDTI 145 PS). Fixed price £1,374, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/r9m/vauxhall-vivaro-r9m-145-sportive-van-2014/"
+ },
+ "hero": {
+  "title": "Used R9M 1.6 dCi Engine — Vauxhall Vivaro B Sportive (1.6 CDTI 145, 145 PS) 2014–2018",
+  "subtitle": "Used R9M engine for Vauxhall Vivaro B Sportive — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: R9M-USED-VIVARO-SPORTIVE-145",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,374",
+    "note": "12-month warranty",
+    "price": "£1,374.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used R9M 1.6 dCi engine for Vauxhall Vivaro B Sportive, 1.6 CDTI 145 PS twin-turbo, transverse.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "R9M",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2014–2018",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Vivaro B, X82",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-mercedes-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with your registration before ordering — this R9M engine is listed for the following Vivaro B Sportive application.",
+  "list": [
+   "Vauxhall Vivaro B (Sportive — 1.6 CDTI 145 PS — R9M — Transverse) 2014–2018"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil sump and timing cover included",
+   "Cylinder head and block included"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this R9M engine now, or view the full R9M engine range for other applications.",
+  "crossLink": "← Back to all R9M engines — https://engined.co.uk/engines/r9m"
+ }
+}

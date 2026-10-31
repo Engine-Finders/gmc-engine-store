@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "aj-v8-5-0",
+ "applicationSlug": "land-rover-defender-l663-508ps-525-suv-2020",
+ "engineCode": "508PS",
+ "condition": "used",
+ "seo": {
+  "title": "Used 508PS 5.0 V8 Engine — Defender V8 L663 (SC, 525hp) 2020–2022",
+  "description": "Used 508PS 5.0 V8 supercharged engine for Defender V8 L663 (525hp) 2020–2022. Fixed £5,560, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/aj-v8-5-0/land-rover-defender-l663-508ps-525-suv-2020/"
+ },
+ "hero": {
+  "title": "Used 508PS 5.0 V8 Engine — Defender V8 L663 (SC, 525hp) 2020–2022",
+  "subtitle": "Used 508PS engine for Defender V8 L663 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 508PS-USED-DEFENDER-525-2022",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £5,560",
+    "note": "12-month warranty",
+    "price": "£5,560.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used 508PS 5.0 V8 supercharged engine for Defender V8 L663, 2020–2022, pictured as removed",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "508PS",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2020–2022",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L663",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration to confirm your Defender V8 L663 is covered before ordering.",
+  "list": [
+   "Defender V8 L663 (5.0 V8 SC 525hp, 508PS) 2020–2022"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New gaskets and seals fitted during preparation",
+   "Oil sump and timing cover"
+  ],
+  "excluded": [
+   "Turbocharger / supercharger (if reusable, supplied per condition)",
+   "Injectors and fuel system",
+   "Ancillaries (alternator, starter, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 508PS engine now, or view the full 508PS engine range for other applications.",
+  "crossLink": "← Back to all 508PS engines"
+ }
+}

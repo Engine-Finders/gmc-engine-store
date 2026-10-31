@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "m272",
+ "applicationSlug": "mercedes-ml-w164-m272-272-auto-fl-suv-recon-2008",
+ "engineCode": "M272",
+ "condition": "recon",
+ "seo": {
+  "title": "Recon M272 ML350 W164 FL 272 | Engined",
+  "description": "Reconditioned M272 3.5 V6 engine for Mercedes-Benz ML350 W164 (272 PS Auto, 2008–2011). Fixed price £2,755, with 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/m272/mercedes-ml-w164-m272-272-auto-fl-suv-recon-2008/"
+ },
+ "hero": {
+  "title": "Reconditioned M272 3.5 V6 Engine — ML W164 (ML350, 272 PS, Auto) FL 2008–2011",
+  "subtitle": "SUB — Reconditioned M272 engine for ML350 W164 (272 PS Auto) — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M272-RECON-W164-ML350-FL",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,755",
+    "note": "12-month warranty",
+    "price": "£2,755.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned M272 3.5 V6 engine for Mercedes-Benz ML350 W164 272 PS Auto, 2008–2011",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M272",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2008–2011",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W164",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-m272-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with your registration before ordering — this listing covers the following ML W164 application.",
+  "list": [
+   "Mercedes-Benz ML W164 SUV (ML350 272 PS Auto, M272 E35) 2008–2011"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Timing components renewed",
+   "New gaskets and seals"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M272 engine now, or view the full M272 engine range for other applications.",
+  "crossLink": "← Back to all M272 engines"
+ }
+}

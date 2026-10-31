@@ -1,0 +1,83 @@
+{
+ "brand": "vauxhall",
+ "brandName": "Vauxhall",
+ "engineSlug": "ecotec-family-0",
+ "applicationSlug": "vauxhall-corsa-d-1-4-hatchback-2006-recon",
+ "engineCode": "GM FAMILY 0",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned Ecotec Family 0 Engine — Vauxhall Corsa D (1.4) Hatchback 2006-2014 | Engined",
+  "description": "Reconditioned GM Family 0 engine for Vauxhall Corsa D 1.4 Hatchback, codes A14XEL/A14XER. £1,495, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/ecotec-family-0/vauxhall-corsa-d-1-4-hatchback-2006-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned Ecotec Family 0 Engine — Vauxhall Corsa D (1.4) Hatchback 2006-2014",
+  "subtitle": "SUB — Reconditioned GM Family 0 engine for Vauxhall Corsa D 1.4 Hatchback — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: ECOFAM0-RECON-CORSA-D-14-HATCH-12M",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,495",
+    "note": "12-month warranty",
+    "price": "£1,495.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned GM Family 0 1.4 engine for Vauxhall Corsa D hatchback, codes A14XEL/A14XER, prepared to order",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "GM Family 0",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2006-2014",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Corsa D",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your reg before ordering — this reconditioned 1.4 Family 0 engine is listed for the Vauxhall Corsa D below.",
+  "list": [
+   "Vauxhall Corsa D (1.4 petrol A14XEL/A14XER, Hatchback) 2006-2014"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block as one unit",
+   "Sump and timing covers where fitted"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this GM Family 0 engine now, or view the full GM Family 0 engine range for other applications.",
+  "crossLink": "← Back to all GM Family 0 engines"
+ }
+}

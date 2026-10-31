@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "406pn",
+ "applicationSlug": "land-rover-discovery-3-l319-406pn-216-manual-suv-recon-2007",
+ "engineCode": "406PN",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned 406PN 4.0 V8 Engine — Discovery 3 L319 (216 PS, Manual) 2007–2009",
+  "description": "Reconditioned 406PN engine for Discovery 3 L319 (216 PS). Fixed price £3,675. Fully rebuilt, tested before dispatch, 12-month warranty & UK delivery.",
+  "canonical": "https://engined.co.uk/engines/406pn/land-rover-discovery-3-l319-406pn-216-manual-suv-recon-2007/"
+ },
+ "hero": {
+  "title": "Reconditioned 406PN 4.0 V8 Engine — Discovery 3 L319 (216 PS, Manual) 2007–2009",
+  "subtitle": "Reconditioned 406PN engine for Discovery 3 L319 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 406PN-RECON-DISCO3-216-MAN-0709",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £3,675",
+    "note": "12-month warranty",
+    "price": "£3,675.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned 406PN engine for Discovery 3 L319, 4.0 V8 216 PS manual, fully rebuilt.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "406PN",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2007–2009",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L319",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration above to confirm this 406PN engine fits your Discovery 3 before you buy.",
+  "list": [
+   "Discovery 3 L319 (4.0 V8 216 PS Manual) 2007–2009"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Fully rebuilt to high specifications",
+   "Secure UK delivery"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 406PN engine now, or view the full 406PN engine range for other applications.",
+  "crossLink": "← Back to all 406PN engines"
+ }
+}

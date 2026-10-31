@@ -1,0 +1,90 @@
+{
+ "brand": "volkswagen",
+ "brandName": "Volkswagen",
+ "engineSlug": "w8",
+ "applicationSlug": "vw-passat-b5-5-275ps-saloon-2001",
+ "engineCode": "W8",
+ "condition": "used",
+ "seo": {
+  "title": "Used W8 Engine — VW Passat B5.5 4.0 W8 275 PS | Engined",
+  "description": "Used W8 engine for VW Passat B5.5 Saloon (4.0 W8 275 PS, BDN/BDP). In stock now, tested before dispatch, £2,495, 12-month warranty, fast UK delivery.",
+  "canonical": "https://engined.co.uk/engines/w8/vw-passat-b5-5-275ps-saloon-2001/"
+ },
+ "hero": {
+  "title": "Used W8 Engine — VW Passat B5.5 (4.0 W8 275 PS) Saloon 2001-2004",
+  "subtitle": "Used W8 engine for VW Passat B5.5 Saloon — fixed price, tested before dispatch, fast UK delivery.",
+  "sku": "SKU: W8-USED-PASSAT-SALOON",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,495",
+    "note": "12-month warranty",
+    "price": "£2,495.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used W8 engine for VW Passat B5.5 Saloon, 4.0 W8 275 PS BDN/BDP, longitudinal 4MOTION, tested.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "W8",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2001-2004",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "3B",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/volkswagen-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/volkswagen-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/volkswagen-vw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our registration checker to confirm this used W8 engine fits your VW Passat B5.5 before you buy.",
+  "list": [
+   "VW Passat B5.5 3B (4.0 W8 275 PS BDN/BDP — Saloon) 2001-2004"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block included",
+   "Oil sump and timing cover included"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this W8 engine now, or view the full W8 engine range for other applications.",
+  "crossLink": "← Back to all W8 engines"
+ }
+}

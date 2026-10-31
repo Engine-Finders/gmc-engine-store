@@ -1,0 +1,96 @@
+{
+ "brand": "jaguar",
+ "brandName": "Jaguar",
+ "engineSlug": "aj133",
+ "applicationSlug": "jaguar-xj-x351-aj133s-5-0-sc-supersport-2009",
+ "engineCode": "AJ133S",
+ "condition": "used",
+ "seo": {
+  "title": "Used Jaguar AJ133S 5.0 V8 Supercharged Engine — XJ (X351) Supersport Saloon 2009-Present | Engined",
+  "description": "Used AJ133S Jaguar 5.0 V8 supercharged engine for XJ (X351) Supersport Saloon 510 PS. £3,675 used, £5,775 reconditioned, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/aj133/jaguar-xj-x351-aj133s-5-0-sc-supersport-2009/"
+ },
+ "hero": {
+  "title": "Used Jaguar AJ133S 5.0 V8 Supercharged Engine — XJ (X351) Supersport Saloon 2009-Present",
+  "subtitle": "Used AJ133S engine for XJ (X351) Supersport Saloon — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: AJ133-USED-XJ-X351-SC-510-SUPERSPORT",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £3,675",
+    "note": "12-month warranty",
+    "price": "£3,675.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £5,775",
+    "note": "12-month warranty",
+    "price": "£5,775.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Jaguar AJ133S 5.0 V8 supercharged used engine for XJ X351 Supersport Saloon 510 PS",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJ133S",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2009-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X351",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/jaguar-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/jaguar-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jlr-aj133-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration in our reg checker to confirm this AJ133S engine fits your XJ (X351) Supersport Saloon.",
+  "list": [
+   "XJ X351 (Supersport 5.0 Supercharged 510 PS Saloon) 2009-present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Sump and timing cover"
+  ],
+  "excluded": [
+   "Supercharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this AJ133S engine now, or view the full AJ133S engine range for other applications.",
+  "crossLink": "← Back to all AJ133S engines"
+ }
+}

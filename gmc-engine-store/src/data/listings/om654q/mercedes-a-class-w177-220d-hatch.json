@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "om654q",
+ "applicationSlug": "mercedes-a-class-w177-220d-hatch",
+ "engineCode": "OM654Q",
+ "condition": "used",
+ "seo": {
+  "title": "OM654q A-Class W177 220d Hatch | Engined",
+  "description": "Used OM654q engine for Mercedes A-Class W177 220d Hatch. Used £2,195 with 12-month warranty, tested before dispatch and UK delivery. Recon £3,100 available.",
+  "canonical": "https://engined.co.uk/engines/om654q/mercedes-a-class-w177-220d-hatch/"
+ },
+ "hero": {
+  "title": "Used OM654q Engine — Mercedes A-Class W177 (220d) Hatch 2018+",
+  "subtitle": "Used OM654q engine for A-Class W177 220d Hatch — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: OM654Q-USED-W177-220D-HAT",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,195",
+    "note": "12-month warranty",
+    "price": "£2,195.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used OM654q engine for Mercedes A-Class W177 220d Hatch, transverse compact spec, 2018 onwards.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "OM654q",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2018+",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W177",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-mercedes-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration to confirm fitment before buying — this listing covers the following A-Class hatch application.",
+  "list": [
+   "A-Class Hatch W177 (220d) 2018+"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and valvetrain",
+   "Sump and timing cover"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this OM654q engine now, or view the full OM654q range for other applications.",
+  "crossLink": "← Back to all OM654q engines"
+ }
+}

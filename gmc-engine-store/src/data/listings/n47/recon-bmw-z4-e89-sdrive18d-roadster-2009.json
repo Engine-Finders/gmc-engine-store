@@ -1,0 +1,91 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "n47",
+ "applicationSlug": "recon-bmw-z4-e89-sdrive18d-roadster-2009",
+ "engineCode": "N47",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned N47 Engine — BMW Z4 E89 sDrive18d Roadster",
+  "description": "N47 · Reconditioned · Z4 E89 sDrive18d Roadster (143 PS) · £2,126 · 12-month warranty · UK delivery. Order now.",
+  "canonical": "https://engined.co.uk/engines/n47/recon-bmw-z4-e89-sdrive18d-roadster-2009/"
+ },
+ "hero": {
+  "title": "Reconditioned N47 Engine — BMW Z4 E89 sDrive18d Roadster",
+  "subtitle": "Reconditioned N47 engine for BMW Z4 E89 sDrive18d Roadster and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N47-RECON-G4-E89-SD18D",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,126",
+    "note": "12-month warranty",
+    "price": "£2,126.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned BMW N47 engine for Z4 E89 sDrive18d Roadster, 2.0-litre diesel unit, ready to ship from Engined.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N47",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2009-2014",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E89",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-n47-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Ensure your vehicle is compatible by checking your registration or chassis code below. This engine is confirmed to fit the following models:",
+  "list": [
+   "BMW Z4 Roadster (E89) 2009-2014 — sDrive18d (143 PS)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch on running rig",
+   "12-month warranty as standard",
+   "Oil and filter service",
+   "Full gasket set",
+   "Pressure test and bore inspection report"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries (alternator, starter motor, AC compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N47 engine now, or view the full N47 engine range for other applications.",
+  "crossLink": "← Back to all N47 engines"
+ }
+}

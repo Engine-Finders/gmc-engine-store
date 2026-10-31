@@ -1,0 +1,83 @@
+{
+ "brand": "volvo",
+ "brandName": "Volvo",
+ "engineSlug": "t5-t6-legacy",
+ "applicationSlug": "volvo-c30-2-5-230ps-hatchback-2006-recon",
+ "engineCode": "B5254T3",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned T5 Engine — Volvo C30 (2.5 T5 230 PS) Hatchback 2006-2013",
+  "description": "Reconditioned Volvo B5254T3 2.5 T5 engine for C30 P1 hatchbacks — rebuilt head, new timing belt and water pump, 12-month warranty, UK delivery. £1,550.",
+  "canonical": "https://engined.co.uk/engines/t5-t6-legacy/volvo-c30-2-5-230ps-hatchback-2006-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned T5 Engine — Volvo C30 (2.5 T5 230 PS) Hatchback 2006-2013",
+  "subtitle": "Reconditioned B5254T3 engine for the Volvo C30 P1 hatchback — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: T5-P1-RECON-C30-25-T5-12M",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,550",
+    "note": "12-month warranty",
+    "price": "£1,550.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned Volvo B5254T3 2.5 T5 230 PS turbo petrol engine for C30 P1 hatchback, 2006-2013",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "B5254T3",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2006-2013",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "P1",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "These engines fit the applications listed below. Enter your registration in the reg checker to confirm fitment before you buy.",
+  "list": [
+   "Volvo C30 P1 (2.5 T5 230 PS, B5254T3, Hatchback) 2006-2013"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Free UK delivery",
+   "14-day returns policy"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this B5254T3 engine now, or view the full B5254T3 engine range for other applications.",
+  "crossLink": "← Back to all B5254T3 engines"
+ }
+}

@@ -1,0 +1,101 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "m43",
+ "applicationSlug": "bmw-3-series-e46-318i-saloon-1998-recon-2",
+ "engineCode": "M43",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned BMW M43 Engine — E46 318i Saloon 1998-2001",
+  "description": "Reconditioned BMW M43 engine for 3 Series E46 318i Saloon (1998-2001). 118PS variant, fully tested, 12-month warranty, UK delivery. £805.",
+  "canonical": "https://engined.co.uk/engines/m43/bmw-3-series-e46-318i-saloon-1998-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW M43 Engine — 3 Series E46 (318i) Saloon 1998-2001",
+  "subtitle": "Reconditioned M43 engine for 3 Series E46 318i Saloon — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M43-RECON-E46-318I-SALOON",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £805",
+    "note": "12-month warranty",
+    "price": "£805.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned BMW M43 engine for 3 Series E46 318i Saloon 1998-2001 – complete assembly",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "BMW M43",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "1998-2001",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E46",
+    "label": "Compatible"
+   },
+   {
+    "icon": "gauge",
+    "value": "118 PS (318i)",
+    "label": "Max Output"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   },
+   {
+    "icon": "config",
+    "value": "M43B19",
+    "label": "Variant"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration at checkout to confirm compatibility, or check the list below for your specific model.",
+  "list": [
+   "BMW 3 Series Saloon (E46) 1998-2001 — 318i (118 PS)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Full compression and leak-down testing",
+   "Oil and filter service completed",
+   "All gaskets and seals renewed"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system components",
+   "Ancillaries (alternator, starter motor, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this BMW M43 engine now, or view the full M43 engine range for other applications.",
+  "crossLink": "← Back to all M43 engines"
+ }
+}

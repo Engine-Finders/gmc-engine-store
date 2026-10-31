@@ -1,0 +1,96 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "b38",
+ "applicationSlug": "bmw-i8-i12-coupe-2014-recon",
+ "engineCode": "B38 I8 COUPÉ RECON",
+ "condition": "recon",
+ "seo": {
+  "title": "BMW B38 Engine — i8 (I12) Coupé 2014-2020",
+  "description": "B38 i8 Coupé Recon · high-output B38K15T0 · i8 Coupé (I12) 2014-2020 · £5,175 · 12-month warranty · UK delivery",
+  "canonical": "https://engined.co.uk/engines/b38/bmw-i8-i12-coupe-2014-recon/"
+ },
+ "hero": {
+  "title": "BMW B38 Engine — i8 (I12) Coupé 2014-2020",
+  "subtitle": "Reconditioned B38 i8 engine for i8 Coupé (I12) 2014-2020 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: B38-RECON-I12-I8-COUPE",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £5,175",
+    "note": "12-month warranty",
+    "price": "£5,175.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "BMW B38K15T0 high-output engine for i8 I12 Coupé 2014-2020 — reconditioned hybrid sports car power unit",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "B38 i8 Coupé Recon",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2014-2020",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "I12",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   },
+   {
+    "icon": "config",
+    "value": "B38K15T0 high-output",
+    "label": "Variant"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-b38-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your vehicle's registration or confirm your i8's engine code — this high-output B38K15T0 variant is specific to the BMW i8 hybrid sports car.",
+  "list": [
+   "BMW i8 Coupé (I12) 2014-2020 — i8 (228 hp)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Full inspection report",
+   "UK delivery included",
+   "Professional packaging"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this B38 i8 engine now, or view the full B38 engine range for other applications.",
+  "crossLink": "← Back to all B38 engines"
+ }
+}

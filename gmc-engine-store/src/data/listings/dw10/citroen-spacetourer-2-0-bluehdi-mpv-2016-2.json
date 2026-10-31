@@ -1,0 +1,83 @@
+{
+ "brand": "peugeot",
+ "brandName": "Peugeot",
+ "engineSlug": "dw10",
+ "applicationSlug": "citroen-spacetourer-2-0-bluehdi-mpv-2016-2",
+ "engineCode": "DW10",
+ "condition": "used",
+ "seo": {
+  "title": "Used DW10 Engine — Citroën SpaceTourer (2.0 BlueHDi) MPV 2016-2024",
+  "description": "Used DW10 engine for Citroën SpaceTourer 2.0 BlueHDi MPV 2016-2024. Fixed price £1,495, tested before dispatch, 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/dw10/citroen-spacetourer-2-0-bluehdi-mpv-2016/"
+ },
+ "hero": {
+  "title": "Used DW10 Engine — Citroën SpaceTourer (2.0 BlueHDi) MPV 2016-2024",
+  "subtitle": "SUB — Used DW10 engine for Citroën SpaceTourer 2.0 BlueHDi — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: DW10-USED-SPACETOURER-BLUEHDI",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,495",
+    "note": "12-month warranty",
+    "price": "£1,495.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used DW10 engine for Citroën SpaceTourer 2.0 BlueHDi MPV 2016-2024, longitudinal mount, tested.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "DW10",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2016-2024",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "SpaceTourer",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration with our reg checker to confirm this DW10 engine fits your Citroën SpaceTourer before ordering.",
+  "list": [
+   "Citroën SpaceTourer (2.0 BlueHDi 120-163 PS, commercial/MPV spec, longitudinal) 2016-2024"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Sump and rocker cover"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this DW10 engine now, or view the full DW10 range for other applications.",
+  "crossLink": "← Back to all DW10 engines"
+ }
+}

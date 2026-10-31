@@ -1,0 +1,83 @@
+{
+ "brand": "peugeot",
+ "brandName": "Peugeot",
+ "engineSlug": "ecotec-family-0",
+ "applicationSlug": "vauxhall-zafira-tourer-c-1-4-mpv-2011",
+ "engineCode": "ECOTEC FAMILY 0",
+ "condition": "used",
+ "seo": {
+  "title": "Used Vauxhall Ecotec Engine — Zafira Tourer C (1.4) MPV 2011-2018",
+  "description": "Used Ecotec Family 0 engine for Vauxhall Zafira Tourer C (1.4), Corsa, Astra and more. Fits A14XER. £805 with 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/ecotec-family-0/vauxhall-zafira-tourer-c-1-4-mpv-2011/"
+ },
+ "hero": {
+  "title": "Used Vauxhall Ecotec Engine — Zafira Tourer C (1.4) MPV 2011-2018",
+  "subtitle": "Used A14XER engine for Zafira Tourer C, Corsa, Astra and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: ECOFAM0-USED-ZAFIRA-C-14",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £805",
+    "note": "12-month warranty",
+    "price": "£805.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Used A14XER 1.4L engine for Vauxhall Zafira Tourer C MPV, transverse-mounted, chain-driven petrol.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "Ecotec Family 0",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2011-2018",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Zafira Tourer C",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "This A14XER engine fits the vehicles below. Use our registration checker to confirm compatibility with your model.",
+  "list": [
+   "Vauxhall Zafira Tourer C (1.4 100-140 PS, A14XER) 2011-2018"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (block, cylinder head, sump, and internals)",
+   "Fully tested and reconditioned before dispatch",
+   "12-month warranty as standard",
+   "New timing chain and tensioner kit",
+   "New gaskets and seals"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, A/C compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this Ecotec Family 0 engine now, or view the full Ecotec Family 0 engine range for other applications.",
+  "crossLink": "← Back to all Ecotec Family 0 engines"
+ }
+}

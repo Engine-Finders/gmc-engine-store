@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "om656",
+ "applicationSlug": "mercedes-e-class-w213-om656-340-saloon-recon-2018",
+ "engineCode": "OM656",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned OM656 3.0 — E-Class W213 E400d | Engined",
+  "description": "Reconditioned OM656 3.0 diesel engine for the Mercedes-Benz E-Class W213 Saloon E400d 340 PS. Built to order, 12-month warranty, UK delivery. £5,170.",
+  "canonical": "https://engined.co.uk/engines/om656/mercedes-e-class-w213-om656-340-saloon-recon-2018/"
+ },
+ "hero": {
+  "title": "Reconditioned OM656 3.0 Diesel Engine — E-Class W213 Saloon (E400d, 340 PS) 2018–present",
+  "subtitle": "Reconditioned OM656 engine for E-Class W213 Saloon E400d 340 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: OM656-RECON-W213-E400D-SAL",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £5,170",
+    "note": "12-month warranty",
+    "price": "£5,170.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned OM656 3.0 diesel engine for Mercedes E-Class W213 Saloon E400d 340 PS, twin-turbo.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "OM656",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2018–present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W213",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-om656-engine.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment by entering your registration in our reg checker — this OM656 fits the applications listed below.",
+  "list": [
+   "E-Class W213 (E400d 340 PS, Saloon) 2018–present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (block, head, sump and timing cover)",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Engine code verified against your vehicle",
+   "Free UK delivery"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system components",
+   "Ancillaries (alternator, starter motor, air conditioning compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this OM656 engine now, or view the full OM656 engine range for other applications.",
+  "crossLink": "← Back to all OM656 engines"
+ }
+}

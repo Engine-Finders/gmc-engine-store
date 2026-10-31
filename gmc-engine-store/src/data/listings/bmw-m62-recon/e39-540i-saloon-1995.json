@@ -1,0 +1,91 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-m62-recon",
+ "applicationSlug": "e39-540i-saloon-1995",
+ "engineCode": "M62",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned BMW M62 Engine — 5 Series E39 (540i) Saloon 1995-2000",
+  "description": "Reconditioned BMW M62 · E39 540i Saloon · 286 PS · £2,295 · 12‑month warranty · UK delivery.",
+  "canonical": "https://engined.co.uk/engines/bmw-m62-recon/e39-540i-saloon-1995/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW M62 Engine — 5 Series E39 (540i) Saloon 1995-2000",
+  "subtitle": "Reconditioned M62 engine for E39 540i Saloon — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M62-RECON-E39-540I-SALOON-PREFL",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,295",
+    "note": "12-month warranty",
+    "price": "£2,295.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned BMW M62 V8 engine for 5 Series E39 540i Saloon (1995‑2000) — complete unit",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M62",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "1995-2000",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E39",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration or confirm these fitments — this reconditioned M62 engine is verified for the following BMW 5 Series applications.",
+  "list": [
+   "BMW 5 Series (E39) 1995-2000 — 540i (286 PS) Saloon"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12‑month warranty as standard",
+   "Full inspection report",
+   "Compression and leak‑down test results",
+   "Oil and filter service completed"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter, AC compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M62 engine now, or view the full M62 engine range for other applications.",
+  "crossLink": "← Back to all M62 engines"
+ }
+}

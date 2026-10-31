@@ -1,0 +1,83 @@
+{
+ "brand": "toyota",
+ "brandName": "Toyota",
+ "engineSlug": "4wz-ftv",
+ "applicationSlug": "toyota-proace-mpv-2-0d-140-van-2016",
+ "engineCode": "4WZ-FTV",
+ "condition": "used",
+ "seo": {
+  "title": "Used 4WZ-FTV Engine — Toyota Proace MPV (2.0D 140) Van 2016-present",
+  "description": "Used 4WZ-FTV PSA BlueHDi engine for Toyota Proace MPV/MD 2016-present 2.0D 140 Van. £1,995, 12-month warranty, tested before dispatch and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/4wz-ftv/toyota-proace-mpv-2-0d-140-van-2016/"
+ },
+ "hero": {
+  "title": "Used 4WZ-FTV Engine — Toyota Proace MPV (2.0D 140) Van 2016-present",
+  "subtitle": "Used 4WZ-FTV engine for Toyota Proace MPV/MD 2.0D 140 Van — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 4WZ-FTV-USED-PROACE-20D140-VAN",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,995",
+    "note": "12-month warranty",
+    "price": "£1,995.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used 4WZ-FTV 2.0D 140 engine for Toyota Proace MPV/MD Van 2016-present, transverse FWD diesel",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "4WZ-FTV",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2016-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "MPV/MD",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our reg checker to confirm your Toyota Proace MPV/MD 2016-present 2.0D 140 (4WZ-FTV) Van fitment before ordering.",
+  "list": [
+   "Toyota Proace MPV/MD (2.0D 140 4WZ-FTV Van) 2016-present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Engine block and cylinder head",
+   "Sump and timing covers"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 4WZ-FTV engine now, or view the full 4WZ-FTV engine range.",
+  "crossLink": "← Back to all 4WZ-FTV engines"
+ }
+}

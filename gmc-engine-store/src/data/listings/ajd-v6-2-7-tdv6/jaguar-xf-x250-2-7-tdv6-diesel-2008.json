@@ -1,0 +1,90 @@
+{
+ "brand": "jaguar",
+ "brandName": "Jaguar",
+ "engineSlug": "ajd-v6-2-7-tdv6",
+ "applicationSlug": "jaguar-xf-x250-2-7-tdv6-diesel-2008",
+ "engineCode": "AJD-V6",
+ "condition": "used",
+ "seo": {
+  "title": "Used Jaguar AJD-V6 2.7 TDV6 Diesel Engine — XF (X250) 2008-2009",
+  "description": "Used AJD-V6 2.7 TDV6 diesel engine for Jaguar XF (X250) 2008-2009. Fixed price £1,495, tested before dispatch, 12-month warranty & UK delivery.",
+  "canonical": "https://engined.co.uk/engines/ajd-v6-2-7-tdv6/jaguar-xf-x250-2-7-tdv6-diesel-2008/"
+ },
+ "hero": {
+  "title": "Used Jaguar AJD-V6 2.7 TDV6 Diesel Engine — XF (X250) 2008-2009",
+  "subtitle": "Used AJD-V6 engine for Jaguar XF (X250) 2008-2009 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: AJDV6-USED-XF-X250-27-TDV6-SALOON",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,495",
+    "note": "12-month warranty",
+    "price": "£1,495.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Jaguar AJD-V6 2.7 TDV6 Diesel Engine — XF (X250) 2008-2009",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJD-V6",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2008-2009",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X250",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/jaguar-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/jaguar-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/jaguar-jaguar-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number above to confirm this AJD-V6 engine is the exact match for your Jaguar before you buy.",
+  "list": [
+   "Jaguar XF X250 (2.7 TDV6 207 PS Diesel Saloon) 2008-2009"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "XF-specific ancillaries fitted",
+   "UK delivery included"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this AJD-V6 engine now, or view the full AJD-V6 range for others.",
+  "crossLink": "← Back to all AJD-V6 engines"
+ }
+}

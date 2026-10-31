@@ -44,7 +44,11 @@ export default function ListingAbout({ data }: { data: Data }) {
                 src={about.image}
                 alt=""
                 aria-hidden
-                className="pointer-events-none mx-auto mt-6 h-[240px] w-auto object-contain sm:h-[300px] lg:absolute lg:-inset-y-2 lg:right-0 lg:mt-0 lg:h-[calc(100%+1rem)] lg:w-[36%] lg:object-cover"
+                className={`pointer-events-none mx-auto mt-6 h-[240px] w-auto object-contain sm:h-[300px] lg:absolute lg:-inset-y-2 lg:right-0 lg:mt-0 lg:h-[calc(100%+1rem)] ${
+                  // the original about art has its own padding, so cover-fit shows it whole;
+                  // an alpha-trimmed engine photo would be cropped by cover, so it is contained
+                  about.trimmed ? "lg:w-[40%] lg:object-contain" : "lg:w-[36%] lg:object-cover"
+                }`}
               />
             </div>
           </div>

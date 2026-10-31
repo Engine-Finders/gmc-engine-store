@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "om646",
+ "applicationSlug": "mercedes-e-class-w211-om646-122-manual-prefl-saloon-2002",
+ "engineCode": "OM646",
+ "condition": "used",
+ "seo": {
+  "title": "Used OM646 2.2 CDI Engine — E-Class W211 Saloon (E200 CDI, 122 PS, Manual) Pre-FL 2002–2006",
+  "description": "Used OM646 engine for Mercedes E-Class W211 Saloon E200 CDI (122 PS). Fixed price £1,195, tested before dispatch, UK delivery, 12-month warranty.",
+  "canonical": "https://engined.co.uk/engines/om646/mercedes-e-class-w211-om646-122-manual-prefl-saloon-2002/"
+ },
+ "hero": {
+  "title": "Used OM646 2.2 CDI Engine — E-Class W211 Saloon (E200 CDI, 122 PS, Manual) Pre-FL 2002–2006",
+  "subtitle": "Used OM646 engine for E-Class W211 Saloon E200 CDI 122 PS Manual and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: OM646-USED-W211-E200-MAN-PREFL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,195",
+    "note": "12-month warranty",
+    "price": "£1,195.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Mercedes OM646 engine for E-Class W211 E200 CDI manual, complete assembly, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "OM646",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2002–2006",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W211",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-mercedes-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number in our checker above to confirm this OM646 engine fits your Mercedes E-Class W211.",
+  "list": [
+   "Mercedes-Benz E-Class W211 Saloon (E200 CDI 122 PS, Manual) 2002–2006"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Renewed timing chain",
+   "OEM-spec gaskets and seals"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this OM646 engine now, or view the full OM646 range for other applications.",
+  "crossLink": "← Back to all OM646 engines"
+ }
+}

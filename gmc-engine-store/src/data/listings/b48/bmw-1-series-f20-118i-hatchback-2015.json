@@ -1,0 +1,91 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "b48",
+ "applicationSlug": "bmw-1-series-f20-118i-hatchback-2015",
+ "engineCode": "B48",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW B48 Engine — 1 Series F20 (118i) Hatchback 2015-2019",
+  "description": "BMW B48 · used · 1 Series F20 118i · £1,980 · 12-month warranty · UK delivery — longitudinal RWD platform engine, tested before dispatch.",
+  "canonical": "https://engined.co.uk/engines/b48/bmw-1-series-f20-118i-hatchback-2015/"
+ },
+ "hero": {
+  "title": "Used BMW B48 Engine — 1 Series F20 (118i) Hatchback 2015-2019",
+  "subtitle": "Used B48 engine for 1 Series Hatchback (F20) 118i — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: B48-USED-F20-118I",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,980",
+    "note": "12-month warranty",
+    "price": "£1,980.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "BMW B48 petrol engine — longitudinal RWD platform — complete assembly for 1 Series F20 118i, tested and ready for dispatch",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "B48",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2015-2019",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F20",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-b48-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "This longitudinal‑mounted B48 engine fits 1 Series and 2 Series RWD/AWD platforms. Use our free reg‑checker to confirm compatibility with your specific vehicle before ordering.",
+  "list": [
+   "1 Series Hatchback (F20) 2015-2019 — 118i (136 hp)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested‑before‑dispatch with compression and leak‑down checks",
+   "12‑month warranty as standard",
+   "Full UK delivery with tracking",
+   "Professional packaging",
+   "Technical support and fitting guidance"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter, AC compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this B48 engine now, or view the full B48 engine range for other applications.",
+  "crossLink": "← Back to all B48 engines"
+ }
+}

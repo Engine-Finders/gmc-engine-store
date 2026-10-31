@@ -1,0 +1,83 @@
+{
+ "brand": "peugeot",
+ "brandName": "Peugeot",
+ "engineSlug": "a14net",
+ "applicationSlug": "vauxhall-meriva-b-1-4i-turbo-mpv-2010",
+ "engineCode": "A14NET",
+ "condition": "used",
+ "seo": {
+  "title": "Used Vauxhall A14NET Engine — Meriva B (1.4i Turbo) MPV 2010-2017",
+  "description": "Used Vauxhall A14NET engine for Meriva B 1.4i Turbo (SE, Exclusiv) — £1,436 fixed price, 12-month warranty, tested before dispatch, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/a14net/vauxhall-meriva-b-1-4i-turbo-mpv-2010/"
+ },
+ "hero": {
+  "title": "Used Vauxhall A14NET Engine — Meriva B (1.4i Turbo) MPV 2010-2017",
+  "subtitle": "Used A14NET engine for Meriva B SE and Exclusiv — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: A14NET-USED-MERIVA-B",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,436",
+    "note": "12-month warranty",
+    "price": "£1,436.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Vauxhall A14NET 1.4i turbo petrol engine for Meriva B MPV 2010-2017, 120 PS output.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "A14NET",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2010–2017",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Meriva B",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with our registration checker before ordering — every A14NET listed here is matched to the vehicle groups below.",
+  "list": [
+   "Vauxhall Meriva B (1.4i Turbo 120 PS — SE, Exclusiv) 2010–2017"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly — block, cylinder head and sump",
+   "Timing chain and valvetrain fitted as standard",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "UK delivery"
+  ],
+  "excluded": [
+   "Turbocharger (reusable — supplied only where condition allows)",
+   "Injectors and fuel system components",
+   "Ancillaries — alternator, starter motor, air conditioning compressor",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this A14NET engine now, or view the full A14NET engine range.",
+  "crossLink": "← Back to all A14NET engines"
+ }
+}

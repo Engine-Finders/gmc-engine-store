@@ -1,0 +1,91 @@
+{
+ "brand": "jaguar",
+ "brandName": "Jaguar",
+ "engineSlug": "aj126",
+ "applicationSlug": "recon-jaguar-xf-s-x260-380-ps-saloon-2015",
+ "engineCode": "AJ126",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned Jaguar AJ126 3.0 V6 Engine XF S X260 | Engined",
+  "description": "Reconditioned AJ126 engine for Jaguar XF S (X260) 3.0 V6 SC 380 PS Saloon 2015-2018. Fixed price £4,500, tested before dispatch, 12-month warranty included.",
+  "canonical": "https://engined.co.uk/engines/aj126/recon-jaguar-xf-s-x260-380-ps-saloon-2015/"
+ },
+ "hero": {
+  "title": "Reconditioned Jaguar AJ126 3.0 V6 Engine — XF S (X260) 380 PS Saloon 2015-2018",
+  "subtitle": "Reconditioned AJ126 engine for Jaguar XF S (X260) 3.0 V6 SC (380 PS) Saloon 2015-2018 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: AJ126-RECON-XF-X260-380-SALOON",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £4,500",
+    "note": "12-month warranty",
+    "price": "£4,500.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned AJ126 3.0 V6 supercharged engine for Jaguar XF S X260 Saloon, complete assembly with ancillaries, ready for installation.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJ126",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2015-2018",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X260",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/jaguar-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/jaguar-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jlr-aj126-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment by entering your registration number above to ensure this AJ126 engine matches your Jaguar XF S (X260).",
+  "list": [
+   "Jaguar XF S (X260) Saloon (3.0 V6 SC 380 PS) 2015-2018"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (AJ126 3.0 V6 Supercharged)",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Longitudinal configuration specific to XF X260",
+   "Supercharger unit included",
+   "ECU calibration compatible with 380 PS output"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition) – *Note: This is a supercharged engine, so turbo is N/A, but standard list applies.",
+   "Injectors/fuel system (unless specified as included in specific lot)",
+   "Ancillaries (alternator, starter, AC compressor if not part of core assembly)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this AJ126 engine now, or view the full AJ126 engine range for other applications.",
+  "crossLink": "← Back to all AJ126 engines"
+ }
+}

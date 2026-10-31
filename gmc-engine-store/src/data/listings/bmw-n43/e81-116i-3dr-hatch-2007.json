@@ -1,0 +1,97 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n43",
+ "applicationSlug": "e81-116i-3dr-hatch-2007",
+ "engineCode": "N43B20",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW N43 Engine — 1 Series E81 (116i) 3‑dr Hatch 2007‑2010",
+  "description": "N43 · used · fits 1 Series E81 116i 3‑dr Hatch · £1,075 · 12-month warranty · UK delivery.",
+  "canonical": "https://engined.co.uk/engines/bmw-n43/e81-116i-3dr-hatch-2007/"
+ },
+ "hero": {
+  "title": "Used BMW N43 Engine — 1 Series E81 (116i) 3‑dr Hatch 2007‑2010",
+  "subtitle": "Used N43B20 engine for BMW 1 Series E81 116i 3‑door Hatchback — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N43-USED-E81-116I-PREFL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,075",
+    "note": "12-month warranty",
+    "price": "£1,075.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,705",
+    "note": "12-month warranty",
+    "price": "£1,705.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW N43B20 engine for 1 Series E81 116i 3‑door Hatchback 2007-2010",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N43B20",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2007-2010",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E81",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration for a guaranteed fitment check, or see the list of compatible models below.",
+  "list": [
+   "BMW 1 Series (E81) 2007‑2010 — 116i (122 PS) 3‑door Hatchback"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch",
+   "12-month warranty as standard",
+   "OEM-spec gaskets and seals",
+   "Oil and filter service",
+   "Full inspection report"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries (e.g., alternator, starter motor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N43B20 engine now, or view the full BMW N43 engine range for other applications.",
+  "crossLink": "← Back to all BMW N43 engines"
+ }
+}

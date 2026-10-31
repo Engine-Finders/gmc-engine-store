@@ -1,0 +1,83 @@
+{
+ "brand": "peugeot",
+ "brandName": "Peugeot",
+ "engineSlug": "dv6",
+ "applicationSlug": "peugeot-206-1-6-hdi-fap-hatch-2004",
+ "engineCode": "DV6",
+ "condition": "used",
+ "seo": {
+  "title": "Used PSA DV6 Engine — Peugeot 206 (1.6 HDi FAP) Hatchback 2004-2007 | Engined",
+  "description": "Used PSA DV6 engine for Peugeot 206 1.6 HDi FAP 110 PS, 2004–2007. Fixed price £1,150 with 12-month warranty, tested before dispatch, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/dv6/peugeot-206-1-6-hdi-fap-hatch-2004/"
+ },
+ "hero": {
+  "title": "Used PSA DV6 Engine — Peugeot 206 (1.6 HDi FAP) Hatchback 2004-2007",
+  "subtitle": "Used DV6 engine for Peugeot 206 1.6 HDi FAP — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: DV6-USED-206-HDIFAP",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,150",
+    "note": "12-month warranty",
+    "price": "£1,150.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used PSA DV6 1.6 HDi FAP engine for Peugeot 206 hatchback 2004–2007, 110 PS.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "DV6",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2004–2007",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "206",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with our reg checker before ordering — this engine fits the following Peugeot 206 applications.",
+  "list": [
+   "Peugeot 206 (1.6 HDi FAP 110 PS, codes 9HY/9HZ / DV6TED4) 2004–2007"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (cylinder head, block, sump and internals)",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New gaskets and seals where required",
+   "Securely crated for UK delivery"
+  ],
+  "excluded": [
+   "Turbocharger (reused if serviceable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter, air conditioning compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this DV6 engine now, or view the full DV6 engine range for other applications.",
+  "crossLink": "← Back to all DV6 engines"
+ }
+}

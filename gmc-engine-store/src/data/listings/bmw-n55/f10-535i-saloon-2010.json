@@ -1,0 +1,96 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n55",
+ "applicationSlug": "f10-535i-saloon-2010",
+ "engineCode": "N55",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW N55 Engine — 5 Series F10 (535i) Saloon 2010‑2013",
+  "description": "Used BMW N55 engine for 5 Series F10 535i Saloon 2010‑2013. 302 PS N55B30O0, tested before dispatch, £3,215 with 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/bmw-n55/f10-535i-saloon-2010/"
+ },
+ "hero": {
+  "title": "Used BMW N55 Engine — 5 Series F10 (535i) Saloon 2010‑2013",
+  "subtitle": "Used N55 engine for 5 Series F10 535i Saloon — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N55-USED-F10-535I-PREFL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £3,215",
+    "note": "12-month warranty",
+    "price": "£3,215.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £4,600",
+    "note": "12-month warranty",
+    "price": "£4,600.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW N55 engine for 5 Series F10 535i Saloon 2010‑2013, 302 PS N55B30O0 pre‑LCI executive saloon.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N55",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2010‑2013",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F10",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration to confirm fitment, or check the application list below before ordering.",
+  "list": [
+   "BMW 5 Series F10 (535i 302 PS Saloon) 2010‑2013"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Sump and rocker cover"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N55 engine now, or view the full N55 engine range for other applications.",
+  "crossLink": "← Back to all N55 engines"
+ }
+}

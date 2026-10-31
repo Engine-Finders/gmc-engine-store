@@ -1,0 +1,82 @@
+{
+ "brand": "nissan",
+ "brandName": "Nissan",
+ "engineSlug": "k9k",
+ "applicationSlug": "nissan-nv200-m20-1-5-dci-van-2009",
+ "engineCode": "K9K",
+ "condition": "used",
+ "seo": {
+  "title": "Used K9K Engine — Nissan NV200 M20 1.5 dCi Van 2009-2016",
+  "description": "Used K9K engine for Nissan NV200 M20 1.5 dCi Van 2009-2016. Fixed price £985, tested before dispatch, 12-month warranty, UK delivery included.",
+  "canonical": "https://engined.co.uk/engines/k9k/nissan-nv200-m20-1-5-dci-van-2009/"
+ },
+ "hero": {
+  "title": "Used K9K Engine — Nissan NV200 M20 (1.5 dCi) Van 2009-2016",
+  "subtitle": "Used K9K engine for Nissan NV200 M20 1.5 dCi Van and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: K9K-USED-G1-NV200",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £985",
+    "note": "12-month warranty",
+    "price": "£985.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used K9K Engine — Nissan NV200 M20 (1.5 dCi) Van 2009-2016",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "K9K",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2009-2016",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "M20",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/renault-k9k-dci-diesel-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your exact fitment with our free reg-checker before ordering this K9K engine for your Nissan NV200 M20.",
+  "list": [
+   "Nissan NV200 M20 (1.5 dCi) 2009-2016"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch",
+   "12-month warranty as standard",
+   "Full technical support",
+   "Secure UK delivery"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this K9K engine now, or view the full K9K engine range for other applications.",
+  "crossLink": "← Back to all K9K engines"
+ }
+}

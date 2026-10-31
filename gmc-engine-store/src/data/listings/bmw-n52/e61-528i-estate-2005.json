@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n52",
+ "applicationSlug": "e61-528i-estate-2005",
+ "engineCode": "N52",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW N52 Engine — 5 Series E61 (528i) Estate 2005‑2010",
+  "description": "Used BMW N52 engine for 5 Series E61 528i Estate 2005‑2010. 231 PS N52B30, tested before dispatch, £1,605, 12-month warranty, UK delivery available.",
+  "canonical": "https://engined.co.uk/engines/bmw-n52/e61-528i-estate-2005/"
+ },
+ "hero": {
+  "title": "Used BMW N52 Engine — 5 Series E61 (528i) Estate 2005‑2010",
+  "subtitle": "Used N52 engine for 5 Series E61 528i Estate — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N52-USED-E61-528I",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,605",
+    "note": "12-month warranty",
+    "price": "£1,605.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW N52 engine for 5 Series E61 528i Estate, 231 PS N52B30, tested and ready to fit.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N52",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2005‑2010",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E61",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration before ordering to confirm fitment for your BMW 5 Series E61 528i Estate.",
+  "list": [
+   "BMW 5 Series E61 (528i 231 PS Estate) 2005‑2010"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Internal components matched to engine code"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N52 engine now, or view the full N52 engine range for other applications.",
+  "crossLink": "← Back to all N52 engines"
+ }
+}

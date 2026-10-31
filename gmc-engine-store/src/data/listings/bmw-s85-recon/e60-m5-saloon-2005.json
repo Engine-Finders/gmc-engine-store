@@ -1,0 +1,95 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-s85-recon",
+ "applicationSlug": "e60-m5-saloon-2005",
+ "engineCode": "S85",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned BMW S85 Engine — M5 E60 (Saloon) 2005‑2007",
+  "description": "Reconditioned BMW S85 engine for M5 E60 Saloon, 507 PS, 2005–2007. Fixed £11,475 reconditioned, rebuilt rod bearings, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/bmw-s85-recon/e60-m5-saloon-2005/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW S85 Engine — M5 E60 (Saloon) 2005‑2007",
+  "subtitle": "Reconditioned S85 V10 engine for the M5 E60 Saloon 2005–2007 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: S85-RECON-E60-M5-PREFL",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £11,475",
+    "note": "12-month warranty",
+    "price": "£11,475.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "BMW S85B50 5.0-litre V10 reconditioned engine for E60 M5 Saloon, 507 PS, pre-LCI — rebuilt unit",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "S85",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2005–2007",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E60",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   },
+   {
+    "icon": "config",
+    "value": "S85B50",
+    "label": "Variant"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration in our fitment checker to confirm this S85 engine matches your M5 E60, then review the applications below.",
+  "list": [
+   "BMW M5 E60 (M5 507 PS Saloon) 2005–2007"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (cylinder head, block, sump and covers as fitted)",
+   "Fully tested before dispatch",
+   "12-month warranty as standard",
+   "New gaskets and seals where required",
+   "Oil and filter service kit"
+  ],
+  "excluded": [
+   "Turbocharger (reused where serviceable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter, A/C compressor, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this S85 engine now, or view the full S85 reconditioned range for other applications.",
+  "crossLink": "← Back to all S85 reconditioned engines"
+ }
+}

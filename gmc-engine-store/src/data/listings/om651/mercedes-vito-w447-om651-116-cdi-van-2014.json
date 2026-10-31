@@ -1,0 +1,96 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "om651",
+ "applicationSlug": "mercedes-vito-w447-om651-116-cdi-van-2014",
+ "engineCode": "OM651",
+ "condition": "used",
+ "seo": {
+  "title": "Used OM651 2.1 CDI Engine — Vito W447 Van (116 CDI) | Engined",
+  "description": "Used OM651 2.1 CDI engine for Mercedes Vito W447 116 CDI 163 PS. Fits 2014–2018+. £2,070 with 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/om651/mercedes-vito-w447-om651-116-cdi-van-2014/"
+ },
+ "hero": {
+  "title": "Used OM651 2.1 CDI Engine — Vito W447 Van (116 CDI, 163 PS, Manual) 2014–2018+",
+  "subtitle": "Used OM651 engine for Vito W447 116 CDI, 163 PS and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: OM651-USED-W447-VITO-116",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,070",
+    "note": "12-month warranty",
+    "price": "£2,070.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,703",
+    "note": "12-month warranty",
+    "price": "£2,703.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used OM651 2.1 CDI engine for Mercedes Vito W447 116 CDI 163 PS manual van, 2014–2018, complete assembly.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "OM651",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2014–2018+",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W447",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-om651-engine.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment by entering your registration at checkout — we verify against your VIN before dispatch.",
+  "list": [
+   "Vito W447 (116 CDI, 163 PS, Manual) 2014–2018+"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (block, head, sump, timing cover)",
+   "Tested before dispatch with compression and leak-down report",
+   "12-month warranty as standard",
+   "New gaskets and seals on reassembly",
+   "Oil pump and water pump checked and replaced if worn"
+  ],
+  "excluded": [
+   "Turbocharger (reusable if condition allows — sold separately if required)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, air conditioning compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this OM651 engine now, or view the full OM651 engine range for other applications.",
+  "crossLink": "← Back to all OM651 engines"
+ }
+}

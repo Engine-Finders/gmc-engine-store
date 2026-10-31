@@ -1,0 +1,83 @@
+{
+ "brand": "peugeot",
+ "brandName": "Peugeot",
+ "engineSlug": "ecotec-family-0",
+ "applicationSlug": "vauxhall-agila-b-1-0-mpv-2003-recon",
+ "engineCode": "Z10XEP",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned Vauxhall Ecotec Engine — Agila B (1.0) MPV 2003-2014 | Engined",
+  "description": "Reconditioned Ecotec Family 0 engine for Vauxhall Agila B (1.0) MPV 2003-2014. Code Z10XEP. £1,345 with 12-month warranty and UK delivery. In stock.",
+  "canonical": "https://engined.co.uk/engines/ecotec-family-0/vauxhall-agila-b-1-0-mpv-2003-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned Vauxhall Ecotec Engine — Agila B (1.0) MPV 2003-2014",
+  "subtitle": "Reconditioned Z10XEP engine for Agila B (1.0) MPV — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: ECOFAM0-RECON-AGILA-B-10",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,345",
+    "note": "12-month warranty",
+    "price": "£1,345.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned Z10XEP 1.0L engine for Vauxhall Agila B, transverse-mounted, chain-driven petrol, 2003-2014.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "Z10XEP",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2003-2014",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Agila B",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "This Ecotec Family 0 engine fits the vehicles below. Use our reg checker to confirm compatibility with your model.",
+  "list": [
+   "Vauxhall Agila B (1.0 60-65 PS, Z10XEP) 2003-2014"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (block, cylinder head, sump, and internals)",
+   "Fully tested and reconditioned before dispatch",
+   "12-month warranty as standard",
+   "New timing chain and tensioner kit",
+   "New gaskets and seals"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, A/C compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this Z10XEP engine now, or view the full Ecotec Family 0 range.",
+  "crossLink": "← Back to all Ecotec Family 0 engines"
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "prince-n14-n18",
+ "applicationSlug": "mini-clubman-r55-jcw-2010",
+ "engineCode": "N18",
+ "condition": "used",
+ "seo": {
+  "title": "Used N18 MINI R55 Clubman JCW | Engined",
+  "description": "Used N18 1.6 turbo engine for MINI Clubman R55 JCW 2010–2014. Fixed £1,375 with 12-month warranty and UK delivery. Recon option £2,295. In stock.",
+  "canonical": "https://engined.co.uk/engines/prince-n14-n18/mini-clubman-r55-jcw-2010/"
+ },
+ "hero": {
+  "title": "Used Prince N18 1.6 Turbo Engine — MINI Clubman R55 JCW 2010–2014",
+  "subtitle": "SUB — Used N18 engine for MINI Clubman R55 JCW — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: PRINCE-USED-R55-JCW-N18",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,375",
+    "note": "12-month warranty",
+    "price": "£1,375.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used N18 1.6 turbo engine for MINI Clubman R55 JCW, 2010–2014, Valvetronic, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N18",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2010–2014",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "R55",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment by entering your registration in our reg checker before ordering.",
+  "list": [
+   "MINI Clubman R55 (JCW 211 PS) 2010–2014 (N18)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block included",
+   "Sump and timing covers included"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N18 engine now, or view the full N18 engine range for other applications.",
+  "crossLink": "← Back to all N18 engines"
+ }
+}

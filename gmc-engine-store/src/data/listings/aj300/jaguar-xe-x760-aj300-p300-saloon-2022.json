@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "aj300",
+ "applicationSlug": "jaguar-xe-x760-aj300-p300-saloon-2022",
+ "engineCode": "AJ300",
+ "condition": "used",
+ "seo": {
+  "title": "PENDING — AJ300 3.0 Petrol Engine — Jaguar XE (P300)",
+  "description": "PENDING AJ300 3.0 petrol engine for Jaguar XE X760 P300 MHEV. Used price £4,500, Recon £6,000. Includes 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/aj300/jaguar-xe-x760-aj300-p300-saloon-2022/"
+ },
+ "hero": {
+  "title": "PENDING — AJ300 3.0 Petrol Engine — Jaguar XE X760 P300 (MHEV)",
+  "subtitle": "PENDING AJ300 engine for Jaguar XE X760 P300 MHEV and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: AJ300-PEND-XE-P300-2022-2",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £6,000",
+    "note": "12-month warranty",
+    "price": "£6,000.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "PENDING AJ300 3.0 petrol engine for Jaguar XE X760 P300 MHEV longitudinal mount.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJ300",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2022–present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X760",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Verify your registration below to confirm fitment for your Jaguar XE X760 before purchasing this AJ300 engine.",
+  "list": [
+   "Jaguar XE X760 (P300, MHEV, Longitudinal) 2022–present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "UK delivery",
+   "Full compliance with emissions standards"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this AJ300 engine now, or view the full AJ300 range for other applications.",
+  "crossLink": "← Back to all AJ300 engines"
+ }
+}

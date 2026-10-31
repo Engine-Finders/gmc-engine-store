@@ -1,0 +1,82 @@
+{
+ "brand": "nissan",
+ "brandName": "Nissan",
+ "engineSlug": "mr20dd",
+ "applicationSlug": "nissan-serena-c26-2-0-mpv-2010",
+ "engineCode": "MR20DD",
+ "condition": "used",
+ "seo": {
+  "title": "Used Nissan MR20DD Engine — Nissan Serena C26 (2.0) MPV 2010-2016",
+  "description": "Used MR20DD engine for Nissan Serena C26 2.0 MPV 2010-2016. Fixed price £1,695, tested before dispatch, 12-month warranty, UK delivery included.",
+  "canonical": "https://engined.co.uk/engines/mr20dd/nissan-serena-c26-2-0-mpv-2010/"
+ },
+ "hero": {
+  "title": "Used Nissan MR20DD Engine — Nissan Serena C26 (2.0) MPV 2010-2016",
+  "subtitle": "Used MR20DD engine for Nissan Serena C26 2.0, 20X, 20X S-HYBRID and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: MR20DD-USED-SERENA-C26",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,695",
+    "note": "12-month warranty",
+    "price": "£1,695.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Nissan MR20DD Engine — Nissan Serena C26 (2.0) MPV 2010-2016",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "MR20DD",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2010-2016",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "C26",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/nissan-nissan-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your exact fitment with our free reg-checker before ordering this MR20DD engine for your Nissan Serena C26.",
+  "list": [
+   "Nissan Serena C26 (2.0 petrol, 20X, 20X S-HYBRID) 2010-2016"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch",
+   "12-month warranty as standard",
+   "Full technical support",
+   "Secure UK delivery"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this MR20DD engine now, or view the full MR20DD engine range for other applications.",
+  "crossLink": "← Back to all MR20DD engines"
+ }
+}

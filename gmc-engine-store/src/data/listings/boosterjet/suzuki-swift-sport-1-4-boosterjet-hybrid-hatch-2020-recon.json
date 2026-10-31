@@ -1,0 +1,83 @@
+{
+ "brand": "suzuki",
+ "brandName": "Suzuki",
+ "engineSlug": "boosterjet",
+ "applicationSlug": "suzuki-swift-sport-1-4-boosterjet-hybrid-hatch-2020-recon",
+ "engineCode": "K14D",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned Suzuki K14D Engine — Swift Sport Hybrid (1.4 Boosterjet 48V Hybrid) Hatchback 2020-Present | Engined",
+  "description": "Reconditioned Suzuki K14D (1.4 Boosterjet 48V Hybrid) engine for Swift Sport Hybrid, 2020-present. Used from £1,215, recon from £1,800, 12-month warranty.",
+  "canonical": "https://engined.co.uk/engines/boosterjet/suzuki-swift-sport-1-4-boosterjet-hybrid-hatch-2020-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned Suzuki K14D Engine — Swift Sport Hybrid (1.4 Boosterjet 48V Hybrid) Hatchback 2020-Present",
+  "subtitle": "Reconditioned K14D engine for Swift Sport Hybrid — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: K14D-RECON-SWIFTSPORT",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,215",
+    "note": "12-month warranty",
+    "price": "£1,215.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned Suzuki K14D 1.4 Boosterjet 48V Hybrid turbo petrol engine for Swift Sport Hybrid, 2020 onwards",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "K14D",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2020-Present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Swift Sport Hybrid",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your registration with our reg checker to ensure this reconditioned K14D fits your Suzuki Swift Sport Hybrid.",
+  "list": [
+   "Suzuki Swift Sport Hybrid (1.4 Boosterjet 48V Hybrid 129 PS, transverse) 2020-Present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Compression tested with documented results",
+   "Cleaned, inspected and sealed ready for fitment"
+  ],
+  "excluded": [
+   "Turbocharger (reused from your original where serviceable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (starter, alternator, air-con compressor, sensors)",
+   "Fitting and installation labour"
+  ]
+ },
+ "cta": {
+  "line": "Buy this K14D engine now, or view the full K14D engine range for other applications.",
+  "crossLink": "← Back to all K14D engines"
+ }
+}

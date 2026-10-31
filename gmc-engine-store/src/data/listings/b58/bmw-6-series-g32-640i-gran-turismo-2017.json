@@ -1,0 +1,95 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "b58",
+ "applicationSlug": "bmw-6-series-g32-640i-gran-turismo-2017",
+ "engineCode": "B58",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW B58 Engine — 6 Series G32 640i GT 2017+",
+  "description": "BMW B58 · Used · Fits 6 Series G32 640i, 5 Series 540i, 7 Series 740i — £7,190. 12-month warranty, UK delivery. Recon option available. Includes PHEV variants.",
+  "canonical": "https://engined.co.uk/engines/b58/bmw-6-series-g32-640i-gran-turismo-2017/"
+ },
+ "hero": {
+  "title": "Used BMW B58 Engine — 6 Series G32 (640i) Gran Turismo 2017-present",
+  "subtitle": "Used B58 engine for 6 Series G32 640i, 5 Series G30 540i, 7 Series G11 740i and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: B58-USED-G32-640I",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £7,190",
+    "note": "12-month warranty",
+    "price": "£7,190.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "BMW B58 engine for 6 Series G32 640i Gran Turismo — used 3.0-litre executive application unit",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "B58",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2017-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "G32, G30, G31, G60, G11, G15",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-b58-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "This used BMW B58 engine is confirmed to fit the applications listed below. Use our registration checker to confirm compatibility with your specific vehicle, including PHEV variants.",
+  "list": [
+   "6 Series Gran Turismo (G32) 2017-present — 640i (340 hp)",
+   "5 Series (G30/G31/G60) — 540i",
+   "7 Series (G11) — 740i, 745e, 750e",
+   "8 Series (G15) — 840i",
+   "PHEV variants (745e, 750e)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Full inspection and compression test",
+   "Drained and flushed",
+   "UK delivery included"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries (alternator, starter, AC compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this B58 engine now, or view the full B58 engine range for other applications.",
+  "crossLink": "← Back to all B58 engines"
+ }
+}

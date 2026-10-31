@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "aj300",
+ "applicationSlug": "land-rover-velar-l560-aj300-p400-suv-2019",
+ "engineCode": "AJ300",
+ "condition": "used",
+ "seo": {
+  "title": "Used AJ300 3.0 Petrol Engine — Range Rover Velar L560 P400 (MHEV, Longitudinal) 2019–2022",
+  "description": "Used AJ300 3.0 petrol engine for Range Rover Velar L560 P400. Fixed price £5,175, tested before dispatch, 12-month warranty & UK delivery included.",
+  "canonical": "https://engined.co.uk/engines/aj300/land-rover-velar-l560-aj300-p400-suv-2019/"
+ },
+ "hero": {
+  "title": "Used AJ300 3.0 Petrol Engine — Range Rover Velar L560 P400 2019–2022",
+  "subtitle": "Used AJ300 engine for Range Rover Velar L560 P400 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: AJ300-USED-VELAR-P400-1922",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £5,175",
+    "note": "12-month warranty",
+    "price": "£5,175.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used AJ300 3.0 petrol engine for Range Rover Velar L560 P400 longitudinal mount 2019 to 2022",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJ300",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2019–2022",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L560",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your exact fitment with our free reg-checker below, then review the compatible models for this AJ300 engine.",
+  "list": [
+   "Range Rover Velar L560 (P400 MHEV) 2019–2022"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch",
+   "12-month warranty as standard",
+   "Full technical support",
+   "UK delivery included"
+  ],
+  "excluded": [
+   "Turbocharger",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this AJ300 engine now, or view the full AJ300 engine range for other applications.",
+  "crossLink": "← Back to all AJ300 engines"
+ }
+}

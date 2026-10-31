@@ -1,0 +1,83 @@
+{
+ "brand": "nissan",
+ "brandName": "Nissan",
+ "engineSlug": "mr20dd",
+ "applicationSlug": "nissan-qashqai-j11-2-0-suv-2014",
+ "engineCode": "MR20DD",
+ "condition": "used",
+ "seo": {
+  "title": "Used Nissan MR20DD Engine — Qashqai J11 2.0 | Engined",
+  "description": "Used MR20DD engine for Nissan Qashqai J11 2.0 SUV. Fixed price £1,495 used, £2,250 reconditioned. Tested before dispatch, UK delivery & 12-month warranty.",
+  "canonical": "https://engined.co.uk/engines/mr20dd/nissan-qashqai-j11-2-0-suv-2014/"
+ },
+ "hero": {
+  "title": "Used Nissan MR20DD Engine — Nissan Qashqai J11 (2.0) SUV 2014-2021",
+  "subtitle": "Used MR20DD engine for Nissan Qashqai J11 2.0 SUV and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: MR20DD-USED-QASHQAI-J11",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,495",
+    "note": "12-month warranty",
+    "price": "£1,495.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Nissan MR20DD Engine — Nissan Qashqai J11 (2.0) SUV 2014-2021",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "MR20DD",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2014-2021",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "J11",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/nissan-nissan-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number in our checker above to confirm this MR20DD engine is the exact match for your vehicle.",
+  "list": [
+   "Nissan Qashqai J11 (2.0 petrol, 140-147 PS) 2014-2021"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "VAT inclusive pricing",
+   "Secure, palletised UK delivery"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system components",
+   "Ancillaries (alternator, starter motor, etc.)",
+   "Fitting and installation",
+   "ECU remapping or coding"
+  ]
+ },
+ "cta": {
+  "line": "Buy this MR20DD engine now, or view the full MR20DD range for other applications.",
+  "crossLink": "← Back to all MR20DD engines"
+ }
+}

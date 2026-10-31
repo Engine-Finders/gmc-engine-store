@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "prince-n14-n18",
+ "applicationSlug": "peugeot-rcz-4j-thp150-recon",
+ "engineCode": "EP6",
+ "condition": "recon",
+ "seo": {
+  "title": "Recon EP6 Peugeot RCZ THP150 | Engined",
+  "description": "Reconditioned EP6 engine for Peugeot RCZ 4J THP150 (150 PS) 2010–2015. £1,895 fixed price, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/prince-n14-n18/peugeot-rcz-4j-thp150-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned Prince EP6 1.6 THP Engine — Peugeot RCZ 4J THP150 2010–2015",
+  "subtitle": "SUB — Reconditioned EP6 engine for Peugeot RCZ 4J THP150 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: PRINCE-RECON-4J-THP150",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,895",
+    "note": "12-month warranty",
+    "price": "£1,895.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned Prince EP6 1.6 THP engine for Peugeot RCZ 4J THP150 2010–2015, factory-spec rebuild",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EP6",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2010–2015",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "4J",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with our registration checker before ordering — this listing covers the Peugeot RCZ 4J THP 150 (150 PS) 2010–2015.",
+  "list": [
+   "Peugeot RCZ 4J — THP 150 (150 PS) 2010–2015"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head, block and internals",
+   "Sump and timing covers"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EP6 engine now, or view the full EP6 engine range for other applications.",
+  "crossLink": "← Back to all EP6 engines"
+ }
+}

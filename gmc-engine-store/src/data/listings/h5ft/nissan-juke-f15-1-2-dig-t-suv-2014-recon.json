@@ -1,0 +1,83 @@
+{
+ "brand": "nissan",
+ "brandName": "Nissan",
+ "engineSlug": "h5ft",
+ "applicationSlug": "nissan-juke-f15-1-2-dig-t-suv-2014-recon",
+ "engineCode": "H5FT",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned Nissan H5FT Engine — Nissan Juke F15 (1.2 DIG‑T) SUV 2014‑2019 | Engined",
+  "description": "Reconditioned H5FT engine for Nissan Juke F15 1.2 DIG-T. Fixed price £1,495 (Used) or £2,500 (Recon). Tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/h5ft/nissan-juke-f15-1-2-dig-t-suv-2014-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned Nissan H5FT Engine — Nissan Juke F15 (1.2 DIG‑T) SUV 2014‑2019",
+  "subtitle": "Reconditioned H5FT engine for Nissan Juke F15 1.2 DIG-T — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: H5FT-USED-G1-JUKE",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,495",
+    "note": "12-month warranty",
+    "price": "£1,495.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "H5FT reconditioned engine for Nissan Juke F15 1.2 DIG-T, transverse turbo petrol unit, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "H5FT",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2014-2019",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F15",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/nissan-nissan-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number above to confirm this H5FT engine fits your vehicle before ordering.",
+  "list": [
+   "Nissan Juke F15 (1.2 DIG-T) 2014-2019"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "VAT included",
+   "Free UK delivery"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation",
+   "ECU remapping"
+  ]
+ },
+ "cta": {
+  "line": "Buy this H5FT engine now, or view the full H5FT engine range for other applications.",
+  "crossLink": "← Back to all H5FT engines"
+ }
+}

@@ -1,0 +1,84 @@
+{
+ "brand": "peugeot",
+ "brandName": "Peugeot",
+ "engineSlug": "eb2-puretech",
+ "applicationSlug": "vauxhall-mokka-b-1-2-puretech-130ps-suv-2022-recon",
+ "engineCode": "EB2",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned PSA EB2 Engine — Vauxhall Mokka B (1.2 PureTech 130 PS) SUV 2022-Present",
+  "description": "Reconditioned PSA EB2 engine for Vauxhall Mokka B 1.2 PureTech 130 PS — £2,500 recon or £1,450 used, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/eb2-puretech/vauxhall-mokka-b-1-2-puretech-130ps-suv-2022-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned PSA EB2 Engine — Vauxhall Mokka B (1.2 PureTech 130 PS) SUV 2022-Present",
+  "subtitle": "SUB — Reconditioned EB2 engine for Vauxhall Mokka B 1.2 PureTech 130 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EB2-RECON-MOKKAB-130PS",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,500",
+    "note": "12-month warranty",
+    "price": "£2,500.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned PSA EB2 1.2 PureTech 130 PS engine for Vauxhall Mokka B, transverse mount, wet-belt timing",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EB2",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2022–Present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Mokka B",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your registration with our reg-checker to guarantee fitment before ordering this engine.",
+  "list": [
+   "Vauxhall Mokka B (1.2 PureTech 130 PS) 2022–Present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (block, head, sump, timing cover)",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New gaskets and seals fitted",
+   "Oil pump and water pump checked and replaced if needed",
+   "Compression and leak-down test results supplied"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, air conditioning compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EB2 engine now, or view the full EB2 engine range for other applications.",
+  "crossLink": "← Back to all EB2 engines"
+ }
+}

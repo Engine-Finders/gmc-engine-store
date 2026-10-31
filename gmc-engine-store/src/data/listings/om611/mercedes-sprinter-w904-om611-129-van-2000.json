@@ -1,0 +1,96 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "om611",
+ "applicationSlug": "mercedes-sprinter-w904-om611-129-van-2000",
+ "engineCode": "OM611",
+ "condition": "used",
+ "seo": {
+  "title": "Used OM611 2.2 CDI Engine — Sprinter W904 (414 CDI, 129 PS) 2000–2006",
+  "description": "Used OM611 2.2 CDI diesel engine for Sprinter W904 414 CDI 129 PS vans, 2000–2006. Fixed price £1,495 in stock with 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/om611/mercedes-sprinter-w904-om611-129-van-2000/"
+ },
+ "hero": {
+  "title": "Used OM611 2.2 CDI Engine — Sprinter W904 (414 CDI, 129 PS) 2000–2006",
+  "subtitle": "Used OM611 engine for Sprinter W904 414 CDI 129 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: OM611-USED-G4-W904-414-129",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,495",
+    "note": "12-month warranty",
+    "price": "£1,495.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,400",
+    "note": "12-month warranty",
+    "price": "£2,400.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Mercedes-Benz OM611 2.2 CDI engine for Sprinter W904 414 CDI 129 PS van, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "OM611",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2000–2006",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W904",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-mercedes-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration with our reg checker to confirm this OM611 fits your Sprinter W904 before ordering.",
+  "list": [
+   "Sprinter W904 (Van — 414 CDI, 129 PS — OM611 — Longitudinal) 2000–2006"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Sump and timing cover"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this OM611 engine now, or view the full OM611 engine range for other applications.",
+  "crossLink": "← Back to all OM611 engines"
+ }
+}

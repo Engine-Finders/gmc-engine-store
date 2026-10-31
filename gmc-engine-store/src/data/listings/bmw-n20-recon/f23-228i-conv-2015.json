@@ -1,0 +1,92 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n20-recon",
+ "applicationSlug": "f23-228i-conv-2015",
+ "engineCode": "N20B20",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned BMW N20 Engine — F23 228i Convertible 2015‑2016",
+  "description": "BMW N20B20 · Reconditioned · F23 228i Convertible · £2,640 · 12-month warranty · UK delivery. Fully rebuilt high‑output with EU6 compliance.",
+  "canonical": "https://engined.co.uk/engines/bmw-n20-recon/f23-228i-conv-2015/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW N20 Engine — 2 Series F23 (228i) Convertible 2015‑2016",
+  "subtitle": "Reconditioned N20B20 high‑output engine for F23 228i Convertible — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N20-RECON-F23-228I-FL",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,640",
+    "note": "12-month warranty",
+    "price": "£2,640.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned BMW N20B20 high‑output engine for F23 228i Convertible, EU6 compliant with new timing",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N20B20",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2015‑2016",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F23",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "This reconditioned BMW N20 engine fits the 2 Series F23 228i Convertible (2015–2016). Use our free reg-checker to confirm exact compatibility.",
+  "list": [
+   "BMW 2 Series (F23) 228i (245 PS) Convertible 2015‑2016"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch",
+   "12-month warranty as standard",
+   "Full service history check",
+   "Pressure and compression tested",
+   "Oil and filter change",
+   "Timing chain, guides and tensioner renewed (EU6 compliance verified)"
+  ],
+  "excluded": [
+   "Turbocharger (reusable if in good condition)",
+   "Injectors / fuel system",
+   "Ancillaries (alternator, starter, AC compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N20B20 engine now, or view the full BMW N20 Reconditioned engine range for other applications.",
+  "crossLink": "← Back to all BMW N20 Reconditioned engines"
+ }
+}

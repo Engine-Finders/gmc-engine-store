@@ -1,0 +1,91 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "b38",
+ "applicationSlug": "bmw-1-series-f40-116i-hatchback-2019",
+ "engineCode": "B38",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW B38 Engine — 1 Series F40 (116i) Hatchback 2019-present",
+  "description": "BMW B38 · used · 1 Series F40 116i (109hp) · UK delivery · £1,705 · 12‑month warranty · fully tested before dispatch",
+  "canonical": "https://engined.co.uk/engines/b38/bmw-1-series-f40-116i-hatchback-2019/"
+ },
+ "hero": {
+  "title": "Used BMW B38 Engine — 1 Series F40 (116i) Hatchback 2019-present",
+  "subtitle": "Used B38 engine for 1 Series F40 116i (109hp) — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: B38-USED-F40-116I-HATCH",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,705",
+    "note": "12-month warranty",
+    "price": "£1,705.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW B38 engine for 1 Series F40 116i hatchback — longitudinal mounting",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "B38",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2019-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F40",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-b38-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "This B38 engine is confirmed for the BMW 1 Series F40 116i — use our registration checker to verify exact compatibility.",
+  "list": [
+   "1 Series Hatchback (F40) 2019-present — 116i (109 hp)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Compression and leak-down testing",
+   "Oil and filter service",
+   "Full inspection report"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter, AC compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this B38 engine now, or view the full B38 engine range for other applications.",
+  "crossLink": "← Back to all B38 engines"
+ }
+}

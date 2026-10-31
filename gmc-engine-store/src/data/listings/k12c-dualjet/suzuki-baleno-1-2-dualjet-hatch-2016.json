@@ -1,0 +1,83 @@
+{
+ "brand": "suzuki",
+ "brandName": "Suzuki",
+ "engineSlug": "k12c-dualjet",
+ "applicationSlug": "suzuki-baleno-1-2-dualjet-hatch-2016",
+ "engineCode": "K12C",
+ "condition": "used",
+ "seo": {
+  "title": "Used Suzuki K12C Engine — Baleno 1.2 Dualjet 2016-2020",
+  "description": "Used K12C engine for Suzuki Baleno FW/EW 1.2 Dualjet 2016-2020. £520, 12-month warranty, tested before dispatch, UK delivery. In stock, ready to ship.",
+  "canonical": "https://engined.co.uk/engines/k12c-dualjet/suzuki-baleno-1-2-dualjet-hatch-2016/"
+ },
+ "hero": {
+  "title": "Used Suzuki K12C Engine — Suzuki Baleno (1.2 Dualjet) Hatchback 2016-2020",
+  "subtitle": "SUB — Used K12C engine for Suzuki Baleno FW/EW 1.2 Dualjet — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: K12C-USED-BALENO",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £520",
+    "note": "12-month warranty",
+    "price": "£520.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Suzuki K12C engine for Suzuki Baleno 1.2 Dualjet FW/EW hatchback, 4-cylinder petrol, tested before dispatch",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "K12C",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2016-2020",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "FW, EW",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our reg checker to confirm your Suzuki Baleno 1.2 Dualjet before ordering — this K12C engine fits the application listed below.",
+  "list": [
+   "Suzuki Baleno FW/EW (1.2 Dualjet 90 PS) 2016-2020"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New gaskets and seals",
+   "Oil and filter service components"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this K12C engine now, or view full K12C range for other fits.",
+  "crossLink": "← Back to all K12C engines"
+ }
+}

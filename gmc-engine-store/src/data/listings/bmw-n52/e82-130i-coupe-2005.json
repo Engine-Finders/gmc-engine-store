@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n52",
+ "applicationSlug": "e82-130i-coupe-2005",
+ "engineCode": "N52",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW N52 Engine — 1 Series E82 (130i) Coupe 2005‑2011",
+  "description": "In stock used BMW N52 engine for 1 Series E82 130i Coupe 2005-2011. N52B30 3.0L I6, 265 PS, £1,605 fixed price, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/bmw-n52/e82-130i-coupe-2005/"
+ },
+ "hero": {
+  "title": "Used BMW N52 Engine — 1 Series E82 (130i) Coupe 2005‑2011",
+  "subtitle": "Used N52 engine for 1 Series E82 130i Coupe — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N52-USED-E82-130I",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,605",
+    "note": "12-month warranty",
+    "price": "£1,605.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW N52 engine for 1 Series E82 130i Coupe, N52B30 3.0L I6, 265 PS, tested, 12-month warranty.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N52",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2005‑2011",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E82",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration to confirm this N52 engine fits your BMW 1 Series E82 130i Coupe before ordering.",
+  "list": [
+   "BMW 1 Series (E82) 2005‑2011 — 130i (265 PS) Coupe"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head, camshafts and valves",
+   "Sump and timing covers"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N52 engine now, or view the full N52 engine range for other applications.",
+  "crossLink": "← Back to all N52 engines"
+ }
+}

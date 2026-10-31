@@ -1,0 +1,83 @@
+{
+ "brand": "suzuki",
+ "brandName": "Suzuki",
+ "engineSlug": "boosterjet",
+ "applicationSlug": "suzuki-s-cross-1-4-boosterjet-hybrid-suv-2020",
+ "engineCode": "K14D",
+ "condition": "used",
+ "seo": {
+  "title": "Used Suzuki K14D Engine — S-Cross (1.4 Boosterjet 48V Hybrid) SUV 2020-Present | Engined",
+  "description": "Used Suzuki K14D engine for S-Cross 1.4 Boosterjet 48V Hybrid — £1,075, tested before dispatch, 12-month warranty, UK delivery. In stock.",
+  "canonical": "https://engined.co.uk/engines/boosterjet/suzuki-s-cross-1-4-boosterjet-hybrid-suv-2020/"
+ },
+ "hero": {
+  "title": "Used Suzuki K14D Engine — S-Cross (1.4 Boosterjet 48V Hybrid) SUV 2020-Present",
+  "subtitle": "Used K14D engine for S-Cross 1.4 Boosterjet 48V Hybrid — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: K14D-USED-SCROSS",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,075",
+    "note": "12-month warranty",
+    "price": "£1,075.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Suzuki K14D 1.4 Boosterjet 48V Hybrid engine for S-Cross, transverse mount",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "K14D",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2020-Present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "S-Cross",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol Hybrid",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration below to confirm your Suzuki S-Cross takes the K14D 1.4 Boosterjet Hybrid engine before you buy.",
+  "list": [
+   "Suzuki S-Cross — 1.4 Boosterjet 48V Hybrid (129 PS), K14D, transverse — 2020–Present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New gaskets and seals fitted",
+   "UK delivery included"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this K14D engine now, or view the full K14D engine range for other applications.",
+  "crossLink": "← Back to all K14D engines"
+ }
+}

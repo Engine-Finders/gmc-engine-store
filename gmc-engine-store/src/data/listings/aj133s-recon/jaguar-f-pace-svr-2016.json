@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "aj133s-recon",
+ "applicationSlug": "jaguar-f-pace-svr-2016",
+ "engineCode": "AJ133S",
+ "condition": "recon",
+ "seo": {
+  "title": "Recon 5.0 V8 Engine — Jaguar F-Pace X761 SVR (AJ133S) 2016-present",
+  "description": "Reconditioned AJ133S 5.0 supercharged V8 engine for the Jaguar F-Pace X761 SVR (2016-present), 550 PS. £7,590 with 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/aj133s-recon/jaguar-f-pace-svr-2016/"
+ },
+ "hero": {
+  "title": "Recon 5.0 V8 Engine — Jaguar F-Pace X761 SVR (AJ133S) 2016-present",
+  "subtitle": "Reconditioned AJ133S engine for the Jaguar F-Pace X761 SVR — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: AJ133S-RECON-FPACE-SVR",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £7,590",
+    "note": "12-month warranty",
+    "price": "£7,590.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned AJ133S 5.0 supercharged V8 engine for Jaguar F-Pace X761 SVR, 550 PS, 2016-present",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJ133S",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2016-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X761",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration below to confirm this reconditioned AJ133S engine fits your Jaguar F-Pace X761 SVR before you buy.",
+  "list": [
+   "Jaguar F-Pace X761 (SVR — 5.0 Supercharged AJ133S, 550 PS) 2016–present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New gaskets and seals fitted",
+   "Engine oil and filter"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this AJ133S engine now, or view the full AJ133S engine range for other applications.",
+  "crossLink": "← Back to all AJ133S engines"
+ }
+}

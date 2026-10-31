@@ -1,0 +1,83 @@
+{
+ "brand": "peugeot",
+ "brandName": "Peugeot",
+ "engineSlug": "dw10",
+ "applicationSlug": "peugeot-expert-2-0-hdi-van-2003",
+ "engineCode": "PSA DW10",
+ "condition": "used",
+ "seo": {
+  "title": "Used DW10 Engine — Peugeot Expert (2.0 HDi) Van 2003-2016",
+  "description": "Used DW10 engine for Peugeot Expert 2.0 HDi Van (120-163 PS), 2003-2016. Fixed price £1,495, recon from £2,195. 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/dw10/peugeot-expert-2-0-hdi-van-2003/"
+ },
+ "hero": {
+  "title": "Used DW10 Engine — Peugeot Expert (2.0 HDi) Van 2003-2016",
+  "subtitle": "SUB — Used DW10 engine for Peugeot Expert 2.0 HDi (120-163 PS) Van — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: DW10-USED-EXPERT-HDI",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,495",
+    "note": "12-month warranty",
+    "price": "£1,495.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used DW10 engine for Peugeot Expert 2.0 HDi Van 2003-2016, commercial spec, transverse mount, tested.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "PSA DW10",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2003-2016",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Expert",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration to confirm fitment before ordering — this listing covers the Peugeot Expert 2.0 HDi applications below.",
+  "list": [
+   "Peugeot Expert (2.0 HDi 120-163 PS, commercial spec) 2003-2016"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New timing belt where applicable",
+   "New gaskets and seals"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this DW10 engine now, or view the full DW10 engine range for other applications.",
+  "crossLink": "← Back to all DW10 engines — links to https://engined.co.uk/engines/dw10"
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "brand": "peugeot",
+ "brandName": "Peugeot",
+ "engineSlug": "ecotec-family-0",
+ "applicationSlug": "vauxhall-agila-b-1-0-mpv-2003",
+ "engineCode": "ECOTEC FAMILY 0",
+ "condition": "used",
+ "seo": {
+  "title": "Used Vauxhall Ecotec Engine — Agila B (1.0) MPV 2003-2014",
+  "description": "Used Ecotec Family 0 engine for Vauxhall Agila B (1.0) MPV 2003-2014. Code Z10XEP. £805 with 12-month warranty and UK delivery. In stock, ready to ship.",
+  "canonical": "https://engined.co.uk/engines/ecotec-family-0/vauxhall-agila-b-1-0-mpv-2003/"
+ },
+ "hero": {
+  "title": "Used Vauxhall Ecotec Engine — Agila B (1.0) MPV 2003-2014",
+  "subtitle": "Used Ecotec Family 0 engine for Vauxhall Agila B (1.0) MPV — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: ECOFAM0-USED-AGILA-B-10",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £805",
+    "note": "12-month warranty",
+    "price": "£805.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Ecotec Family 0 1.0L engine for Vauxhall Agila B MPV, transverse-mounted, chain-driven petrol.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "Ecotec Family 0",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2003-2014",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Agila B",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "This Ecotec Family 0 engine fits the vehicles below. Use our registration checker to confirm compatibility with your model.",
+  "list": [
+   "Vauxhall Agila B (1.0 60-65 PS, Z10XEP) 2003-2014"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (block, cylinder head, sump, and internals)",
+   "Fully tested and reconditioned before dispatch",
+   "12-month warranty as standard",
+   "New timing chain and tensioner kit",
+   "New gaskets and seals"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, A/C compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this Ecotec engine now, or view the full Ecotec engine range for other applications.",
+  "crossLink": "← Back to all Ecotec engines"
+ }
+}

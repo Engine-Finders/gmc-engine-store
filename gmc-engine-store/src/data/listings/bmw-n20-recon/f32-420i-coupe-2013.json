@@ -1,0 +1,91 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n20-recon",
+ "applicationSlug": "f32-420i-coupe-2013",
+ "engineCode": "N20B20",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned BMW N20 Engine — 4 Series F32 (420i) Coupe 2013‑2015",
+  "description": "N20B20 · reconditioned · fits 4 Series F32 420i Coupe · £2,395 · 12-month warranty · UK delivery.",
+  "canonical": "https://engined.co.uk/engines/bmw-n20-recon/f32-420i-coupe-2013/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW N20 Engine — 4 Series F32 (420i) Coupe 2013‑2015",
+  "subtitle": "Reconditioned N20B20 standard-output engine for BMW 4 Series F32 420i Coupe — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N20-RECON-F32-420I-PREFL",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,395",
+    "note": "12-month warranty",
+    "price": "£2,395.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned BMW N20B20 engine for 4 Series F32 420i Coupe 2013-2015",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N20B20",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2013-2015",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F32",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration for a guaranteed fitment check, or see the list of compatible models below.",
+  "list": [
+   "BMW 4 Series (F32) 2013‑2015 — 420i (184 PS) Coupe"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch",
+   "12-month warranty as standard",
+   "OEM-spec gaskets and seals",
+   "Oil and filter service",
+   "Full inspection report"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries (e.g., alternator, starter motor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N20B20 engine now, or view the full BMW N20 engine range for other applications.",
+  "crossLink": "← Back to all BMW N20 engines"
+ }
+}

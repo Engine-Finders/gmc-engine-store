@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n53",
+ "applicationSlug": "e60-523i-saloon-2007",
+ "engineCode": "N53",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW N53 Engine 5 Series E60 523i Saloon 2007‑2010",
+  "description": "Used BMW N53 engine for BMW 5 Series E60 523i N53 Saloon 2007‑2010. Fixed £1,395, tested before dispatch, 12-month warranty and UK delivery. Recon £1,895.",
+  "canonical": "https://engined.co.uk/engines/bmw-n53/e60-523i-saloon-2007/"
+ },
+ "hero": {
+  "title": "Used BMW N53 Engine — 5 Series E60 (523i N53) Saloon 2007‑2010",
+  "subtitle": "Used BMW N53 engine for BMW 5 Series E60 523i N53 Saloon — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N52-USED-E60-523I-N53-FL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,395",
+    "note": "12-month warranty",
+    "price": "£1,395.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW N53 engine for BMW 5 Series E60 523i N53 Saloon 2007‑2010, LCI N53B25 direct-injection.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "BMW N53",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2007‑2010",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E60",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your registration with our reg checker before ordering to ensure this BMW N53 engine matches your E60 523i Saloon.",
+  "list": [
+   "BMW 5 Series (E60) 523i N53 (177 PS) Saloon 2007‑2010"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Sump and timing covers"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this BMW N53 engine now, or view the full BMW N53 range.",
+  "crossLink": "← Back to all BMW N53 engines"
+ }
+}

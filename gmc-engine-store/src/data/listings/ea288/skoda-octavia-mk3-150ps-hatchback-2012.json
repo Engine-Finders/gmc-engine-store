@@ -1,0 +1,91 @@
+{
+ "brand": "volkswagen",
+ "brandName": "Volkswagen",
+ "engineSlug": "ea288",
+ "applicationSlug": "skoda-octavia-mk3-150ps-hatchback-2012",
+ "engineCode": "EA288",
+ "condition": "used",
+ "seo": {
+  "title": "Used EA288 Engine — Škoda Octavia Mk3 (2.0 TDI 150 PS) Hatchback 2012-2020 | Engined",
+  "description": "",
+  "canonical": "https://engined.co.uk/engines/ea288/skoda-octavia-mk3-150ps-hatchback-2012/"
+ },
+ "hero": {
+  "title": "Used EA288 Engine — Škoda Octavia Mk3 (2.0 TDI 150 PS) Hatchback 2012-2020",
+  "subtitle": "Used EA288 engine for Škoda Octavia Mk3 150 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA288-USED-OCTAVIA-MK3-150-HATCH",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,525",
+    "note": "12-month warranty",
+    "price": "£1,525.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used EA288 2.0 TDI 150 PS transverse MQB diesel engine, Škoda Octavia Mk3 spec, shown as removed",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA288",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2012-2020",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "5E",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/volkswagen-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/volkswagen-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/vw-2-0-tdi-common-rail-and-later-ea288-engine.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration against the list below to confirm this EA288 engine matches your Octavia before ordering.",
+  "list": [
+   "Škoda Octavia Mk3 5E (2.0 TDI 150 PS) 2012-2020",
+   "Škoda Octavia Mk3 5E (Hatchback) 2012-2020"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Fully drained and sealed for transport",
+   "New gaskets and seals where applicable"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA288 engine now, or view the full EA288 engine range for other applications.",
+  "crossLink": "← Back to all EA288 engines"
+ }
+}

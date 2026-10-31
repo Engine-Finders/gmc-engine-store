@@ -1,0 +1,93 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "b38",
+ "applicationSlug": "bmw-x2-u10-sdrive18i-suv-2023-recon",
+ "engineCode": "B38",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned BMW B38 Engine — X2 U10 sDrive18i | Engined",
+  "description": "BMW B38 · reconditioned · X2 U10 sDrive18i, X1 F48/U11/U12, X2 F39/U10 · £2,430 · 12-month warranty · UK delivery.",
+  "canonical": "https://engined.co.uk/engines/b38/bmw-x2-u10-sdrive18i-suv-2023-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW B38 Engine — X2 U10 (sDrive18i) SUV 2023-present",
+  "subtitle": "<p><strong>Reconditioned B38 engine for X2 U10 sDrive18i, X1 F48/U11/U12, X2 F39/U10 and more — fixed price, tested before dispatch, UK delivery.</strong></p>",
+  "sku": "SKU: B38-RECON-U10-SDRIVE18I-SUV",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,430",
+    "note": "12-month warranty",
+    "price": "£2,430.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned BMW B38 Engine — X2 U10 (sDrive18i) SUV 2023-present",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "B38",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2023-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F48, U11, U12, F39, U10",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-b38-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "<p>Check your registration or use the list below — this B38 engine is confirmed for the following applications:</p>",
+  "list": [
+   "X1 (F48) — all variants (2015-2022)",
+   "X1 (U11) — all variants (2022-present)",
+   "X1 (U12) — all variants (2023-present)",
+   "X2 (F39) — all variants (2018-2023)",
+   "X2 (U10) — sDrive18i (2023-present)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch on our dyno",
+   "12-month warranty as standard",
+   "Full service history documented",
+   "Oil, filters, and spark plugs fitted",
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter, etc.)",
+   "Fitting and installation"
+  ],
+  "excluded": []
+ },
+ "cta": {
+  "line": "<p>Buy this B38 engine now, or <a href=\"https://engined.co.uk/engines/b38/\">view the full B38 engine range</a> for other applications.</p>",
+  "crossLink": "← Back to all B38 engines</a></p>"
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "ajd200",
+ "applicationSlug": "jaguar-xf-x260-aj20d6-30d-estate-2017",
+ "engineCode": "AJD200",
+ "condition": "used",
+ "seo": {
+  "title": "AJ20D6 3.0 Diesel Engine — Jaguar XF X260 30d | Engined",
+  "description": "AJ20D6 3.0 Diesel engine · Used & Reconditioned · Fits Jaguar XF X260 Sportbrake 30d (2017-2020) · £3,495 · 12-month warranty, tested, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/ajd200/jaguar-xf-x260-aj20d6-30d-estate-2017/"
+ },
+ "hero": {
+  "title": "AJ20D6 3.0 Diesel Engine — Jaguar XF X260 Sportbrake 30d (2017–2020)",
+  "subtitle": "Used and reconditioned AJD200 engine for Jaguar XF X260 Sportbrake 30d — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: AJD200-PEND-XF-SW-30D-1720",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £3,495",
+    "note": "12-month warranty",
+    "price": "£3,495.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "AJ20D6 3.0 Diesel engine for Jaguar XF X260 Sportbrake 30d, tested and ready for dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJD200",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2017–2020",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X260",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your registration to verify exact fitment for your Jaguar XF X260 Sportbrake 30d before ordering this AJD200 engine.",
+  "list": [
+   "Jaguar XF X260 Sportbrake (30d) 2017–2020"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Free UK mainland delivery",
+   "Core charge refund upon return of old unit"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this AJD200 engine now, or view the full AJD200 engine range for other applications.",
+  "crossLink": "← Back to all AJD200 engines"
+ }
+}

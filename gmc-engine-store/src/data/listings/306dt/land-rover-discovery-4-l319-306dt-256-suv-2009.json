@@ -1,0 +1,91 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "306dt",
+ "applicationSlug": "land-rover-discovery-4-l319-306dt-256-suv-2009",
+ "engineCode": "306DT",
+ "condition": "used",
+ "seo": {
+  "title": "Used 306DT Engine Discovery 4 L319 256 PS | Engined",
+  "description": "Used 306DT engine for Discovery 4 L319 (256 PS). Fixed price £2,870. Tested before dispatch, includes a 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/306dt/land-rover-discovery-4-l319-306dt-256-suv-2009/"
+ },
+ "hero": {
+  "title": "Used 306DT TDV6 Engine - Discovery 4 L319 (256 PS, Single-Turbo) 2009-2017",
+  "subtitle": "Used 306DT engine for Discovery 4 L319 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 306DT-USED-DISCO4-L319-256",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,870",
+    "note": "12-month warranty",
+    "price": "£2,870.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Land Rover 306DT TDV6 engine for Discovery 4 L319 256 PS, tested and ready for UK delivery.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "306DT",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2009–2017",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L319",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number in our checker above to confirm this 306DT engine fits your Land Rover Discovery 4 L319.",
+  "list": [
+   "Discovery 4 L319 (3.0 TDV6 256 PS SUV) 2009–2017"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "OEM-spec gaskets and seals",
+   "Cleaned and degreased block",
+   "Full compression test report"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 306DT engine now, or view the full 306DT range for other applications.",
+  "crossLink": "← Back to all 306DT engines"
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "td5-recon",
+ "applicationSlug": "defender-90-pickup-10p-1998",
+ "engineCode": "TD5",
+ "condition": "recon",
+ "seo": {
+  "title": "Recon Td5 Engine — Defender 90 Pickup (10P) 1998-2002",
+  "description": "Recon Td5 engine for Land Rover Defender 90 Pickup (10P) 1998–2002 — £6,093. Tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/td5-recon/defender-90-pickup-10p-1998/"
+ },
+ "hero": {
+  "title": "Recon Td5 Engine — Defender 90 Pickup (10P) 1998-2002",
+  "subtitle": "!Recon Land Rover Td5 2.5 I5 turbo diesel engine for Defender 90 Pickup 10P 1998-2002",
+  "sku": "SKU: TD5-RECON-DEF90-PICKUP-10P",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £6,093",
+    "note": "12-month warranty",
+    "price": "£6,093.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Recon Td5 Engine — Defender 90 Pickup (10P) 1998-2002",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "Td5",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "1998-2002",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L316",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your Defender 90 Pickup fitment in seconds — enter your registration number below or check the compatible models list.",
+  "list": [
+   "Defender 90 L316 (Pickup 10P) 1998-2002"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Fresh oil and filter",
+   "Compression test certificate"
+  ],
+  "excluded": [
+   "Turbocharger (reusable if serviceable per condition)",
+   "Injectors / fuel system",
+   "Ancillaries (alternator, starter, power steering pump)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this Td5 engine now, or view the full Td5 range for other applications.",
+  "crossLink": "← Back to all Td5 engines"
+ }
+}

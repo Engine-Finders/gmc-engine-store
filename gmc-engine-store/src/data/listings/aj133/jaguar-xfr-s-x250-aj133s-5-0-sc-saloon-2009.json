@@ -1,0 +1,96 @@
+{
+ "brand": "jaguar",
+ "brandName": "Jaguar",
+ "engineSlug": "aj133",
+ "applicationSlug": "jaguar-xfr-s-x250-aj133s-5-0-sc-saloon-2009",
+ "engineCode": "AJ133S",
+ "condition": "used",
+ "seo": {
+  "title": "Used Jaguar AJ133S 5.0 V8 Supercharged Engine — XF (X250) XFR-S Saloon 2009-2015 | Engined",
+  "description": "Used AJ133S Jaguar 5.0 V8 supercharged engine for XF (X250) XFR-S Saloon. £3,680 used, £5,980 reconditioned, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/aj133/jaguar-xfr-s-x250-aj133s-5-0-sc-saloon-2009/"
+ },
+ "hero": {
+  "title": "Used Jaguar AJ133S 5.0 V8 Supercharged Engine — XF (X250) XFR-S Saloon 2009-2015",
+  "subtitle": "Used AJ133S engine for XF (X250) XFR-S Saloon 550 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: AJ133-USED-XF-X250-XFRS-SC-SALOON",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £3,680",
+    "note": "12-month warranty",
+    "price": "£3,680.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £5,980",
+    "note": "12-month warranty",
+    "price": "£5,980.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Jaguar AJ133S 5.0 V8 supercharged engine for XF X250 XFR-S Saloon, used condition",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJ133S",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2009-2015",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X250",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/jaguar-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/jaguar-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jlr-aj133-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration in our reg checker to confirm this AJ133S engine fits your XF (X250) XFR-S Saloon.",
+  "list": [
+   "XF (X250) 2009-2015 — XFR-S 5.0 Supercharged (550 PS) Saloon"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Sump and timing cover"
+  ],
+  "excluded": [
+   "Supercharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this AJ133S engine now, or view the full AJ133S engine range for other applications.",
+  "crossLink": "← Back to all AJ133S engines"
+ }
+}

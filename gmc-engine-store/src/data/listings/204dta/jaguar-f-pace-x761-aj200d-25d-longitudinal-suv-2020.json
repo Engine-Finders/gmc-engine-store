@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "204dta",
+ "applicationSlug": "jaguar-f-pace-x761-aj200d-25d-longitudinal-suv-2020",
+ "engineCode": "204DTA",
+ "condition": "used",
+ "seo": {
+  "title": "AJ200D 2.0 Diesel Engine — Jaguar F-Pace X761 25d",
+  "description": "204DTA AJ200D 2.0 Diesel engine · Used & Reconditioned · Fits Jaguar F-Pace X761 25d (2020-present) · £3,560 · 12-month warranty, tested, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/204dta/jaguar-f-pace-x761-aj200d-25d-longitudinal-suv-2020/"
+ },
+ "hero": {
+  "title": "AJ200D 2.0 Diesel Engine — Jaguar F-Pace X761 25d (2020–present)",
+  "subtitle": "Used & Reconditioned 204DTA engine for Jaguar F-Pace X761, 25d and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 204DTA-PEND-FPACE-25D-2020",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £3,560",
+    "note": "12-month warranty",
+    "price": "£3,560.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "204DTA AJ200D 2.0 Diesel engine for Jaguar F-Pace X761 25d, tested and ready for dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "204DTA",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2020–present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X761",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your registration to verify exact fitment for your Jaguar F-Pace X761 25d before ordering this 204DTA engine.",
+  "list": [
+   "Jaguar F-Pace X761 (25d) 2020–present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Free UK mainland delivery",
+   "Core charge refund upon return of old unit"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 204DTA engine now, or view the full range for other applications.",
+  "crossLink": "← Back to all 204DTA engines"
+ }
+}

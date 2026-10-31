@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "aj-v8-5-0",
+ "applicationSlug": "land-rover-defender-l663-508ps-525-suv-2022",
+ "engineCode": "508PS",
+ "condition": "used",
+ "seo": {
+  "title": "Used 508PS 5.0 V8 Engine — Defender V8 L663 (SC, 525hp) 2022–present | Engined",
+  "description": "Used 508PS 5.0 V8 engine for Defender V8 L663 (SC, 525hp) 2022–present. £5,560 fixed price, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/aj-v8-5-0/land-rover-defender-l663-508ps-525-suv-2022/"
+ },
+ "hero": {
+  "title": "Used 508PS 5.0 V8 Engine — Defender V8 L663 (SC, 525hp) 2022–present",
+  "subtitle": "Used 508PS engine for Defender V8 L663 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 508PS-USED-DEFENDER-525-2022-2",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £5,560",
+    "note": "12-month warranty",
+    "price": "£5,560.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Land Rover 508PS 5.0 V8 supercharged engine for Defender V8 L663 525hp 2022–present",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "508PS",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2022–present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L663",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your reg before buying — this used 508PS 5.0 V8 engine fits the Defender V8 L663 applications listed below.",
+  "list": [
+   "Defender V8 L663 (SUV — 5.0 V8 SC 525hp — 508PS code) 2022–present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Sump and timing cover"
+  ],
+  "excluded": [
+   "Supercharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 508PS engine now, or view the full 508PS engine range for other applications.",
+  "crossLink": "← Back to all 508PS engines"
+ }
+}

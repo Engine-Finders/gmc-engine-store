@@ -1,0 +1,90 @@
+{
+ "brand": "audi",
+ "brandName": "Audi",
+ "engineSlug": "ea189",
+ "applicationSlug": "audi-a4-b8-143hp-saloon-recon",
+ "engineCode": "EA189",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned EA189 2.0 TDI Engine — Audi A4 B8 (143 hp) Saloon 2008-2015",
+  "description": "EA189 Reconditioned 2.0 TDI engine for Audi A4 B8 (143 hp). Fixed price £2,200, fully tested before dispatch, 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/ea189/audi-a4-b8-143hp-saloon-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned EA189 2.0 TDI Engine — Audi A4 B8 (143 hp) Saloon 2008-2015",
+  "subtitle": "Reconditioned EA189 engine for Audi A4 B8 (143 hp) — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA189-RECON-A4-B8-143",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,200",
+    "note": "12-month warranty",
+    "price": "£2,200.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "EA189 2.0 TDI Reconditioned engine for Audi A4 B8 143hp, complete long-block with new timing belt kit.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA189",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2008-2015",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "B8",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/audi-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/audi-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/audi-audi-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your registration below to ensure exact fitment for your Audi A4 Saloon (B8) 2008-2015 before purchasing.",
+  "list": [
+   "Audi A4 Saloon (B8) (2008-2015)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete long-block engine assembly",
+   "New timing belt kit (belt, tensioner, water pump)",
+   "Cylinder head rebuild",
+   "Tested before dispatch",
+   "12-month warranty as standard"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA189 engine now, or view the full EA189 engine range for other applications.",
+  "crossLink": "← Back to all EA189 engines"
+ }
+}

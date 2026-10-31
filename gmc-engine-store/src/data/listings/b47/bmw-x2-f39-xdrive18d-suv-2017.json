@@ -1,0 +1,91 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "b47",
+ "applicationSlug": "bmw-x2-f39-xdrive18d-suv-2017",
+ "engineCode": "B47",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW B47 Engine — X2 F39 (xDrive18d) SUV 2017-2024",
+  "description": "BMW B47 · used · X2 SUV (F39) xDrive18d · £1,795 · 12-month warranty · UK delivery — transverse UKL platform engine, tested before dispatch.",
+  "canonical": "https://engined.co.uk/engines/b47/bmw-x2-f39-xdrive18d-suv-2017/"
+ },
+ "hero": {
+  "title": "Used BMW B47 Engine — X2 F39 (xDrive18d) SUV 2017-2024",
+  "subtitle": "Used B47 engine for X2 SUV (F39) xDrive18d — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: B47-USED-UKL-F39-XDRIVE18D",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,795",
+    "note": "12-month warranty",
+    "price": "£1,795.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "BMW B47 diesel engine — transverse UKL platform — complete assembly for X2 F39 xDrive18d, tested and ready for dispatch",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "B47",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2017-2024",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F39",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-b47-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "This transverse‑mounted B47 engine fits UKL‑platform BMW models. Use our free reg‑checker to confirm compatibility with your specific vehicle before ordering.",
+  "list": [
+   "X2 SUV (F39) 2017-2024 — xDrive18d (150 hp)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested‑before‑dispatch with compression and leak‑down checks",
+   "12‑month warranty as standard",
+   "Full UK delivery with tracking",
+   "Professional packaging",
+   "Technical support and fitting guidance"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter, AC compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this B47 engine now, or view the full B47 engine range for other applications.",
+  "crossLink": "← Back to all B47 engines"
+ }
+}

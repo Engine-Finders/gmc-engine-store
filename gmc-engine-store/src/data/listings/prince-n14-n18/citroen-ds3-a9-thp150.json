@@ -1,0 +1,96 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "prince-n14-n18",
+ "applicationSlug": "citroen-ds3-a9-thp150",
+ "engineCode": "EP6",
+ "condition": "used",
+ "seo": {
+  "title": "Used Prince EP6 1.6 THP Engine — Citroën DS3 A9 THP150 2009–2015",
+  "description": "Used EP6 Prince 1.6 THP engine for Citroën DS3 A9 THP 150 (2009–2015). £1,095 fixed price, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/prince-n14-n18/citroen-ds3-a9-thp150/"
+ },
+ "hero": {
+  "title": "Used Prince EP6 1.6 THP Engine — Citroën DS3 A9 THP150 2009–2015",
+  "subtitle": "Used EP6 engine for Citroën DS3 A9 THP 150 (2009–2015) — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: PRINCE-USED-A9-DS3-THP150",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,095",
+    "note": "12-month warranty",
+    "price": "£1,095.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,895",
+    "note": "12-month warranty",
+    "price": "£1,895.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used EP6 Prince 1.6 THP turbo petrol engine, Citroën DS3 A9 THP 150, 2009–2015",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EP6",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2009–2015",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "A9",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration below to confirm fitment — every application this EP6 engine covers is listed here.",
+  "list": [
+   "Citroën DS3 A9 (THP 150 — 150 PS) 2009–2015"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly — cylinder head, block, crankshaft, pistons and con-rods",
+   "Fully tested before dispatch",
+   "12-month warranty as standard",
+   "Sump, timing cover and cam cover fitted",
+   "Oil pump, gaskets and seals"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, air conditioning compressor, power steering pump)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EP6 engine now, or view the full EP6 engine range for other applications.",
+  "crossLink": "← Back to all EP6 engines"
+ }
+}

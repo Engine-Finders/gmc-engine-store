@@ -1,0 +1,90 @@
+{
+ "brand": "jaguar",
+ "brandName": "Jaguar",
+ "engineSlug": "aj-v6-x-type",
+ "applicationSlug": "jaguar-x-type-x400-2-1-v6-petrol-fwd-2002",
+ "engineCode": "AJ-V6",
+ "condition": "used",
+ "seo": {
+  "title": "Used Jaguar AJ-V6 2.1 V6 Engine — X-Type X400 | Engined",
+  "description": "Used AJ-V6 2.1 V6 petrol engine for Jaguar X-Type (X400) FWD Saloon. Fixed price £695, tested before dispatch, UK delivery & 12-month warranty.",
+  "canonical": "https://engined.co.uk/engines/aj-v6-x-type/jaguar-x-type-x400-2-1-v6-petrol-fwd-2002/"
+ },
+ "hero": {
+  "title": "Used Jaguar AJ-V6 2.1 V6 Engine — X-Type (X400) FWD 2002-2005",
+  "subtitle": "Used AJ-V6 engine for Jaguar X-Type (X400) 2.1 V6 Petrol FWD Saloon — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: AJV6-21-USED-XTYPE-SALOON",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £695",
+    "note": "12-month warranty",
+    "price": "£695.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Jaguar AJ-V6 2.1 V6 naturally aspirated petrol engine for X-Type X400 FWD, tested and ready for dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJ-V6",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2002-2005",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X400",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/jaguar-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/jaguar-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/jaguar-jaguar-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number above to confirm this AJ-V6 engine fits your Jaguar X-Type (X400) 2.1 V6.",
+  "list": [
+   "Jaguar X-Type (X400) (2.1 V6 Petrol 156 hp FWD Saloon) (2002-2005)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "VAT included",
+   "Professional, secure packaging"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this AJ-V6 engine now, or view all AJ-V6 engines for other applications.",
+  "crossLink": "← Back to all AJ-V6 engines"
+ }
+}

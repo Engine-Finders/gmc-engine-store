@@ -1,0 +1,91 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n20-recon",
+ "applicationSlug": "f30-328i-saloon-2015",
+ "engineCode": "N20B20",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned BMW N20 Engine — 3 Series F30 328i Saloon 2015‑2016",
+  "description": "Reconditioned BMW N20B20 high-output engine for F30 328i Saloon 2015‑2016. 245 PS, EU6 compliant, fully tested. £2,525 with 12-month warranty & UK delivery.",
+  "canonical": "https://engined.co.uk/engines/bmw-n20-recon/f30-328i-saloon-2015/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW N20 Engine — 3 Series F30 328i Saloon 2015‑2016",
+  "subtitle": "Reconditioned N20B20 high-output engine for BMW 3 Series F30 328i Saloon 2015‑2016 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N20-RECON-F30-328I-FL",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,525",
+    "note": "12-month warranty",
+    "price": "£2,525.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned BMW N20B20 high-output engine for F30 328i Saloon — complete assembly with EU6 compliance",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N20B20",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2015-2016",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F30",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration for instant compatibility confirmation, or check the list of supported vehicles below.",
+  "list": [
+   "BMW 3 Series F30 (328i) Saloon 2015‑2016"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Full service history documentation",
+   "Compression and leak-down test results",
+   "UK mainland delivery"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this BMW N20 engine now, or view the full BMW N20 engine range for other applications.",
+  "crossLink": "← Back to all BMW N20 engines"
+ }
+}

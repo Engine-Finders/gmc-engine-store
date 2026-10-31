@@ -1,0 +1,82 @@
+{
+ "brand": "nissan",
+ "brandName": "Nissan",
+ "engineSlug": "yd25ddti",
+ "applicationSlug": "nissan-serena-2-5-yd25ddti-mpv-1999",
+ "engineCode": "YD25DDTI",
+ "condition": "used",
+ "seo": {
+  "title": "Used Nissan YD25DDTi Engine — Serena MPV 1999-2005 | Engined",
+  "description": "Used YD25DDTi engine for Nissan Serena KH-VC24/KH-VN MPV 1999-2005. Transverse 2.5 dCi diesel. 12-month warranty, UK delivery. Used from £1,615.",
+  "canonical": "https://engined.co.uk/engines/yd25ddti/nissan-serena-2-5-yd25ddti-mpv-1999/"
+ },
+ "hero": {
+  "title": "Used Nissan YD25DDTi Engine — Nissan Serena (2.5 YD25DDTi) MPV 1999-2005",
+  "subtitle": "Used YD25DDTi engine for Nissan Serena KH-VC24/KH-VN — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: YD25DDTi-USED-SERENA-MPV",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,615",
+    "note": "12-month warranty",
+    "price": "£1,615.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Nissan YD25DDTi Engine — Nissan Serena (2.5 YD25DDTi) MPV 1999-2005",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "YD25DDTi",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "1999-2005",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "KH-VC24/KH-VN",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/nissan-nissan-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "<p>Confirm fitment by entering your registration in our reg-checker before ordering. Fits Nissan Serena KH-VC24/KH-VN 1999–2005.</p>",
+  "list": [
+   "Nissan Serena KH-VC24/KH-VN (2.5 YD25DDTi, 150 PS) 1999–2005"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (block, head, sump, timing cover)",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Injection pump and injectors (reconditioned to OEM specification)",
+   "Turbocharger (where reusable, per condition)",
+   "Oil pump, water pump, and thermostat",
+   "Turbocharger (if not reusable, per condition)",
+   "Injectors/fuel system (if not reusable, per condition)",
+   "Ancillaries (alternator, starter motor, A/C compressor, power steering pump)",
+   "Fitting and installation"
+  ],
+  "excluded": []
+ },
+ "cta": {
+  "line": "<p class=\"cta-line\">Buy this YD25DDTi engine now, or <a href=\"https://engined.co.uk/engines/yd25ddti/\">view the full YD25DDTi engine range</a> for other applications.</p>",
+  "crossLink": "← Back to all YD25DDTi engines</a></p>"
+ }
+}

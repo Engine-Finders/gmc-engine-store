@@ -1,0 +1,83 @@
+{
+ "brand": "peugeot",
+ "brandName": "Peugeot",
+ "engineSlug": "vq35-37-v6",
+ "applicationSlug": "nissan-maxima-a34-se-saloon-2002-recon",
+ "engineCode": "VQ35DE",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned Nissan VQ35DE Engine — Nissan Maxima A34 (SE) Saloon 2002-2008",
+  "description": "Reconditioned VQ35DE engine for Nissan Maxima A34 SE — tested before dispatch, 12-month warranty and UK delivery. Used from £1,615, recon £2,340.",
+  "canonical": "https://engined.co.uk/engines/vq35-37-v6/nissan-maxima-a34-se-saloon-2002-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned Nissan VQ35DE Engine — Nissan Maxima A34 (SE) Saloon 2002-2008",
+  "subtitle": "Reconditioned VQ35DE engine for Nissan Maxima A34 SE — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: VQ35-RECON-MAXIMA-A34",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,615",
+    "note": "12-month warranty",
+    "price": "£1,615.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned VQ35DE 3.5L V6 engine for Nissan Maxima A34 SE saloon, transverse mount with CVTC",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "VQ35DE",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2002-2008",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "A34",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment for your Maxima with your registration in the reg checker below — every application this engine covers is listed here.",
+  "list": [
+   "Nissan Maxima A34 (SE, 3.5L V6, 250 PS) 2002–2008"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (block, head, internals) as one unit",
+   "Fully tested before dispatch",
+   "12-month warranty as standard",
+   "Free UK delivery",
+   "Fitment confirmation support before you buy"
+  ],
+  "excluded": [
+   "Turbocharger (reused from your unit where condition allows)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter, pumps, sensors)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this VQ35DE engine now, or view the full VQ35DE engine range for other applications.",
+  "crossLink": "← Back to all VQ35DE engines"
+ }
+}

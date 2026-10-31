@@ -1,0 +1,91 @@
+{
+ "brand": "jaguar",
+ "brandName": "Jaguar",
+ "engineSlug": "ingenium-2-0-diesel",
+ "applicationSlug": "land-rover-discovery-sport-l550-d150-diesel-2015",
+ "engineCode": "204DTD",
+ "condition": "used",
+ "seo": {
+  "title": "Used 204DTD 2.0 Diesel Engine – Discovery Sport | Engined",
+  "description": "Used 204DTD engine for Land Rover Discovery Sport D150. 2.0L Turbo Diesel, 150 PS. Fixed price £2,155. 12-month warranty included. UK delivery available.",
+  "canonical": "https://engined.co.uk/engines/ingenium-2-0-diesel/land-rover-discovery-sport-l550-d150-diesel-2015/"
+ },
+ "hero": {
+  "title": "Used 204DTD 2.0 Ingenium Diesel Engine — Discovery Sport (L550) D150 SUV 2015-Present",
+  "subtitle": "Used 204DTD engine for Land Rover Discovery Sport D150 SUV and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 204DTD-USED-DISCSPORT-L550-D150",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,155",
+    "note": "12-month warranty",
+    "price": "£2,155.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Land Rover 204DTD 2.0L turbo diesel engine for Discovery Sport L550 D150 SUV, complete assembly.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "204DTD",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2015-Present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L550",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/jaguar-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/jaguar-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/jaguar-jaguar-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration above to confirm this 204DTD engine fits your Land Rover Discovery Sport D150 SUV.",
+  "list": [
+   "Discovery Sport L550 (D150 2.0 Diesel SUV) 2015–Present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (204DTD 2.0L Ingenium Diesel)",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Turbocharger unit included",
+   "ECU and wiring loom compatibility verified",
+   "Oil filter and sump plug included"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system (unless specified as reusable)",
+   "Ancillaries (alternator, starter motor, AC compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 204DTD engine now, or view the full 204DTD engine range for other applications.",
+  "crossLink": "← Back to all 204DTD engines"
+ }
+}

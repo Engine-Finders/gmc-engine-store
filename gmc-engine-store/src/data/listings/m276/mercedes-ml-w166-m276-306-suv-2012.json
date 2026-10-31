@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "m276",
+ "applicationSlug": "mercedes-ml-w166-m276-306-suv-2012",
+ "engineCode": "M276",
+ "condition": "used",
+ "seo": {
+  "title": "Used M276 3.5 V6 Engine — ML W166 (ML350, 306 PS) 2012–2015",
+  "description": "Used M276 engine for Mercedes ML W166 ML350 306 PS. Fixed £1,785, 12-month warranty, UK delivery. Check fitment by registration before buying.",
+  "canonical": "https://engined.co.uk/engines/m276/mercedes-ml-w166-m276-306-suv-2012/"
+ },
+ "hero": {
+  "title": "Used M276 3.5 V6 Engine — ML W166 (ML350, 306 PS) 2012–2015",
+  "subtitle": "SUB — Used M276 engine for ML W166 ML350 306 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M276-USED-G2-W166-ML350",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,785",
+    "note": "12-month warranty",
+    "price": "£1,785.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used M276 3.5 V6 engine for Mercedes ML W166 ML350 306 PS, naturally aspirated, tested and ready to fit.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M276",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2012–2015",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W166",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-m276-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with your registration before buying — this listing covers the ML W166 applications shown below.",
+  "list": [
+   "Mercedes-Benz ML W166 (ML350 306 PS) 2012–2015"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Internal components as per M276 specification"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M276 engine now, or view the full M276 engine range for other applications.",
+  "crossLink": "← Back to all M276 engines"
+ }
+}

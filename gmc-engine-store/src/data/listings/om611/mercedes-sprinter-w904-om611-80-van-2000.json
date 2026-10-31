@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "om611",
+ "applicationSlug": "mercedes-sprinter-w904-om611-80-van-2000",
+ "engineCode": "OM611",
+ "condition": "used",
+ "seo": {
+  "title": "Used OM611 2.2 CDI Engine — Sprinter W904 (408 CDI, 80 PS) 2000–2006 | Engined",
+  "description": "Used OM611 2.2 CDI engine for Sprinter W904 408 CDI 80 PS, 2000–2006. Fixed Used price £1,346 with 12-month warranty and UK delivery. Buy now.",
+  "canonical": "https://engined.co.uk/engines/om611/mercedes-sprinter-w904-om611-80-van-2000/"
+ },
+ "hero": {
+  "title": "Used OM611 2.2 CDI Engine — Sprinter W904 (408 CDI, 80 PS) 2000–2006",
+  "subtitle": "Used OM611 engine for Sprinter W904 408 CDI — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: OM611-USED-G4-W904-408-80",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,346",
+    "note": "12-month warranty",
+    "price": "£1,346.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used OM611 2.2 CDI engine for Sprinter W904 408 CDI 80 PS van, longitudinal commercial spec",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "OM611",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2000–2006",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W904",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-mercedes-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our reg-checker to confirm your vehicle before ordering — this OM611 listing fits the applications below.",
+  "list": [
+   "Sprinter W904 Van (408 CDI, 80 PS) 2000–2006"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block included",
+   "Sump and timing cover included"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this OM611 engine now, or view the full OM611 engine range for other applications.",
+  "crossLink": "← Back to all OM611 engines"
+ }
+}

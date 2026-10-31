@@ -1,0 +1,84 @@
+{
+ "brand": "nissan",
+ "brandName": "Nissan",
+ "engineSlug": "h5ft",
+ "applicationSlug": "nissan-pulsar-c13-1-2-dig-t-hatch-2014",
+ "engineCode": "H5FT",
+ "condition": "used",
+ "seo": {
+  "title": "Used Nissan H5FT Engine — Nissan Pulsar C13 (1.2 DIG-T) Hatchback 2014-2018",
+  "description": "Used H5FT engine for Nissan Pulsar C13 1.2 DIG-T. Fixed price £1,495, tested before dispatch, 12-month warranty & UK delivery. Also fits Qashqai & Juke.",
+  "canonical": "https://engined.co.uk/engines/h5ft/nissan-pulsar-c13-1-2-dig-t-hatch-2014/"
+ },
+ "hero": {
+  "title": "Used Nissan H5FT Engine — Nissan Pulsar C13 (1.2 DIG‑T) Hatchback 2014‑2018",
+  "subtitle": "Used H5FT engine for Nissan Pulsar C13 1.2 DIG-T and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: H5FT-USED-G1-PULSAR",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,495",
+    "note": "12-month warranty",
+    "price": "£1,495.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "H5FT transverse-mounted turbocharged 1.2-litre four-cylinder petrol engine for Nissan Pulsar C13",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "H5FT",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2014-2018",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "C13, J11, F15",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/nissan-nissan-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number above to confirm this H5FT engine fits your vehicle before ordering.",
+  "list": [
+   "Nissan Pulsar C13 (1.2 DIG-T Hatchback) 2014-2018",
+   "Nissan Qashqai J11 (1.2 DIG-T) 2014-2018",
+   "Nissan Juke F15 (1.2 DIG-T) 2014-2018"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Fully inspected and cleaned",
+   "Ready for direct fitment"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this H5FT engine now, or view the full H5FT engine range for other applications.",
+  "crossLink": "← Back to all H5FT engines"
+ }
+}

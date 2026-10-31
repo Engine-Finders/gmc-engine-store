@@ -1,0 +1,96 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "s55",
+ "applicationSlug": "bmw-f82-m4-cp-coupe-2016",
+ "engineCode": "S55",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW S55 3.0 Engine — F82 M4 CP Coupe (450 PS) 2016–2020",
+  "description": "Used S55 BMW 3.0 engine for F82 M4 CP Coupe (450 PS, 2016–2020). £7,240 fixed price, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/s55/bmw-f82-m4-cp-coupe-2016/"
+ },
+ "hero": {
+  "title": "Used BMW S55 3.0 Engine — F82 M4 CP Coupe (450 PS) 2016–2020",
+  "subtitle": "Used S55 engine for BMW F82 M4 CP Coupe — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: S55-USED-F82-M4CP",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £7,240",
+    "note": "12-month warranty",
+    "price": "£7,240.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £9,655",
+    "note": "12-month warranty",
+    "price": "£9,655.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW S55 3.0 twin-turbo engine for F82 M4 CP Coupe, 450 PS, 2016–2020",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "S55",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2016–2020",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F82",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration below to confirm fitment — every application this S55 engine covers is listed here.",
+  "list": [
+   "BMW M4 F82 (Competition Package — 450 PS) 2016–2020"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly — cylinder head, block, crankshaft, pistons and con-rods",
+   "Fully tested before dispatch",
+   "12-month warranty as standard",
+   "Sump, timing cover and cam cover fitted",
+   "Oil pump, gaskets and seals"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, air conditioning compressor, power steering pump)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this S55 engine now, or view the full S55 engine range for other applications.",
+  "crossLink": "← Back to all S55 engines"
+ }
+}

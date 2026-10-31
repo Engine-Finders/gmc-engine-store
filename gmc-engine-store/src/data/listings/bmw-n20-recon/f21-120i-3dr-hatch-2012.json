@@ -1,0 +1,92 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n20-recon",
+ "applicationSlug": "f21-120i-3dr-hatch-2012",
+ "engineCode": "N20B20",
+ "condition": "recon",
+ "seo": {
+  "title": "Recon BMW N20 Engine — F21 120i 3‑dr Hatch | Engined",
+  "description": "BMW N20B20 · Reconditioned · F21 120i 3‑dr Hatch · £2,195 · 12-month warranty · UK delivery. Fully rebuilt standard‑output with renewed timing.",
+  "canonical": "https://engined.co.uk/engines/bmw-n20-recon/f21-120i-3dr-hatch-2012/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW N20 Engine — 1 Series F21 (120i) 3‑dr Hatch 2012‑2015",
+  "subtitle": "Reconditioned N20B20 engine for BMW 1 Series F21 120i — fully rebuilt with timing renewal, tested before dispatch, UK delivery.",
+  "sku": "SKU: N20-RECON-F21-120I-PREFL",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,195",
+    "note": "12-month warranty",
+    "price": "£2,195.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned BMW N20B20 standard‑output engine for F21 120i 3‑dr Hatch, rebuilt with new timing",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N20B20",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2012‑2015",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F21",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "This reconditioned BMW N20 engine fits the 1 Series F21 120i 3‑door Hatchback (2012–2015). Use our free reg-checker to confirm exact compatibility.",
+  "list": [
+   "BMW 1 Series (F21) 120i (184 PS) 3‑door Hatchback 2012‑2015"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch",
+   "12-month warranty as standard",
+   "Full service history check",
+   "Pressure and compression tested",
+   "Oil and filter change",
+   "Timing chain, guides and tensioner renewed"
+  ],
+  "excluded": [
+   "Turbocharger (reusable if in good condition)",
+   "Injectors / fuel system",
+   "Ancillaries (alternator, starter, AC compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N20B20 engine now, or view the full BMW N20 Reconditioned engine range for other applications.",
+  "crossLink": "← Back to all BMW N20 Reconditioned engines"
+ }
+}

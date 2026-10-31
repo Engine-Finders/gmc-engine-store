@@ -1,0 +1,91 @@
+{
+ "brand": "jaguar",
+ "brandName": "Jaguar",
+ "engineSlug": "aj-v8-legacy",
+ "applicationSlug": "recon-jaguar-super-v8-x358-aj34s-4-2-sc-saloon-2007",
+ "engineCode": "AJ34S",
+ "condition": "recon",
+ "seo": {
+  "title": "Recon Jaguar AJ34S Engine — Super V8 X358 4.2 SC | Engined",
+  "description": "Reconditioned AJ34S engine for Jaguar Super V8 (X358) 4.2 Supercharged Saloon. £3,864 fixed price, tested before dispatch, 12-month warranty & UK delivery.",
+  "canonical": "https://engined.co.uk/engines/aj-v8-legacy/recon-jaguar-super-v8-x358-aj34s-4-2-sc-saloon-2007/"
+ },
+ "hero": {
+  "title": "Reconditioned Jaguar AJ34S Engine — Super V8 (X358) 4.2 Supercharged Saloon 2007-2009",
+  "subtitle": "Reconditioned AJ34S engine for Jaguar Super V8 (X358) 4.2 V8 Supercharged Saloon — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: AJV8-RECON-X358-42-SC-SALOON-AJ34S-SV8-12M",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £3,864",
+    "note": "12-month warranty",
+    "price": "£3,864.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned AJ34S 4.2 V8 supercharged engine for Jaguar Super V8 X358 saloon, complete longitudinal assembly with Eaton M112.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJ34S",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2007-2009",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X358",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/jaguar-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/jaguar-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/jaguar-jaguar-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Verify fitment for your specific chassis using our registration checker before purchasing this AJ34S engine.",
+  "list": [
+   "Jaguar Super V8 (X358) 4.2 Supercharged (AJ34S) Saloon (2007-2009)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch",
+   "Warranty as standard",
+   "Longitudinal premium saloon specification components",
+   "Eaton M112 supercharger unit",
+   "Engine wiring harness"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this AJ34S engine now, or view the full AJ34S engine range for other applications.",
+  "crossLink": "← Back to all AJ34S engines"
+ }
+}

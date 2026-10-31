@@ -1,0 +1,91 @@
+{
+ "brand": "jaguar",
+ "brandName": "Jaguar",
+ "engineSlug": "ingenium-2-0-diesel",
+ "applicationSlug": "recon-land-rover-velar-l560-d240-diesel-2017",
+ "engineCode": "204DTA",
+ "condition": "recon",
+ "seo": {
+  "title": "Recon 204DTA 2.0 Diesel Engine – Velar L560 | Engined",
+  "description": "Reconditioned 204DTA engine for Range Rover Velar L560 D240. 2.0L Twin-Turbo Diesel, 240 PS. Fixed price £4,600. 12-month warranty included. UK delivery available.",
+  "canonical": "https://engined.co.uk/engines/ingenium-2-0-diesel/recon-land-rover-velar-l560-d240-diesel-2017/"
+ },
+ "hero": {
+  "title": "Reconditioned 204DTA 2.0 Ingenium Diesel Engine — Range Rover Velar (L560) D240 SUV 2017-Present",
+  "subtitle": "Reconditioned 204DTA engine for Range Rover Velar L560 D240 SUV and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 204DTA-RECON-VELAR-L560-D240",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £4,600",
+    "note": "12-month warranty",
+    "price": "£4,600.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Land Rover 204DTA 2.0L twin-turbo diesel engine for Range Rover Velar L560 D240 SUV, complete assembly.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "204DTA",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2017-Present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L560",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/jaguar-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/jaguar-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/jaguar-jaguar-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration above to confirm this 204DTA engine fits your Range Rover Velar L560 D240 SUV.",
+  "list": [
+   "Range Rover Velar (L560) D240 2.0 Diesel SUV (2017–Present)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (204DTA 2.0L Twin-Turbo Diesel)",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Turbocharger units included",
+   "ECU and wiring loom compatibility verified",
+   "Oil filter and sump plug included"
+  ],
+  "excluded": [
+   "Turbocharger(s) (if reusable, per condition)",
+   "Injectors/fuel system (unless specified as reusable)",
+   "Ancillaries (alternator, starter motor, AC compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 204DTA engine now, or view the full 204DTA engine range for other applications.",
+  "crossLink": "← Back to all 204DTA engines"
+ }
+}

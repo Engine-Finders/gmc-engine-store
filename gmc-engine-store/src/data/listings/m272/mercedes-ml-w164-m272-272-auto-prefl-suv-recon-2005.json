@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "m272",
+ "applicationSlug": "mercedes-ml-w164-m272-272-auto-prefl-suv-recon-2005",
+ "engineCode": "M272 E35",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned M272 3.5 V6 Engine — ML W164 (ML350, 272 PS, Auto) Pre-FL 2005–2008 | Engined — 91 chars — FAIL (25th)",
+  "description": "Reconditioned M272 3.5 V6 engine for the pre-facelift ML W164 ML350 (272 PS, Auto, 2005–2008). £2,755 fixed price with 12-month warranty, UK delivery. — 149 chars — PASS",
+  "canonical": "https://engined.co.uk/engines/m272/mercedes-ml-w164-m272-272-auto-prefl-suv-recon-2005/"
+ },
+ "hero": {
+  "title": "Reconditioned M272 3.5 V6 Engine — ML W164 (ML350, 272 PS, Auto) Pre-FL 2005–2008",
+  "subtitle": "Reconditioned M272 engine for the pre-facelift ML350 (ML W164) — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M272-RECON-W164-ML350-PREFL",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,755",
+    "note": "12-month warranty",
+    "price": "£2,755.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned M272 3.5 V6 engine for Mercedes ML W164 ML350 272 PS automatic pre-facelift SUV",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M272 E35",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2005–2008",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W164",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-m272-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration before ordering — this M272 fits the pre-facelift W164 ML350 automatic. (100 chars)",
+  "list": [
+   "ML W164 (ML350 272 PS, Auto, SUV, M272 E35) 2005–2008"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Bench-tested before dispatch",
+   "12-month warranty as standard",
+   "Timing components renewed",
+   "Pre-delivery inspection report"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries (alternator, starter, pumps, sensors)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M272 engine now, or view the full M272 engine range for other applications. (84 visible chars)",
+  "crossLink": "← Back to all M272 engines"
+ }
+}

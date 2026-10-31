@@ -1,0 +1,97 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n20",
+ "applicationSlug": "e84-sdrive20i-suv-2011",
+ "engineCode": "N20B20",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW N20 Engine — X1 E84 sDrive20i | Engined",
+  "description": "BMW N20B20 · Used · X1 E84 sDrive20i SUV · £1,495 · 12-month warranty · UK delivery. Pre-LCI standard-output 184PS RWD.",
+  "canonical": "https://engined.co.uk/engines/bmw-n20/e84-sdrive20i-suv-2011/"
+ },
+ "hero": {
+  "title": "Used BMW N20 Engine — X1 E84 (sDrive20i) SUV 2011‑2012",
+  "subtitle": "Used N20B20 engine for BMW X1 E84 sDrive20i SUV — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N20-USED-E84-SDRIVE20I-PREFL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,495",
+    "note": "12-month warranty",
+    "price": "£1,495.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,995",
+    "note": "12-month warranty",
+    "price": "£1,995.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "BMW N20B20 used engine for X1 E84 sDrive20i SUV, Pre-LCI standard-output 184PS RWD",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N20B20",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2011‑2012",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E84",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-n20-n47-engine.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "This BMW N20 engine fits the X1 E84 sDrive20i SUV (2011–2012). Use our free reg-checker to confirm exact compatibility.",
+  "list": [
+   "BMW X1 (E84) sDrive20i (184 PS) SUV 2011‑2012"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch",
+   "12-month warranty as standard",
+   "Full service history check",
+   "Pressure and compression tested",
+   "Oil and filter change"
+  ],
+  "excluded": [
+   "Turbocharger (reusable if in good condition)",
+   "Injectors / fuel system",
+   "Ancillaries (alternator, starter, AC compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N20B20 engine now, or view the full BMW N20 engine range for other applications.",
+  "crossLink": "← Back to all BMW N20 engines"
+ }
+}

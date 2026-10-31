@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "306dt",
+ "applicationSlug": "land-rover-discovery-5-l462-30ddtx-306-suv-fl-2019",
+ "engineCode": "306DT",
+ "condition": "used",
+ "seo": {
+  "title": "Used 30DDTX SDV6 Engine — Discovery 5 L462 FL (306 PS, Twin-Turbo) 2019–present",
+  "description": "Used 306DT 30DDTX SDV6 engine for Discovery 5 L462 FL (306 PS, Twin-Turbo, 2019–present). Fixed price £3,445, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/306dt/land-rover-discovery-5-l462-30ddtx-306-suv-fl-2019/"
+ },
+ "hero": {
+  "title": "Used 30DDTX SDV6 Engine — Discovery 5 L462 FL (306 PS, Twin-Turbo) 2019–present",
+  "subtitle": "Used 306DT 30DDTX engine for Discovery 5 L462 FL — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 306DT-USED-DISCO5-L462-306-FL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £3,445",
+    "note": "12-month warranty",
+    "price": "£3,445.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Land Rover 306DT 30DDTX SDV6 engine for Discovery 5 L462 FL, 306 PS, Twin-Turbo, 2019–present.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "306DT",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2019–present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L462",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your registration with our reg checker to ensure this 306DT engine fits your Discovery 5 L462.",
+  "list": [
+   "Discovery 5 L462 (SUV — 3.0 SDV6 306 PS — 30DDTX engine code) 2019–present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil sump and pickup",
+   "Timing covers and pulleys"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 306DT engine now, or view the full 306DT engine range for other applications.",
+  "crossLink": "← Back to all 306DT engines"
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "brand": "peugeot",
+ "brandName": "Peugeot",
+ "engineSlug": "ecotec-family-0",
+ "applicationSlug": "vauxhall-corsa-e-1-2-hatch-2014-recon",
+ "engineCode": "Z12XEP",
+ "condition": "recon",
+ "seo": {
+  "title": "Ecotec Corsa E 1.2 Recon | Engined",
+  "description": "Reconditioned Ecotec Z12XEP engine for Vauxhall Corsa E 1.2 (2014-2019). £805, tested before dispatch, 12-month warranty, UK delivery. Fits Corsa E.",
+  "canonical": "https://engined.co.uk/engines/ecotec-family-0/vauxhall-corsa-e-1-2-hatch-2014-recon/"
+ },
+ "hero": {
+  "title": "Ecotec Corsa E 1.2 Recon",
+  "subtitle": "Reconditioned Ecotec Family 0 engine for Corsa E 1.2 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: ECOFAM0-RECON-CORSA-E-12",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £805",
+    "note": "12-month warranty",
+    "price": "£805.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned Ecotec Z12XEP engine for Vauxhall Corsa E 1.2 hatchback 2014–2019, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "Z12XEP",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2014-2019",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Corsa E",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with your registration using our reg checker before ordering — this listing covers the applications below.",
+  "list": [
+   "Vauxhall Corsa E 2014‑2019 — 1.2 (80‑85 PS), code Z12XEP"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Engine block and cylinder head",
+   "Sump and timing covers as supplied"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this Ecotec engine now, or view the full Ecotec engine range for other applications.",
+  "crossLink": "← Back to all Ecotec Family 0 engines"
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "m275-m279",
+ "applicationSlug": "mercedes-sl-r230-m275-493-prefl-roadster-amg-recon-2002",
+ "engineCode": "M275",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned M275 5.5 V12 Biturbo Engine — SL R230 Roadster (SL55 AMG, 493 PS) Pre-FL 2002–2006 | Engined",
+  "description": "Reconditioned M275 5.5 V12 Biturbo engine for SL55 AMG R230 Pre-FL 2002–2006. 493 PS, renewed twin-turbo coolant lines, 12-month warranty, UK delivery. £12,500.",
+  "canonical": "https://engined.co.uk/engines/m275-m279/mercedes-sl-r230-m275-493-prefl-roadster-amg-recon-2002/"
+ },
+ "hero": {
+  "title": "Reconditioned M275 5.5 V12 Biturbo Engine — SL R230 Roadster (SL55 AMG, 493 PS) Pre-FL 2002–2006",
+  "subtitle": "Reconditioned M275 engine for SL55 AMG — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M275-RECON-R230-SL55-PREFL",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £12,500",
+    "note": "12-month warranty",
+    "price": "£12,500.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned Mercedes-Benz M275 5.5 V12 Biturbo engine — SL55 AMG R230 Pre-FL 493 PS, complete assembly",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M275",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2002–2006",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "R230",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-mercedes-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your registration with our reg-checker before ordering — we'll verify your SL R230 is the correct Pre-FL SL55 AMG fitment.",
+  "list": [
+   "SL R230 (SL55 AMG 493 PS) 2002–2006"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (block, cylinder heads, sump, timing covers)",
+   "Tested before dispatch — compression and leak-down verified",
+   "12-month warranty as standard",
+   "All ancillaries as removed from donor vehicle",
+   "Engine loom and sensors where applicable"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system components",
+   "Ancillaries (alternator, starter motor, A/C compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M275 engine now, or view the full M275 engine range for other applications.",
+  "crossLink": "← Back to all M275 engines"
+ }
+}

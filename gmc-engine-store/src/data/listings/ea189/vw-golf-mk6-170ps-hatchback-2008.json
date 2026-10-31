@@ -1,0 +1,91 @@
+{
+ "brand": "volkswagen",
+ "brandName": "Volkswagen",
+ "engineSlug": "ea189",
+ "applicationSlug": "vw-golf-mk6-170ps-hatchback-2008",
+ "engineCode": "EA189",
+ "condition": "used",
+ "seo": {
+  "title": "Used EA189 Engine — VW Golf Mk6 (2.0 TDI 170 PS) Hatchback 2008-2013 | Engined",
+  "description": "Used EA189 2.0 TDI engine for VW Golf Mk6 (CFGB) 2008-2013 and more — £1,260 fixed price, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/ea189/vw-golf-mk6-170ps-hatchback-2008/"
+ },
+ "hero": {
+  "title": "Used EA189 Engine — VW Golf Mk6 (2.0 TDI 170 PS) Hatchback 2008-2013",
+  "subtitle": "Used EA189 engine for Golf Mk6 2.0 TDI 170 PS Hatchback, CFGB — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA189-USED-GOLF-MK6-170-HATCH",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,260",
+    "note": "12-month warranty",
+    "price": "£1,260.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used EA189 2.0 TDI engine, Golf Mk6 5K hatchback, CFGB 170 PS high-output, transverse FWD 2008-2013",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA189",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2008-2013",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Golf Mk6 5K",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/volkswagen-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/volkswagen-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/volkswagen-vw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration with our reg checker before ordering — it confirms your Golf Mk6 uses engine code CFGB.",
+  "list": [
+   "VW Golf Mk6 5K (2.0 TDI 170 PS — CFGB Hatchback) 2008-2013"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block as removed",
+   "Sump and timing cover",
+   "Oil pump and water pump"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA189 engine now, or view the full EA189 engine range for other applications.",
+  "crossLink": "← Back to all EA189 engines"
+ }
+}

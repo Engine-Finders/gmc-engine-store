@@ -1,0 +1,91 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n43-recon",
+ "applicationSlug": "e92-318i-coupe-2009",
+ "engineCode": "N43B20",
+ "condition": "recon",
+ "seo": {
+  "title": "Recond N43 E92 318i Coupe 2009‑2013 | Engined",
+  "description": "N43B20 reconditioned engine for BMW 3 Series E92 318i Coupe (143PS) 2009‑2013. EU5 compliant, fully tested. £1,705 with 12-month warranty & UK delivery.",
+  "canonical": "https://engined.co.uk/engines/bmw-n43-recon/e92-318i-coupe-2009/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW N43 Engine — 3 Series E92 (318i) Coupe 2009‑2013",
+  "subtitle": "Reconditioned N43B20 engine for BMW 3 Series E92 318i Coupe (143PS) 2009‑2013 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N43-RECON-E92-318I-FL",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,705",
+    "note": "12-month warranty",
+    "price": "£1,705.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned N43B20 engine for BMW 3 Series E92 318i Coupe 2009‑2013 — complete unit with EU5 compliance and coupé ancillaries",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N43B20",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2009‑2013",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E92",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration to confirm compatibility, or review the exact fitment list below for this reconditioned N43 engine.",
+  "list": [
+   "BMW 3 Series (E92) 2009‑2013 — 318i (143 PS) Coupe"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch",
+   "12-month warranty as standard",
+   "EU5 compliance verification",
+   "Engine oil and filter pre-fitted",
+   "UK delivery included"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N43B20 engine now, or view the full BMW N43 engine range for other applications.",
+  "crossLink": "← Back to all BMW N43 engines"
+ }
+}

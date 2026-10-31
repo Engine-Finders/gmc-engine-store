@@ -1,0 +1,83 @@
+{
+ "brand": "peugeot",
+ "brandName": "Peugeot",
+ "engineSlug": "dv6",
+ "applicationSlug": "peugeot-2008-1-6-bluehdi-suv-2013",
+ "engineCode": "PSA DV6",
+ "condition": "used",
+ "seo": {
+  "title": "Used PSA DV6 Engine — Peugeot 2008 (1.6 BlueHDi) SUV 2013-2019",
+  "description": "Used PSA DV6 engine for Peugeot 2008 1.6 BlueHDi (100-120 PS) 2013-2019. £1,250. Tested before dispatch, 12-month warranty, UK delivery. Recon £2,200.",
+  "canonical": "https://engined.co.uk/engines/dv6/peugeot-2008-1-6-bluehdi-suv-2013/"
+ },
+ "hero": {
+  "title": "Used PSA DV6 Engine — Peugeot 2008 (1.6 BlueHDi) SUV 2013-2019",
+  "subtitle": "Used PSA DV6 engine for Peugeot 2008 1.6 BlueHDi — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: DV6-USED-2008-BLUEHDI",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,250",
+    "note": "12-month warranty",
+    "price": "£1,250.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used PSA DV6 engine for Peugeot 2008 1.6 BlueHDi SUV 2013-2019, tested and ready to ship.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "PSA DV6",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2013-2019",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "2008",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our registration checker to confirm this used PSA DV6 engine fits your Peugeot 2008 1.6 BlueHDi before you buy.",
+  "list": [
+   "Peugeot 2008 (1.6 BlueHDi 100-120 PS, codes: DV6FE (BHW), DV6FD (BHY)) 2013-2019"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New oil and filter",
+   "Gaskets and seals"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this PSA DV6 engine now, or view the full PSA DV6 engine range for other applications.",
+  "crossLink": "← Back to all PSA DV6 engines"
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "m274",
+ "applicationSlug": "mercedes-a-class-w176-m270-156-prefl-hatchback-2012",
+ "engineCode": "M270",
+ "condition": "used",
+ "seo": {
+  "title": "Used M270 2.0T Engine — A-Class W176 | Engined",
+  "description": "Used M270 engine for A-Class W176 A200 Hatchback (156 PS). Fixed price £1,395, tested before dispatch, includes 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/m274/mercedes-a-class-w176-m270-156-prefl-hatchback-2012/"
+ },
+ "hero": {
+  "title": "Used M270 2.0T Engine — A-Class W176 (A200, 156 PS, Transverse) Pre-FL 2012–2015",
+  "subtitle": "Used M270 engine for A-Class W176 A200 Hatchback (156 PS) — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M270-USED-W176-A200-PREFL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,395",
+    "note": "12-month warranty",
+    "price": "£1,395.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used M270 transverse engine for Mercedes A-Class W176 A200 Hatchback Pre-FL, complete assembly.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M270",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2012–2015",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W176",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-m274-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number in our checker above to confirm this used M270 engine is an exact match for your vehicle.",
+  "list": [
+   "A-Class W176 (A200 156 PS Hatchback) 2012–2015"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Fully cleaned and inspected",
+   "VAT included"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M270 engine now, or view the full M270 engine range for other applications.",
+  "crossLink": "← Back to all M270 engines"
+ }
+}

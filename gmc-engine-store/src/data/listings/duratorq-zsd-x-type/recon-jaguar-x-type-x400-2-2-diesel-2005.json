@@ -1,0 +1,91 @@
+{
+ "brand": "jaguar",
+ "brandName": "Jaguar",
+ "engineSlug": "duratorq-zsd-x-type",
+ "applicationSlug": "recon-jaguar-x-type-x400-2-2-diesel-2005",
+ "engineCode": "DURATORQ ZSD",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned Ford Duratorq ZSD 2.2 D Diesel Engine — Jaguar X-Type (X400) 2005-2009",
+  "description": "Recon Duratorq ZSD engine for Jaguar X-Type X400 2.2 D Diesel. Fixed price £1,600, tested before dispatch, 12-month warranty included. UK delivery available.",
+  "canonical": "https://engined.co.uk/engines/duratorq-zsd-x-type/recon-jaguar-x-type-x400-2-2-diesel-2005/"
+ },
+ "hero": {
+  "title": "Reconditioned Ford Duratorq ZSD 2.2 D Diesel Engine — Jaguar X-Type (X400) 2005-2009",
+  "subtitle": "Reconditioned Duratorq ZSD engine for Jaguar X-Type X400 2.2 D Diesel and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: DURATORQ-22-RECON-XTYPE",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,600",
+    "note": "12-month warranty",
+    "price": "£1,600.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned Duratorq ZSD 2.2L inline-4 turbo diesel engine for Jaguar X-Type X400, complete assembly with warranty.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "Duratorq ZSD",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2005-2009",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X400",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/jaguar-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/jaguar-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/jaguar-jaguar-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number above to confirm this Duratorq ZSD engine fits your Jaguar X-Type before you buy.",
+  "list": [
+   "X-Type (X400) 2.2 D Duratorq (LJ46G) Diesel Saloon (2005-2009)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete reconditioned engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Full compression test report",
+   "Cleaned and degreased exterior",
+   "New seals and gaskets fitted"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this Duratorq ZSD engine now, or view the full Duratorq ZSD engine range for other applications.",
+  "crossLink": "← Back to all Duratorq ZSD engines"
+ }
+}

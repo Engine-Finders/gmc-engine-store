@@ -1,0 +1,89 @@
+{
+ "brand": "volvo",
+ "brandName": "Volvo",
+ "engineSlug": "drive-e-petrol",
+ "applicationSlug": "volvo-v90-t5-245ps-estate-2016",
+ "engineCode": "B4204T11",
+ "condition": "used",
+ "seo": {
+  "title": "Used Drive-E Engine — Volvo V90 T5 (2.0L 245 PS) | Engined",
+  "description": "B4204T11 used Drive-E engine for Volvo V90 T5 245 PS Estate, 2016-present. £2,395 with 12-month warranty, tested before dispatch and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/drive-e-petrol/volvo-v90-t5-245ps-estate-2016/"
+ },
+ "hero": {
+  "title": "Used Drive-E Engine — Volvo V90 T5 (2.0L 245 PS) Estate 2016-present",
+  "subtitle": "Used B4204T11 engine for Volvo V90 T5 245 PS Estate — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: DRIVEE-USED-V90-T5-ESTATE",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,395",
+    "note": "12-month warranty",
+    "price": "£2,395.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £3,250",
+    "note": "12-month warranty",
+    "price": "£3,250.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used B4204T11 Drive-E 2.0L turbo petrol engine for Volvo V90 T5 245 PS estate, 2016-present.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "B4204T11",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2016-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "SPA",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with our reg checker before ordering — this listing covers the Volvo V90 SPA application below.",
+  "list": [
+   "Volvo V90 SPA (2.0 T5 245 PS, B4204T11, Estate) 2016-present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and valvetrain",
+   "Sump and timing cover"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this B4204T11 engine now, or view the full B4204T11 engine range for other applications.",
+  "crossLink": "← Back to all B4204T11 engines"
+ }
+}

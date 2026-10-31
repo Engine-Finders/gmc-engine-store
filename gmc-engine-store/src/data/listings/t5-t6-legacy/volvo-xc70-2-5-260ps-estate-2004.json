@@ -1,0 +1,83 @@
+{
+ "brand": "volvo",
+ "brandName": "Volvo",
+ "engineSlug": "t5-t6-legacy",
+ "applicationSlug": "volvo-xc70-2-5-260ps-estate-2004",
+ "engineCode": "B5254T2",
+ "condition": "used",
+ "seo": {
+  "title": "Used T5 Engine — Volvo XC70 (2.5 T5 260 PS) Estate 2004-2007",
+  "description": "Used B5254T2 engine for Volvo XC70 P24 Estate AWD 2004-2007. 2.5 T5 260 PS petrol. £995 with 12-month warranty, tested before dispatch and fast UK delivery. In stock.",
+  "canonical": "https://engined.co.uk/engines/t5-t6-legacy/volvo-xc70-2-5-260ps-estate-2004/"
+ },
+ "hero": {
+  "title": "Used T5 Engine — Volvo XC70 (2.5 T5 260 PS) Estate 2004-2007",
+  "subtitle": "Used B5254T2 engine for Volvo XC70 2.5 T5 260 PS — fixed price, tested before dispatch, fast UK delivery. In stock.",
+  "sku": "SKU: T5-P2-USED-XC70-25-T5",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £995",
+    "note": "12-month warranty",
+    "price": "£995.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used B5254T2 2.5 T5 petrol engine for Volvo XC70 P24 AWD Estate 2004-2007, 260 PS, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "B5254T2",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2004-2007",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "P24",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with our reg checker before ordering — this B5254T2 listing covers the following Volvo XC70 application.",
+  "list": [
+   "Volvo XC70 P24 (2.5 T5 260 PS (B5254T2) — Estate (AWD)) 2004-2007"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil sump and oil pickup",
+   "Timing cover and rocker cover"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this B5254T2 engine now, or view the full B5254T2 engine range for other applications.",
+  "crossLink": "← Back to all B5254T2 engines"
+ }
+}

@@ -1,0 +1,82 @@
+{
+ "brand": "nissan",
+ "brandName": "Nissan",
+ "engineSlug": "k9k",
+ "applicationSlug": "nissan-juke-f15-1-5-dci-suv-2010-recon",
+ "engineCode": "K9K",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned K9K Engine — Nissan Juke F15 (1.5 dCi) SUV 2010-2017",
+  "description": "Reconditioned K9K engine for Nissan Juke F15 1.5 dCi SUV 2010-2017. Fixed price £985, tested before dispatch, 12-month warranty, and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/k9k/nissan-juke-f15-1-5-dci-suv-2010-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned K9K Engine — Nissan Juke F15 (1.5 dCi) SUV 2010-2017",
+  "subtitle": "Reconditioned K9K engine for Nissan Juke F15 1.5 dCi SUV and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: K9K-USED-G1-JUKE",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £985",
+    "note": "12-month warranty",
+    "price": "£985.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned K9K Engine — Nissan Juke F15 (1.5 dCi) SUV 2010-2017",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "K9K",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2010-2017",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F15",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/renault-k9k-dci-diesel-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your exact fitment with our free reg-checker before ordering this K9K engine for your Nissan Juke F15.",
+  "list": [
+   "Nissan Juke F15 (1.5 dCi) 2010-2017"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch",
+   "12-month warranty as standard",
+   "Full technical support",
+   "Secure UK delivery"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this K9K engine now, or view the full K9K engine range for other applications.",
+  "crossLink": "← Back to all K9K engines"
+ }
+}

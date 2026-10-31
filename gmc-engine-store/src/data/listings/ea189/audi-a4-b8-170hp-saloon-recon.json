@@ -1,0 +1,90 @@
+{
+ "brand": "audi",
+ "brandName": "Audi",
+ "engineSlug": "ea189",
+ "applicationSlug": "audi-a4-b8-170hp-saloon-recon",
+ "engineCode": "EA189",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned EA189 2.0 TDI Engine — Audi A4 B8 (170 hp) Saloon 2008-2015 | Engined",
+  "description": "Reconditioned EA189 engine for Audi A4 B8. £2,530, tested before dispatch, 12-month warranty, UK delivery. Full recon with renewed timing belt and water pump.",
+  "canonical": "https://engined.co.uk/engines/ea189/audi-a4-b8-170hp-saloon-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned EA189 2.0 TDI Engine — Audi A4 B8 (170 hp) Saloon 2008-2015",
+  "subtitle": "Reconditioned EA189 engine for Audi A4 Saloon (B8) and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA189-RECON-A4-B8-170",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,530",
+    "note": "12-month warranty",
+    "price": "£2,530.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned EA189 2.0 TDI engine for Audi A4 B8 Saloon, fully rebuilt with renewed timing belt and water pump, ready for dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA189",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2008-2015",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "B8",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/audi-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/audi-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/audi-audi-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number above to confirm this reconditioned EA189 engine is the exact match for your Audi A4 B8.",
+  "list": [
+   "Audi A4 Saloon (B8) 2008-2015 — 2.0 TDI (170 hp)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Renewed timing belt and tensioner",
+   "Water pump and cylinder head rebuild"
+  ],
+  "excluded": [
+   "Fuel injectors and HP pump",
+   "Turbocharger (if reusable, per condition)",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA189 engine now, or view the full EA189 engine range for other applications.",
+  "crossLink": "← Back to all EA189 engines"
+ }
+}

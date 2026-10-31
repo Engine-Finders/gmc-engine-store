@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "204dtd",
+ "applicationSlug": "land-rover-velar-l560-204dta-d200-longitudinal-suv-recon-2020",
+ "engineCode": "204DTA",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned 204DTA 2.0 Diesel Engine — Range Rover Velar L560 (D200, Longitudinal) 2020–present",
+  "description": "Reconditioned 204DTA 2.0 diesel engine for Range Rover Velar L560 D200. Fixed price £4,200, tested before dispatch, 12-month warranty & UK delivery.",
+  "canonical": "https://engined.co.uk/engines/204dtd/land-rover-velar-l560-204dta-d200-longitudinal-suv-recon-2020/"
+ },
+ "hero": {
+  "title": "Reconditioned 204DTA 2.0 Diesel — Range Rover Velar L560 D200 2020–present",
+  "subtitle": "Reconditioned 204DTA engine for Range Rover Velar L560 D200 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 204DTA-RECON-VELAR-D200-2020",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £4,200",
+    "note": "12-month warranty",
+    "price": "£4,200.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned 204DTA 2.0 diesel engine for Range Rover Velar L560 D200 longitudinal mount 2020 to present",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "204DTA",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2020–present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L560",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your exact fitment with our free reg-checker below, then review the compatible models for this 204DTA engine.",
+  "list": [
+   "Range Rover Velar L560 (D200) 2020–present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch",
+   "12-month warranty as standard",
+   "Full technical support",
+   "UK delivery included"
+  ],
+  "excluded": [
+   "Turbocharger",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 204DTA engine now, or view the full 204DTA engine range for other applications.",
+  "crossLink": "← Back to all 204DTA engines"
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "m276",
+ "applicationSlug": "mercedes-s-class-w221-m276-306-saloon-2011",
+ "engineCode": "M276",
+ "condition": "used",
+ "seo": {
+  "title": "Used M276 3.5 V6 Engine — S-Class W221 (S350 CGI, 306 PS) 2011–2013 | Engined",
+  "description": "Used M276 3.5 V6 engine for Mercedes-Benz S-Class W221 S350 CGI 2011–2013 — £1,680, tested before dispatch, 12-month warranty, UK delivery. In stock.",
+  "canonical": "https://engined.co.uk/engines/m276/mercedes-s-class-w221-m276-306-saloon-2011/"
+ },
+ "hero": {
+  "title": "Used M276 3.5 V6 Engine — S-Class W221 (S350 CGI, 306 PS) 2011–2013",
+  "subtitle": "SUB — Used M276 engine for S-Class W221, S350 CGI — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M276-USED-G1-W221-S350",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,680",
+    "note": "12-month warranty",
+    "price": "£1,680.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "M276 3.5 V6 engine for Mercedes-Benz S-Class W221 S350 CGI 2011–2013, used, naturally aspirated.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M276",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2011–2013",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W221",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-m276-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration to confirm this used M276 engine fits your Mercedes-Benz S-Class W221 S350 CGI 2011–2013 before you buy.",
+  "list": [
+   "Mercedes-Benz S-Class W221 (Saloon, S350 CGI 306 PS, M276 DE35, 3.5 NA) 2011–2013"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block assembled",
+   "Sump and timing covers fitted"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M276 engine now, or view the full M276 engine range for other applications.",
+  "crossLink": "← Back to all M276 engines — https://engined.co.uk/engines/m276"
+ }
+}

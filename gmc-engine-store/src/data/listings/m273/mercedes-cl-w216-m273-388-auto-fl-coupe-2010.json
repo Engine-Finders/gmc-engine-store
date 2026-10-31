@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "m273",
+ "applicationSlug": "mercedes-cl-w216-m273-388-auto-fl-coupe-2010",
+ "engineCode": "M273",
+ "condition": "used",
+ "seo": {
+  "title": "Used M273 5.5 V8 Engine — CL W216 Coupe (CL500, 388 PS, Auto) FL 2010–2013 | Engined",
+  "description": "Used M273 5.5 V8 engine for Mercedes CL W216 CL500 (388 PS, Auto), 2010–2013 coupe. £1,895, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/m273/mercedes-cl-w216-m273-388-auto-fl-coupe-2010/"
+ },
+ "hero": {
+  "title": "Used M273 5.5 V8 Engine — CL W216 Coupe (CL500, 388 PS, Auto) FL 2010–2013",
+  "subtitle": "Used M273 engine for CL W216 CL500 coupe — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M273-USED-W216-CL500-FL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,895",
+    "note": "12-month warranty",
+    "price": "£1,895.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Mercedes-Benz M273 5.5 V8 engine, CL W216 CL500 facelift coupe, 2010–2013",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M273",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2010–2013",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W216",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-m273-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with our registration checker before ordering — every M273 CL500 W216 application listed below is verified.",
+  "list": [
+   "CL W216 (CL500 388 PS, Auto, M273.961) 2010–2013"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "UK-wide delivery",
+   "Invoice and warranty documentation"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M273 engine now, or view the full M273 engine range for other applications.",
+  "crossLink": "← Back to all M273 engines → https://engined.co.uk/engines/m273/"
+ }
+}

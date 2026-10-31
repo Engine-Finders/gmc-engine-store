@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "aj200p",
+ "applicationSlug": "jaguar-f-pace-x761-aj200p-p300-longitudinal-suv-2016",
+ "engineCode": "AJ200P",
+ "condition": "recon",
+ "seo": {
+  "title": "PENDING — AJ200P 2.0 Petrol Engine — Jaguar F-Pace",
+  "description": "PENDING AJ200P 2.0 petrol engine for Jaguar F-Pace X761 P300 Longitudinal. Reconditioned price £4,025. Includes 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/aj200p/jaguar-f-pace-x761-aj200p-p300-longitudinal-suv-2016/"
+ },
+ "hero": {
+  "title": "PENDING — AJ200P 2.0 Petrol Engine — Jaguar F-Pace X761 (P300)",
+  "subtitle": "PENDING AJ200P engine for Jaguar F-Pace X761 P300 Longitudinal — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: AJ200P-PEND-FPACE-P300-1620",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £4,025",
+    "note": "12-month warranty",
+    "price": "£4,025.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "PENDING AJ200P 2.0 turbo petrol engine for Jaguar F-Pace X761 P300 longitudinal mount, reconditioned.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJ200P",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2016–2020",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X761",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Verify your registration below to confirm fitment for your Jaguar F-Pace X761 before purchasing this AJ200P engine.",
+  "list": [
+   "Jaguar F-Pace X761 (P300, Longitudinal) 2016–2020"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "UK delivery",
+   "Full compliance with emissions standards"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this AJ200P engine now, or view the full AJ200P range for other applications.",
+  "crossLink": "← Back to all AJ200P engines"
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n46",
+ "applicationSlug": "e93-320i-conv-2006",
+ "engineCode": "N46",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW N46 Engine—3 Series E93(320i)Convertible 2006‑2009",
+  "description": "Used BMW N46 engine for 3 Series E93 320i Convertible 2006‑2009. Pre‑LCI N46B20 150PS, tested before dispatch, £805, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/bmw-n46/e93-320i-conv-2006/"
+ },
+ "hero": {
+  "title": "Used BMW N46 Engine — 3 Series E93 (320i) Convertible 2006‑2009",
+  "subtitle": "Used N46 engine for BMW 3 Series E93, 320i Convertible — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N46-USED-E93-320I-PREFL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £805",
+    "note": "12-month warranty",
+    "price": "£805.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW N46B20 150PS engine for 3 Series E93 320i Convertible 2006‑2009, pre‑LCI cabriolet fitment.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N46",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2006‑2009",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E93",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration to confirm fitment before ordering — this N46 engine fits the E93 320i Convertible listed below.",
+  "list": [
+   "BMW 3 Series E93 (320i 150 PS Convertible) 2006‑2009"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Sump and timing covers"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N46 engine now, or view full N46 engine range for other applications.",
+  "crossLink": "← Back to all N46 engines"
+ }
+}

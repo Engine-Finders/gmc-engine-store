@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "td5",
+ "applicationSlug": "defender-130-pickup-15p-2002",
+ "engineCode": "TD5",
+ "condition": "used",
+ "seo": {
+  "title": "Used Td5 Engine — Defender 130 Pickup (15P) 2002-2006",
+  "description": "Used Td5 engine for Defender 130 Pickup (15P) 2002-2006. Fixed price £1,706, tested before dispatch, 12-month warranty included, and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/td5/defender-130-pickup-15p-2002/"
+ },
+ "hero": {
+  "title": "Used Td5 Engine — Defender 130 Pickup (15P) 2002-2006",
+  "subtitle": "Used Td5 engine for Defender 130 Pickup (15P) and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: TD5-USED-DEF130-PICKUP-15P",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,706",
+    "note": "12-month warranty",
+    "price": "£1,706.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Td5 engine for Defender 130 Pickup 15P, longitudinally-mounted 2.5 I5 turbo diesel, used condition.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "Td5",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2002-2006",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L316",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Turbo diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm exact fitment for your vehicle using our reg-checker below, or verify by VIN and code stamp before purchase.",
+  "list": [
+   "Defender 130 (L316) Pickup (15P) 2002-2006"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch",
+   "12-month warranty as standard",
+   "UK delivery",
+   "Fitting instructions"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this Td5 engine now, or view the full Td5 engine range for other applications.",
+  "crossLink": "← Back to all Td5 engines"
+ }
+}

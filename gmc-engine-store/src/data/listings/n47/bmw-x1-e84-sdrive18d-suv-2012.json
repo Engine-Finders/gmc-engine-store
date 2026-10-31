@@ -1,0 +1,91 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "n47",
+ "applicationSlug": "bmw-x1-e84-sdrive18d-suv-2012",
+ "engineCode": "N47",
+ "condition": "used",
+ "seo": {
+  "title": "Used N47 Engine — BMW X1 E84 sDrive18d SUV 2012-2014 | Engined",
+  "description": "N47 · used · X1 SUV E84 sDrive18d · 143 PS · £1,125 · fully tested before dispatch · 12-month warranty · UK delivery included",
+  "canonical": "https://engined.co.uk/engines/n47/bmw-x1-e84-sdrive18d-suv-2012/"
+ },
+ "hero": {
+  "title": "Used N47 Engine — BMW X1 E84 sDrive18d SUV 2012-2014",
+  "subtitle": "Used N47 engine for X1 SUV E84 sDrive18d — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N47-USED-G4-E84-SD18D-FL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,125",
+    "note": "12-month warranty",
+    "price": "£1,125.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "BMW N47 engine for E84 sDrive18d SUV — complete assembly with ancillaries",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N47",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2012-2014",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E84",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-n47-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration for instant fitment confirmation, or check the compatible models listed below.",
+  "list": [
+   "X1 SUV (E84) 2012-2014 — sDrive18d (143 PS)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil and filter service completed",
+   "Pressure and compression tested",
+   "Full inspection report supplied"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, aircon compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N47 engine now, or view the full N47 engine range for other applications.",
+  "crossLink": "← Back to all N47 engines"
+ }
+}

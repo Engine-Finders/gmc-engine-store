@@ -1,0 +1,83 @@
+{
+ "brand": "renault",
+ "brandName": "Renault",
+ "engineSlug": "r9m",
+ "applicationSlug": "renault-megane-iv-1-6-dci-130ps-hatch-2013",
+ "engineCode": "R9M",
+ "condition": "used",
+ "seo": {
+  "title": "R9M Megane 130PS Used | Engined",
+  "description": "Used R9M engine for Renault Megane IV 1.6 dCi 130 PS hatchback. Fixed price £1,165. 12-month warranty. Tested before dispatch. UK delivery included.",
+  "canonical": "https://engined.co.uk/engines/r9m/renault-megane-iv-1-6-dci-130ps-hatch-2013/"
+ },
+ "hero": {
+  "title": "R9M Megane 130PS Used",
+  "subtitle": "SUB — Used R9M engine for Megane IV 1.6 dCi 130 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: R9M-USED-MEGANE-130",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,165",
+    "note": "12-month warranty",
+    "price": "£1,165.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Renault R9M engine for Megane IV 1.6 dCi 130 PS hatchback, transverse sump, R9M-450.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "R9M",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2013–present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Megane IV",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment for your Megane IV by checking your registration or VIN — this R9M engine fits the models listed below.",
+  "list": [
+   "Renault Megane IV (1.6 dCi 130 PS, R9M-450) 2013–present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New gaskets and seals",
+   "Oil pump"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this R9M engine now, or view the full R9M engine range for other applications.",
+  "crossLink": "← Back to all R9M engines"
+ }
+}

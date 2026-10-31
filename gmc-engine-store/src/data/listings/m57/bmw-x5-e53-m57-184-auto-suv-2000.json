@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "m57",
+ "applicationSlug": "bmw-x5-e53-m57-184-auto-suv-2000",
+ "engineCode": "M57",
+ "condition": "used",
+ "seo": {
+  "title": "PENDING — M57 3.0 Engine — BMW E53 X5 3.0d (Auto, 184 PS) 2000–2003 | Engined",
+  "description": "Used and Reconditioned M57 3.0 engine for BMW X5 E53 3.0d. Fixed price £1,500, tested before dispatch, UK delivery & 12-month warranty included.",
+  "canonical": "https://engined.co.uk/engines/m57/bmw-x5-e53-m57-184-auto-suv-2000/"
+ },
+ "hero": {
+  "title": "PENDING — M57 3.0 Engine — BMW E53 X5 3.0d (Auto, 184 PS) 2000–2003",
+  "subtitle": "Used and Reconditioned M57 engine for BMW X5 E53 3.0d — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M57-PEND-X5-3.0D-AUTO-0003",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,500",
+    "note": "12-month warranty",
+    "price": "£1,500.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "PENDING — M57 3.0 Engine — BMW E53 X5 3.0d (Auto, 184 PS) 2000–2003",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M57",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2000–2003",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E53",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number above to confirm this M57 engine fits your BMW X5 E53 before you buy.",
+  "list": [
+   "BMW X5 E53 SUV (M57 184 PS Auto) 2000–2003"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Fully cleaned and inspected",
+   "Ready to bolt in"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M57 engine now, or view the full M57 engine range for other applications.",
+  "crossLink": "← Back to all M57 engines"
+ }
+}

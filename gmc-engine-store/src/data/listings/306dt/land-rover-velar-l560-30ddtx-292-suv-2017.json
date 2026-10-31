@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "306dt",
+ "applicationSlug": "land-rover-velar-l560-30ddtx-292-suv-2017",
+ "engineCode": "30DDTX",
+ "condition": "used",
+ "seo": {
+  "title": "Used 30DDTX SDV6 Engine — Range Rover Velar L560 (292 PS, Twin-Turbo) 2017–present | Engined",
+  "description": "Used 30DDTX engine for Range Rover Velar L560. Fixed price £3,615. Tested before dispatch, 12-month warranty & UK delivery. Twin-turbo SDV6 292 PS.",
+  "canonical": "https://engined.co.uk/engines/306dt/land-rover-velar-l560-30ddtx-292-suv-2017/"
+ },
+ "hero": {
+  "title": "Used 30DDTX SDV6 Engine — Range Rover Velar L560 (292 PS, Twin-Turbo) 2017–present",
+  "subtitle": "Used 30DDTX engine for Range Rover Velar L560 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 306DT-USED-VELAR-L560-292",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £3,615",
+    "note": "12-month warranty",
+    "price": "£3,615.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used 30DDTX SDV6 Engine — Range Rover Velar L560 (292 PS, Twin-Turbo) 2017–present",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "30DDTX",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2017–present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L560",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number in our checker above to confirm this 30DDTX engine is the exact match for your Range Rover Velar.",
+  "list": [
+   "Range Rover Velar L560 (3.0 SDV6 292 PS Twin-Turbo) 2017–present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "VAT included in the price",
+   "Secure, tracked UK delivery"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system components",
+   "Ancillaries (alternator, starter motor, etc.)",
+   "Fitting and installation services"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 30DDTX engine now, or view the full 306DT range for other applications.",
+  "crossLink": "← Back to all 306DT engines"
+ }
+}

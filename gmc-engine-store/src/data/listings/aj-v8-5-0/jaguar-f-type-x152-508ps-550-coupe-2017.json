@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "aj-v8-5-0",
+ "applicationSlug": "jaguar-f-type-x152-508ps-550-coupe-2017",
+ "engineCode": "508PS",
+ "condition": "used",
+ "seo": {
+  "title": "Used 508PS 5.0 V8 Engine — Jaguar F-Type Coupe (SC, 550hp) 2017–2020 | Engined",
+  "description": "Used 508PS 5.0 V8 SC engine for Jaguar F-Type Coupe 2017–2020, 550hp. Fixed price £4,825, tested before dispatch, with 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/aj-v8-5-0/jaguar-f-type-x152-508ps-550-coupe-2017/"
+ },
+ "hero": {
+  "title": "Used 508PS 5.0 V8 Engine — Jaguar F-Type Coupe (SC, 550hp) 2017–2020",
+  "subtitle": "SUB — Used 508PS SC engine for Jaguar F-Type Coupe 2017–2020 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 508PS-USED-FTYPE-COUPE-550-1720",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £4,825",
+    "note": "12-month warranty",
+    "price": "£4,825.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used 508PS 5.0 V8 supercharged engine for Jaguar F-Type Coupe 2017–2020, 550hp — tested before dispatch",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "508PS",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2017–2020",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X152",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration to confirm this 508PS engine fits your Jaguar F-Type X152 2017–2020 supercharged model.",
+  "list": [
+   "Jaguar F-Type X152 (Coupe, 5.0 V8 SC 550hp, 508PS code) 2017–2020"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New gaskets and seals",
+   "Ready for fitting"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 508PS engine now, or view the full 508PS engine range for other applications.",
+  "crossLink": "← Back to all 508PS engines"
+ }
+}

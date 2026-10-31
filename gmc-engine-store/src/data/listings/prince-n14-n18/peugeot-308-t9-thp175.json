@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "prince-n14-n18",
+ "applicationSlug": "peugeot-308-t9-thp175",
+ "engineCode": "EP6",
+ "condition": "used",
+ "seo": {
+  "title": "Used EP6 Peugeot 308 THP175 | Engined",
+  "description": "Used EP6 engine for Peugeot 308 T9 THP175, 2008–2013. Fixed £1,260 with 12-month warranty and UK delivery. Check fitment by reg before you buy.",
+  "canonical": "https://engined.co.uk/engines/prince-n14-n18/peugeot-308-t9-thp175/"
+ },
+ "hero": {
+  "title": "Used Prince EP6 1.6 THP Engine — Peugeot 308 T9 THP175 2008–2013",
+  "subtitle": "SUB — Used EP6 engine for Peugeot 308 T9 THP175 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: PRINCE-USED-T9-THP175",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,260",
+    "note": "12-month warranty",
+    "price": "£1,260.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used EP6 1.6 THP engine for Peugeot 308 T9 THP175, 175 PS, 2008–2013 — tested used unit",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EP6",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2008–2013",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "T9",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with your registration before ordering — this used EP6 engine is listed for the following Peugeot 308 T9 applications.",
+  "list": [
+   "Peugeot 308 T9 (THP 175 — 175 PS) 2008–2013"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block as supplied",
+   "Sump, covers and sensors as supplied"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EP6 engine now, or view the full EP6 engine range for other applications.",
+  "crossLink": "← Back to all EP6 engines — https://engined.co.uk/engines/prince-n14-n18/"
+ }
+}

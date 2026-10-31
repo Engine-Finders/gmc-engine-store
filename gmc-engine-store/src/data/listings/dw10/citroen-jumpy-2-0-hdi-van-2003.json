@@ -1,0 +1,83 @@
+{
+ "brand": "peugeot",
+ "brandName": "Peugeot",
+ "engineSlug": "dw10",
+ "applicationSlug": "citroen-jumpy-2-0-hdi-van-2003",
+ "engineCode": "DW10",
+ "condition": "used",
+ "seo": {
+  "title": "Used DW10 Engine — Citroën Jumpy Dispatch 2.0 HDi 2003-2016",
+  "description": "Used DW10 engine for Citroën Jumpy/Dispatch 2.0 HDi Van 2003-2016. Fixed price £1,495, tested before dispatch, 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/dw10/citroen-jumpy-2-0-hdi-van-2003/"
+ },
+ "hero": {
+  "title": "Used DW10 Engine — Citroën Jumpy/Dispatch (2.0 HDi) Van 2003-2016",
+  "subtitle": "SUB — Used DW10 engine for Citroën Jumpy and Dispatch — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: DW10-USED-JUMPY-HDI",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,495",
+    "note": "12-month warranty",
+    "price": "£1,495.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used DW10 engine for Citroën Jumpy/Dispatch 2.0 HDi Van 2003-2016, commercial spec, transverse mount, tested.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "DW10",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2003-2016",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Jumpy/Dispatch",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration with our reg checker to confirm this DW10 engine fits your Citroën Jumpy or Dispatch before ordering.",
+  "list": [
+   "Citroën Jumpy/Dispatch (Van) (2.0 HDi, 120-163 PS, commercial spec) 2003-2016"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Sump and rocker cover"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this DW10 engine now, or view the full DW10 engine range for other applications.",
+  "crossLink": "← Back to all DW10 engines"
+ }
+}

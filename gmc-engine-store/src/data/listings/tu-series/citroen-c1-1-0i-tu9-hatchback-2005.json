@@ -1,0 +1,83 @@
+{
+ "brand": "citroen",
+ "brandName": "Citroen",
+ "engineSlug": "tu-series",
+ "applicationSlug": "citroen-c1-1-0i-tu9-hatchback-2005",
+ "engineCode": "TU9",
+ "condition": "used",
+ "seo": {
+  "title": "Used Citroën C1 1.0i TU9 Engine — 2005-2010 Hatchback",
+  "description": "TU9 · used · Citroën C1 Hatchback 1.0i · 68 hp · £395 · 12-month warranty · UK delivery",
+  "canonical": "https://engined.co.uk/engines/tu-series/citroen-c1-1-0i-tu9-hatchback-2005/"
+ },
+ "hero": {
+  "title": "Used Citroën C1 1.0i TU9 Engine — 2005-2010 Hatchback",
+  "subtitle": "Used TU9 petrol engine for Citroën C1 Hatchback 1.0i — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: TU-USED-CITROEN-C1-TU9-HATCH",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £395",
+    "note": "12-month warranty",
+    "price": "£395.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Citroën TU9 1.0i engine for C1 Hatchback 2005-2010 — tested petrol unit",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "TU9",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2005-2010",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Citroën C1 Hatchback (2005-2010) — 1.0i",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/citroen-citroen-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your vehicle's compatibility below — use our reg-checker to confirm this TU9 engine matches your Citroën C1 exactly.",
+  "list": [
+   "Citroën C1 Hatchback (2005-2010) — 1.0i"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Comprehensive inspection report",
+   "Oil and filter service",
+   "UK mainland delivery"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this TU9 engine now, or view the full TU-series engine range for other applications.",
+  "crossLink": "← Back to all TU-series engines"
+ }
+}

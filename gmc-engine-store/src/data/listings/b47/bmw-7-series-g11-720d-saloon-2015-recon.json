@@ -1,0 +1,91 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "b47",
+ "applicationSlug": "bmw-7-series-g11-720d-saloon-2015-recon",
+ "engineCode": "B47",
+ "condition": "recon",
+ "seo": {
+  "title": "BMW B47 Engine — 7 Series G11 (720d) Saloon 2015-2019",
+  "description": "Reconditioned B47 engine for BMW 7 Series G11 720d Saloon 2015-2019. Fully tested, £2,695 with 12‑month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/b47/bmw-7-series-g11-720d-saloon-2015-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW B47 Engine — 7 Series G11 (720d) Saloon 2015-2019",
+  "subtitle": "Reconditioned B47 engine for 7 Series G11 720d Saloon — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: B47-RECON-EXEC-G11-720D",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,695",
+    "note": "12-month warranty",
+    "price": "£2,695.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned BMW B47 engine for 7 Series G11 720d Saloon — longitudinal mounting with enhanced cooling pack",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "B47",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2015-2019",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "G11",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-b47-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your vehicle fits this B47 engine using our reg-checker tool — verify compatibility before ordering.",
+  "list": [
+   "7 Series Saloon (G11) 2015-2019 — 720d (190 hp)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch on our dynamometer",
+   "12-month warranty as standard",
+   "Full inspection and compression testing",
+   "Oil and filter change before dispatch",
+   "UK mainland delivery"
+  ],
+  "excluded": [
+   "Turbocharger (reusable from your existing engine)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, air conditioning compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this B47 engine now, or view the full B47 engine range for other applications.",
+  "crossLink": "← Back to all B47 engines"
+ }
+}

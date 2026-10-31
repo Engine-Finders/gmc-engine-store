@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "306ps",
+ "applicationSlug": "land-rover-range-rover-sport-l494-306ps-380-suv-recon-prefl-2014",
+ "engineCode": "306PS",
+ "condition": "recon",
+ "seo": {
+  "title": "306PS RRS L494 380 Recon | Engined",
+  "description": "Reconditioned 306PS 3.0 SC V6 engine for Range Rover Sport L494 Pre-FL 380PS. £5,170 with 12-month warranty and UK delivery. Rebuilt supercharger.",
+  "canonical": "https://engined.co.uk/engines/306ps/land-rover-range-rover-sport-l494-306ps-380-suv-recon-prefl-2014/"
+ },
+ "hero": {
+  "title": "306PS RRS L494 380 Recon",
+  "subtitle": "SUB — Reconditioned 306PS engine for Range Rover Sport L494 Pre-FL 380PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 306PS-RECON-RRS-L494-380-PRE",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £5,170",
+    "note": "12-month warranty",
+    "price": "£5,170.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned 306PS 3.0 SC V6 engine for Range Rover Sport L494 Pre-FL 380PS, rebuilt supercharger.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "306PS",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2014–2017",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L494",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with our UK reg checker before ordering — this listing covers the following Range Rover Sport application.",
+  "list": [
+   "Range Rover Sport L494 (SUV — 3.0 SCV6 380PS — 306PS engine code) 2014–2017"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Engine block and cylinder head",
+   "Sump and timing covers"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 306PS engine now, or view the 306PS engine range for other applications.",
+  "crossLink": "← Back to all 306PS engines"
+ }
+}

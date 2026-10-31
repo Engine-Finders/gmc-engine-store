@@ -1,0 +1,84 @@
+{
+ "brand": "toyota",
+ "brandName": "Toyota",
+ "engineSlug": "b58",
+ "applicationSlug": "toyota-supra-a90-3-0-382ps-coupe-2021",
+ "engineCode": "B58",
+ "condition": "used",
+ "seo": {
+  "title": "Used B58 Engine — Toyota Supra A90 3.0 2021-present (382 PS) Coupe | Engined",
+  "description": "Used BMW B58 engine for the Toyota Supra A90 and A91 3.0 (382 PS) 2021-present Coupe. £4,020, 12-month warranty, UK delivery, tested before dispatch.",
+  "canonical": "https://engined.co.uk/engines/b58/toyota-supra-a90-3-0-382ps-coupe-2021/"
+ },
+ "hero": {
+  "title": "Used B58 Engine — Toyota Supra A90 3.0 2021-present (382 PS) Coupe",
+  "subtitle": "Used B58 engine for the Toyota Supra A90 and A91 3.0 (382 PS) — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: B58-USED-SUPRA-A90-382",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £4,020",
+    "note": "12-month warranty",
+    "price": "£4,020.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW B58B30C 3.0-litre twin-scroll turbo petrol engine for Toyota Supra A90/A91 Coupe, 382 PS",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "B58",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2021-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "A90, A91",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration above to confirm this used B58 fits your Toyota Supra A90 or A91 before you buy.",
+  "list": [
+   "Toyota Supra A90/A91 3.0 (382 PS) 2021-present — BMW B58B30C, Coupe"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Verified B58B30C engine code match",
+   "Compression and leak-down checked",
+   "Crated and palletised for transit"
+  ],
+  "excluded": [
+   "Turbocharger (reused only where condition allows)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this B58 engine now, or view the full B58 engine range for other applications.",
+  "crossLink": "← Back to all B58 engines"
+ }
+}

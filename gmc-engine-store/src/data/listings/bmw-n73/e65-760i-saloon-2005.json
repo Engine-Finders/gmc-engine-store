@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n73",
+ "applicationSlug": "e65-760i-saloon-2005",
+ "engineCode": "N73",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW N73 Engine — 7 Series E65 (760i) Saloon 2005‑2008",
+  "description": "Used BMW N73 engine for the 7 Series E65 760i Saloon 2005-2008. LCI N73B60 with updated DME, £4,225 fixed price, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/bmw-n73/e65-760i-saloon-2005/"
+ },
+ "hero": {
+  "title": "Used BMW N73 Engine — 7 Series E65 (760i) Saloon 2005‑2008",
+  "subtitle": "Used N73 engine for the 7 Series E65 760i Saloon — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N73-USED-E65-760I-FL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £4,225",
+    "note": "12-month warranty",
+    "price": "£4,225.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW N73 N73B60 6.0L V12 engine for 7 Series E65 760i Saloon 2005-2008, 445 PS, LCI.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N73",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2005-2008",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E65",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your registration below to check this N73 engine fits your 7 Series E65 760i before you order.",
+  "list": [
+   "BMW 7 Series E65 (760i Saloon — 445 PS) 2005‑2008"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (block, heads, sump and timing covers as applicable)",
+   "Used N73B60 6.0L V12, LCI with updated DME, 445 PS flagship Saloon application",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Fixed price, UK delivery"
+  ],
+  "excluded": [
+   "Turbocharger — not applicable; the N73 is naturally aspirated",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, A/C compressor, power steering pump)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N73 engine now, or view the full N73 engine range for other applications.",
+  "crossLink": "← Back to all N73 engines"
+ }
+}

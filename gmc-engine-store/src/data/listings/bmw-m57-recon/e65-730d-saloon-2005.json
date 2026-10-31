@@ -1,0 +1,91 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-m57-recon",
+ "applicationSlug": "e65-730d-saloon-2005",
+ "engineCode": "M57",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned BMW M57 Engine — 7 Series E65 (730d) Saloon 2005-2008",
+  "description": "Reconditioned BMW M57 · E65 730d Saloon · 218 PS · £3,565 · 12‑month warranty · UK delivery.",
+  "canonical": "https://engined.co.uk/engines/bmw-m57-recon/e65-730d-saloon-2005/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW M57 Engine — 7 Series E65 (730d) Saloon 2005-2008",
+  "subtitle": "Reconditioned M57 engine for 7 Series E65 730d Saloon — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M57-RECON-E65-730D-FL",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £3,565",
+    "note": "12-month warranty",
+    "price": "£3,565.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned BMW M57 diesel engine for 7 Series E65 730d Saloon (2005‑2008) — complete unit",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M57",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2005-2008",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E65",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration or confirm these fitments — this reconditioned M57 engine is verified for the following BMW 7 Series applications.",
+  "list": [
+   "BMW 7 Series (E65) 2005-2008 — 730d (218 PS) Saloon"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12‑month warranty as standard",
+   "Full inspection report",
+   "Compression and leak‑down test results",
+   "Oil and filter service completed"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter, AC compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M57 engine now, or view the full M57 engine range for other applications.",
+  "crossLink": "← Back to all M57 engines"
+ }
+}

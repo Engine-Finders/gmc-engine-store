@@ -1,0 +1,92 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "b47",
+ "applicationSlug": "bmw-3-series-f30-325d-saloon-2015-recon",
+ "engineCode": "B47",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned BMW B47 Engine — 3 Series F30 (325d) Saloon 2015-2019 | Engined",
+  "description": "BMW B47 · reconditioned · 3 Series Saloon F30 325d 2015-2019 — £2,870 · 12-month warranty · UK delivery. Full tested before dispatch.",
+  "canonical": "https://engined.co.uk/engines/b47/bmw-3-series-f30-325d-saloon-2015-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW B47 Engine — 3 Series F30 (325d) Saloon 2015-2019",
+  "subtitle": "Reconditioned B47 engine for 3 Series Saloon F30 325d 2015-2019 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: B47-RECON-COMPACT-F30-325D",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,870",
+    "note": "12-month warranty",
+    "price": "£2,870.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "BMW B47 engine reconditioned — 3 Series F30 325d Saloon 2015-2019, complete assembly",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "B47",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2015-2019",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F30, F31, F20, F21, F22, F23, F32, F33, F34, F36",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-b47-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number to confirm compatibility with this BMW B47 engine — or check the full vehicle list below.",
+  "list": [
+   "3 Series Saloon (F30) 2015-2019 — 325d (231 hp)",
+   "Longitudinal-mounted B47 for BMW's RWD-based compact models (1/2/3/4 Series)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch — compression tested and inspected",
+   "12-month warranty as standard",
+   "Full oil service completed",
+   "New timing chain and tensioner",
+   "New gaskets and seals fitted"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries (alternator, starter, AC compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this B47 engine now, or view the full B47 engine range for other applications.",
+  "crossLink": "← Back to all B47 engines"
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "brand": "renault",
+ "brandName": "Renault",
+ "engineSlug": "energy-tce",
+ "applicationSlug": "renault-captur-i-0-9-tce-90-suv-2013",
+ "engineCode": "H4BT",
+ "condition": "used",
+ "seo": {
+  "title": "Used Renault Energy TCe Engine — Captur I (0.9 TCe 90) SUV 2013-2018",
+  "description": "Used Renault Energy TCe (H4Bt) engine for Captur I 0.9 TCe 90 SUV 2013-2018. Used £625, recon £1,350, 12-month warranty included, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/energy-tce/renault-captur-i-0-9-tce-90-suv-2013/"
+ },
+ "hero": {
+  "title": "Used Renault Energy TCe Engine — Captur I (0.9 TCe 90) SUV 2013-2018",
+  "subtitle": "Used Energy TCe engine for Renault Captur I — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: TCe-USED-CAPTUR-09",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £625",
+    "note": "12-month warranty",
+    "price": "£625.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Energy TCe H4Bt 0.9-litre three-cylinder turbo petrol engine for Renault Captur I 0.9 TCe 90 SUV, 2013-2018",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "H4Bt",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2013-2018",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Captur I",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration below to confirm this Energy TCe engine fits your Renault Captur I before you buy.",
+  "list": [
+   "Renault Captur I (0.9 TCe 90 — 90 PS, code H4Bt) 2013–2018"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Test results supplied with the engine",
+   "Engine code and serial number verified before dispatch"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this Energy TCe engine now, or view the full Energy TCe engine range for other applications.",
+  "crossLink": "← Back to all Energy TCe engines"
+ }
+}

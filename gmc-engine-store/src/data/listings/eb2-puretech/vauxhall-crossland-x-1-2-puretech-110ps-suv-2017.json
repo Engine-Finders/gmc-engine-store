@@ -1,0 +1,84 @@
+{
+ "brand": "peugeot",
+ "brandName": "Peugeot",
+ "engineSlug": "eb2-puretech",
+ "applicationSlug": "vauxhall-crossland-x-1-2-puretech-110ps-suv-2017",
+ "engineCode": "EB2",
+ "condition": "used",
+ "seo": {
+  "title": "Used PSA EB2 Engine — Vauxhall Crossland X (1.2 PureTech 110 PS) SUV 2017-Present",
+  "description": "Used PSA EB2 engine for Vauxhall Crossland X 1.2 PureTech 110 PS — £1,305, 12-month warranty, UK delivery. Recon also available from £2,250.",
+  "canonical": "https://engined.co.uk/engines/eb2-puretech/vauxhall-crossland-x-1-2-puretech-110ps-suv-2017/"
+ },
+ "hero": {
+  "title": "Used PSA EB2 Engine — Vauxhall Crossland X (1.2 PureTech 110 PS) SUV 2017-Present",
+  "subtitle": "SUB — Used EB2 engine for Vauxhall Crossland X 1.2 PureTech 110 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EB2-USED-CROSSLANDX-110PS",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,305",
+    "note": "12-month warranty",
+    "price": "£1,305.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used PSA EB2 1.2 PureTech 110 PS engine for Vauxhall Crossland X, transverse mount, wet-belt timing",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EB2",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2017–Present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Crossland X",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your registration with our reg-checker to guarantee fitment before ordering.",
+  "list": [
+   "Vauxhall Crossland X (1.2 PureTech 110 PS) 2017–Present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (block, head, sump, timing cover)",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New gaskets and seals fitted",
+   "Oil pump and water pump checked and replaced if needed",
+   "Compression and leak-down test results supplied"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, air conditioning compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EB2 engine now, or view the full EB2 engine range for other applications.",
+  "crossLink": "← Back to all EB2 engines"
+ }
+}

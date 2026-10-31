@@ -1,0 +1,91 @@
+{
+ "brand": "audi",
+ "brandName": "Audi",
+ "engineSlug": "ea189",
+ "applicationSlug": "vw-golf-mk6-gtd-hatchback",
+ "engineCode": "EA189",
+ "condition": "used",
+ "seo": {
+  "title": "Used EA189 2.0 TDI Engine — VW Golf Mk6 GTD (CBBB 170 hp) Hatchback 2009-2012",
+  "description": "EA189 · Used · VW Golf Hatchback Mk6 GTD, 2.0 TDI CBBB 170 hp · £1,490 · 12-month warranty · UK delivery. Same block as Audi A3 170 hp.",
+  "canonical": "https://engined.co.uk/engines/ea189/vw-golf-mk6-gtd-hatchback/"
+ },
+ "hero": {
+  "title": "Used EA189 2.0 TDI Engine — VW Golf Mk6 GTD (CBBB 170 hp) Hatchback 2009-2012",
+  "subtitle": "Used EA189 2.0 TDI engine for VW Golf Hatchback Mk6 GTD — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA189-USED-GOLF-GTD",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,490",
+    "note": "12-month warranty",
+    "price": "£1,490.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "EA189 2.0 TDI CBBB engine for VW Golf Mk6 GTD, transverse single-turbo diesel, 170 hp.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA189",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2009-2012",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Mk6",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/audi-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/audi-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/audi-audi-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Verify this engine fits your VW Golf using our free registration checker — input your reg for instant confirmation.",
+  "list": [
+   "VW Golf Hatchback (Mk6) 2009-2012 — 2.0 TDI GTD CBBB (170 hp)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Comprehensive inspection report",
+   "Oil and filter service",
+   "UK delivery included"
+  ],
+  "excluded": [
+   "Turbocharger (reusable if in good condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA189 engine now, or view the full EA189 engine range for other applications.",
+  "crossLink": "← Back to all EA189 engines"
+ }
+}

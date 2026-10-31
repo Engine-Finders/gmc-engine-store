@@ -1,0 +1,98 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "n47",
+ "applicationSlug": "bmw-1-series-e87-118d-hatchback-2010",
+ "engineCode": "N47",
+ "condition": "used",
+ "seo": {
+  "title": "Used N47 Engine — BMW 1 Series E87 118d Hatchback 5dr 2010-2013 | Engined",
+  "description": "N47 · used · BMW 1 Series E87 118d Hatchback 5dr · £986 · 12-month warranty · UK delivery. Tested before dispatch. Ready to ship.",
+  "canonical": "https://engined.co.uk/engines/n47/bmw-1-series-e87-118d-hatchback-2010/"
+ },
+ "hero": {
+  "title": "Used N47 Engine — BMW 1 Series E87 118d Hatchback 5dr 2010-2013",
+  "subtitle": "Used N47 engine for BMW 1 Series Hatchback 5dr (E87) 118d 2010-2013 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N47-USED-G1-E87-118D-5DR-FL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £986",
+    "note": "12-month warranty",
+    "price": "£986.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,755",
+    "note": "12-month warranty",
+    "price": "£1,755.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "BMW N47 engine for 1 Series E87 118d Hatchback 5dr 2010-2013 — tested used unit with ancillaries",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N47",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2010-2013",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E87",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-n47-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number above to confirm compatibility, or check the list below for exact vehicle fitment.",
+  "list": [
+   "BMW 1 Series Hatchback 5dr (E87) 118d 2010-2013"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (long block)",
+   "Tested before dispatch — compression, leak-down, and running checks",
+   "12-month warranty as standard",
+   "Timing chain and tensioner inspection",
+   "Oil and filter service completed",
+   "Full gasket and seal replacement",
+   "Compatible ECU mapping data provided"
+  ],
+  "excluded": [
+   "Turbocharger (reusable from your existing unit if serviceable)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, air conditioning compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N47 engine now, or view the full N47 engine range for other applications.",
+  "crossLink": "← Back to all N47 engines"
+ }
+}

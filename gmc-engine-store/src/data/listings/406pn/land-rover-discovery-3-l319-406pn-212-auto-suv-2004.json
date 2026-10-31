@@ -1,0 +1,91 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "406pn",
+ "applicationSlug": "land-rover-discovery-3-l319-406pn-212-auto-suv-2004",
+ "engineCode": "406PN",
+ "condition": "used",
+ "seo": {
+  "title": "Used 406PN 4.0 V8 Engine — Discovery 3 L319 (212 PS, Auto) 2004–2006",
+  "description": "Used 406PN 4.0 V8 engine for Discovery 3 L319. Fixed price £2,495. Tested before dispatch, includes a 12-month warranty and free UK delivery.",
+  "canonical": "https://engined.co.uk/engines/406pn/land-rover-discovery-3-l319-406pn-212-auto-suv-2004/"
+ },
+ "hero": {
+  "title": "Used 406PN 4.0 V8 Engine — Discovery 3 L319 (212 PS, Auto) 2004–2006",
+  "subtitle": "Used 406PN engine for Discovery 3 L319 and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 406PN-USED-DISCO3-212-AUTO-0406",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,495",
+    "note": "12-month warranty",
+    "price": "£2,495.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Land Rover 406PN 4.0 V8 engine for Discovery 3 L319 212 PS, tested and ready for UK delivery.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "406PN",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2004–2006",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L319",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number in our checker above to confirm this 406PN engine fits your Land Rover Discovery 3 L319.",
+  "list": [
+   "Discovery 3 L319 (4.0 V8 212 PS Automatic SUV) 2004–2006"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "OEM-spec gaskets and seals",
+   "Cleaned and degreased block",
+   "Full compression test report"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 406PN engine now, or view the full 406PN range for other applications.",
+  "crossLink": "← Back to all 406PN engines"
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "brand": "jaguar",
+ "brandName": "Jaguar",
+ "engineSlug": "aj126",
+ "applicationSlug": "recon-306ps-range-rover-velar-l560-p380-suv-2017",
+ "engineCode": "AJ126",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned AJ126/306PS 3.0 V6 Engine — Range Rover Velar (L560) P380 SUV 2017-2019",
+  "description": "Reconditioned AJ126 engine for Range Rover Velar (L560) P380 SUV 2017-2019. Fixed price £5,500, tested before dispatch, 12-month warranty & UK delivery.",
+  "canonical": "https://engined.co.uk/engines/aj126/recon-306ps-range-rover-velar-l560-p380-suv-2017/"
+ },
+ "hero": {
+  "title": "Reconditioned AJ126/306PS 3.0 V6 Engine — Range Rover Velar (L560) P380 SUV 2017-2019",
+  "subtitle": "Reconditioned AJ126 engine for Range Rover Velar (L560) P380 SUV — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: AJ126-RECON-VELAR-L560-380-SUV",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £5,500",
+    "note": "12-month warranty",
+    "price": "£5,500.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned Jaguar AJ126 3.0L V6 supercharged engine for Range Rover Velar (L560) P380 SUV, showing longitudinal layout and Velar-specific ancillaries.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJ126",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2017-2019",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L560",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/jaguar-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/jaguar-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jlr-aj126-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment instantly by entering your registration number below to match your chassis code.",
+  "list": [
+   "Range Rover Velar (L560) 2017-2019 — P380 3.0 V6 SC (380 PS) SUV"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Longitudinal 3.0 V6 supercharged unit",
+   "Velar-specific ancillaries"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries not specified above",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this AJ126 engine now, or view the full AJ126 engine range for other applications.",
+  "crossLink": "← Back to all AJ126 engines"
+ }
+}

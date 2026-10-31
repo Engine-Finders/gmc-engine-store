@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "m275-m279",
+ "applicationSlug": "mercedes-sl-r230-m279-612-roadster-amg-fl-2008",
+ "engineCode": "M279",
+ "condition": "used",
+ "seo": {
+  "title": "Used M279 6.0 V12 Biturbo Engine — SL R230 Roadster (SL65 AMG, 612 PS) 2008–2011 | Engined",
+  "description": "Used M279 6.0 V12 Biturbo engine for SL65 AMG SL R230 2008–2011. 612 PS AMG high-output, tested before dispatch, 12-month warranty, UK delivery. £11,995.",
+  "canonical": "https://engined.co.uk/engines/m275-m279/mercedes-sl-r230-m279-612-roadster-amg-fl-2008/"
+ },
+ "hero": {
+  "title": "Used M279 6.0 V12 Biturbo Engine — SL R230 Roadster (SL65 AMG, 612 PS) 2008–2011",
+  "subtitle": "Used M279 6.0 V12 Biturbo engine for SL65 AMG R230 Roadster — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M279-USED-R230-SL65-AMG-FL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £11,995",
+    "note": "12-month warranty",
+    "price": "£11,995.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Mercedes-Benz M279 6.0 V12 Biturbo engine — SL65 AMG R230 612 PS, complete assembly",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M279",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2008–2011",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "R230",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-mercedes-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your registration with our reg-checker before ordering — we'll verify your SL R230 is the correct SL65 AMG fitment.",
+  "list": [
+   "SL R230 (Roadster — SL65 AMG 612 PS — M279 — V12 Biturbo) 2008–2011"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (block, cylinder heads, sump, timing covers)",
+   "Tested before dispatch — compression and leak-down verified",
+   "12-month warranty as standard",
+   "All ancillaries as removed from donor vehicle",
+   "Engine loom and sensors where applicable"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system components",
+   "Ancillaries (alternator, starter motor, A/C compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M279 engine now, or view the full M279 engine range for other applications.",
+  "crossLink": "← Back to all M279 engines"
+ }
+}

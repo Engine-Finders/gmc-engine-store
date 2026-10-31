@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "m50d",
+ "applicationSlug": "bmw-7-series-g12-m50d-long-2019-recon",
+ "engineCode": "M50D",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned M50d Engine — BMW 7 Series G12 2019-2020",
+  "description": "M50d · reconditioned quad-turbo engine · BMW 7 Series G12 Long Wheelbase 2019-2020 — £8,445 · 12-month warranty · UK delivery. Tested before dispatch.",
+  "canonical": "https://engined.co.uk/engines/m50d/bmw-7-series-g12-m50d-long-2019-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned M50d 3.0 Quad-Turbo Engine — BMW 7 Series G12 (M50d) Long Wheelbase 2019-2020",
+  "subtitle": "Reconditioned M50d engine for BMW 7 Series G12 M50d Long Wheelbase 2019-2020 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M50D-RECON-G12-M50D-LONG",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £8,445",
+    "note": "12-month warranty",
+    "price": "£8,445.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned M50d 3.0 Quad-Turbo engine for BMW 7 Series G12 Long Wheelbase 2019-2020 – tested complete unit",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M50d",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2019-2020",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "G12",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-m50d-engine.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "This reconditioned M50d engine is compatible with the following BMW 7 Series models — use our reg checker to confirm fitment for your specific vehicle.",
+  "list": [
+   "7 Series Long Wheelbase (G12) 2019-2020 — M50d (400 PS)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Full inspection and quality check",
+   "UK delivery included"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, subject to condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M50d engine now, or view the full M50d engine range for other applications.",
+  "crossLink": "← Back to all M50d engines"
+ }
+}

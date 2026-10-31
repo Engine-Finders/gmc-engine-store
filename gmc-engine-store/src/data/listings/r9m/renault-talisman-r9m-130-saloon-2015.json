@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "r9m",
+ "applicationSlug": "renault-talisman-r9m-130-saloon-2015",
+ "engineCode": "R9M",
+ "condition": "used",
+ "seo": {
+  "title": "R9M Talisman 130 PS | Engined",
+  "description": "Used R9M 1.6 dCi engine for Renault Talisman I 1.6 dCi 130 PS 2015–2018. £1,295 with 12-month warranty and UK delivery. Tested before dispatch.",
+  "canonical": "https://engined.co.uk/engines/r9m/renault-talisman-r9m-130-saloon-2015/"
+ },
+ "hero": {
+  "title": "Used R9M 1.6 dCi Engine — Renault Talisman I Hatchback (1.6 dCi 130, 130 PS) 2015–2018",
+  "subtitle": "Used R9M engine for Renault Talisman I 1.6 dCi 130 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: R9M-USED-TALISMAN-130",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,295",
+    "note": "12-month warranty",
+    "price": "£1,295.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used R9M 1.6 dCi engine for Renault Talisman I 1.6 dCi 130 PS 2015–2018.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "R9M",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2015–2018",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Talisman I",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-mercedes-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration with our reg checker to confirm this R9M engine fits your Renault Talisman I before ordering.",
+  "list": [
+   "Renault Talisman I (Saloon — 1.6 dCi 130 PS — R9M — Transverse) 2015–2018"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Sump and timing cover"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this R9M engine now, or view the full R9M engine range for other applications.",
+  "crossLink": "← Back to all R9M engines"
+ }
+}

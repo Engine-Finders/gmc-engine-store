@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "om654",
+ "applicationSlug": "mercedes-sprinter-w907-214-cdi-van",
+ "engineCode": "OM654",
+ "condition": "used",
+ "seo": {
+  "title": "OM654 Sprinter W907 214 CDI Van | Engined",
+  "description": "Used OM654 engine for Mercedes Sprinter W907 214 CDI Van 2018+. Fixed price £2,275, 12-month warranty, UK delivery, fully tested before dispatch.",
+  "canonical": "https://engined.co.uk/engines/om654/mercedes-sprinter-w907-214-cdi-van/"
+ },
+ "hero": {
+  "title": "Used OM654 Engine — Mercedes Sprinter W907 (214 CDI) Van 2018+",
+  "subtitle": "Used OM654 engine for Mercedes Sprinter W907 214 CDI Van — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: OM654-USED-W907-214-VAN",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,275",
+    "note": "12-month warranty",
+    "price": "£2,275.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "OM654 used engine for Mercedes Sprinter W907 214 CDI Van 2018+, tested before dispatch",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "OM654",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2018+",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W907",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-om654-engine.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration in the reg-checker to confirm this OM654 engine fits your Mercedes Sprinter W907 214 CDI Van 2018+.",
+  "list": [
+   "Sprinter Van W907 (214 CDI) 2018+"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Sump and timing covers"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this OM654 engine now, or view the full OM654 engine range for other applications.",
+  "crossLink": "← Back to all OM654 engines"
+ }
+}

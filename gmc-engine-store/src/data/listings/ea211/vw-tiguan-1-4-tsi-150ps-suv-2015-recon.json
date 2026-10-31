@@ -1,0 +1,90 @@
+{
+ "brand": "volkswagen",
+ "brandName": "Volkswagen",
+ "engineSlug": "ea211",
+ "applicationSlug": "vw-tiguan-1-4-tsi-150ps-suv-2015-recon",
+ "engineCode": "EA211",
+ "condition": "recon",
+ "seo": {
+  "title": "Recon EA211 Tiguan 1.4 TSI | Engined",
+  "description": "Reconditioned EA211 1.4 TSI engine for VW Tiguan SUV, 150 PS, 2015-present. Fixed price £2,070, tested before dispatch, 12-month warranty. UK delivery.",
+  "canonical": "https://engined.co.uk/engines/ea211/vw-tiguan-1-4-tsi-150ps-suv-2015-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned EA211 Engine — VW Tiguan (1.4 TSI 150 PS) SUV 2015-present",
+  "subtitle": "Reconditioned EA211 engine for VW Tiguan 1.4 TSI 150 PS SUV — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA211-RECON-TIGUAN-14TSI-150-SUV-12M",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,070",
+    "note": "12-month warranty",
+    "price": "£2,070.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned EA211 1.4 TSI 150 PS engine for VW Tiguan SUV, 2015-present, MQB platform",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA211",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2015-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "II, AD",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/volkswagen-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/volkswagen-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/volkswagen-vw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with our reg checker before you buy — this reconditioned EA211 suits the application listed below.",
+  "list": [
+   "VW Tiguan II AD (1.4 TSI 150 PS, SUV) 2015-present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil pump and sump",
+   "Cylinder head and block"
+  ],
+  "excluded": [
+   "Turbocharger (reusable — transferred from your unit where condition allows)",
+   "Injectors and fuel system",
+   "Ancillaries (alternator, starter motor, air conditioning compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA211 engine now, or view the full EA211 range for other applications.",
+  "crossLink": "← Back to all EA211 engines"
+ }
+}

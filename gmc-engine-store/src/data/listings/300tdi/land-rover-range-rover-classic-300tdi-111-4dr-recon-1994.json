@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "300tdi",
+ "applicationSlug": "land-rover-range-rover-classic-300tdi-111-4dr-recon-1994",
+ "engineCode": "300TDI",
+ "condition": "recon",
+ "seo": {
+  "title": "300Tdi RRC 4dr 111 Recon | Engined",
+  "description": "Reconditioned 300Tdi 2.5 diesel engine for Range Rover Classic 4-door 111 PS 1994–1995. £3,985 with 12-month warranty and UK delivery. Fully rebuilt.",
+  "canonical": "https://engined.co.uk/engines/300tdi/land-rover-range-rover-classic-300tdi-111-4dr-recon-1994/"
+ },
+ "hero": {
+  "title": "300Tdi RRC 4dr 111 Recon",
+  "subtitle": "SUB — Reconditioned 300Tdi engine for Range Rover Classic 4-door 111 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 300TDI-RECON-RRC-4DR-111",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £3,985",
+    "note": "12-month warranty",
+    "price": "£3,985.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned 300Tdi diesel engine for Range Rover Classic 4-door 111 PS, fully rebuilt.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "300Tdi",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "1994–1995",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Range Rover Classic",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with our UK reg checker before ordering — this listing covers the following Range Rover Classic application.",
+  "list": [
+   "Range Rover Classic 4-door (300Tdi 111 PS — 23L engine code) 1994–1995"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Engine block and cylinder head",
+   "Sump and timing covers"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 300Tdi engine now, or view the full 300Tdi engine range for other applications.",
+  "crossLink": "← Back to all 300Tdi engines"
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n55-recon",
+ "applicationSlug": "f11-535i-estate-2010",
+ "engineCode": "N55",
+ "condition": "recon",
+ "seo": {
+  "title": "Recond N55 F11 535i Estate 2010‑2013 | Engined",
+  "description": "Reconditioned BMW N55 engine for 5 Series F11 535i Estate 2010‑2013. Pre‑LCI N55B30O0, tested before dispatch, 12-month warranty, UK delivery. £4,600.",
+  "canonical": "https://engined.co.uk/engines/bmw-n55-recon/f11-535i-estate-2010/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW N55 Engine — 5 Series F11 (535i) Estate 2010‑2013",
+  "subtitle": "Reconditioned N55 engine for 5 Series F11 535i Estate — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N55-RECON-F11-535I-PREFL",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £4,600",
+    "note": "12-month warranty",
+    "price": "£4,600.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned BMW N55B30O0 engine for BMW 5 Series F11 535i Estate 2010‑2013, pre‑LCI, tested.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N55",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2010‑2013",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F11",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with your registration before ordering — this reconditioned N55 listing covers the F11 535i Estate applications below.",
+  "list": [
+   "BMW 5 Series F11 535i (302 PS) Estate 2010‑2013"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Renewed timing components",
+   "Reconditioned N55B30O0"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N55 engine now, or view the full N55 engine range for other applications.",
+  "crossLink": "← Back to all N55 engines"
+ }
+}

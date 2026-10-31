@@ -1,0 +1,83 @@
+{
+ "brand": "renault",
+ "brandName": "Renault",
+ "engineSlug": "energy-tce",
+ "applicationSlug": "renault-kangoo-ii-1-2-tce-115-van-2013-recon-2",
+ "engineCode": "H5FT/H5BT",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned Renault Energy TCe Engine — Kangoo II (1.2 TCe 115) Van 2013-2018 | Engined",
+  "description": "Reconditioned Renault Energy TCe H5Ft/H5Bt engine for Kangoo II 1.2 TCe 115 Van 2013-2018. £1,500 recon / £695 used, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/energy-tce/renault-kangoo-ii-1-2-tce-115-van-2013-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned Renault Energy TCe Engine — Kangoo II (1.2 TCe 115) Van 2013-2018",
+  "subtitle": "Reconditioned H5Ft/H5Bt Energy TCe engine for Kangoo II — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: TCe-RECON-KANGOO-12",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,500",
+    "note": "12-month warranty",
+    "price": "£1,500.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned Renault Energy TCe H5Ft/H5Bt 1.2-litre turbo petrol engine for Kangoo II 1.2 TCe 115 Van, 2013-2018.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "H5Ft/H5Bt",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2013-2018",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Kangoo II",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your registration with our reg checker below before ordering — this engine fits the applications listed.",
+  "list": [
+   "Renault Kangoo II (1.2 TCe 115, 115 PS, code H5Ft/H5Bt) 2013–2018"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil sump and timing cover included",
+   "Ready to fit using original mountings"
+  ],
+  "excluded": [
+   "Turbocharger (reusable from your existing unit if serviceable)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, air conditioning compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this Energy TCe engine now, or view the full range.",
+  "crossLink": "← Back to all Energy TCe engines"
+ }
+}

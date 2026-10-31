@@ -1,0 +1,97 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n43",
+ "applicationSlug": "e88-118i-conv-2008",
+ "engineCode": "N43",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW N43 Engine — 1 Series E88 (118i) Convertible 2008‑2010",
+  "description": "BMW N43 engine for 1 Series E88 (118i) Convertible 2008‑2010. Used & recon options. Tested before dispatch, 12-month warranty, UK delivery. £1,075.",
+  "canonical": "https://engined.co.uk/engines/bmw-n43/e88-118i-conv-2008/"
+ },
+ "hero": {
+  "title": "Used BMW N43 Engine — 1 Series E88 (118i) Convertible 2008‑2010",
+  "subtitle": "Used N43 engine for 1 Series E88 118i Convertible — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N43-USED-E88-118I-PREFL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,075",
+    "note": "12-month warranty",
+    "price": "£1,075.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,705",
+    "note": "12-month warranty",
+    "price": "£1,705.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "BMW N43B20 standard-output engine for E88 118i Convertible — used 143PS EU5 unit, complete assembly",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N43",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2008‑2010",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E88",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your vehicle's compatibility using our registration checker, or confirm these models and chassis codes below.",
+  "list": [
+   "BMW 1 Series (E88) 2008‑2010 — 118i (143 PS) Convertible"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Timing chain components",
+   "Gaskets and seals",
+   "Oil and filters"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries (alternator, starter, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N43 engine now, or view the full BMW N43 engine range for other applications.",
+  "crossLink": "← Back to all BMW N43 engines"
+ }
+}

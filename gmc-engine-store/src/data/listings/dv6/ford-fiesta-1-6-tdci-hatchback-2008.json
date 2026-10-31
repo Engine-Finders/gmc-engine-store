@@ -1,0 +1,89 @@
+{
+ "brand": "citroen",
+ "brandName": "Citroen",
+ "engineSlug": "dv6",
+ "applicationSlug": "ford-fiesta-1-6-tdci-hatchback-2008",
+ "engineCode": "DV6",
+ "condition": "used",
+ "seo": {
+  "title": "Used Ford DV6 Engine — Fiesta (1.6 TDCi) Hatchback 2008-2017",
+  "description": "DV6 · used · Ford Fiesta Hatchback 1.6 TDCi Duratorq · 95 PS · £900 · 12-month warranty · UK delivery",
+  "canonical": "https://engined.co.uk/engines/dv6/ford-fiesta-1-6-tdci-hatchback-2008/"
+ },
+ "hero": {
+  "title": "Used Ford DV6 Engine — Fiesta (1.6 TDCi) Hatchback 2008-2017",
+  "subtitle": "Used DV6 diesel engine for Ford Fiesta Hatchback 1.6 TDCi Duratorq — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: DV6-USED-FORD-FIESTA-TDCI-HATCH",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £900",
+    "note": "12-month warranty",
+    "price": "£900.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,485",
+    "note": "12-month warranty",
+    "price": "£1,485.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Ford DV6 1.6 TDCi engine for Fiesta Hatchback 2008-2017 — tested Duratorq diesel unit",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "DV6",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2008-2017",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Ford Fiesta Hatchback (2008-2017)",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/citroen-psa-dv6-1-6-hdi-diesel-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your vehicle's compatibility below — use our reg-checker to confirm this DV6 engine matches your Ford Fiesta exactly.",
+  "list": [
+   "Ford Fiesta Hatchback (2008-2017) — 1.6 TDCi Duratorq"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Comprehensive inspection report",
+   "Oil and filter service",
+   "UK mainland delivery"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this DV6 engine now, or view the full DV6 engine range for other applications.",
+  "crossLink": "← Back to all DV6 engines"
+ }
+}

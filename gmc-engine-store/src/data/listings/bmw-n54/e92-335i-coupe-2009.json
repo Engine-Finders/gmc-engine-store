@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n54",
+ "applicationSlug": "e92-335i-coupe-2009",
+ "engineCode": "N54",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW N54 Engine — 3 Series E92 (335i) Coupe 2009‑2010",
+  "description": "Used BMW N54 engine for 3 Series E92 335i Coupe 2009-2010, 302 PS. Fixed £2,200, tested before dispatch, 12-month warranty, fast UK delivery.",
+  "canonical": "https://engined.co.uk/engines/bmw-n54/e92-335i-coupe-2009/"
+ },
+ "hero": {
+  "title": "Used BMW N54 Engine — 3 Series E92 (335i) Coupe 2009‑2010",
+  "subtitle": "SUB — Used N54 engine for BMW 3 Series E92 335i Coupe — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N54-USED-E92-335I-FL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,200",
+    "note": "12-month warranty",
+    "price": "£2,200.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW N54 engine for 3 Series E92 335i Coupe 2009-2010, LCI, 302 PS, tested",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N54",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2009‑2010",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E92",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-n54-n55-n20-family-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration to confirm fitment before purchase — this N54 engine is listed for the following BMW 3 Series E92 applications.",
+  "list": [
+   "BMW 3 Series E92 (335i 302 PS Coupe) 2009‑2010"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "Warranty as standard",
+   "Cylinder head and block",
+   "Sump and timing cover"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N54 engine, or view the full N54 engine range for other applications.",
+  "crossLink": "← Back to all N54 engines"
+ }
+}

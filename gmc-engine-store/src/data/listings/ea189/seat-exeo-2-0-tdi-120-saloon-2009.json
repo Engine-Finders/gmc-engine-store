@@ -1,0 +1,83 @@
+{
+ "brand": "seat",
+ "brandName": "Seat",
+ "engineSlug": "ea189",
+ "applicationSlug": "seat-exeo-2-0-tdi-120-saloon-2009",
+ "engineCode": "EA189",
+ "condition": "used",
+ "seo": {
+  "title": "Used VW EA189 Engine — SEAT Exeo (2.0 TDI 120 PS) Saloon 2009-2013",
+  "description": "Used EA189 2.0 TDI engine for the SEAT Exeo 120 PS (2009-2013). £1,165 fixed price, tested before dispatch, 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/ea189/seat-exeo-2-0-tdi-120-saloon-2009/"
+ },
+ "hero": {
+  "title": "Used VW EA189 Engine — SEAT Exeo (2.0 TDI 120 PS) Saloon 2009-2013",
+  "subtitle": "Used EA189 engine for the SEAT Exeo 120 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA189-USED-EXEO-120",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,165",
+    "note": "12-month warranty",
+    "price": "£1,165.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used EA189 2.0 TDI 120 PS engine for SEAT Exeo, longitudinal mount, 2009-2013",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA189",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2009-2013",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "B7",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration or engine code before ordering — every EA189 Exeo listed here is confirmed for the fitment below.",
+  "list": [
+   "SEAT Exeo (2.0 TDI 120 PS, longitudinal mount) 2009-2013"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly — cylinder block, cylinder head, sump and rocker cover",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Engine code verified against your registration before dispatch",
+   "Palletised and strapped for UK delivery"
+  ],
+  "excluded": [
+   "Turbocharger (reused from your unit where condition allows)",
+   "Injectors and fuel system components",
+   "Ancillaries — alternator, starter motor, air conditioning compressor",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA189 engine now, or view the full EA189 engine range for other applications.",
+  "crossLink": "← Back to all EA189 engines"
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "brand": "volvo",
+ "brandName": "Volvo",
+ "engineSlug": "drive-e-petrol",
+ "applicationSlug": "volvo-s60-t5-245ps-saloon-2014",
+ "engineCode": "B4204T11",
+ "condition": "used",
+ "seo": {
+  "title": "Drive-E S60 T5 245PS | Engined",
+  "description": "B4204T11 used engine for Volvo S60 T5. 2.0L 245 PS petrol. £1,995 with 12-month warranty. Tested before fast dispatch, UK delivery. Buy now.",
+  "canonical": "https://engined.co.uk/engines/drive-e-petrol/volvo-s60-t5-245ps-saloon-2014/"
+ },
+ "hero": {
+  "title": "Drive-E S60 T5 245PS",
+  "subtitle": "Used B4204T11 engine for Volvo S60 T5 — fixed price, tested before dispatch, UK delivery. Buy now.",
+  "sku": "SKU: DRIVEE-USED-S60-T5-SALOON",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,995",
+    "note": "12-month warranty",
+    "price": "£1,995.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "B4204T11 Used Volvo S60 T5 2.0L 245 PS petrol engine, tested and ready for dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "B4204T11",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2014-2018",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "P3",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your registration to ensure this B4204T11 engine fits your Volvo S60 T5. Check compatibility below.",
+  "list": [
+   "Volvo S60 P3 (2.0 T5 245 PS Saloon) 2014-2018"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil sump and timing chain included",
+   "Cylinder head and block inspected"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this B4204T11 engine now, or view the full B4204T11 engine range for other applications.",
+  "crossLink": "← Back to all B4204T11 engines"
+ }
+}

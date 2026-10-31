@@ -1,0 +1,91 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "m276",
+ "applicationSlug": "mercedes-c-class-w205-m276-367-estate-2016-2",
+ "engineCode": "M276",
+ "condition": "used",
+ "seo": {
+  "title": "Used M276 3.0 TT Engine — C-Class W205 Estate (C450 AMG, 367 PS) 2016–2017 | Engined",
+  "description": "Used M276 3.0 TT engine for C-Class W205 Estate C450 AMG 367 PS. Twin-turbo V6, tested before dispatch, 12-month warranty. £3,220. UK delivery.",
+  "canonical": "https://engined.co.uk/engines/m276/mercedes-c-class-w205-m276-367-estate-2016/"
+ },
+ "hero": {
+  "title": "Used M276 3.0 TT Engine — C-Class W205 Estate (C450 AMG, 367 PS) 2016–2017",
+  "subtitle": "Used M276 engine for C-Class W205 Estate C450 AMG 367 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M276-USED-G3-W205-C450-EST",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £3,220",
+    "note": "12-month warranty",
+    "price": "£3,220.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used M276 3.0 TT engine for Mercedes C-Class W205 Estate C450 AMG 367 PS, twin-turbo V6, 2016–2017.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M276",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2016–2017",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W205",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-m276-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your registration with our reg-checker before ordering to guarantee correct fitment.",
+  "list": [
+   "C-Class W205 Estate (C450 AMG 367 PS) 2016–2017"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil sump and timing cover",
+   "Cylinder head and block",
+   "Turbocharger (if reusable, per condition)"
+  ],
+  "excluded": [
+   "Turbocharger (if not reusable)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M276 engine now, or view the full M276 engine range for other applications.",
+  "crossLink": "← Back to all M276 engines"
+ }
+}

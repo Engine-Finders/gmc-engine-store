@@ -1,0 +1,83 @@
+{
+ "brand": "peugeot",
+ "brandName": "Peugeot",
+ "engineSlug": "ecotec-family-0",
+ "applicationSlug": "vauxhall-astra-j-1-4-hatch-2009",
+ "engineCode": "A14XEL/A14XER",
+ "condition": "used",
+ "seo": {
+  "title": "Ecotec Astra J 1.4 Used | Engined",
+  "description": "Used A14XEL/A14XER engine for Vauxhall Astra J 1.4 (100 PS, 2009-2015). £805, tested before dispatch, 12-month warranty, UK delivery. Fits Corsa D/E, Meriva B.",
+  "canonical": "https://engined.co.uk/engines/ecotec-family-0/vauxhall-astra-j-1-4-hatch-2009/"
+ },
+ "hero": {
+  "title": "Ecotec Astra J 1.4 Used",
+  "subtitle": "Used A14XEL/A14XER engine for Astra J 1.4 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: ECOFAM0-USED-ASTRA-J-14",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £805",
+    "note": "12-month warranty",
+    "price": "£805.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Ecotec A14XEL/A14XER engine for Vauxhall Astra J 1.4 (100 PS) hatchback 2009–2015, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "A14XEL/A14XER",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2009-2015",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Astra J",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with your registration using our reg checker before ordering — this listing covers the applications below.",
+  "list": [
+   "Vauxhall Astra J (1.4, 100 PS, A14XEL/A14XER) 2009-2015"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Engine block and cylinder head",
+   "Sump and timing covers as supplied"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this A14XEL/A14XER engine now, or view the full A14XEL/A14XER engine range for other applications.",
+  "crossLink": "← Back to all A14XEL/A14XER engines"
+ }
+}

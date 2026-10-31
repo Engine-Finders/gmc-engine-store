@@ -1,0 +1,83 @@
+{
+ "brand": "peugeot",
+ "brandName": "Peugeot",
+ "engineSlug": "vq35-37-v6",
+ "applicationSlug": "nissan-350z-z33-touring-coupe-2002-recon-2",
+ "engineCode": "VQ35DE",
+ "condition": "recon",
+ "seo": {
+  "title": "VQ35DE Z33 Touring Recon | Engined",
+  "description": "Reconditioned VQ35DE engine for Nissan 350Z Z33 Touring. Used price £2,525, fixed price, 12-month warranty and UK delivery. Tested before dispatch.",
+  "canonical": "https://engined.co.uk/engines/vq35-37-v6/nissan-350z-z33-touring-coupe-2002-recon/"
+ },
+ "hero": {
+  "title": "VQ35DE Z33 Touring Recon",
+  "subtitle": "Reconditioned VQ35DE engine for Nissan 350Z Z33 Touring — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: VQ35-RECON-350Z-Z33-TOURING",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,525",
+    "note": "12-month warranty",
+    "price": "£2,525.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "VQ35DE 3.5L V6 petrol engine for Nissan 350Z Z33 Touring 2002-2006, reconditioned.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "VQ35DE",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2002-2006",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Z33",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with our reg checker before ordering — this engine is listed for the Nissan 350Z Z33 Touring 2002-2006.",
+  "list": [
+   "Nissan 350Z Z33 (Touring, 3.5L V6, 250 PS) 2002-2006"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "UK delivery",
+   "Secure palletised shipping"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this VQ35DE engine now, or view the full VQ35DE engine range for other applications.",
+  "crossLink": "← Back to all VQ35DE engines"
+ }
+}

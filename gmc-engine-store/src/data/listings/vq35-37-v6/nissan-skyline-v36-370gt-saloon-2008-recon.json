@@ -1,0 +1,82 @@
+{
+ "brand": "nissan",
+ "brandName": "Nissan",
+ "engineSlug": "vq35-37-v6",
+ "applicationSlug": "nissan-skyline-v36-370gt-saloon-2008-recon",
+ "engineCode": "VQ37VHR",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned Nissan VQ37VHR Engine — Nissan Skyline V36 (370GT) Saloon 2008-2015 | Engined",
+  "description": "Reconditioned VQ37VHR engine for Nissan Skyline V36 370GT 2008-2015. Used £3,445, recon £4,370. Tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/vq35-37-v6/nissan-skyline-v36-370gt-saloon-2008-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned Nissan VQ37VHR Engine — Nissan Skyline V36 (370GT) Saloon 2008-2015",
+  "subtitle": "Reconditioned VQ37VHR engine for Nissan Skyline V36 370GT — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: VQ37-RECON-SKYLINE-V36",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £3,445",
+    "note": "12-month warranty",
+    "price": "£3,445.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned Nissan VQ37VHR Engine — Nissan Skyline V36 (370GT) Saloon 2008-2015",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "VQ37VHR",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2008-2015",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "V36",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/nissan-nissan-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number in our checker above to confirm this VQ37VHR engine fits your Nissan Skyline V36.",
+  "list": [
+   "Nissan Skyline V36 (370GT) 2008-2015"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "VAT included in the price",
+   "Secure, palletised UK delivery"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this VQ37VHR engine now, or view VQ37VHR engines for other applications.",
+  "crossLink": "← Back to all VQ37VHR engines"
+ }
+}

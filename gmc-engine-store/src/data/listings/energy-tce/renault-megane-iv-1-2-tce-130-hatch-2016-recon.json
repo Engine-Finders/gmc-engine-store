@@ -1,0 +1,83 @@
+{
+ "brand": "renault",
+ "brandName": "Renault",
+ "engineSlug": "energy-tce",
+ "applicationSlug": "renault-megane-iv-1-2-tce-130-hatch-2016-recon",
+ "engineCode": "H5FT/H5BT",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned Renault Energy TCe Engine — Megane IV (1.2 TCe 130) Hatchback 2016-2018",
+  "description": "Reconditioned Renault Energy TCe (H5Ft/H5Bt) engine for Megane IV 1.2 TCe 130 Hatch 2016-2018. Used £695, recon £1,500, 12-month warranty included, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/energy-tce/renault-megane-iv-1-2-tce-130-hatch-2016-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned Renault Energy TCe Engine — Megane IV (1.2 TCe 130) Hatchback 2016-2018",
+  "subtitle": "Reconditioned Energy TCe engine for Renault Megane IV — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: TCe-RECON-MEGANE-12",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £695",
+    "note": "12-month warranty",
+    "price": "£695.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Energy TCe H5Ft/H5Bt 1.2-litre four-cylinder turbo petrol engine for Renault Megane IV 1.2 TCe 130 Hatchback, 2016-2018",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "H5Ft/H5Bt",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2016-2018",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Megane IV",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration below to confirm this Energy TCe engine fits your Renault Megane IV before you buy.",
+  "list": [
+   "Renault Megane IV (1.2 TCe 130 — 130 PS, code H5Ft/H5Bt) 2016–2018"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Test results supplied with the engine",
+   "Engine code and serial number verified before dispatch"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this Energy TCe engine now, or view the full Energy TCe engine range for other applications.",
+  "crossLink": "← Back to all Energy TCe engines"
+ }
+}

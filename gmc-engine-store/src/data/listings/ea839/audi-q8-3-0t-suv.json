@@ -1,0 +1,97 @@
+{
+ "brand": "audi",
+ "brandName": "Audi",
+ "engineSlug": "ea839",
+ "applicationSlug": "audi-q8-3-0t-suv",
+ "engineCode": "EA839",
+ "condition": "used",
+ "seo": {
+  "title": "Used Audi EA839 3.0T Engine — Q8 4M 3.0 TFSI (340 PS) SUV 2018-present",
+  "description": "EA839 · Used · Audi Q8 SUV 4M 2018-present, 3.0 TFSI 340 PS — £2,995 · 12-month warranty · UK delivery.",
+  "canonical": "https://engined.co.uk/engines/ea839/audi-q8-3-0t-suv/"
+ },
+ "hero": {
+  "title": "Used Audi EA839 3.0T Engine — Q8 4M 3.0 TFSI (340 PS) SUV 2018-present",
+  "subtitle": "Used EA839 3.0T engine for Audi Q8 SUV (4M) 3.0 TFSI 340 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA839-USED-Q8",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,995",
+    "note": "12-month warranty",
+    "price": "£2,995.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £4,200",
+    "note": "12-month warranty",
+    "price": "£4,200.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used EA839 3.0T engine for Audi Q8 4M SUV – 3.0 TFSI 340 PS, coupe-SUV longitudinal mount",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA839",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2018-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "4M",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/audi-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/audi-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/audi-audi-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration for instant compatibility confirmation, or check the list below to see if this EA839 3.0T engine fits your vehicle.",
+  "list": [
+   "Audi Q8 SUV (4M) 2018-present — 3.0 TFSI (340 PS)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch with compression and leak-down checks",
+   "12-month warranty as standard",
+   "Full technical inspection report",
+   "Cam belt and water pump replaced where applicable",
+   "Oil and filter service completed"
+  ],
+  "excluded": [
+   "Turbocharger (reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, air conditioning compressor, power steering pump)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA839 engine now, or view the full EA839 engine range for other applications.",
+  "crossLink": "← Back to all EA839 engines (links to https://engined.co.uk/engines/ea839/)"
+ }
+}

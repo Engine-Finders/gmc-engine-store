@@ -1,0 +1,91 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n20-recon",
+ "applicationSlug": "f10-520i-saloon-2013",
+ "engineCode": "N20B20",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned BMW N20 Engine — 5 Series F10 (520i) Saloon 2013‑2016",
+  "description": "N20B20 · reconditioned · fits 5 Series F10 520i Saloon · £2,495 · 12-month warranty · UK delivery.",
+  "canonical": "https://engined.co.uk/engines/bmw-n20-recon/f10-520i-saloon-2013/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW N20 Engine — 5 Series F10 (520i) Saloon 2013‑2016",
+  "subtitle": "Reconditioned N20B20 engine for BMW 5 Series F10 520i Saloon — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N20-RECON-F10-520I-FL",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,495",
+    "note": "12-month warranty",
+    "price": "£2,495.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned BMW N20B20 engine for 5 Series F10 520i Saloon 2013-2016",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N20B20",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2013-2016",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F10",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration for a guaranteed fitment check, or see the list of compatible models below.",
+  "list": [
+   "BMW 5 Series (F10) 2013‑2016 — 520i (184 PS) Saloon"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch",
+   "12-month warranty as standard",
+   "OEM-spec gaskets and seals",
+   "Oil and filter service",
+   "Full inspection report"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries (e.g., alternator, starter motor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N20B20 engine now, or view the full BMW N20 engine range for other applications.",
+  "crossLink": "← Back to all BMW N20 engines"
+ }
+}

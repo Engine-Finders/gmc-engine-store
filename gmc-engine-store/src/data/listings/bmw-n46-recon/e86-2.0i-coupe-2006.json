@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n46-recon",
+ "applicationSlug": "e86-2.0i-coupe-2006",
+ "engineCode": "N46",
+ "condition": "recon",
+ "seo": {
+  "title": "Recond N46 E86 2.0i Coupe 2006‑2008 | Engined",
+  "description": "Reconditioned N46 engine for BMW Z4 E86 2.0i Coupe 2006–2008. £1,975, fully reconditioned N46B20, renewed timing, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/bmw-n46-recon/e86-2.0i-coupe-2006/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW N46 Engine — Z4 E86 (2.0i) Coupe 2006‑2008",
+  "subtitle": "Reconditioned N46 engine for BMW Z4 E86 2.0i Coupe 2006–2008 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N46-RECON-E86-2.0I",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,975",
+    "note": "12-month warranty",
+    "price": "£1,975.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned BMW N46 engine for Z4 E86 2.0i Coupe 2006–2008, 150 PS, prepared for UK delivery.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N46",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2006–2008",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E86",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with your registration before ordering — this listing covers the application below.",
+  "list": [
+   "BMW Z4 E86 (2.0i 150 PS Coupe) 2006–2008"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Reconditioned to OEM tolerances",
+   "Renewed timing components"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N46 engine now, or view the full N46 engine range.",
+  "crossLink": "← Back to all N46 engines"
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "brand": "jaguar",
+ "brandName": "Jaguar",
+ "engineSlug": "aj-v8-legacy",
+ "applicationSlug": "jaguar-s-type-x200-aj28-4-0-saloon-1999",
+ "engineCode": "AJ28",
+ "condition": "used",
+ "seo": {
+  "title": "Used Jaguar AJ28 Engine — S-Type X200 4.0 V8 Saloon | Engined",
+  "description": "Used AJ28 engine for Jaguar S-Type (X200) 4.0 V8 Saloon. £1,795 fixed price, tested before dispatch, 12-month warranty & UK delivery.",
+  "canonical": "https://engined.co.uk/engines/aj-v8-legacy/jaguar-s-type-x200-aj28-4-0-saloon-1999/"
+ },
+ "hero": {
+  "title": "Used Jaguar AJ28 Engine — S-Type (X200) 4.0 V8 Saloon 1999-2002",
+  "subtitle": "Used AJ28 engine for Jaguar S-Type (X200) 4.0 V8 Saloon — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: AJV8-USED-X200-40-NA-SALOON-AJ28",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,610",
+    "note": "12-month warranty",
+    "price": "£2,610.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "AJ28 4.0 V8 naturally aspirated engine for Jaguar S-Type X200 saloon, complete longitudinal assembly with CVVT.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJ28",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "1999-2002",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X200",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/jaguar-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/jaguar-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/jaguar-jaguar-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Verify fitment for your specific chassis using our registration checker before purchasing this AJ28 engine.",
+  "list": [
+   "Jaguar S-Type (X200) 4.0 V8 (AJ28) Saloon (1999-2002)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch",
+   "Warranty as standard",
+   "Longitudinal saloon specification components",
+   "Continuous Variable Valve Timing (CVVT) system",
+   "Engine wiring harness"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this AJ28 engine now, or view the full AJ28 engine range for other applications.",
+  "crossLink": "← Back to all AJ28 engines"
+ }
+}

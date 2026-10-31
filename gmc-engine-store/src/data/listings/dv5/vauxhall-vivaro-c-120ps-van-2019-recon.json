@@ -1,0 +1,89 @@
+{
+ "brand": "vauxhall",
+ "brandName": "Vauxhall",
+ "engineSlug": "dv5",
+ "applicationSlug": "vauxhall-vivaro-c-120ps-van-2019-recon",
+ "engineCode": "PSA DV5 (DV5RUC / DV5RCD)",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned DV5 Engine — Vauxhall Vivaro C (120 PS) Van 2019-present",
+  "description": "Reconditioned PSA DV5 1.5 diesel engine for Vauxhall Vivaro C van 2019-present. £2,335 with 12-month warranty, tested before dispatch and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/dv5/vauxhall-vivaro-c-120ps-van-2019-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned DV5 Engine — Vauxhall Vivaro C (120 PS) Van 2019-present",
+  "subtitle": "Reconditioned DV5 engine for Vauxhall Vivaro C 1.5 BlueHDi van — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: DV5-RECON-VIVARO-C-120-VAN-12M",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,335",
+    "note": "12-month warranty",
+    "price": "£2,335.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned PSA DV5 1.5 turbo-diesel 120 PS engine for Vauxhall Vivaro C van, longitudinal FWD commercial spec, 2019-present",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "PSA DV5 (DV5RUC / DV5RCD)",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2019-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Vauxhall Vivaro C",
+    "label": "Compatible"
+   },
+   {
+    "icon": "gauge",
+    "value": "120 PS",
+    "label": "Max Output"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your registration with our reg checker before ordering — this engine fits the Vauxhall Vivaro C with the DV5 (DV5RUC / DV5RCD) code on the block.",
+  "list": [
+   "Vauxhall Vivaro C (1.5 BlueHDi 120 PS, DV5/DV5RUC, Van) 2019-present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block inspected",
+   "Sump and timing components fitted",
+   "Compression-tested with documentation supplied"
+  ],
+  "excluded": [
+   "Turbocharger (reused only if condition allows)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this DV5 engine now, or view the full DV5 engine range for other applications.",
+  "crossLink": "← Back to all DV5 engines"
+ }
+}

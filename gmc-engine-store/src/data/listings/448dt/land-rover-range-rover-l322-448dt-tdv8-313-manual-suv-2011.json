@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "448dt",
+ "applicationSlug": "land-rover-range-rover-l322-448dt-tdv8-313-manual-suv-2011",
+ "engineCode": "448DT",
+ "condition": "used",
+ "seo": {
+  "title": "Used 448DT 4.4 TDV8 Engine — Range Rover L322 2011 | Engined",
+  "description": "Used 448DT diesel engine for Range Rover L322 2011, 4.4 TDV8 313 hp manual. Fixed price £3,145 available with 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/448dt/land-rover-range-rover-l322-448dt-tdv8-313-manual-suv-2011/"
+ },
+ "hero": {
+  "title": "Used 448DT 4.4 TDV8 Engine — Range Rover L322 (313 hp, Manual) 2011",
+  "subtitle": "SUB — Used 448DT engine for Range Rover L322 2011 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 448DT-USED-L322-313-MAN-2011",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £3,145",
+    "note": "12-month warranty",
+    "price": "£3,145.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used 448DT 4.4 TDV8 engine for Range Rover L322 2011, 313 hp manual — tested before dispatch",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "448DT",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2010–2012",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L322",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration to confirm this 448DT fits your 2010–2012 Range Rover L322 4.4 TDV8 manual.",
+  "list": [
+   "Range Rover L322 (SUV, 4.4 TDV8 313 hp, Manual, 448DT engine code) 2011"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New gaskets and seals",
+   "Ready for fitting"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 448DT engine now, or view the full 448DT engine range for other applications.",
+  "crossLink": "← Back to all 448DT engines"
+ }
+}

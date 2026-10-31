@@ -1,0 +1,83 @@
+{
+ "brand": "peugeot",
+ "brandName": "Peugeot",
+ "engineSlug": "dv6",
+ "applicationSlug": "peugeot-3008-t84-1-6-hdi-suv-2009",
+ "engineCode": "PSA DV6",
+ "condition": "used",
+ "seo": {
+  "title": "Used PSA DV6 Engine — Peugeot 3008 T84 (1.6 HDi) SUV 2009-2016 | Engined",
+  "description": "Used PSA DV6 engine for Peugeot 3008 T84 1.6 HDi 115 PS (2009-2016). £1,150. Tested before dispatch, 12-month warranty, UK delivery. Recon £2,100.",
+  "canonical": "https://engined.co.uk/engines/dv6/peugeot-3008-t84-1-6-hdi-suv-2009/"
+ },
+ "hero": {
+  "title": "Used PSA DV6 Engine — Peugeot 3008 T84 (1.6 HDi) SUV 2009-2016",
+  "subtitle": "Used PSA DV6 engine for Peugeot 3008 T84, 1.6 HDi, 115 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: DV6-USED-3008-HDI",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,150",
+    "note": "12-month warranty",
+    "price": "£1,150.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used PSA DV6 engine for Peugeot 3008 T84 1.6 HDi 115 PS SUV 2009-2016, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "PSA DV6",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2009-2016",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "T84",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our registration checker to confirm this used PSA DV6 engine fits your Peugeot 3008 T84 before you buy.",
+  "list": [
+   "Peugeot 3008 T84 (1.6 HDi 115 PS, code: DV6C/9HR) 2009-2016"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New oil and filter",
+   "Gaskets and seals"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this DV6 engine now, or view the full DV6 engine range for other applications.",
+  "crossLink": "← Back to all DV6 engines"
+ }
+}

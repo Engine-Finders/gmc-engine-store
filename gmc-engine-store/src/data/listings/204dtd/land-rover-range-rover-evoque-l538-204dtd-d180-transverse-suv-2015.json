@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "204dtd",
+ "applicationSlug": "land-rover-range-rover-evoque-l538-204dtd-d180-transverse-suv-2015",
+ "engineCode": "204DTD",
+ "condition": "used",
+ "seo": {
+  "title": "Used 204DTD 2.0 Diesel Engine — Range Rover Evoque L538 (D180, Transverse) 2015–2018 | Engined",
+  "description": "Used 204DTD 2.0 diesel engine for Range Rover Evoque L538 D180 transverse 2015–2018. £2,395 fixed price, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/204dtd/land-rover-range-rover-evoque-l538-204dtd-d180-transverse-suv-2015/"
+ },
+ "hero": {
+  "title": "Used 204DTD 2.0 Diesel Engine — Range Rover Evoque L538 (D180, Transverse) 2015–2018",
+  "subtitle": "Used 204DTD engine for Range Rover Evoque L538 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 204DTD-USED-EVOQUE-D180-1518",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,395",
+    "note": "12-month warranty",
+    "price": "£2,395.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Land Rover 204DTD 2.0 diesel engine for Range Rover Evoque L538 D180 transverse 2015–2018",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "204DTD",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2015–2018",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L538",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your reg before buying — this used 204DTD 2.0 diesel engine fits the Range Rover Evoque L538 applications listed below.",
+  "list": [
+   "Range Rover Evoque L538 (2.0 Ingenium D180 — Transverse) 2015–2018"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Sump and timing cover"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 204DTD engine now, or view the full 204DTD engine range.",
+  "crossLink": "← Back to all 204DTD engines"
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "brand": "volkswagen",
+ "brandName": "Volkswagen",
+ "engineSlug": "w8",
+ "applicationSlug": "vw-passat-b5-5-275ps-estate-2001-recon",
+ "engineCode": "W8",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned W8 Engine — VW Passat B5.5 (4.0 W8 275 PS) Estate 2001-2004 | Engined",
+  "description": "Reconditioned W8 engine for VW Passat B5.5 Estate (4.0 W8 275 PS, BDN/BDP). Renewed timing chains, £4,250, 12-month warranty, and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/w8/vw-passat-b5-5-275ps-estate-2001-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned W8 Engine — VW Passat B5.5 (4.0 W8 275 PS) Estate 2001-2004",
+  "subtitle": "Reconditioned W8 engine for VW Passat B5.5 Estate — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: W8-RECON-PASSAT-ESTATE-12M",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £4,250",
+    "note": "12-month warranty",
+    "price": "£4,250.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned W8 engine for VW Passat B5.5 Estate, 4.0 W8 275 PS BDN/BDP, renewed timing chains.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "W8",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2001-2004",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "3B",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/volkswagen-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/volkswagen-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/volkswagen-vw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our registration checker to confirm this reconditioned W8 engine fits your VW Passat B5.5 before you buy.",
+  "list": [
+   "VW Passat B5.5 3B (4.0 W8 275 PS BDN/BDP — Estate) 2001-2004"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block included",
+   "Oil sump and timing cover included"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this W8 engine now, or view the full W8 engine range for other applications.",
+  "crossLink": "← Back to all W8 engines"
+ }
+}

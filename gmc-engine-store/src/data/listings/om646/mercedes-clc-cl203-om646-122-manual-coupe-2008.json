@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "om646",
+ "applicationSlug": "mercedes-clc-cl203-om646-122-manual-coupe-2008",
+ "engineCode": "OM646",
+ "condition": "used",
+ "seo": {
+  "title": "Used OM646 Engine CLC CL203 CLC 200 CDI 122PS | Engined",
+  "description": "Used OM646 2.2 CDI engine for Mercedes CLC CL203 Coupe CLC 200 CDI 122 PS. Fixed price £1,095, tested before dispatch, 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/om646/mercedes-clc-cl203-om646-122-manual-coupe-2008/"
+ },
+ "hero": {
+  "title": "Used OM646 2.2 CDI Engine — CLC CL203 Coupe (CLC 200 CDI 122 PS) 2008–2010",
+  "subtitle": "Used OM646 engine for CLC CL203 Coupe CLC 200 CDI and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: OM646-USED-CL203-CLC200-MAN",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,900",
+    "note": "12-month warranty",
+    "price": "£1,900.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used OM646 2.2 CDI engine for Mercedes CLC CL203 Coupe CLC 200 CDI 122 PS manual, tested.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "OM646",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2008–2010",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "CL203",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-mercedes-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number above to confirm this used OM646 engine fits your Mercedes-Benz CLC CL203.",
+  "list": [
+   "Mercedes-Benz CLC CL203 2008–2010 (Coupe) CLC 200 CDI 122 PS Manual OM646.962"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Standard output specification",
+   "Manual transmission specification"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this OM646 engine now, or view the full OM646 engine range for other applications.",
+  "crossLink": "← Back to all OM646 engines"
+ }
+}

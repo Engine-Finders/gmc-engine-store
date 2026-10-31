@@ -1,0 +1,83 @@
+{
+ "brand": "volvo",
+ "brandName": "Volvo",
+ "engineSlug": "b5",
+ "applicationSlug": "volvo-xc60-250ps-suv-2019",
+ "engineCode": "B420T2",
+ "condition": "used",
+ "seo": {
+  "title": "Used B5 Engine — Volvo XC60 (2.0 B5 250 PS) SUV 2019-present",
+  "description": "B420T2 used B5 engine for Volvo XC60 (2.0 B5 250 PS) SUV 2019-present. Fixed £3,500, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/b5/volvo-xc60-250ps-suv-2019/"
+ },
+ "hero": {
+  "title": "Used B5 Engine — Volvo XC60 (2.0 B5 250 PS) SUV 2019-present",
+  "subtitle": "SUB — Used B420T2 engine for Volvo XC60, B5 250 PS SUV — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: B420T2-USED-XC60-SUV",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £3,500",
+    "note": "12-month warranty",
+    "price": "£3,500.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "B420T2 used B5 engine for Volvo XC60 2.0 B5 250 PS SUV 2019-present, tested and ready to fit.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "B420T2",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2019-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "SPA",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your registration with our reg checker to verify this B420T2 B5 engine fits your Volvo XC60 SPA.",
+  "list": [
+   "Volvo XC60 SPA (2.0 B5 250 PS / B420T2 — SUV) 2019-present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Core engine components",
+   "Gaskets and seals required for fitment"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this B420T2 engine now, or view the full B5 engine range for other applications.",
+  "crossLink": "← Back to all B5 engines — https://engined.co.uk/engines/b5/"
+ }
+}

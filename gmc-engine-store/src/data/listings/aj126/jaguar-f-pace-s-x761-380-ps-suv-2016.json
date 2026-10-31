@@ -1,0 +1,91 @@
+{
+ "brand": "jaguar",
+ "brandName": "Jaguar",
+ "engineSlug": "aj126",
+ "applicationSlug": "jaguar-f-pace-s-x761-380-ps-suv-2016",
+ "engineCode": "AJ126",
+ "condition": "used",
+ "seo": {
+  "title": "Used Jaguar AJ126 3.0 V6 Engine – F-Pace S SUV | Engined",
+  "description": "Used AJ126 engine for Jaguar F-Pace S X761 SUV. 3.0L Supercharged V6, 380 PS. Fixed price £3,695. 12-month warranty included. UK delivery available.",
+  "canonical": "https://engined.co.uk/engines/aj126/jaguar-f-pace-s-x761-380-ps-suv-2016/"
+ },
+ "hero": {
+  "title": "Used Jaguar AJ126 3.0 V6 Engine — F-Pace S (X761) 380 PS SUV 2016-2018",
+  "subtitle": "Used AJ126 engine for Jaguar F-Pace S X761 SUV and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: AJ126-USED-FPACE-X761-380-SUV",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £3,695",
+    "note": "12-month warranty",
+    "price": "£3,695.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Jaguar AJ126 3.0L Supercharged V6 engine for F-Pace S X761 SUV, complete assembly with supercharger.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJ126",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2016-2018",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X761",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/jaguar-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/jaguar-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jlr-aj126-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration above to confirm this AJ126 engine fits your Jaguar F-Pace S X761 SUV.",
+  "list": [
+   "F-Pace S (X761) 3.0 V6 SC SUV (2016–2018)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (AJ126 3.0L V6 Supercharged)",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Supercharger unit included",
+   "ECU and wiring loom compatibility verified",
+   "Oil filter and sump plug included"
+  ],
+  "excluded": [
+   "Turbocharger (N/A - Supercharged)",
+   "Injectors/fuel system (unless specified as reusable)",
+   "Ancillaries (alternator, starter motor, AC compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this AJ126 engine now, or view the full AJ126 engine range for other applications.",
+  "crossLink": "← Back to all AJ126 engines"
+ }
+}

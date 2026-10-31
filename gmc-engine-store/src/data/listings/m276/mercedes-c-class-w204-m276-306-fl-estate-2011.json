@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "m276",
+ "applicationSlug": "mercedes-c-class-w204-m276-306-fl-estate-2011",
+ "engineCode": "M276",
+ "condition": "used",
+ "seo": {
+  "title": "Used M276 3.5 V6 Engine — C-Class W204 Estate (C350 CGI, 306 PS) FL 2011–2014 | Engined",
+  "description": "Used M276 3.5 V6 engine for C-Class W204 C350 CGI Estate (306 PS). £1,600 with 12-month warranty and UK delivery. Facelift 2011–2014 fitment.",
+  "canonical": "https://engined.co.uk/engines/m276/mercedes-c-class-w204-m276-306-fl-estate-2011/"
+ },
+ "hero": {
+  "title": "Used M276 3.5 V6 Engine — C-Class W204 Estate (C350 CGI, 306 PS) FL 2011–2014",
+  "subtitle": "Used M276 engine for C-Class W204 C350 CGI Estate — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M276-USED-G1-W204-C350-FL-EST",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,600",
+    "note": "12-month warranty",
+    "price": "£1,600.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used M276 3.5 V6 Engine — C-Class W204 Estate (C350 CGI, 306 PS) FL 2011–2014",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M276",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2011–2014",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W204",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-m276-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration to confirm fitment — this M276 engine fits the W204 C350 CGI Estate listed below.",
+  "list": [
+   "C-Class W204 Estate (C350 CGI 306 PS) 2011–2014"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Sump included",
+   "Timing cover included"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M276 engine now, or view the full M276 range for more.",
+  "crossLink": "← Back to all M276 engines → https://engined.co.uk/engines/m276/"
+ }
+}

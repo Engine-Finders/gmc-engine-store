@@ -1,0 +1,83 @@
+{
+ "brand": "peugeot",
+ "brandName": "Peugeot",
+ "engineSlug": "dv6",
+ "applicationSlug": "peugeot-5008-1-6-hdi-mpv-2013-recon",
+ "engineCode": "PSA DV6",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned PSA DV6 Engine — Peugeot 5008 (1.6 HDi) MPV 2013-2017",
+  "description": "Reconditioned PSA DV6 engine for Peugeot 5008 1.6 HDi 115 PS (9HD/DV6C) 2013-2017. Used from £1,150, recon £2,100. 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/dv6/peugeot-5008-1-6-hdi-mpv-2013-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned PSA DV6 Engine — Peugeot 5008 (1.6 HDi) MPV 2013-2017",
+  "subtitle": "Reconditioned PSA DV6 engine for Peugeot 5008 1.6 HDi 115 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: DV6-RECON-5008-HDI",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,150",
+    "note": "12-month warranty",
+    "price": "£1,150.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned PSA DV6 engine for Peugeot 5008 1.6 HDi 115 PS MPV 2013-2017, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "PSA DV6",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2013-2017",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "5008",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our registration checker to confirm this reconditioned PSA DV6 engine fits your Peugeot 5008 1.6 HDi before buying.",
+  "list": [
+   "Peugeot 5008 (1.6 HDi 115 PS, code: 9HD (DV6C)) 2013-2017"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New oil and filter",
+   "Gaskets and seals"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this DV6 engine now, or view the full DV6 engine range for other applications.",
+  "crossLink": "← Back to all DV6 engines"
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "brand": "volkswagen",
+ "brandName": "Volkswagen",
+ "engineSlug": "vr6",
+ "applicationSlug": "vw-passat-b3-2-8-174ps-saloon-1991",
+ "engineCode": "VR6",
+ "condition": "used",
+ "seo": {
+  "title": "Used VR6 Engine — VW Passat B3/B4 (2.8 VR6 174 PS) Saloon 1991-1997 | Engined",
+  "description": "",
+  "canonical": "https://engined.co.uk/engines/vr6/vw-passat-b3-2-8-174ps-saloon-1991/"
+ },
+ "hero": {
+  "title": "Used VR6 Engine — VW Passat B3/B4 (2.8 VR6 174 PS) Saloon 1991-1997",
+  "subtitle": "Used VR6 engine for VW Passat B3/B4 174 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: VR6-USED-PASSAT-B3-28-SALOON",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £995",
+    "note": "12-month warranty",
+    "price": "£995.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used VR6 2.8-litre narrow-angle V6 174 PS petrol engine, VW Passat B3/B4 saloon spec, AAA code",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "VR6",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "1991-1997",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "3A",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/volkswagen-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/volkswagen-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/volkswagen-vw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration against the list below to confirm this VR6 engine matches your Passat before ordering.",
+  "list": [
+   "VW Passat B3/B4 3A (2.8 VR6 174 PS — AAA) Saloon 1991-1997"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Fully drained and sealed for transport",
+   "New gaskets and seals where applicable"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this VR6 engine now, or view the full VR6 engine range for other applications.",
+  "crossLink": "← Back to all VR6 engines"
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "brand": "nissan",
+ "brandName": "Nissan",
+ "engineSlug": "vq35-37-v6",
+ "applicationSlug": "nissan-370z-z34-nismo-coupe-2009-recon",
+ "engineCode": "VQ37VHR",
+ "condition": "recon",
+ "seo": {
+  "title": "Nissan VQ37VHR Engine — 370Z Z34 NISMO Coupe | Engined",
+  "description": "Reconditioned VQ37VHR engine for Nissan 370Z Z34 NISMO Coupe. Fixed price £3,445, tested before dispatch, 12-month warranty & UK delivery.",
+  "canonical": "https://engined.co.uk/engines/vq35-37-v6/nissan-370z-z34-nismo-coupe-2009-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned Nissan VQ37VHR Engine — 370Z Z34 NISMO Coupe 2009-2020",
+  "subtitle": "Reconditioned VQ37VHR engine for Nissan 370Z Z34 NISMO and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: VQ37-RECON-370Z-Z34-NISMO",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £4,370",
+    "note": "12-month warranty",
+    "price": "£4,370.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned Nissan VQ37VHR Engine — 370Z Z34 NISMO Coupe 2009-2020",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "VQ37VHR",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2009-2020",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Z34",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/nissan-nissan-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your exact registration with our free checker to ensure a perfect match for your Nissan 370Z Z34 before ordering.",
+  "list": [
+   "Nissan 370Z Z34 (NISMO) Coupe 2009-2020"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch",
+   "12-month warranty as standard",
+   "Cylinder block",
+   "Cylinder heads",
+   "Oil sump"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this VQ37VHR engine now, or view the full range for other applications.",
+  "crossLink": "← Back to all VQ37VHR engines"
+ }
+}

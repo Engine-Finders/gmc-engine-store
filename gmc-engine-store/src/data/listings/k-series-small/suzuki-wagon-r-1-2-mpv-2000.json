@@ -1,0 +1,83 @@
+{
+ "brand": "suzuki",
+ "brandName": "Suzuki",
+ "engineSlug": "k-series-small",
+ "applicationSlug": "suzuki-wagon-r-1-2-mpv-2000",
+ "engineCode": "K12B",
+ "condition": "used",
+ "seo": {
+  "title": "Used Suzuki K12B Engine — Suzuki Wagon R (1.2) MPV 2000-2008",
+  "description": "Used Suzuki K12B engine for Suzuki Wagon R 1.2 MPV 2000-2008. £355, 12-month warranty, tested before dispatch, UK delivery. In stock, ready to ship.",
+  "canonical": "https://engined.co.uk/engines/k-series-small/suzuki-wagon-r-1-2-mpv-2000/"
+ },
+ "hero": {
+  "title": "Used Suzuki K12B Engine — Suzuki Wagon R (1.2) MPV 2000-2008",
+  "subtitle": "SUB — Used K12B engine for Suzuki Wagon R 1.2 MPV — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: K12B-USED-WAGONR",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £355",
+    "note": "12-month warranty",
+    "price": "£355.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Suzuki K12B engine for Suzuki Wagon R 1.2 MPV, 4-cylinder petrol, tested before dispatch",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "K12B",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2000-2008",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Suzuki Wagon R",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our reg checker to confirm your Suzuki Wagon R 1.2 before ordering — this K12B engine fits the application listed below.",
+  "list": [
+   "Suzuki Wagon R (1.2 MPV) 2000-2008"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New gaskets and seals",
+   "Oil and filter service components"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this K12B engine now, or view full K12B range for other fits.",
+  "crossLink": "← Back to all K12B engines"
+ }
+}

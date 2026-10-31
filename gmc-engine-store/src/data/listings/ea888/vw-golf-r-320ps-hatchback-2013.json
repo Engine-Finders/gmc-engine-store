@@ -1,0 +1,90 @@
+{
+ "brand": "volkswagen",
+ "brandName": "Volkswagen",
+ "engineSlug": "ea888",
+ "applicationSlug": "vw-golf-r-320ps-hatchback-2013",
+ "engineCode": "EA888 GEN 4",
+ "condition": "used",
+ "seo": {
+  "title": "Used EA888 Engine — VW Golf R (2.0 TSI 320 PS) Hatchback 2013-present | Engined",
+  "description": "",
+  "canonical": "https://engined.co.uk/engines/ea888/vw-golf-r-320ps-hatchback-2013/"
+ },
+ "hero": {
+  "title": "Used EA888 Engine — VW Golf R (2.0 TSI 320 PS) Hatchback 2013-present",
+  "subtitle": "Used EA888 Gen 4 engine for VW Golf R 320 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA888-USED-GOLF-R-320-HATCH",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,720",
+    "note": "12-month warranty",
+    "price": "£1,720.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used EA888 Gen 4 2.0 TSI 320 PS transverse MQB turbo petrol engine, VW Golf R spec, high-output variant",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA888 Gen 4",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2013-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Mk7 / Mk8",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/volkswagen-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/volkswagen-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/volkswagen-vw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration against the list below to confirm this EA888 engine matches your Golf R before ordering.",
+  "list": [
+   "VW Golf Mk7/8 R (2.0 TSI 320 PS) Hatchback 2013-present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Fully drained and sealed for transport",
+   "New gaskets and seals where applicable"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA888 engine now, or view the full EA888 engine range for other applications.",
+  "crossLink": "← Back to all EA888 engines"
+ }
+}

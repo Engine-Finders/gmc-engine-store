@@ -1,0 +1,91 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "b57",
+ "applicationSlug": "bmw-3-series-g20-340d-saloon-2019",
+ "engineCode": "B57",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW B57 Engine — 3 Series G20 (340d) Saloon 2019-present",
+  "description": "Used BMW B57 engine for 3 Series G20 (340d) Saloon – fixed price £3,215, fully tested before dispatch, 12-month warranty, free UK delivery.",
+  "canonical": "https://engined.co.uk/engines/b57/bmw-3-series-g20-340d-saloon-2019/"
+ },
+ "hero": {
+  "title": "Used BMW B57 Engine — 3 Series G20 (340d) Saloon 2019-present",
+  "subtitle": "SUB — Used B57 engine for BMW 3 Series G20 (340d) Saloon — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: B57-USED-3SERIES-G20-340D-SALOON",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £3,215",
+    "note": "12-month warranty",
+    "price": "£3,215.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW B57 engine for 3 Series G20 340d Saloon, twin-turbo diesel, tested.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "B57",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2019-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "G20",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-b57-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration to confirm fitment, or check the list below for compatible BMW models.",
+  "list": [
+   "3 Series Saloon (G20) — 340d (340 hp) 2019-present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch (compression, oil pressure, coolant)",
+   "12-month warranty as standard",
+   "Full gasket kit and oil filter",
+   "Free UK mainland delivery",
+   "14-day return policy"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, depends on condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, AC compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this B57 engine now, or view the full B57 engine range for other applications.",
+  "crossLink": "← Back to all B57 engines"
+ }
+}

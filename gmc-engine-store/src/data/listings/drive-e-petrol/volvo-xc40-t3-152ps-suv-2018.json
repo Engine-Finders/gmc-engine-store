@@ -1,0 +1,89 @@
+{
+ "brand": "volvo",
+ "brandName": "Volvo",
+ "engineSlug": "drive-e-petrol",
+ "applicationSlug": "volvo-xc40-t3-152ps-suv-2018",
+ "engineCode": "B4204TXX",
+ "condition": "used",
+ "seo": {
+  "title": "Used Drive-E Engine — Volvo XC40 T3 (1.5L 152 PS) SUV 2018-present",
+  "description": "Used B4204Txx Drive-E 1.5-litre turbo petrol engine for Volvo XC40 T3 152 PS (CMA, 2018-present) — £1,705 fixed price, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/drive-e-petrol/volvo-xc40-t3-152ps-suv-2018/"
+ },
+ "hero": {
+  "title": "Used Drive-E Engine — Volvo XC40 T3 (1.5L 152 PS) SUV 2018-present",
+  "subtitle": "Used B4204Txx engine for the Volvo XC40 T3 (CMA, 2018-present) — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: DRIVEE-USED-XC40-T3-SUV",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,705",
+    "note": "12-month warranty",
+    "price": "£1,705.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,475",
+    "note": "12-month warranty",
+    "price": "£2,475.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used B4204Txx 1.5-litre turbo petrol Drive-E engine for Volvo XC40 T3 152 PS, transverse CMA fitment",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "B4204Txx",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2018-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "CMA",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your reg with our checker before ordering — every B4204Txx listing is matched to the chassis code below.",
+  "list": [
+   "Volvo XC40 CMA (1.5 T3 152 PS, B4154T4) — 2018-present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly — block, cylinder head, sump and timing cover",
+   "Bench-tested before dispatch, with compression and oil-pressure results recorded",
+   "12-month warranty as standard",
+   "Free UK delivery",
+   "Fitment confirmed in writing against your registration before we ship"
+  ],
+  "excluded": [
+   "Turbocharger (reused from your unit where condition allows — confirmed per engine)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, air conditioning compressor, sensors)",
+   "Fitting and installation labour"
+  ]
+ },
+ "cta": {
+  "line": "Buy this B4204Txx engine now, or view the full B4204Txx engine range for other applications.",
+  "crossLink": "← Back to all B4204Txx engines"
+ }
+}

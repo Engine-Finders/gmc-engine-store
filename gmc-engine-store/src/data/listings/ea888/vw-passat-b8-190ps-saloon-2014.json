@@ -1,0 +1,90 @@
+{
+ "brand": "volkswagen",
+ "brandName": "Volkswagen",
+ "engineSlug": "ea888",
+ "applicationSlug": "vw-passat-b8-190ps-saloon-2014",
+ "engineCode": "EA888 GEN 3",
+ "condition": "used",
+ "seo": {
+  "title": "Used EA888 Engine — VW Passat B8 (2.0 TSI 190 PS) Saloon 2014-2019 | Engined",
+  "description": "",
+  "canonical": "https://engined.co.uk/engines/ea888/vw-passat-b8-190ps-saloon-2014/"
+ },
+ "hero": {
+  "title": "Used EA888 Engine — VW Passat B8 (2.0 TSI 190 PS) Saloon 2014-2019",
+  "subtitle": "Used EA888 Gen 3 engine for VW Passat B8 190 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA888-USED-PASSAT-B8-190-SALOON",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £805",
+    "note": "12-month warranty",
+    "price": "£805.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used EA888 Gen 3 2.0 TSI 190 PS transverse MQB turbo petrol engine, VW Passat B8 saloon spec",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA888 Gen 3",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2014-2019",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "3G",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/volkswagen-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/volkswagen-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/volkswagen-vw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration against the list below to confirm this EA888 engine matches your Passat before ordering.",
+  "list": [
+   "VW Passat B8 3G (2.0 TSI 190 PS) Saloon 2014-2019"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Fully drained and sealed for transport",
+   "New gaskets and seals where applicable"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA888 engine now, or view the full EA888 engine range for other applications.",
+  "crossLink": "← Back to all EA888 engines"
+ }
+}

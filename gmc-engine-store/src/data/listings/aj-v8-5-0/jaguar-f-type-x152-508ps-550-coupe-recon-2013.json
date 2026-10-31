@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "aj-v8-5-0",
+ "applicationSlug": "jaguar-f-type-x152-508ps-550-coupe-recon-2013",
+ "engineCode": "508PS",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned 508PS 5.0 V8 Engine — Jaguar F-Type Coupe (SC, 550hp) 2013–2017",
+  "description": "Reconditioned 508PS engine for Jaguar F-Type Coupe (2013–2017). Fixed price £7,850, tested before dispatch, UK delivery and 12-month warranty.",
+  "canonical": "https://engined.co.uk/engines/aj-v8-5-0/jaguar-f-type-x152-508ps-550-coupe-recon-2013/"
+ },
+ "hero": {
+  "title": "Reconditioned 508PS 5.0 V8 Engine — Jaguar F-Type Coupe (SC, 550hp) 2013–2017",
+  "subtitle": "Reconditioned 508PS engine for Jaguar F-Type Coupe — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 508PS-RECON-FTYPE-COUPE-550-1317",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £7,850",
+    "note": "12-month warranty",
+    "price": "£7,850.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned 508PS 5.0 V8 supercharged engine for Jaguar F-Type Coupe, fully rebuilt and ready for dispatch",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "508PS",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2013-2017",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X152",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Will a 508PN NA engine fit my F-Type? — F-Type uses 508PS supercharged only. Enter your registration above to confirm exact fitment.",
+  "list": [
+   "Jaguar F-Type X152 (2013–2017) — Coupe, 5.0 V8 SC 550hp"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Clean, drained, and sealed for transport",
+   "OEM-spec internal components"
+  ],
+  "excluded": [
+   "Turbocharger / supercharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 508PS engine now, or view the full 508PS range for other applications.",
+  "crossLink": "← Back to all 508PS engines"
+ }
+}

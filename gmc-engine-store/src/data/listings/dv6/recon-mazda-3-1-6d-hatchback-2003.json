@@ -1,0 +1,86 @@
+{
+ "brand": "citroen",
+ "brandName": "Citroen",
+ "engineSlug": "dv6",
+ "applicationSlug": "recon-mazda-3-1-6d-hatchback-2003",
+ "engineCode": "DV6",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned Mazda DV6 Engine — 3 (1.6D) Hatchback 2003-2013",
+  "description": "DV6 · reconditioned · Mazda 3 Hatchback 1.6D · 109 PS · £1,550 · 12-month warranty · UK delivery",
+  "canonical": "https://engined.co.uk/engines/dv6/recon-mazda-3-1-6d-hatchback-2003/"
+ },
+ "hero": {
+  "title": "Reconditioned Mazda DV6 Engine — 3 (1.6D) Hatchback 2003-2013",
+  "subtitle": "Reconditioned DV6 diesel engine for Mazda 3 Hatchback 1.6D — fully rebuilt, tested before dispatch, UK delivery.",
+  "sku": "SKU: DV6-RECON-MAZDA-3-1-6D-HATCH",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,550",
+    "note": "12-month warranty",
+    "price": "£1,550.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned Mazda DV6 1.6D engine for 3 Hatchback 2003-2013 — fully rebuilt diesel unit",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "DV6",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2003-2013",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Mazda 3 Hatchback (2003-2013)",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/citroen-psa-dv6-1-6-hdi-diesel-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your vehicle's compatibility below — use our reg-checker to confirm this DV6 engine matches your Mazda exactly.",
+  "list": [
+   "Mazda 3 Hatchback (2003-2013) — 1.6D"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Mazda-specific ECU compatibility verified",
+   "Brand-specific engine management verification",
+   "New timing components",
+   "Comprehensive inspection report",
+   "Oil and filter service",
+   "UK mainland delivery"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this DV6 engine now, or view the full DV6 engine range for other applications.",
+  "crossLink": "← Back to all DV6 engines"
+ }
+}

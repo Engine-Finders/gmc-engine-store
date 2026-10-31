@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "204dtd",
+ "applicationSlug": "land-rover-range-rover-sport-l494-204dta-sd4-longitudinal-suv-2020",
+ "engineCode": "204DTA",
+ "condition": "used",
+ "seo": {
+  "title": "Used 204DTA 2.0 Diesel Engine — Range Rover Sport L494 (SD4, Longitudinal) 2020–present | Engined",
+  "description": "Used Land Rover 204DTA 2.0 diesel engine for Range Rover Sport L494 SD4, longitudinal 2020–present. Bench-tested, 12-month warranty, UK delivery. £2,995.",
+  "canonical": "https://engined.co.uk/engines/204dtd/land-rover-range-rover-sport-l494-204dta-sd4-longitudinal-suv-2020/"
+ },
+ "hero": {
+  "title": "Used 204DTA 2.0 Diesel Engine — Range Rover Sport L494 (SD4, Longitudinal) 2020–present",
+  "subtitle": "Used 204DTA engine for Range Rover Sport L494 SD4 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 204DTA-USED-RRS-SD4-2020",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,995",
+    "note": "12-month warranty",
+    "price": "£2,995.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Land Rover 204DTA 2.0 SD4 diesel engine, longitudinal fit for Range Rover Sport L494 2020–present.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "204DTA",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2020–present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L494",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration in our reg checker to confirm this 204DTA fits your Range Rover Sport L494 before you buy.",
+  "list": [
+   "Range Rover Sport L494 (2.0 Ingenium SD4, Longitudinal) 2020–present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly, ready to fit",
+   "Bench-tested and compression-checked before dispatch",
+   "12-month warranty as standard",
+   "New gaskets and seals fitted where required",
+   "Sump, timing cover and rocker cover included"
+  ],
+  "excluded": [
+   "Turbocharger (reused from your unit where serviceable, depending on condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, air conditioning compressor, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 204DTA engine now, or view the full 204DTA engine range for other applications.",
+  "crossLink": "← Back to all 204DTA engines"
+ }
+}

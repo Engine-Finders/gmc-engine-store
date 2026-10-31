@@ -1,0 +1,96 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "m272",
+ "applicationSlug": "mercedes-r-class-w251-m272-272-auto-fl-mpv-2007",
+ "engineCode": "M272 E35",
+ "condition": "used",
+ "seo": {
+  "title": "Used M272 3.5 V6 Engine — R-Class W251 (R350, 272 PS, Auto) FL 2007–2011 | Engined — 82 chars — FAIL (24th)",
+  "description": "Used M272 3.5 V6 engine for the facelift R-Class W251 R350 (272 PS, Auto, 2007–2011). £1,720 fixed price with 12-month warranty and UK delivery. — 144 chars — PASS",
+  "canonical": "https://engined.co.uk/engines/m272/mercedes-r-class-w251-m272-272-auto-fl-mpv-2007/"
+ },
+ "hero": {
+  "title": "Used M272 3.5 V6 Engine — R-Class W251 (R350, 272 PS, Auto) FL 2007–2011",
+  "subtitle": "Used M272 engine for the facelift R350 (R-Class W251) — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M272-USED-W251-R350-FL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,720",
+    "note": "12-month warranty",
+    "price": "£1,720.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,755",
+    "note": "12-month warranty",
+    "price": "£2,755.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used M272 3.5 V6 engine for Mercedes R-Class W251 facelift R350 272 PS automatic MPV",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M272 E35",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2007–2011",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W251",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-m272-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration before ordering — this M272 fits the facelift W251 R350 automatic. (93 chars)",
+  "list": [
+   "R-Class W251 (R350 272 PS, Auto, MPV, M272 E35) 2007–2011"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Bench-tested before dispatch",
+   "12-month warranty as standard",
+   "Oil and filter service parts fitted",
+   "Pre-delivery inspection report"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries (alternator, starter, pumps, sensors)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M272 engine now, or view the full M272 engine range for other applications. (84 visible chars)",
+  "crossLink": "← Back to all M272 engines"
+ }
+}

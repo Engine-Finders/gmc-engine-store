@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "m274",
+ "applicationSlug": "mercedes-c-class-w205-m274-184-fl-coupe-2017-2",
+ "engineCode": "M274",
+ "condition": "used",
+ "seo": {
+  "title": "Used M274 2.0T Engine — C-Class W205 Coupe | Engined",
+  "description": "Used M274 2.0T engine for Mercedes-Benz C-Class W205 Coupe C200 184 PS 2017–2018. £1,595 with 12-month warranty, UK delivery and tested before dispatch.",
+  "canonical": "https://engined.co.uk/engines/m274/mercedes-c-class-w205-m274-184-fl-coupe-2017/"
+ },
+ "hero": {
+  "title": "Used M274 2.0T Engine — C-Class W205 Coupe (C200, 184 PS) FL 2017–2018",
+  "subtitle": "Used M274 engine for Mercedes C-Class W205 Coupe, C200 184 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M274-USED-W205-C200-FL-CPE",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,595",
+    "note": "12-month warranty",
+    "price": "£1,595.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used M274 2.0T engine for Mercedes C-Class W205 Coupe C200 184 PS 2017–2018, longitudinal fit.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M274",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2017–2018",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W205",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-m274-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your registration before buying — this used M274 engine fits the W205 C-Class coupe applications listed below.",
+  "list": [
+   "C-Class W205 (Coupe — C200 184 PS — M274 — Longitudinal) 2017–2018"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil sump and rocker cover included",
+   "Gaskets and seals as fitted"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M274 engine now, or view the full M274 engine range for other applications.",
+  "crossLink": "← Back to all M274 engines"
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "ajd200",
+ "applicationSlug": "jaguar-xf-x260-aj20d6-30d-saloon-2017",
+ "engineCode": "AJ20D6",
+ "condition": "used",
+ "seo": {
+  "title": "PENDING — AJ20D6 3.0 Diesel Engine — Jaguar XF X260 Saloon (30d, Longitudinal) 2017–2020 | Engined",
+  "description": "Used and Reconditioned AJ20D6 engine for Jaguar XF X260 30d. Fixed price £3,495, tested before dispatch, UK delivery & 12-month warranty included.",
+  "canonical": "https://engined.co.uk/engines/ajd200/jaguar-xf-x260-aj20d6-30d-saloon-2017/"
+ },
+ "hero": {
+  "title": "PENDING — AJ20D6 3.0 Diesel Engine — Jaguar XF X260 Saloon (30d, Longitudinal) 2017–2020",
+  "subtitle": "Used and Reconditioned AJ20D6 engine for Jaguar XF X260 30d — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: AJD200-PEND-XF-30D-1720",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £3,495",
+    "note": "12-month warranty",
+    "price": "£3,495.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "PENDING — AJ20D6 3.0 Diesel Engine — Jaguar XF X260 Saloon (30d, Longitudinal) 2017–2020",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJ20D6",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2017–2020",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X260",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number above to confirm this AJ20D6 engine fits your Jaguar XF X260 before you buy.",
+  "list": [
+   "Jaguar XF X260 (30d Longitudinal) 2017–2020"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Fully cleaned and inspected",
+   "Ready to bolt in"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this AJ20D6 engine now, or view the full AJD200 engine range for other applications.",
+  "crossLink": "← Back to all AJD200 engines"
+ }
+}

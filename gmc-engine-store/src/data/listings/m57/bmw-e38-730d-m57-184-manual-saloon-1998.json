@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "m57",
+ "applicationSlug": "bmw-e38-730d-m57-184-manual-saloon-1998",
+ "engineCode": "M57",
+ "condition": "used",
+ "seo": {
+  "title": "PENDING — M57 3.0 Engine — BMW E38 730d (Manual, 184 PS) 1998–2001 | Engined",
+  "description": "Used M57 3.0 engine for BMW E38 730d (Manual, 184 PS, 1998-2001). Fixed price £1,500. Tested before dispatch, 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/m57/bmw-e38-730d-m57-184-manual-saloon-1998/"
+ },
+ "hero": {
+  "title": "PENDING — M57 3.0 Engine — BMW E38 730d (Manual, 184 PS) 1998–2001",
+  "subtitle": "Used M57 engine for BMW E38 730d (Manual, 184 PS) — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M57-PEND-E38-730D-9801",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,500",
+    "note": "12-month warranty",
+    "price": "£1,500.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "M57 3.0 engine for BMW E38 730d Manual 184 PS, complete unit, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M57",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "1998–2001",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E38",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number in our checker above to confirm exact fitment for your BMW E38 730d chassis before purchasing.",
+  "list": [
+   "BMW E38 730d 1998–2001 — Saloon — M57 184 PS — Manual — M57D30"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "All internal seals and gaskets replaced",
+   "Professionally cleaned and degreased"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "External ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M57 engine now, or view the full M57 engine range for other applications.",
+  "crossLink": "← Back to all M57 engines"
+ }
+}

@@ -1,0 +1,97 @@
+{
+ "brand": "citroen",
+ "brandName": "Citroen",
+ "engineSlug": "puretech-eb2",
+ "applicationSlug": "peugeot-208-puretech-hatchback-2012",
+ "engineCode": "EB2",
+ "condition": "used",
+ "seo": {
+  "title": "Used Peugeot PureTech EB2 1.2 Engine — 108/208/2008/308/3008/5008 2012-present",
+  "description": "EB2 · used · Peugeot 108/208/2008/308/3008/5008/508/Partner/Rifter PureTech · 68-155 hp · £806 · 12-month warranty · UK delivery",
+  "canonical": "https://engined.co.uk/engines/puretech-eb2/peugeot-208-puretech-hatchback-2012/"
+ },
+ "hero": {
+  "title": "Used Peugeot PureTech EB2 1.2 Engine — 108/208/2008/308/3008/5008",
+  "subtitle": "Used EB2 petrol engine for Peugeot 108, 208, 2008, 308, 3008, 5008, 508, Partner, and Rifter PureTech — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EB2-USED-PEUGEOT-208-PURETECH-HATCH",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £806",
+    "note": "12-month warranty",
+    "price": "£806.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,350",
+    "note": "12-month warranty",
+    "price": "£1,350.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Peugeot PureTech EB2 1.2 engine for 208 hatchback 2012-present — tested petrol unit",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EB2",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2012-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Peugeot 108, Peugeot 208, Peugeot 2008, Peugeot 308, Peugeot 3008, Peugeot 5008, Peugeot 508, Peugeot Partner, Peugeot Rifter",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/citroen-citroen-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your vehicle's compatibility below — use our reg-checker to confirm this EB2 engine matches your Peugeot exactly.",
+  "list": [
+   "Peugeot 108 (2012-present) — PureTech",
+   "Peugeot 208 (2012-present) — PureTech",
+   "Peugeot 2008 (2012-present) — PureTech",
+   "Peugeot 308 (2012-present) — PureTech",
+   "Peugeot 3008 (2012-present) — PureTech",
+   "Peugeot 5008 (2012-present) — PureTech",
+   "Peugeot 508 (2012-present) — PureTech",
+   "Peugeot Partner (2012-present) — PureTech",
+   "Peugeot Rifter (2012-present) — PureTech"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Comprehensive inspection report",
+   "Oil and filter service",
+   "UK mainland delivery"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EB2 engine now, or view the full PureTech EB2 engine range for other applications.",
+  "crossLink": "← Back to all PureTech EB2 engines"
+ }
+}

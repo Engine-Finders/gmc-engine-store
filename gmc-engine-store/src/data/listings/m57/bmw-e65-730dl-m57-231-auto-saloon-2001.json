@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "m57",
+ "applicationSlug": "bmw-e65-730dl-m57-231-auto-saloon-2001",
+ "engineCode": "M57",
+ "condition": "used",
+ "seo": {
+  "title": "PENDING — M57 3.0 Engine BMW E65 730dL Auto | Engined",
+  "description": "Used M57 3.0 engine for BMW E65 730dL (Auto, 231 PS, 2001-2005). Fixed price £1,600. Tested before dispatch, 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/m57/bmw-e65-730dl-m57-231-auto-saloon-2001/"
+ },
+ "hero": {
+  "title": "PENDING — M57 3.0 Engine — BMW E65 730dL (Auto, 231 PS) 2001–2005",
+  "subtitle": "Used M57 engine for BMW E65 730dL (Auto, 231 PS) — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M57-PEND-E65-730DL-0105",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,600",
+    "note": "12-month warranty",
+    "price": "£1,600.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "M57 3.0 engine for BMW E65 730dL Auto 231 PS, complete unit, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M57",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2001–2005",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E65",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number in our checker above to confirm exact fitment for your BMW E65 730dL chassis before purchasing.",
+  "list": [
+   "BMW E65 730dL 2001–2005 — Saloon — M57 231 PS — Auto — M57D30"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "All internal seals and gaskets replaced",
+   "Professionally cleaned and degreased"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "External ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M57 engine now, or view the full M57 engine range for other applications.",
+  "crossLink": "← Back to all M57 engines"
+ }
+}

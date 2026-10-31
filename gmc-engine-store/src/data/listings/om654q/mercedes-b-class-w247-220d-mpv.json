@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "om654q",
+ "applicationSlug": "mercedes-b-class-w247-220d-mpv",
+ "engineCode": "OM654Q",
+ "condition": "used",
+ "seo": {
+  "title": "Used OM654q Engine — Mercedes B-Class W247 (220d) MPV 2019+",
+  "description": "Used OM654q engine for Mercedes B-Class W247 220d MPV, 2019+. Transverse compact spec, W247 MPV only. £2,195, 12-month warranty, UK delivery. Fixed price, tested before dispatch.",
+  "canonical": "https://engined.co.uk/engines/om654q/mercedes-b-class-w247-220d-mpv/"
+ },
+ "hero": {
+  "title": "Used OM654q Engine — Mercedes B-Class W247 (220d) MPV 2019+",
+  "subtitle": "Used OM654q engine for Mercedes B-Class W247 220d MPV 2019+ — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: OM654Q-USED-W247-220D-MPV",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,195",
+    "note": "12-month warranty",
+    "price": "£2,195.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used OM654q engine for Mercedes B-Class W247 220d MPV, transverse compact spec, W247 MPV only.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "OM654q",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2019+",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W247",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-mercedes-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our reg checker to confirm this Used OM654q engine fits your Mercedes B-Class W247 220d MPV 2019+.",
+  "list": [
+   "B-Class MPV W247 (220d) 2019+"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "Warranty as standard",
+   "Cylinder head and block included",
+   "Oil sump and timing cover included"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this OM654q engine now, or view the full OM654q engine range for other applications.",
+  "crossLink": "← Back to all OM654q engines"
+ }
+}

@@ -1,0 +1,96 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n43-recon",
+ "applicationSlug": "e88-120i-conv-2008",
+ "engineCode": "N43B20",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned BMW N43 Engine — 1 Series E88 (120i) Convertible 2008‑2010",
+  "description": "Reconditioned N43B20 high‑output engine · 120i (170 PS) · E88 Convertible · renewed timing · £1,895 · 12‑month warranty · UK delivery",
+  "canonical": "https://engined.co.uk/engines/bmw-n43-recon/e88-120i-conv-2008/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW N43 Engine — 1 Series E88 (120i) Convertible 2008‑2010",
+  "subtitle": "Reconditioned N43B20 high‑output engine for BMW 1 Series E88 120i Convertible — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N43-RECON-E88-120I-PREFL",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,895",
+    "note": "12-month warranty",
+    "price": "£1,895.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned BMW N43B20 high‑output engine for E88 120i Convertible with renewed timing components",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N43B20",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2008‑2010",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E88",
+    "label": "Compatible"
+   },
+   {
+    "icon": "gauge",
+    "value": "170 PS",
+    "label": "Max Output"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration to confirm exact compatibility with your BMW 1 Series E88 120i Convertible.",
+  "list": [
+   "BMW 1 Series (E88) 2008‑2010 — 120i (170 PS) Convertible"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12‑month warranty as standard",
+   "Renewed timing components",
+   "Cabriolet‑specific ancillaries fitted",
+   "Oil and filter service completed"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries not specific to this application",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this BMW N43 engine now, or view the full BMW N43 engine range for other applications.",
+  "crossLink": "← [Back to all BMW N43 engines"
+ }
+}

@@ -1,0 +1,85 @@
+{
+ "brand": "volvo",
+ "brandName": "Volvo",
+ "engineSlug": "yd25ddti",
+ "applicationSlug": "navara-d40-2005-2015",
+ "engineCode": "YD25DDTI",
+ "condition": "recon",
+ "seo": {
+  "title": "Nissan YD25DDTi Engine Navara D40 | Engined",
+  "description": "Nissan YD25DDTi engine for Navara D40, Pathfinder R51 and more. Used from £1,450, tested before dispatch, 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/yd25ddti/navara-d40-2005-2015/"
+ },
+ "hero": {
+  "title": "Nissan YD25DDTi Engine for Navara D40 — Used & Reconditioned",
+  "subtitle": "Used YD25DDTi engine for Navara D40, Pathfinder R51 and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: SAMPLE-YD25-D40-001",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,450",
+    "note": "12-month warranty",
+    "price": "£1,450.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Nissan YD25DDTi engine, Navara D40 configuration, complete tested assembly",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "YD25DDTi",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2005-2015",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "D40, R51",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration before ordering to confirm this YD25DDTi matches your exact vehicle build.",
+  "list": [
+   "Nissan Navara D40 (2.5 dCi) 2005–2015",
+   "Nissan Pathfinder R51 (2.5 dCi) 2005–2015"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block, fully assembled",
+   "Sump, timing cover and rocker cover",
+   "Compression verified and documented"
+  ],
+  "excluded": [
+   "Turbocharger (reused from your unit unless condition requires replacement)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter, air conditioning compressor, power steering pump)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this YD25DDTi engine now, or view the full YD25DDTi engine range for other applications.",
+  "crossLink": "← Back to all YD25DDTi engines → https://engined.co.uk/engines/yd25ddti/"
+ }
+}

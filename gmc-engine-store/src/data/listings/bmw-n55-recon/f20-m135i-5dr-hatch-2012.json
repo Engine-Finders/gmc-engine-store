@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n55-recon",
+ "applicationSlug": "f20-m135i-5dr-hatch-2012",
+ "engineCode": "N55",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned BMW N55 Engine — 1 Series F20 (M135i) 5‑dr Hatch 2012‑2015",
+  "description": "Reconditioned BMW N55 engine for 1 Series F20 M135i 5‑dr Hatch 2012‑2015. 322 PS N55B30M0, tested before dispatch, £4,830 with 12-month warranty.",
+  "canonical": "https://engined.co.uk/engines/bmw-n55-recon/f20-m135i-5dr-hatch-2012/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW N55 Engine — 1 Series F20 (M135i) 5‑dr Hatch 2012‑2015",
+  "subtitle": "Reconditioned N55 engine for 1 Series F20 M135i — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N55-RECON-F20-M135I",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £4,830",
+    "note": "12-month warranty",
+    "price": "£4,830.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned BMW N55 engine for 1 Series F20 M135i 5‑dr Hatch 2012‑2015, 322 PS N55B30M0.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N55",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2012‑2015",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F20",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration to confirm fitment, or check the application list below before ordering.",
+  "list": [
+   "BMW 1 Series F20 (M135i 322 PS 5‑door Hatchback) 2012‑2015"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Sump and rocker cover"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N55 engine now, or view the full N55 engine range for other applications.",
+  "crossLink": "← Back to all N55 engines"
+ }
+}

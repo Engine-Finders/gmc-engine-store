@@ -1,0 +1,96 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "prince-n14-n18",
+ "applicationSlug": "mini-countryman-r60-jcw-2010",
+ "engineCode": "N14",
+ "condition": "used",
+ "seo": {
+  "title": "Used Prince N14 1.6 Turbo Engine — MINI Countryman R60 JCW 2010–2012 | Engined",
+  "description": "Used Prince N14 1.6 turbo engine for MINI Countryman R60 JCW 2010–2012. Fixed price £1,375, 12-month warranty, tested before dispatch and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/prince-n14-n18/mini-countryman-r60-jcw-2010/"
+ },
+ "hero": {
+  "title": "Used Prince N14 1.6 Turbo Engine — MINI Countryman R60 JCW 2010–2012",
+  "subtitle": "Used N14 engine for MINI Countryman R60 JCW — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: PRINCE-USED-R60-JCW-N14",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,375",
+    "note": "12-month warranty",
+    "price": "£1,375.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,295",
+    "note": "12-month warranty",
+    "price": "£2,295.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Prince N14 1.6 turbo engine, MINI Countryman R60 JCW 2010–2012, uprated turbo spec",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N14",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2010–2012",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "R60",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your reg with our fitment tool to confirm your MINI Countryman R60 JCW is covered, then match the exact variant listed below.",
+  "list": [
+   "MINI Countryman R60 (JCW, 211 PS) 2010–2012"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Sump and rocker cover",
+   "Oil pump"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N14 engine now, or view the full N14 engine range for other applications.",
+  "crossLink": "← Back to all N14 engines"
+ }
+}

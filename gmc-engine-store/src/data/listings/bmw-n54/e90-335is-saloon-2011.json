@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n54",
+ "applicationSlug": "e90-335is-saloon-2011",
+ "engineCode": "N54",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW N54 Engine — 3 Series E90 (335is) Saloon 2011‑2013",
+  "description": "Used BMW N54 engine for 3 Series E90 335is (340 PS) Saloon 2011-2013. Fixed £2,530, tested before dispatch, 12-month warranty and UK delivery. In stock.",
+  "canonical": "https://engined.co.uk/engines/bmw-n54/e90-335is-saloon-2011/"
+ },
+ "hero": {
+  "title": "Used BMW N54 Engine — 3 Series E90 (335is) Saloon 2011‑2013",
+  "subtitle": "Used BMW N54 engine for 3 Series E90 335is (340 PS) Saloon — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N54-USED-E90-335IS",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,530",
+    "note": "12-month warranty",
+    "price": "£2,530.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "BMW N54 used engine for 3 Series E90 335is Saloon 2011-2013, 340 PS high output, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "BMW N54",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2011‑2013",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E90",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-n54-n55-n20-family-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our reg checker to confirm your registration fits this BMW 3 Series E90 335is application before buying.",
+  "list": [
+   "BMW 3 Series E90 (335is (340 PS) Saloon) 2011‑2013"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil sump and rocker cover",
+   "Timing cover and inlet manifold"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this BMW N54 engine now, or view BMW N54 range for other applications.",
+  "crossLink": "← Back to all BMW N54 engines"
+ }
+}

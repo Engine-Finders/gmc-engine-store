@@ -1,0 +1,96 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "m273",
+ "applicationSlug": "mercedes-r-class-w251-m273-388-auto-prefl-mpv-amg-2007",
+ "engineCode": "M273",
+ "condition": "used",
+ "seo": {
+  "title": "Used M273 5.5 V8 Engine — R-Class W251 (R500, 388 PS, Auto) Pre-FL 2007–2009",
+  "description": "Used M273 5.5 V8 engine for Mercedes R-Class W251 R500 2007–2009. Fixed £1,595, tested before dispatch, 12-month warranty and UK delivery included.",
+  "canonical": "https://engined.co.uk/engines/m273/mercedes-r-class-w251-m273-388-auto-prefl-mpv-amg-2007/"
+ },
+ "hero": {
+  "title": "Used M273 5.5 V8 Engine — R-Class W251 (R500, 388 PS, Auto) Pre-FL 2007–2009",
+  "subtitle": "Used M273 engine for the R-Class W251 R500 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M273-USED-W251-R500-PREFL-AMG",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,595",
+    "note": "12-month warranty",
+    "price": "£1,595.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,900",
+    "note": "12-month warranty",
+    "price": "£2,900.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used M273 5.5 V8 engine for Mercedes R-Class W251 R500 2007–2009, auto, 388 PS, AMG trim.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M273",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2007–2009",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W251",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-m273-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with your registration before ordering — this used M273 engine is listed for the applications below.",
+  "list": [
+   "R-Class W251 (MPV — R500 388 PS — Auto — M273.961) 2007–2009"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Renewed timing chains",
+   "New gaskets and seals"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M273 engine now, or view the full M273 engine range for other applications.",
+  "crossLink": "← Back to all M273 engines"
+ }
+}

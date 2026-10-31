@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "s65",
+ "applicationSlug": "bmw-e91-m3-estate-2007",
+ "engineCode": "S65",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW S65 E91 M3 Estate 2007–2009 | Engined",
+  "description": "Used BMW S65 4.0 V8 engine for BMW M3 E91 Estate (414 PS) 2007–2009. £3,200, 12-month warranty, UK delivery. Tested before dispatch, fixed price.",
+  "canonical": "https://engined.co.uk/engines/s65/bmw-e91-m3-estate-2007/"
+ },
+ "hero": {
+  "title": "Used BMW S65 4.0 V8 Engine — E91 M3 Estate (414 PS) 2007–2009",
+  "subtitle": "SUB — Used S65 engine for BMW M3 E91 Estate (414 PS) 2007–2009 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: S65-USED-E91-M3",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £3,200",
+    "note": "12-month warranty",
+    "price": "£3,200.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW S65 4.0 V8 engine for E91 M3 Estate (414 PS) 2007–2009, naturally aspirated V8",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "S65",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2007–2009",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E91",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our registration checker to confirm this used S65 engine fits your BMW M3 E91 Estate (414 PS) 2007–2009 before ordering.",
+  "list": [
+   "BMW M3 E91 — Estate (414 PS) 2007–2009 (S65B40)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New gaskets and seals where required",
+   "Sump and timing cover included"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this S65 engine now, or view the full S65 engine range for other applications.",
+  "crossLink": "← Back to all S65 engines"
+ }
+}

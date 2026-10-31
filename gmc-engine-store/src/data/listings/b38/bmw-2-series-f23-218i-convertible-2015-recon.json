@@ -1,0 +1,95 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "b38",
+ "applicationSlug": "bmw-2-series-f23-218i-convertible-2015-recon",
+ "engineCode": "B38",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned BMW B38 Engine — 2 Series F23 218i 2015-2021",
+  "description": "B38 · reconditioned · 2 Series Convertible F23 218i (136 hp) · £2,340 · 12-month warranty · UK delivery. Fully tested before dispatch.",
+  "canonical": "https://engined.co.uk/engines/b38/bmw-2-series-f23-218i-convertible-2015-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW B38 Engine — 2 Series F23 (218i) Convertible 2015-2021",
+  "subtitle": "Reconditioned B38 engine for 2 Series Convertible (F23) 218i (136 hp) and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: B38-RECON-F23-218I-CONVERTIBLE",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,340",
+    "note": "12-month warranty",
+    "price": "£2,340.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned BMW B38 engine for 2 Series F23 218i Convertible 2015-2021 — complete assembly ready for dispatch",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "B38",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2015-2021",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F20, F21, F22, F23, F30 LCI, F44",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-b38-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number to confirm compatibility, or check the list below for your specific model.",
+  "list": [
+   "2 Series Convertible (F23) 2015-2021 — 218i (136 hp)",
+   "2 Series Coupe (F22) 2015-2021 — 218i (136 hp)",
+   "2 Series Gran Coupe (F44) 2015-2021 — 218i (136 hp)",
+   "1 Series (F20/F21) 2015-2021 — 118i (136 hp), 116i (109 hp)",
+   "3 Series (F30 LCI) 2015-2018 — 318i (136 hp)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (long block)",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil and filters pre-filled",
+   "Timing components checked and adjusted",
+   "Ancillary components (where fitted)"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter, AC compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this B38 engine now, or view the full B38 engine range for other applications.",
+  "crossLink": "← Back to all B38 engines"
+ }
+}

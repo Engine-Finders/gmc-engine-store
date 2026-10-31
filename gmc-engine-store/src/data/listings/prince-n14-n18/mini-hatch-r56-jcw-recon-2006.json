@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "prince-n14-n18",
+ "applicationSlug": "mini-hatch-r56-jcw-recon-2006",
+ "engineCode": "N14",
+ "condition": "recon",
+ "seo": {
+  "title": "Recon N14 MINI R56 JCW | Engined",
+  "description": "Reconditioned N14 engine for MINI Hatch R56 JCW (211 PS) 2006–2010. £2,295 with 12-month warranty, tested before dispatch and fast UK delivery.",
+  "canonical": "https://engined.co.uk/engines/prince-n14-n18/mini-hatch-r56-jcw-recon-2006/"
+ },
+ "hero": {
+  "title": "Reconditioned Prince N14 1.6 Turbo Engine — MINI Hatch R56 JCW 2006–2010",
+  "subtitle": "Reconditioned N14 engine for MINI Hatch R56 JCW — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: PRINCE-RECON-R56-JCW-N14",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,295",
+    "note": "12-month warranty",
+    "price": "£2,295.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned N14 1.6 turbo engine for MINI Hatch R56 JCW, rebuilt with uprated components to JCW spec.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N14",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2006–2010",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "R56",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment by entering your registration in the reg checker before ordering; this listing covers the following MINI application.",
+  "list": [
+   "MINI Hatch R56 — JCW (211 PS) 2006–2010 (N14)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Sump and timing covers"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N14 engine now, or view the full N14 engine range for other applications.",
+  "crossLink": "← Back to all N14 engines"
+ }
+}

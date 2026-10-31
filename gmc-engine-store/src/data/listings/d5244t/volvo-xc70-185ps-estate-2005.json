@@ -1,0 +1,83 @@
+{
+ "brand": "volvo",
+ "brandName": "Volvo",
+ "engineSlug": "d5244t",
+ "applicationSlug": "volvo-xc70-185ps-estate-2005",
+ "engineCode": "D5244T4",
+ "condition": "used",
+ "seo": {
+  "title": "Used D5 Engine — Volvo XC70 (2.4 D5 185 PS) Estate 2005-2008",
+  "description": "Used D5244T4 engine for Volvo XC70 II 295 Estate AWD 2005–2008. 2.4 D5 185 PS diesel. £1,095 with 12-month warranty, tested before dispatch and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/d5244t/volvo-xc70-185ps-estate-2005/"
+ },
+ "hero": {
+  "title": "Used D5 Engine — Volvo XC70 (2.4 D5 185 PS) Estate 2005-2008",
+  "subtitle": "Used D5244T4 engine for Volvo XC70 II 295 Estate AWD, 2.4 D5 185 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: D5244T-USED-XC70-185-ESTATE",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,095",
+    "note": "12-month warranty",
+    "price": "£1,095.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used D5244T4 diesel engine for Volvo XC70 II 295 AWD Estate 2005-2008, 2.4 D5 185 PS, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "D5244T4",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2005-2008",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "295",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with our reg checker before ordering — this D5244T4 listing covers the following Volvo XC70 application.",
+  "list": [
+   "Volvo XC70 II 295 (2.4 D5 185 PS (D5244T4) — Estate (AWD)) 2005-2008"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil sump and oil pickup",
+   "Timing cover and rocker cover"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this D5244T4 engine now, or view the full D5244T4 engine range for other applications.",
+  "crossLink": "← Back to all D5244T4 engines"
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "brand": "vauxhall",
+ "brandName": "Vauxhall",
+ "engineSlug": "eb2",
+ "applicationSlug": "vauxhall-grandland-x-130ps-suv-2017-recon",
+ "engineCode": "EB2",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned EB2 Engine — Vauxhall Grandland X (130 PS) SUV 2017-2021 | Engined",
+  "description": "Reconditioned EB2 engine for Vauxhall Grandland X SUV (1.2 PureTech 130 PS), 2017-2021. £2,500 fixed price, 12-month warranty as standard, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/eb2/vauxhall-grandland-x-130ps-suv-2017-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned EB2 Engine — Vauxhall Grandland X (130 PS) SUV 2017-2021",
+  "subtitle": "Reconditioned EB2 engine for Vauxhall Grandland X (130 PS) SUV — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EB2-RECON-GRANDLAND-X-130-SUV-12M",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,500",
+    "note": "12-month warranty",
+    "price": "£2,500.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned EB2 1.2 PureTech 130 PS petrol engine for Vauxhall Grandland X SUV, 2017-2021",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EB2",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2017-2021",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Grandland X",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration below to confirm this reconditioned EB2 engine is the right fit for your Grandland X before you buy.",
+  "list": [
+   "Vauxhall Grandland X (1.2 PureTech 130 PS / EB2ADTS, SUV) 2017-2021"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil sump",
+   "Timing cover"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries (alternator, starter motor, air conditioning compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EB2 engine now, or view the full EB2 range for other applications.",
+  "crossLink": "← Back to all EB2 engines"
+ }
+}

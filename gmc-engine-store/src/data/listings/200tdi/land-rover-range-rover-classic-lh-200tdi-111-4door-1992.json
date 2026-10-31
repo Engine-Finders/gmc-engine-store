@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "200tdi",
+ "applicationSlug": "land-rover-range-rover-classic-lh-200tdi-111-4door-1992",
+ "engineCode": "200TDI",
+ "condition": "used",
+ "seo": {
+  "title": "Used 200Tdi 2.5 Diesel Engine — Range Rover Classic 4-door (111 PS) 1992–1994 | Engined",
+  "description": "Used 200Tdi 2.5 Diesel engine for Range Rover Classic 4-door (111 PS) 1992–1994. £1,155 with 12-month warranty and UK delivery. Tested before dispatch.",
+  "canonical": "https://engined.co.uk/engines/200tdi/land-rover-range-rover-classic-lh-200tdi-111-4door-1992/"
+ },
+ "hero": {
+  "title": "Used 200Tdi 2.5 Diesel Engine — Range Rover Classic 4-door (111 PS) 1992–1994",
+  "subtitle": "Used 200Tdi engine for Range Rover Classic 4-door — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 200TDI-USED-RRC-4DR-111",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,155",
+    "note": "12-month warranty",
+    "price": "£1,155.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used 200Tdi 2.5 Diesel engine for Range Rover Classic 4-door, 111 PS, 1992–1994.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "200Tdi",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "1992–1994",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Range Rover Classic LH",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration to confirm fitment for the Range Rover Classic 4-door — this 200Tdi engine matches the applications listed below.",
+  "list": [
+   "Range Rover Classic LH (4-door, 200Tdi 111 PS (83kW)) 1992–1994"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty",
+   "New timing belt",
+   "New gaskets and seals"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 200Tdi engine now, or view the full 200Tdi engine range for other applications.",
+  "crossLink": "← Back to all 200Tdi engines (links to https://engined.co.uk/engines/200tdi/)"
+ }
+}

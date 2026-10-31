@@ -1,0 +1,92 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "n47",
+ "applicationSlug": "recon-bmw-1-series-e82-123d-coupe-2007",
+ "engineCode": "N47",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned N47 Engine — BMW 1 Series E82 123d Coupe 2007-2010 | Engined",
+  "description": "N47 · reconditioned · BMW 1 Series E82 123d Coupe · £2,243 · 12-month warranty · UK delivery. Fully rebuilt to factory specification.",
+  "canonical": "https://engined.co.uk/engines/n47/recon-bmw-1-series-e82-123d-coupe-2007/"
+ },
+ "hero": {
+  "title": "Reconditioned N47 Engine — BMW 1 Series E82 123d Coupe 2007-2010",
+  "subtitle": "Reconditioned N47 engine for BMW 1 Series Coupe (E82) 123d 2007-2010 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N47-RECON-G1-E82-123D-COUPE",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,243",
+    "note": "12-month warranty",
+    "price": "£2,243.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "BMW N47 reconditioned engine for 1 Series E82 123d Coupe 2007-2010 — fully rebuilt with new bearings and seals",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N47",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2007-2010",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E82",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-n47-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number above to confirm compatibility, or check the list below for exact vehicle fitment.",
+  "list": [
+   "BMW 1 Series Coupe (E82) 123d 2007-2010"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (long block)",
+   "Tested before dispatch — compression, leak-down, and running checks",
+   "12-month warranty as standard",
+   "Crankshaft regrind and bearing replacement",
+   "Cylinder head skim and pressure test",
+   "New piston rings and con rod bearings",
+   "Full gasket and seal replacement"
+  ],
+  "excluded": [
+   "Turbocharger (reusable from your existing unit if serviceable)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, air conditioning compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N47 engine now, or view the full N47 engine range for other applications.",
+  "crossLink": "← Back to all N47 engines"
+ }
+}

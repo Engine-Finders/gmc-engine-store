@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "368dt",
+ "applicationSlug": "land-rover-discovery-4-l319-368dt-3.6-suv-2009",
+ "engineCode": "368DT",
+ "condition": "used",
+ "seo": {
+  "title": "Used 368DT 3.6 TDV8 Engine — Discovery 4 (2009–2012)",
+  "description": "Used 368DT engine for Discovery 4 L319. Fixed price £2,395, tested before dispatch, UK delivery & 12-month warranty. 3.6 TDV8 272 hp diesel.",
+  "canonical": "https://engined.co.uk/engines/368dt/land-rover-discovery-4-l319-368dt-3.6-suv-2009/"
+ },
+ "hero": {
+  "title": "Used 368DT 3.6 TDV8 Engine — Discovery 4 (2009–2012)",
+  "subtitle": "Used 368DT engine for Discovery 4 L319 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 368DT-USED-DISCO4",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £3,995",
+    "note": "12-month warranty",
+    "price": "£3,995.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used 368DT 3.6 TDV8 Engine — Discovery 4 (2009–2012)",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "368DT",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2009–2012",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L319",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number in our checker above to confirm this 368DT engine is the exact match for your vehicle.",
+  "list": [
+   "Discovery 4 L319 (3.6 TDV8 272 hp) 2009–2012"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Verified working condition",
+   "OEM-spec internal components"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 368DT engine now, or view the full 368DT engine range for other applications.",
+  "crossLink": "← Back to all 368DT engines"
+ }
+}

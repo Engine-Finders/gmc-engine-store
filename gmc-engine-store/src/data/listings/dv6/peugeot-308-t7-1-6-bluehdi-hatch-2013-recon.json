@@ -1,0 +1,83 @@
+{
+ "brand": "peugeot",
+ "brandName": "Peugeot",
+ "engineSlug": "dv6",
+ "applicationSlug": "peugeot-308-t7-1-6-bluehdi-hatch-2013-recon",
+ "engineCode": "PSA DV6",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned PSA DV6 Engine — Peugeot 308 T7 (1.6 BlueHDi) Hatchback 2013-2016 | Engined",
+  "description": "Reconditioned PSA DV6 engine for Peugeot 308 T7 1.6 BlueHDi (75-120 PS) 2013-2016. Used from £1,250, recon £2,200. 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/dv6/peugeot-308-t7-1-6-bluehdi-hatch-2013-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned PSA DV6 Engine — Peugeot 308 T7 (1.6 BlueHDi) Hatchback 2013-2016",
+  "subtitle": "Reconditioned PSA DV6 engine for Peugeot 308 T7 1.6 BlueHDi — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: DV6-RECON-308-BLUEHDI",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,250",
+    "note": "12-month warranty",
+    "price": "£1,250.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned PSA DV6 engine for Peugeot 308 T7 1.6 BlueHDi hatchback 2013-2016, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "PSA DV6",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2013-2016",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "T7",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our registration checker to confirm this reconditioned PSA DV6 engine fits your Peugeot 308 T7 1.6 BlueHDi before you buy.",
+  "list": [
+   "Peugeot 308 T7 (1.6 BlueHDi 75-120 PS, codes: DV6FE, DV6FD, DV6FC) 2013-2016"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New oil and filter",
+   "Gaskets and seals"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this DV6 engine now, or view the full DV6 engine range for other applications.",
+  "crossLink": "← Back to all DV6 engines"
+ }
+}

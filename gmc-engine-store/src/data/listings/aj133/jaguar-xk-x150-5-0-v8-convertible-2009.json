@@ -1,0 +1,96 @@
+{
+ "brand": "jaguar",
+ "brandName": "Jaguar",
+ "engineSlug": "aj133",
+ "applicationSlug": "jaguar-xk-x150-5-0-v8-convertible-2009",
+ "engineCode": "AJ133",
+ "condition": "used",
+ "seo": {
+  "title": "Used Jaguar AJ133 5.0 V8 Engine — XK (X150) 5.0 V8 Convertible 2009-2014 | Engined",
+  "description": "Used AJ133 Jaguar 5.0 V8 engine for XK (X150) 5.0 V8 Convertible 2009-2014. £3,150 used, £5,220 reconditioned, 12-month warranty, UK delivery. Buy now.",
+  "canonical": "https://engined.co.uk/engines/aj133/jaguar-xk-x150-5-0-v8-convertible-2009/"
+ },
+ "hero": {
+  "title": "Used Jaguar AJ133 5.0 V8 Engine — XK (X150) 5.0 V8 Convertible 2009-2014",
+  "subtitle": "Used AJ133 engine for XK (X150) 5.0 V8 Convertible — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: AJ133-USED-XK-X150-5-0-V8-CONV",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £3,150",
+    "note": "12-month warranty",
+    "price": "£3,150.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £5,220",
+    "note": "12-month warranty",
+    "price": "£5,220.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Jaguar AJ133 5.0 V8 used engine for XK X150 Convertible 2009-2014, naturally aspirated",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJ133",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2009-2014",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X150",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/jaguar-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/jaguar-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jlr-aj133-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration in our reg checker to confirm this AJ133 engine fits your XK (X150) 5.0 V8 Convertible.",
+  "list": [
+   "XK X150 (5.0 V8 385 PS Convertible) 2009-2014"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Sump and timing cover"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this AJ133 engine now, or view the full AJ133 range for other applications.",
+  "crossLink": "← Back to all AJ133 engines"
+ }
+}

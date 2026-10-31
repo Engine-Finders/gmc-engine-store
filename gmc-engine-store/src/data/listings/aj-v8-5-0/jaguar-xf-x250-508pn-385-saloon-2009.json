@@ -1,0 +1,96 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "aj-v8-5-0",
+ "applicationSlug": "jaguar-xf-x250-508pn-385-saloon-2009",
+ "engineCode": "508PN",
+ "condition": "used",
+ "seo": {
+  "title": "Used 508PN 5.0 V8 Engine — Jaguar XF X250 (NA, 385hp) 2009–2011 | Engined",
+  "description": "Used 508PN 5.0 V8 engine now for Jaguar XF X250 2009–2011 NA 385hp. £3,595 with a 12-month warranty, UK delivery and tested before dispatch.",
+  "canonical": "https://engined.co.uk/engines/aj-v8-5-0/jaguar-xf-x250-508pn-385-saloon-2009/"
+ },
+ "hero": {
+  "title": "Used 508PN 5.0 V8 Engine — Jaguar XF X250 (NA, 385hp) 2009–2011",
+  "subtitle": "SUB — Used 508PN engine for Jaguar XF X250 2009–2011 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 508PN-USED-XF-385-0911",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £3,595",
+    "note": "12-month warranty",
+    "price": "£3,595.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £5,850",
+    "note": "12-month warranty",
+    "price": "£5,850.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used 508PN 5.0 V8 engine for Jaguar XF X250 2009–2011 NA 385hp — tested used unit.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "508PN",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2009–2011",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X250",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration to confirm this 508PN fits your Jaguar XF X250 2009–2011 before ordering.",
+  "list": [
+   "Jaguar XF X250 (5.0 V8 NA 385hp) 2009–2011"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Engine block and cylinder head",
+   "Sump and timing cover"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 508PN engine now, or view the full 508PN engine range for other applications.",
+  "crossLink": "← Back to all 508PN engines"
+ }
+}

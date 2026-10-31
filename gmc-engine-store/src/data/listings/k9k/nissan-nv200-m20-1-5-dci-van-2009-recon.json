@@ -1,0 +1,83 @@
+{
+ "brand": "nissan",
+ "brandName": "Nissan",
+ "engineSlug": "k9k",
+ "applicationSlug": "nissan-nv200-m20-1-5-dci-van-2009-recon",
+ "engineCode": "K9K",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned K9K Engine — NV200 M20 1.5 dCi | Engined",
+  "description": "Reconditioned K9K engine for Nissan NV200 M20 1.5 dCi van. Fixed price £985 used, £1,935 reconditioned. Tested, UK delivery & 12-month warranty.",
+  "canonical": "https://engined.co.uk/engines/k9k/nissan-nv200-m20-1-5-dci-van-2009-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned K9K Engine — Nissan NV200 M20 (1.5 dCi) Van 2009-2016",
+  "subtitle": "Reconditioned K9K engine for Nissan NV200 M20 and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: K9K-RECON-G1-NV200",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £985",
+    "note": "12-month warranty",
+    "price": "£985.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned K9K Engine — Nissan NV200 M20 (1.5 dCi) Van 2009-2016",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "K9K",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2009-2016",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "M20",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/renault-k9k-dci-diesel-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number in our checker above to confirm this K9K engine is the exact match for your vehicle.",
+  "list": [
+   "Nissan NV200 M20 (1.5 dCi) 2009-2016"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "VAT inclusive pricing",
+   "Secure, palletised UK delivery"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system components",
+   "Ancillaries (alternator, starter motor, etc.)",
+   "Fitting and installation",
+   "ECU remapping or coding"
+  ]
+ },
+ "cta": {
+  "line": "Buy this K9K engine now, or view the full K9K engine range for other applications.",
+  "crossLink": "← Back to all K9K engines"
+ }
+}

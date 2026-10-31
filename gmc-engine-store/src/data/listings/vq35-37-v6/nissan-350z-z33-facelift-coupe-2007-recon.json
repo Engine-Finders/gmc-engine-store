@@ -1,0 +1,82 @@
+{
+ "brand": "nissan",
+ "brandName": "Nissan",
+ "engineSlug": "vq35-37-v6",
+ "applicationSlug": "nissan-350z-z33-facelift-coupe-2007-recon",
+ "engineCode": "VQ35HR",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned Nissan VQ35HR Engine — Nissan 350Z Z33 (Facelift) Coupe 2007-2008 | Engined",
+  "description": "Reconditioned VQ35HR engine for Nissan 350Z Z33 Facelift. Fixed price £2,525 (Used) or £3,445 (Recon). Tested, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/vq35-37-v6/nissan-350z-z33-facelift-coupe-2007-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned Nissan VQ35HR Engine — Nissan 350Z Z33 (Facelift) Coupe 2007-2008",
+  "subtitle": "Reconditioned VQ35HR engine for Nissan 350Z Z33 Facelift and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: VQ35-USED-350Z-Z33-HR",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,525",
+    "note": "12-month warranty",
+    "price": "£2,525.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "VQ35HR reconditioned engine for Nissan 350Z Z33 Facelift, longitudinal 3.5L V6 HR unit, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "VQ35HR",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2007-2008",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Z33",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/nissan-nissan-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number above to confirm this VQ35HR engine fits your vehicle before ordering.",
+  "list": [
+   "Nissan 350Z Z33 (Facelift 3.5L V6 HR) 2007-2008"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "VAT included",
+   "Free UK delivery"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this VQ35HR engine now, or view the full VQ35/37 V6 engine range for other applications.",
+  "crossLink": "← Back to all VQ35/37 V6 engines"
+ }
+}

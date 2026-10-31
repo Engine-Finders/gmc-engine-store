@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "m275-m279",
+ "applicationSlug": "mercedes-s-class-w221-m279-612-prefl-saloon-2006-recon",
+ "engineCode": "M279",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned M279 6.0 V12 Engine — S-Class W221 (S65 AMG, 612 PS) Pre-FL 2006–2009 | Engined",
+  "description": "Reconditioned M279 6.0 V12 engine for Mercedes S-Class W221 S65 AMG Saloon. Fixed price £16,500, tested before dispatch, 12-month warranty & UK delivery.",
+  "canonical": "https://engined.co.uk/engines/m275-m279/mercedes-s-class-w221-m279-612-prefl-saloon-2006-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned M279 6.0 V12 Engine — S-Class W221 (S65 AMG, 612 PS) Pre-FL 2006–2009",
+  "subtitle": "Reconditioned M279 engine for S-Class W221 S65 AMG Saloon — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M279-RECON-W221-S65-PREFL",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £16,500",
+    "note": "12-month warranty",
+    "price": "£16,500.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned M279 6.0L V12 Biturbo engine for Mercedes S-Class W221 S65 AMG, complete assembly.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M279",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2006–2009",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W221",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-mercedes-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number above to confirm this reconditioned M279 engine is an exact match for your vehicle.",
+  "list": [
+   "S-Class W221 Saloon (S65 AMG 612 PS) 2006–2009"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Compression tested",
+   "Fully reconditioned to Group 3 standard"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M279 engine now, or view the full M279 engine range for other applications.",
+  "crossLink": "← Back to all M279 engines"
+ }
+}

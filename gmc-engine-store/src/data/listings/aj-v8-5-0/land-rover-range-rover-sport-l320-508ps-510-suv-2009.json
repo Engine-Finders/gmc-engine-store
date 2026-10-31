@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "aj-v8-5-0",
+ "applicationSlug": "land-rover-range-rover-sport-l320-508ps-510-suv-2009",
+ "engineCode": "508PS",
+ "condition": "used",
+ "seo": {
+  "title": "Used 508PS 5.0 V8 Engine — Range Rover Sport L320 (SC, 510hp) 2009–2013",
+  "description": "Used 508PS engine for Range Rover Sport L320 (2009-13). Fixed price £5,545, tested before dispatch, UK delivery and 12-month warranty.",
+  "canonical": "https://engined.co.uk/engines/aj-v8-5-0/land-rover-range-rover-sport-l320-508ps-510-suv-2009/"
+ },
+ "hero": {
+  "title": "Used 508PS 5.0 V8 Engine — Range Rover Sport L320 (SC, 510hp) 2009–2013",
+  "subtitle": "Used 508PS engine for Range Rover Sport L320 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 508PS-USED-L320-510-0913",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £5,545",
+    "note": "12-month warranty",
+    "price": "£5,545.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used 508PS 5.0 V8 supercharged engine for Range Rover Sport L320 (2009–2013), tested and ready for dispatch",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "508PS",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2009-2013",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L320",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Will a 508PN NA engine fit my L320 SC? — No, SC uses 508PS supercharged. Confirm L320. Enter your registration above to confirm exact fitment.",
+  "list": [
+   "Range Rover Sport L320 (2009–2013) — SUV, 5.0 V8 SC 510hp"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Clean, drained, and sealed for transport",
+   "OEM-spec internal components"
+  ],
+  "excluded": [
+   "Turbocharger / supercharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 508PS engine now, or view the full 508PS range for other applications.",
+  "crossLink": "← Back to all 508PS engines"
+ }
+}

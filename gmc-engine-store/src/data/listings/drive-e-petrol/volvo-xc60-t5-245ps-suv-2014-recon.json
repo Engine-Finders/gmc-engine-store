@@ -1,0 +1,83 @@
+{
+ "brand": "volvo",
+ "brandName": "Volvo",
+ "engineSlug": "drive-e-petrol",
+ "applicationSlug": "volvo-xc60-t5-245ps-suv-2014-recon",
+ "engineCode": "B4204T11",
+ "condition": "recon",
+ "seo": {
+  "title": "Recon Drive-E XC60 T5 | Engined",
+  "description": "B4204T11 reconditioned engine for Volvo XC60 T5 245 PS SUV. 2.0L petrol, 2014-2017. £2,895 with 12-month warranty. Tested before dispatch, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/drive-e-petrol/volvo-xc60-t5-245ps-suv-2014-recon/"
+ },
+ "hero": {
+  "title": "Recon Drive-E XC60 T5",
+  "subtitle": "Reconditioned B4204T11 engine for Volvo XC60 T5 245 PS SUV — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: DRIVEE-RECON-XC60-T5-SUV-12M",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,895",
+    "note": "12-month warranty",
+    "price": "£2,895.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "B4204T11 reconditioned Volvo XC60 T5 2.0L 245 PS SUV petrol engine, rebuilt and prepared for fitting.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "B4204T11",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2014-2017",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "P3",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration with our reg checker to confirm this reconditioned B4204T11 engine fits your Volvo XC60 T5 SUV.",
+  "list": [
+   "Volvo XC60 P3 (2.0 T5 245 PS B4204T11 SUV) 2014-2017"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil sump and timing chain included",
+   "Cylinder head and block inspected"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this B4204T11 engine now, or view the full B4204T11 engine range for other applications.",
+  "crossLink": "← Back to all B4204T11 engines"
+ }
+}

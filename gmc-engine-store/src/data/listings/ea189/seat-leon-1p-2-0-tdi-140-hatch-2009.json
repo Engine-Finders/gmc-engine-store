@@ -1,0 +1,83 @@
+{
+ "brand": "seat",
+ "brandName": "Seat",
+ "engineSlug": "ea189",
+ "applicationSlug": "seat-leon-1p-2-0-tdi-140-hatch-2009",
+ "engineCode": "EA189",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned VW EA189 Engine — SEAT Leon 1P (2.0 TDI 140 PS) Hatchback 2009-2012",
+  "description": "Reconditioned VW EA189 2.0 TDI diesel engine for SEAT Leon 1P 140 PS hatchback (2009–2012). Used from £1,165 with 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/ea189/seat-leon-1p-2-0-tdi-140-hatch-2009/"
+ },
+ "hero": {
+  "title": "Reconditioned VW EA189 Engine — SEAT Leon 1P (2.0 TDI 140 PS) Hatchback 2009-2012",
+  "subtitle": "Reconditioned EA189 engine for SEAT Leon 1P — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA189-RECON-LEON-1P-140",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,935",
+    "note": "12-month warranty",
+    "price": "£1,935.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned VW EA189 2.0 TDI diesel engine for SEAT Leon 1P 140 PS hatchback, transverse mount.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA189",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2009–2012",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "1P",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "The EA189 fits the SEAT Leon 1P 2009–2012 with 2.0 TDI 140 PS — confirm your Leon's reg through our checker before ordering.",
+  "list": [
+   "SEAT Leon 1P (2.0 TDI 140 PS) 2009–2012"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (block, head, sump and covers)",
+   "Fully stripped, inspected and rebuilt to OE specification",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New gaskets, seals and timing components"
+  ],
+  "excluded": [
+   "Turbocharger (reused where reusable, per condition)",
+   "Injectors / fuel system components",
+   "Ancillaries (alternator, starter, pumps, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA189 engine now, or view the full EA189 engine range for other applications.",
+  "crossLink": "← Back to all EA189 engines"
+ }
+}

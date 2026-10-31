@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "m274",
+ "applicationSlug": "infiniti-q50-m274-2.0t-saloon-2014",
+ "engineCode": "M274",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned M274 2.0T Engine — Infiniti Q50 (2.0t, Longitudinal) 2014–2018",
+  "description": "Reconditioned M274 engine for Infiniti Q50 Saloon 2.0t (Longitudinal). Fixed price £2,695, tested before dispatch, UK delivery, 12-month warranty.",
+  "canonical": "https://engined.co.uk/engines/m274/infiniti-q50-m274-2.0t-saloon-2014/"
+ },
+ "hero": {
+  "title": "Reconditioned M274 2.0T Engine — Infiniti Q50 (2.0t, Longitudinal) 2014–2018",
+  "subtitle": "Reconditioned M274 engine for Infiniti Q50 Saloon 2.0t and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M274-RECON-Q50",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,695",
+    "note": "12-month warranty",
+    "price": "£2,695.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned M274 engine for Infiniti Q50 Saloon 2.0t longitudinal, complete assembly, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M274",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2014–2018",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Q50",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-m274-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number in our checker above to confirm this M274 engine fits your Infiniti Q50.",
+  "list": [
+   "Infiniti Q50 Saloon (2.0t, Longitudinal) 2014–2018"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Renewed timing chain",
+   "OEM-spec gaskets and seals"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M274 engine now, or view the full M274 engine range for other applications.",
+  "crossLink": "← Back to all M274 engines"
+ }
+}

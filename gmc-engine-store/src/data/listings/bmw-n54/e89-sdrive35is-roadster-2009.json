@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n54",
+ "applicationSlug": "e89-sdrive35is-roadster-2009",
+ "engineCode": "N54",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW N54 Engine — Z4 E89 (sDrive35is) Roadster 2009‑2016",
+  "description": "Used BMW N54 engine for Z4 E89 sDrive35is Roadster 2009-2016, 340 PS. Fixed £2,990, tested before dispatch, 12-month warranty, fast UK delivery.",
+  "canonical": "https://engined.co.uk/engines/bmw-n54/e89-sdrive35is-roadster-2009/"
+ },
+ "hero": {
+  "title": "Used BMW N54 Engine — Z4 E89 (sDrive35is) Roadster 2009‑2016",
+  "subtitle": "SUB — Used N54 engine for BMW Z4 E89 sDrive35is Roadster — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N54-USED-E89-SDRIVE35IS",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,990",
+    "note": "12-month warranty",
+    "price": "£2,990.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW N54 engine for Z4 E89 sDrive35is Roadster 2009-2016, 340 PS high-output, tested",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N54",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2009‑2016",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E89",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-n54-n55-n20-family-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration to confirm fitment before purchase — this N54 engine is listed for the following BMW Z4 applications.",
+  "list": [
+   "BMW Z4 E89 (sDrive35is 340 PS Roadster) 2009‑2016"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "Warranty as standard",
+   "Cylinder head and block",
+   "Sump and timing cover"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N54 engine now, or view the full N54 engine range for other applications.",
+  "crossLink": "← Back to all N54 engines"
+ }
+}

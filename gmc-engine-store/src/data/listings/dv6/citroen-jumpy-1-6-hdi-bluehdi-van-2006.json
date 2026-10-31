@@ -1,0 +1,90 @@
+{
+ "brand": "citroen",
+ "brandName": "Citroen",
+ "engineSlug": "dv6",
+ "applicationSlug": "citroen-jumpy-1-6-hdi-bluehdi-van-2006",
+ "engineCode": "DV6",
+ "condition": "used",
+ "seo": {
+  "title": "Used Citroën DV6 Engine — Jumpy (1.6 HDi/BlueHDi) Van 2006-present",
+  "description": "DV6 · used · Citroën Jumpy/Dispatch Van 1.6 HDi/BlueHDi · longitudinal mount · £1,300 · 12-month warranty · UK delivery",
+  "canonical": "https://engined.co.uk/engines/dv6/citroen-jumpy-1-6-hdi-bluehdi-van-2006/"
+ },
+ "hero": {
+  "title": "Used Citroën DV6 Engine — Jumpy (1.6 HDi/BlueHDi) Van 2006-present",
+  "subtitle": "Used DV6 diesel engine for Citroën Jumpy and Dispatch Van 1.6 HDi and BlueHDi — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: DV6-USED-CITROEN-JUMPY-HDI-VAN",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,300",
+    "note": "12-month warranty",
+    "price": "£1,300.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,100",
+    "note": "12-month warranty",
+    "price": "£2,100.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Citroën DV6 1.6 HDi/BlueHDi engine for Jumpy Van 2006-present — tested longitudinal diesel unit",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "DV6",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2006-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Citroën Jumpy Van (2006-present), Citroën Dispatch Van (2006-present)",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/citroen-psa-dv6-1-6-hdi-diesel-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your vehicle's compatibility below — use our reg-checker to confirm this DV6 engine matches your Citroën Jumpy exactly.",
+  "list": [
+   "Citroën Jumpy Van (2006-present) — 1.6 HDi / BlueHDi",
+   "Citroën Dispatch Van (2006-present) — 1.6 HDi / BlueHDi"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Comprehensive inspection report",
+   "Oil and filter service",
+   "UK mainland delivery"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this DV6 engine now, or view the full DV6 engine range for other applications.",
+  "crossLink": "← Back to all DV6 engines"
+ }
+}

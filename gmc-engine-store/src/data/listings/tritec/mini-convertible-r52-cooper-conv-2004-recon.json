@@ -1,0 +1,82 @@
+{
+ "brand": "mini",
+ "brandName": "Mini",
+ "engineSlug": "tritec",
+ "applicationSlug": "mini-convertible-r52-cooper-conv-2004-recon",
+ "engineCode": "TRITEC",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned MINI Tritec Engine — MINI Convertible R52 (Cooper) Convertible 2004-2007 | Engined",
+  "description": "Reconditioned Tritec engine for MINI Convertible R52 Cooper 2004–2007. Used price £750, fully tested before dispatch, 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/tritec/mini-convertible-r52-cooper-conv-2004-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned MINI Tritec Engine — MINI Convertible R52 (Cooper) Convertible 2004-2007",
+  "subtitle": "Reconditioned Tritec engine for MINI Convertible R52 Cooper 2004–2007 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: TRITEC-RECON-R52-COOPER-CONV",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,500",
+    "note": "12-month warranty",
+    "price": "£1,500.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned Tritec 1.6 petrol engine for MINI Convertible R52 Cooper, naturally aspirated 115 PS, transverse mount",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "Tritec",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2004–2007",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "R52",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/mini-mini-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration to confirm fitment — the R50 Hatch and R52 Convertible share the same transverse Tritec mounting and ancillaries, so matching the engine code is enough.",
+  "list": [
+   "MINI Convertible R52 (Cooper, 1.6 petrol, 115 PS) 2004–2007"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly, ready to fit",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block fully assembled",
+   "Sump and rocker cover included"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this Tritec engine now, or view the full Tritec engine range for other applications.",
+  "crossLink": "← Back to all Tritec engines"
+ }
+}

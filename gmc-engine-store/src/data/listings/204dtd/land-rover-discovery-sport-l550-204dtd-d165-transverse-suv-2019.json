@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "204dtd",
+ "applicationSlug": "land-rover-discovery-sport-l550-204dtd-d165-transverse-suv-2019",
+ "engineCode": "204DTD",
+ "condition": "used",
+ "seo": {
+  "title": "Used 204DTD 2.0 Diesel Engine — Discovery Sport L550 (D165, Transverse) 2019–present | Engined",
+  "description": "Used 204DTD 2.0 diesel engine for Discovery Sport L550 D165 transverse 2019–present. £2,395, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/204dtd/land-rover-discovery-sport-l550-204dtd-d165-transverse-suv-2019/"
+ },
+ "hero": {
+  "title": "Used 204DTD 2.0 Diesel Engine — Discovery Sport L550 (D165, Transverse) 2019–present",
+  "subtitle": "Used 204DTD engine for Discovery Sport L550 (D165, Transverse) — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 204DTD-USED-DISCO-D165-2019",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,395",
+    "note": "12-month warranty",
+    "price": "£2,395.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Land Rover 204DTD 2.0 diesel engine for Discovery Sport L550 D165 transverse 2019–present",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "204DTD",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2019–present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L550",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your reg before buying — this used 204DTD 2.0 diesel engine fits the Discovery Sport L550 applications listed below.",
+  "list": [
+   "Discovery Sport L550 (2.0 Ingenium D165 — Transverse — 204DTD engine code) 2019–present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Sump and timing cover"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 204DTD engine now, or view the full 204DTD engine range.",
+  "crossLink": "← Back to all 204DTD engines"
+ }
+}

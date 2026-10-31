@@ -1,0 +1,83 @@
+{
+ "brand": "seat",
+ "brandName": "Seat",
+ "engineSlug": "ea888",
+ "applicationSlug": "seat-tarraco-cupra-310-suv-2019",
+ "engineCode": "EA888",
+ "condition": "used",
+ "seo": {
+  "title": "Used VW EA888 Engine — SEAT Tarraco (Cupra 310) SUV 2019-Present | Engined",
+  "description": "Used EA888 engine for SEAT Tarraco Cupra 310 (2.0 TSI, 310 PS), 2019-present. Used £3,445, reconditioned £4,595. 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/ea888/seat-tarraco-cupra-310-suv-2019/"
+ },
+ "hero": {
+  "title": "Used VW EA888 Engine — SEAT Tarraco (Cupra 310) SUV 2019-Present",
+  "subtitle": "Used EA888 engine for SEAT Tarraco Cupra 310 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA888-USED-TARRACO-CUPRA310",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £3,445",
+    "note": "12-month warranty",
+    "price": "£3,445.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "EA888 2.0 TSI 310 PS used engine for SEAT Tarraco Cupra SUV, transverse-mounted turbo petrol",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA888",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2019-Present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Tarraco",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration to confirm this EA888 fits your SEAT Tarraco — every application listed is matched by chassis and engine code.",
+  "list": [
+   "SEAT Tarraco (Cupra 310, 2.0 TSI, 310 PS) 2019-present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Engine code and chassis match confirmed before dispatch",
+   "Delivery across the UK"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA888 engine now, or view the full EA888 range for other applications.",
+  "crossLink": "← Back to all EA888 engines"
+ }
+}

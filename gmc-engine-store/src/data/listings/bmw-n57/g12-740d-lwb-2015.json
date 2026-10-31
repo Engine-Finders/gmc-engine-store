@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n57",
+ "applicationSlug": "g12-740d-lwb-2015",
+ "engineCode": "N57",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW N57 Engine — 7 Series G12 (740d) Saloon LWB 2015-2020",
+  "description": "Used N57 engine for BMW 7 Series G12 740d Saloon LWB. £3,255 with 12-month warranty and UK delivery. Tested before dispatch, in stock, ready to ship.",
+  "canonical": "https://engined.co.uk/engines/bmw-n57/g12-740d-lwb-2015/"
+ },
+ "hero": {
+  "title": "Used BMW N57 Engine — 7 Series G12 (740d) Saloon LWB 2015-2020",
+  "subtitle": "Used N57 engine for BMW 7 Series G12 740d LWB — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N57-USED-G12-740D",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £3,255",
+    "note": "12-month warranty",
+    "price": "£3,255.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW N57 engine for G12 740d LWB 2015-2020, 3.0 twin-turbo diesel 313 PS, tested ready for UK delivery",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N57",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2015-2020",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "G12",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-n57-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your registration with our reg checker before ordering to ensure this N57 G12 740d LWB engine matches your BMW.",
+  "list": [
+   "BMW 7 Series G12 (740d 313 PS Saloon LWB) 2015-2020"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head, block, crankshaft, pistons and bearings",
+   "Sump, timing covers and rocker cover"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N57 engine now, or view full N57 engine range for other applications.",
+  "crossLink": "← Back to all N57 engines"
+ }
+}

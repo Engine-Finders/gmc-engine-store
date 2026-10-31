@@ -1,0 +1,82 @@
+{
+ "brand": "mini",
+ "brandName": "Mini",
+ "engineSlug": "n20",
+ "applicationSlug": "mini-countryman-r60-jcw-suv-2011-recon",
+ "engineCode": "N20",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned BMW N20 Engine — MINI Countryman R60 (JCW) SUV 2011-2016",
+  "description": "BMW N20 reconditioned engine for MINI Countryman R60 JCW, 2.0 turbo petrol 211 PS. Used from £2,295 with 12-month warranty and UK delivery today.",
+  "canonical": "https://engined.co.uk/engines/n20/mini-countryman-r60-jcw-suv-2011-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW N20 Engine — MINI Countryman R60 (JCW) SUV 2011-2016",
+  "subtitle": "Reconditioned N20 engine for MINI Countryman R60 JCW and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N20-RECON-R60-JCW-SUV",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,295",
+    "note": "12-month warranty",
+    "price": "£2,295.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "BMW N20 recon engine for MINI Countryman R60 JCW SUV, transverse 2.0 turbo petrol, 211 PS.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N20",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2011–2016",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "R60",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/mini-mini-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your registration with our reg checker before ordering to ensure this N20 engine matches your MINI Countryman R60 JCW.",
+  "list": [
+   "MINI Countryman R60 (JCW, 2.0 turbo petrol, 211 PS) 2011–2016"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Sump and timing covers"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N20 engine now, or view the full N20 engine range for other applications.",
+  "crossLink": "← Back to all N20 engines"
+ }
+}

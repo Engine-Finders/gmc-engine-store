@@ -1,0 +1,96 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "b58",
+ "applicationSlug": "bmw-4-series-g23-m440i-convertible-2020-recon",
+ "engineCode": "B58",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned BMW B58 Engine — 4 Series G23 M440i Convertible | Engined",
+  "description": "BMW B58 · Reconditioned · Fits 4 Series G23 M440i, 1 Series M140i, 2 Series M240i, 3 Series M340i — £7,475. 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/b58/bmw-4-series-g23-m440i-convertible-2020-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW B58 Engine — 4 Series G23 (M440i) Convertible 2020-present",
+  "subtitle": "Reconditioned B58 engine for 4 Series G23 M440i, M140i, M240i, 340i, Z4 and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: B58-RECON-G23-M440I",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £7,475",
+    "note": "12-month warranty",
+    "price": "£7,475.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "BMW B58 engine for 4 Series G23 M440i Convertible — reconditioned 3.0-litre M Performance unit",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "B58",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2020-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "G23",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-b58-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "This reconditioned BMW B58 engine is confirmed to fit the applications listed below. Use our registration checker to confirm compatibility with your specific vehicle.",
+  "list": [
+   "1 Series M140i",
+   "2 Series M240i",
+   "3 Series 340i/M340i",
+   "4 Series 440i/M440i",
+   "4 Series Convertible (G23) 2020-present — M440i (374 hp)",
+   "Z4"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Full inspection and compression test",
+   "Drained and flushed",
+   "UK delivery included"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries (alternator, starter, AC compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this B58 engine now, or view the full B58 engine range for other applications.",
+  "crossLink": "← Back to all B58 engines"
+ }
+}

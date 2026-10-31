@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n57",
+ "applicationSlug": "f20-118d-5dr-hatch-2015",
+ "engineCode": "N57",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW N57 Engine — 1 Series F20 (118d) 5‑dr Hatch 2015‑2019",
+  "description": "Used N57 engine for BMW 1 Series F20 118d 5-door Hatch 2015-2019. £2,395 with 12-month warranty and UK delivery. Tested before dispatch, in stock.",
+  "canonical": "https://engined.co.uk/engines/bmw-n57/f20-118d-5dr-hatch-2015/"
+ },
+ "hero": {
+  "title": "Used BMW N57 Engine — 1 Series F20 (118d) 5‑dr Hatch 2015‑2019",
+  "subtitle": "Used N57 engine for BMW 1 Series F20 118d 5-door Hatch — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N57-USED-F20-118D-FL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,395",
+    "note": "12-month warranty",
+    "price": "£2,395.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW N57 engine for F20 118d 5-door Hatch 2015-2019, 184 PS diesel, tested and ready for UK delivery",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N57",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2015-2019",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F20",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-n57-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your registration with our reg checker before ordering to ensure this N57 F20 118d engine matches your BMW.",
+  "list": [
+   "BMW 1 Series F20 (118d 184 PS 5-door Hatchback) 2015-2019"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head, block, crankshaft, pistons and bearings",
+   "Sump, timing covers and rocker cover"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N57 engine now, or view the N57 engine range for other applications.",
+  "crossLink": "← Back to all N57 engines"
+ }
+}

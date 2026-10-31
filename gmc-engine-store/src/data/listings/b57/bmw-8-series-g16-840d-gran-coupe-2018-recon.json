@@ -1,0 +1,91 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "b57",
+ "applicationSlug": "bmw-8-series-g16-840d-gran-coupe-2018-recon",
+ "engineCode": "B57",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned BMW B57 Engine — 8 Series G16 840d Gran Coupé",
+  "description": "Reconditioned BMW B57 3.0L diesel engine for 8 Series G16 840d Gran Coupé (2018+). 320hp twin-turbo. £5,550 with 12-month warranty. UK delivery.",
+  "canonical": "https://engined.co.uk/engines/b57/bmw-8-series-g16-840d-gran-coupe-2018-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW B57 Engine — 8 Series G16 (840d) Gran Coupé 2018-present",
+  "subtitle": "Reconditioned BMW B57 3.0L diesel engine for 8 Series G16 840d Gran Coupé (320hp) — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: B57-RECON-8SERIES-G16-840D-GRANCOUPE",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £5,550",
+    "note": "12-month warranty",
+    "price": "£5,550.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned BMW B57 3.0L diesel engine for 8 Series G16 840d Gran Coupé, 320hp twin-turbo grand tourer variant",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "B57",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2018-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "G16",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-b57-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check compatibility by entering your registration for instant confirmation, or review the models this engine fits below.",
+  "list": [
+   "8 Series Gran Coupé (G16) 2018-present — 840d (320 hp)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Full diagnostic report",
+   "Oil and filter service completed",
+   "Compression and leak-down test verified"
+  ],
+  "excluded": [
+   "Turbocharger (reusable from your original engine)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, air conditioning compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this BMW B57 3.0L diesel engine now, or view the full B57 engine range for other applications.",
+  "crossLink": "← Back to all B57 engines"
+ }
+}

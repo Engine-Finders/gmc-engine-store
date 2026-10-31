@@ -1,0 +1,83 @@
+{
+ "brand": "suzuki",
+ "brandName": "Suzuki",
+ "engineSlug": "boosterjet",
+ "applicationSlug": "suzuki-vitara-1-4-boosterjet-hybrid-suv-2020",
+ "engineCode": "K14D",
+ "condition": "used",
+ "seo": {
+  "title": "Used Suzuki K14D Engine — Vitara (1.4 Boosterjet 48V Hybrid) SUV 2020-Present | Engined",
+  "description": "Used Suzuki K14D (1.4 Boosterjet 48V Hybrid) engine for Vitara LY SUV, 2020-present, AllGrip. Fixed £1,075, tested before dispatch, 12-month warranty.",
+  "canonical": "https://engined.co.uk/engines/boosterjet/suzuki-vitara-1-4-boosterjet-hybrid-suv-2020/"
+ },
+ "hero": {
+  "title": "Used Suzuki K14D Engine — Vitara (1.4 Boosterjet 48V Hybrid) SUV 2020-Present",
+  "subtitle": "Used K14D engine for Suzuki Vitara LY 1.4 Boosterjet 48V Hybrid — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: K14D-USED-VITARA",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,075",
+    "note": "12-month warranty",
+    "price": "£1,075.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Suzuki K14D 1.4 Boosterjet 48V Hybrid turbo petrol engine for Vitara LY SUV, AllGrip, 2020 onwards",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "K14D",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2020-Present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "LY",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your registration with our reg checker to ensure this K14D engine fits your Suzuki Vitara LY 1.4 Boosterjet 48V Hybrid.",
+  "list": [
+   "Suzuki Vitara LY (1.4 Boosterjet 48V Hybrid 129 PS, AllGrip) 2020-Present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Compression tested with documented results",
+   "Cleaned, inspected and sealed ready for fitment"
+  ],
+  "excluded": [
+   "Turbocharger (reused from your original where serviceable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (starter, alternator, air-con compressor, sensors)",
+   "Fitting and installation labour"
+  ]
+ },
+ "cta": {
+  "line": "Buy this K14D engine now, or view the full K14D engine range for other applications.",
+  "crossLink": "← Back to all K14D engines"
+ }
+}

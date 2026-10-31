@@ -1,0 +1,91 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "b48",
+ "applicationSlug": "bmw-2-series-f23-220i-convertible-2014",
+ "engineCode": "B48",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW B48 Engine — 2 Series F23 (220i) Convertible 2014-2021",
+  "description": "B48 · Used · 2 Series Convertible F23 220i (184 hp) · £2,200 · 12-month warranty · UK delivery",
+  "canonical": "https://engined.co.uk/engines/b48/bmw-2-series-f23-220i-convertible-2014/"
+ },
+ "hero": {
+  "title": "Used BMW B48 Engine — 2 Series F23 (220i) Convertible 2014-2021",
+  "subtitle": "Used B48 engine for 2 Series Convertible F23 220i (184 hp) — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: B48-USED-F23-220I",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,200",
+    "note": "12-month warranty",
+    "price": "£2,200.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "BMW B48 used engine for 2 Series Convertible F23 220i 184hp — complete assembly tested",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "B48",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2014-2021",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F23",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-b48-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "This B48 engine fits the following BMW vehicles. Enter your registration for instant fitment confirmation.",
+  "list": [
+   "2 Series Convertible (F23) 2014-2021 — 220i (184 hp)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Full diagnostic report",
+   "Delivery within UK",
+   "Installation guide"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries (alternator, starter motor, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this B48 engine now, or view the full B48 engine range for other applications.",
+  "crossLink": "← Back to all B48 engines"
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "brand": "volkswagen",
+ "brandName": "Volkswagen",
+ "engineSlug": "1-0-mpi",
+ "applicationSlug": "vw-polo-80ps-hatchback-2014-recon",
+ "engineCode": "EA211",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned 1.0 MPI Engine — VW Polo (80 PS) Hatchback 2014-present | Engined",
+  "description": "Reconditioned EA211 1.0 MPI engine for VW Polo 80 PS (DAFA) Hatchback 2014-present. Fixed £1,600, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/1-0-mpi/vw-polo-80ps-hatchback-2014-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned 1.0 MPI Engine — VW Polo (80 PS) Hatchback 2014-present",
+  "subtitle": "Reconditioned EA211 engine for VW Polo 80 PS (DAFA) Hatchback — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: MPI-RECON-POLO-80-HATCH-12M",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,600",
+    "note": "12-month warranty",
+    "price": "£1,600.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned EA211 1.0 MPI 80 PS DAFA engine for VW Polo Hatchback 2014-present.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA211",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2014-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "VI",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/volkswagen-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/volkswagen-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/volkswagen-vw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our reg checker or confirm engine code DAFA before ordering — this reconditioned EA211 1.0 MPI engine fits the VW Polo listed below.",
+  "list": [
+   "VW Polo VI (1.0 MPI 80 PS (DAFA) — Hatchback) 2014-present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Sump and timing cover"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA211 engine now, or view the full EA211 range for other applications.",
+  "crossLink": "← Back to all EA211 engines"
+ }
+}

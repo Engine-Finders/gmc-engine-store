@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "m57",
+ "applicationSlug": "bmw-e39-530d-m57-193-manual-estate-2000",
+ "engineCode": "M57",
+ "condition": "used",
+ "seo": {
+  "title": "PENDING — M57 3.0 Engine — BMW E39 530d Touring (Manual, 193 PS) 2000–2003 | Engined",
+  "description": "Used and Reconditioned M57 3.0 engine for BMW E39 530d Touring. Fixed price £1,450, tested before dispatch, UK delivery & 12-month warranty included.",
+  "canonical": "https://engined.co.uk/engines/m57/bmw-e39-530d-m57-193-manual-estate-2000/"
+ },
+ "hero": {
+  "title": "PENDING — M57 3.0 Engine — BMW E39 530d Touring (Manual, 193 PS) 2000–2003",
+  "subtitle": "Used and Reconditioned M57 engine for BMW E39 530d Touring — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M57-PEND-E39-530D-TOUR-0003",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,450",
+    "note": "12-month warranty",
+    "price": "£1,450.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "PENDING — M57 3.0 Engine — BMW E39 530d Touring (Manual, 193 PS) 2000–2003",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M57",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2000–2003",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E39",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number above to confirm this M57 engine fits your BMW E39 530d Touring before you buy.",
+  "list": [
+   "BMW E39 530d Touring (M57 193 PS Manual) 2000–2003"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Fully cleaned and inspected",
+   "Ready to bolt in"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M57 engine now, or view the full M57 engine range for other applications.",
+  "crossLink": "← Back to all M57 engines"
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "brand": "volkswagen",
+ "brandName": "Volkswagen",
+ "engineSlug": "1-0-mpi",
+ "applicationSlug": "skoda-fabia-75ps-hatchback-2015-recon",
+ "engineCode": "EA211",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned 1.0 MPI Engine — Škoda Fabia (75 PS) Hatchback 2015-present | Engined",
+  "description": "EA211 reconditioned 1.0 MPI engine for the Škoda Fabia NJ hatchback, 75 PS. Fixed price £1,500, tested before dispatch, 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/1-0-mpi/skoda-fabia-75ps-hatchback-2015-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned 1.0 MPI Engine — Škoda Fabia (75 PS) Hatchback 2015-present",
+  "subtitle": "Reconditioned EA211 engine for the Škoda Fabia NJ hatchback — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: MPI-RECON-FABIA-75-HATCH-12M",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,500",
+    "note": "12-month warranty",
+    "price": "£1,500.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "EA211 1.0 MPI reconditioned engine, Škoda Fabia NJ hatchback 75 PS, 2015 on, three-cylinder petrol",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA211",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2015–present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "NJ",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/volkswagen-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/volkswagen-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/volkswagen-vw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your registration with our reg checker before ordering — this listing covers the applications below.",
+  "list": [
+   "Škoda Fabia NJ (1.0 MPI 75 PS) 2015–present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Free UK delivery",
+   "14-day returns"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA211 engine now, or view the full EA211 engine range for other applications.",
+  "crossLink": "← Back to all EA211 engines"
+ }
+}

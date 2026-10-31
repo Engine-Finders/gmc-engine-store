@@ -1,0 +1,83 @@
+{
+ "brand": "renault",
+ "brandName": "Renault",
+ "engineSlug": "m9t",
+ "applicationSlug": "mercedes-x-class-w470-x220d-pickup-2017",
+ "engineCode": "M9T",
+ "condition": "used",
+ "seo": {
+  "title": "Used Renault M9T Engine — Mercedes X‑Class W470 (X220d) Pickup 2017-2020",
+  "description": "Used Renault M9T engine for Mercedes X‑Class W470 (X220d). £2,695 with 12-month warranty and UK delivery. Tested before dispatch. OM699 variant.",
+  "canonical": "https://engined.co.uk/engines/m9t/mercedes-x-class-w470-x220d-pickup-2017/"
+ },
+ "hero": {
+  "title": "Used Renault M9T Engine — Mercedes X‑Class W470 (X220d) Pickup 2017-2020",
+  "subtitle": "Used M9T engine for Mercedes X-Class W470 X220d — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M9T-USED-XCLASS-163",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,695",
+    "note": "12-month warranty",
+    "price": "£2,695.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Renault M9T 2.3 dCi 163 PS engine for Mercedes X-Class W470 X220d pickup, single-turbo, tested.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M9T",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2017–2020",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W470",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration to confirm this used M9T engine fits your Mercedes X-Class W470 before you buy.",
+  "list": [
+   "Mercedes X-Class W470 (X220d 2.3 dCi 163 PS, code OM699) 2017–2020"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Sump and timing cover"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M9T engine now, or view the full M9T engine range for other applications.",
+  "crossLink": "← Back to all M9T engines — https://engined.co.uk/engines/m9t/"
+ }
+}

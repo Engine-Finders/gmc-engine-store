@@ -1,0 +1,96 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "s65",
+ "applicationSlug": "bmw-e90-m3-lci-saloon-2009-2",
+ "engineCode": "S65",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW S65 4.0 V8 Engine — E90 M3 LCI Saloon (420 PS) 2009–2011",
+  "description": "Used BMW S65 4.0 V8 engine for the E90 M3 LCI Saloon (420 PS, 2009–2011). Tested before dispatch, 12-month warranty and UK delivery. £3,500 fixed price.",
+  "canonical": "https://engined.co.uk/engines/s65/bmw-e90-m3-lci-saloon-2009/"
+ },
+ "hero": {
+  "title": "Used BMW S65 4.0 V8 Engine — E90 M3 LCI Saloon (420 PS) 2009–2011",
+  "subtitle": "Used S65 engine for the E90 M3 LCI Saloon (420 PS) — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: S65-USED-E90-M3LCI",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £3,500",
+    "note": "12-month warranty",
+    "price": "£3,500.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £6,000",
+    "note": "12-month warranty",
+    "price": "£6,000.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW S65 4.0 V8 Engine — E90 M3 LCI Saloon (420 PS) 2009–2011",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "S65",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2009–2011",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E90",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with our registration checker before ordering — this listing covers the E90 M3 LCI Saloon only.",
+  "list": [
+   "BMW M3 E90 LCI Saloon (420 PS) 2009–2011 — S65B40A"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (block, cylinder head, sump, covers and oil pump)",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Compression and oil pressure verified",
+   "Securely crated and palletised for UK delivery"
+  ],
+  "excluded": [
+   "Turbocharger (included only where reusable for the condition supplied)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, air conditioning compressor, wiring)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this S65 engine now, or view the full S65 engine range for other applications.",
+  "crossLink": "← Back to all S65 engines"
+ }
+}

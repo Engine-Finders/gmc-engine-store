@@ -1,0 +1,97 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "m47",
+ "applicationSlug": "bmw-5-series-e39-520d-estate-2000",
+ "engineCode": "M47",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW M47 Engine — 5 Series E39 (520d) 2000-2003",
+  "description": "Used BMW M47 engine for 5 Series Estate (E39) 2000-2003 - 150 PS, fully tested before dispatch, £750, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/m47/bmw-5-series-e39-520d-estate-2000/"
+ },
+ "hero": {
+  "title": "Used BMW M47 Engine — 5 Series E39 (520d) Estate 2000-2003",
+  "subtitle": "Used M47 engine for 5 Series Estate (E39) and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M47-USED-E39-520D-ESTATE",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £750",
+    "note": "12-month warranty",
+    "price": "£750.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,450",
+    "note": "12-month warranty",
+    "price": "£1,450.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW M47 E39 520d Estate 2000-2003 longitudinal-mounted diesel engine — tested",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M47",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2000-2003",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E39",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our registration checker to confirm compatibility, or review the exact vehicle applications listed below.",
+  "list": [
+   "5 Series Estate (E39) 2000-2003 — 520d (150 PS)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Fully inspected and pressure tested",
+   "Cam belt and timing components checked",
+   "Oil and filter changed prior to dispatch"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, air conditioning compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M47 engine now, or view the full BMW M47 engine range for other applications.",
+  "crossLink": "← Back to all BMW M47 engines"
+ }
+}

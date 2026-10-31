@@ -1,0 +1,90 @@
+{
+ "brand": "jaguar",
+ "brandName": "Jaguar",
+ "engineSlug": "aj126",
+ "applicationSlug": "recon-jaguar-xe-s-x760-340-ps-saloon-2015",
+ "engineCode": "AJ126",
+ "condition": "recon",
+ "seo": {
+  "title": "Recon Jaguar AJ126 3.0 V6 Engine — XE S (X760) 340 PS | Engined",
+  "description": "Reconditioned AJ126 engine for Jaguar XE S (X760) 340 PS Saloon 2015-2019 — fixed price £4,050, tested before dispatch, 12-month warranty.",
+  "canonical": "https://engined.co.uk/engines/aj126/recon-jaguar-xe-s-x760-340-ps-saloon-2015/"
+ },
+ "hero": {
+  "title": "Recon Jaguar AJ126 3.0 V6 Engine — XE S (X760) 340 PS Saloon 2015-2019",
+  "subtitle": "Reconditioned AJ126 engine for Jaguar XE S (X760) 340 PS Saloon 2015-2019 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: AJ126-RECON-XE-X760-340-SALOON",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £4,050",
+    "note": "12-month warranty",
+    "price": "£4,050.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned Jaguar AJ126 3.0L V6 supercharged engine for XE S (X760) 340 PS Saloon, showing longitudinal layout and specific ancillaries.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJ126",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2015-2019",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X760",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/jaguar-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/jaguar-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jlr-aj126-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment instantly by entering your registration number below to match your chassis code.",
+  "list": [
+   "XE S (X760) 2015-2019 — 3.0 V6 SC (340 PS) Saloon"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Longitudinal 3.0 V6 supercharged unit",
+   "XE-specific ancillaries fitted"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries not specified above",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this AJ126 engine now, or view the full AJ126 engine range for other applications.",
+  "crossLink": "← Back to all AJ126 engines"
+ }
+}

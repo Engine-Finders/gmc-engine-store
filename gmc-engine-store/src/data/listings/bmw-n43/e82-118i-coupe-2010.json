@@ -1,0 +1,97 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n43",
+ "applicationSlug": "e82-118i-coupe-2010",
+ "engineCode": "N43",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW N43 Engine — 1 Series E82 118i Coupe 2010‑2013 | Engined",
+  "description": "BMW N43 E82 118i 143PS EU5 coupé engine. Used and recon options available. Tested before dispatch, 12-month warranty, UK delivery. £1,075.",
+  "canonical": "https://engined.co.uk/engines/bmw-n43/e82-118i-coupe-2010/"
+ },
+ "hero": {
+  "title": "Used BMW N43 Engine — 1 Series E82 (118i) Coupe 2010‑2013",
+  "subtitle": "Used N43 E82 118i 143PS EU5 engine for 1 Series E82 coupé and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N43-USED-E82-118I-FL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,075",
+    "note": "12-month warranty",
+    "price": "£1,075.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,705",
+    "note": "12-month warranty",
+    "price": "£1,705.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "BMW N43B20 engine for E82 118i coupé — used 143PS EU5 unit, complete assembly",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N43",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2010‑2013",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E82",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your vehicle's compatibility using our registration checker, or confirm these models and chassis codes below.",
+  "list": [
+   "BMW 1 Series (E82) 118i Coupe 2010‑2013"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Timing chain components",
+   "Gaskets and seals",
+   "Oil and filters"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries (alternator, starter, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N43 engine now, or view the full BMW N43 engine range for other applications.",
+  "crossLink": "← Back to all BMW N43 engines"
+ }
+}

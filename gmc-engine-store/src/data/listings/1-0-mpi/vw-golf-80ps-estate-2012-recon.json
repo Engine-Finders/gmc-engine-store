@@ -1,0 +1,90 @@
+{
+ "brand": "volkswagen",
+ "brandName": "Volkswagen",
+ "engineSlug": "1-0-mpi",
+ "applicationSlug": "vw-golf-80ps-estate-2012-recon",
+ "engineCode": "EA211",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned 1.0 MPI Engine — VW Golf VII Estate | Engined [N2 — derived, flagged]",
+  "description": "Reconditioned EA211 1.0 MPI engine for VW Golf VII Estate (80 PS) 2012-present. Tested before dispatch, fixed price £1,600, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/1-0-mpi/vw-golf-80ps-estate-2012-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned 1.0 MPI Engine — VW Golf VII (80 PS) Estate 2012-present",
+  "subtitle": "Reconditioned EA211 engine for VW Golf VII Estate — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: MPI-RECON-GOLF-80-ESTATE-12M",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,600",
+    "note": "12-month warranty",
+    "price": "£1,600.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned 1.0 MPI Engine — VW Golf VII (80 PS) Estate 2012-present",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA211",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2012-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Not specified in source row",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/volkswagen-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/volkswagen-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/volkswagen-vw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration below to confirm this reconditioned 1.0 MPI engine matches your Golf Estate before you order.",
+  "list": [
+   "VW Golf VII Variant (1.0 MPI 80 PS Estate) 2012-present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (EA211 1.0 MPI, naturally aspirated inline-three)",
+   "Renewed timing belt, tensioners and guides",
+   "Rebuilt cylinder head with new valve stem seals",
+   "Tested before dispatch",
+   "12-month warranty as standard"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 1.0 MPI engine now, or view the full 1.0 MPI engine range for other applications.",
+  "crossLink": "← Back to all 1.0 MPI engines"
+ }
+}

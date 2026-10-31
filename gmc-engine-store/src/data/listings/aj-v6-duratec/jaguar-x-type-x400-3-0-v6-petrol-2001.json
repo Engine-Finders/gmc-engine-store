@@ -1,0 +1,97 @@
+{
+ "brand": "jaguar",
+ "brandName": "Jaguar",
+ "engineSlug": "aj-v6-duratec",
+ "applicationSlug": "jaguar-x-type-x400-3-0-v6-petrol-2001",
+ "engineCode": "AJ-V6",
+ "condition": "used",
+ "seo": {
+  "title": "Used Jaguar AJ-V6 3.0 V6 Petrol Engine — X-Type (X400) 2001-2007",
+  "description": "Used AJ-V6 engine for Jaguar X-Type X400 3.0 V6 Petrol. Fixed price £995, tested before dispatch, 12-month warranty included. UK delivery available.",
+  "canonical": "https://engined.co.uk/engines/aj-v6-duratec/jaguar-x-type-x400-3-0-v6-petrol-2001/"
+ },
+ "hero": {
+  "title": "Used Jaguar AJ-V6 3.0 V6 Petrol Engine — X-Type (X400) 2001-2007",
+  "subtitle": "Used AJ-V6 engine for Jaguar X-Type X400 3.0 V6 Petrol and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: AJV6-30-USED-XTYPE",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £995",
+    "note": "12-month warranty",
+    "price": "£995.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,800",
+    "note": "12-month warranty",
+    "price": "£1,800.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used AJ-V6 3.0L V6 petrol engine for Jaguar X-Type X400 Saloon, complete assembly with warranty.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJ-V6",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2001-2007",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X400",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/jaguar-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/jaguar-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/jaguar-jaguar-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number above to confirm this AJ-V6 engine fits your Jaguar X-Type before you buy.",
+  "list": [
+   "X-Type (X400) 3.0 V6 Petrol (AJ30) Saloon (2001-2007)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete used engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Full compression test report",
+   "Cleaned and degreased exterior",
+   "New seals and gaskets fitted"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this AJ-V6 engine now, or view the AJ-V6 range for other applications.",
+  "crossLink": "← Back to all AJ-V6 engines"
+ }
+}

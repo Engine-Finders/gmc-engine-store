@@ -1,0 +1,98 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "m50d",
+ "applicationSlug": "bmw-x5-f15-m50d-suv-2014",
+ "engineCode": "M50D",
+ "condition": "used",
+ "seo": {
+  "title": "Used M50d 3.0 Tri-Turbo Engine — BMW X5 F15 M50d 2014-2018 | Engined",
+  "description": "M50d · used · BMW X5 F15 M50d SUV · £3,980 · 12-month warranty · UK delivery. Tested before dispatch. Ready to ship.",
+  "canonical": "https://engined.co.uk/engines/m50d/bmw-x5-f15-m50d-suv-2014/"
+ },
+ "hero": {
+  "title": "Used M50d 3.0 Tri-Turbo Engine — BMW X5 F15 (M50d) SUV 2014-2018",
+  "subtitle": "Used M50d engine for BMW X5 SUV (F15) M50d 2014-2018 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M50D-USED-F15-M50D-SUV",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £3,980",
+    "note": "12-month warranty",
+    "price": "£3,980.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £6,035",
+    "note": "12-month warranty",
+    "price": "£6,035.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "BMW M50d 3.0 Tri-Turbo engine for X5 F15 M50d SUV 2014-2018 — tested used unit with ancillaries",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M50d",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2014-2018",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F15",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-m50d-engine.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number above to confirm compatibility, or check the list below for exact vehicle fitment.",
+  "list": [
+   "BMW X5 SUV (F15) M50d 2014-2018"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (long block)",
+   "Tested before dispatch — compression, leak-down, and running checks",
+   "12-month warranty as standard",
+   "Timing chain and tensioner inspection",
+   "Oil and filter service completed",
+   "Full gasket and seal replacement",
+   "Compatible ECU mapping data provided"
+  ],
+  "excluded": [
+   "Turbocharger (reusable from your existing unit if serviceable)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, air conditioning compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M50d engine now, or view the full M50d engine range for other applications.",
+  "crossLink": "← Back to all M50d engines"
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "brand": "jaguar",
+ "brandName": "Jaguar",
+ "engineSlug": "aj-v8-legacy",
+ "applicationSlug": "recon-jaguar-xj8-x308-aj27-4-0-saloon-1998",
+ "engineCode": "AJ27",
+ "condition": "recon",
+ "seo": {
+  "title": "Recon Jaguar AJ27 Engine — XJ8 X308 4.0 V8 Saloon | Engined",
+  "description": "Reconditioned AJ27 engine for Jaguar XJ8 (X308) 4.0 V8 Saloon. £3,680 fixed price, tested before dispatch, 12-month warranty & UK delivery.",
+  "canonical": "https://engined.co.uk/engines/aj-v8-legacy/recon-jaguar-xj8-x308-aj27-4-0-saloon-1998/"
+ },
+ "hero": {
+  "title": "Reconditioned Jaguar AJ27 Engine — XJ8 (X308) 4.0 V8 Saloon 1998-2003",
+  "subtitle": "Reconditioned AJ27 engine for Jaguar XJ8 (X308) 4.0 V8 Saloon — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: AJV8-RECON-X308-40-NA-SALOON-AJ27-12M",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £3,680",
+    "note": "12-month warranty",
+    "price": "£3,680.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned AJ27 4.0 V8 naturally aspirated engine for Jaguar XJ8 X308 saloon, complete longitudinal assembly with CVVT.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJ27",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "1998-2003",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X308",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/jaguar-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/jaguar-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/jaguar-jaguar-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Verify fitment for your specific chassis using our registration checker before purchasing this AJ27 engine.",
+  "list": [
+   "Jaguar XJ8 (X308) 4.0 V8 (AJ27) Saloon (1998-2003)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch",
+   "Warranty as standard",
+   "Longitudinal saloon specification components",
+   "Continuous Variable Valve Timing (CVVT) system",
+   "Engine wiring harness"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this AJ27 engine now, or view the full AJ27 engine range for other applications.",
+  "crossLink": "← Back to all AJ27 engines"
+ }
+}

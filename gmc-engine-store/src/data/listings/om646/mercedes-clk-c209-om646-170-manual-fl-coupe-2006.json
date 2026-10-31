@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "om646",
+ "applicationSlug": "mercedes-clk-c209-om646-170-manual-fl-coupe-2006",
+ "engineCode": "OM646",
+ "condition": "used",
+ "seo": {
+  "title": "Used OM646 2.2 CDI Engine — CLK C209 Coupe (CLK 220 CDI, 170 PS, Manual) FL 2006–2009",
+  "description": "Used OM646 2.2 CDI engine for Mercedes CLK C209 Coupe (CLK 220 CDI). Fixed price £1,260, tested before dispatch, 12-month warranty & UK delivery.",
+  "canonical": "https://engined.co.uk/engines/om646/mercedes-clk-c209-om646-170-manual-fl-coupe-2006/"
+ },
+ "hero": {
+  "title": "Used OM646 2.2 CDI Engine — CLK C209 Coupe (CLK 220 CDI, 170 PS, Manual) FL 2006–2009",
+  "subtitle": "Used OM646 engine for CLK C209 Coupe (CLK 220 CDI) — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: OM646-USED-C209-CLK220-MAN-FL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,260",
+    "note": "12-month warranty",
+    "price": "£1,260.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used OM646 2.2 CDI engine for Mercedes CLK C209 Coupe, complete manual assembly.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "OM646",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2006–2009",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "C209",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-mercedes-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number above to confirm this used OM646 engine is an exact match for your vehicle.",
+  "list": [
+   "CLK C209 Coupe (CLK 220 CDI 170 PS Manual) 2006–2009"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Compression tested",
+   "Fully cleaned and inspected"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this OM646 engine now, or view the full OM646 engine range for other applications.",
+  "crossLink": "← Back to all OM646 engines"
+ }
+}

@@ -1,0 +1,82 @@
+{
+ "brand": "nissan",
+ "brandName": "Nissan",
+ "engineSlug": "mr20dd",
+ "applicationSlug": "nissan-x-trail-t32-2-0-suv-2013",
+ "engineCode": "MR20DD",
+ "condition": "used",
+ "seo": {
+  "title": "Used Nissan MR20DD Engine — Nissan X‑Trail T32 (2.0) SUV 2013-2022",
+  "description": "Used MR20DD engine for Nissan X-Trail T32 2.0 SUV. Fixed price £1,495, tested before dispatch, 12-month warranty and UK delivery. Recon: £2,250.",
+  "canonical": "https://engined.co.uk/engines/mr20dd/nissan-x-trail-t32-2-0-suv-2013/"
+ },
+ "hero": {
+  "title": "Used Nissan MR20DD Engine — Nissan X‑Trail T32 (2.0) SUV 2013-2022",
+  "subtitle": "Used MR20DD engine for Nissan X-Trail T32 2.0 petrol, 20S, 20X and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: MR20DD-USED-XTRAIL-T32",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,495",
+    "note": "12-month warranty",
+    "price": "£1,495.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Nissan MR20DD Engine — Nissan X‑Trail T32 (2.0) SUV 2013-2022",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "MR20DD",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2013-2022",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "T32",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/nissan-nissan-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number in our checker above to confirm this MR20DD engine fits your specific Nissan X-Trail T32.",
+  "list": [
+   "Nissan X-Trail T32 (2.0 petrol, 20S, 20X, 2.0 ALL MODE 4x4-i) 2013-2022"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Clean, drained, and ready for installation",
+   "Full compression test report"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this MR20DD engine now, or view the full MR20DD engine range for other applications.",
+  "crossLink": "← Back to all MR20DD engines"
+ }
+}

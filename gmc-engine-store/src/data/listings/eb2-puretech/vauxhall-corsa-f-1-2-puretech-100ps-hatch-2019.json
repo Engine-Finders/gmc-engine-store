@@ -1,0 +1,83 @@
+{
+ "brand": "peugeot",
+ "brandName": "Peugeot",
+ "engineSlug": "eb2-puretech",
+ "applicationSlug": "vauxhall-corsa-f-1-2-puretech-100ps-hatch-2019",
+ "engineCode": "PSA EB2",
+ "condition": "used",
+ "seo": {
+  "title": "Used PSA EB2 Engine — Vauxhall Corsa F (1.2 PureTech 100 PS) Hatchback 2019-Present | Engined",
+  "description": "Used PSA EB2 engine for Vauxhall Corsa F 1.2 PureTech 100 PS. Fixed price £1,305. 12-month warranty. UK delivery. In stock. Tested before dispatch.",
+  "canonical": "https://engined.co.uk/engines/eb2-puretech/vauxhall-corsa-f-1-2-puretech-100ps-hatch-2019/"
+ },
+ "hero": {
+  "title": "Used PSA EB2 Engine — Vauxhall Corsa F (1.2 PureTech 100 PS) Hatchback 2019-Present",
+  "subtitle": "Used PSA EB2 engine for Vauxhall Corsa F, 1.2 PureTech 100 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EB2-USED-CORSAF-100PS",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,305",
+    "note": "12-month warranty",
+    "price": "£1,305.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "PSA EB2 used engine for Vauxhall Corsa F 1.2 PureTech 100 PS, transverse mount, 1.2L turbo",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "PSA EB2",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2019-Present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Corsa F",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your registration with our reg checker before ordering to ensure this PSA EB2 engine matches your Vauxhall Corsa F.",
+  "list": [
+   "Vauxhall Corsa F (1.2 PureTech 100 PS) 2019-Present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New gaskets and seals",
+   "Oil sump and timing covers"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this PSA EB2 engine now, or view the full PSA EB2 engine range for other applications.",
+  "crossLink": "← Back to all PSA EB2 engines"
+ }
+}

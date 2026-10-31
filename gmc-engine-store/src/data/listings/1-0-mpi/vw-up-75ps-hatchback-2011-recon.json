@@ -1,0 +1,90 @@
+{
+ "brand": "volkswagen",
+ "brandName": "Volkswagen",
+ "engineSlug": "1-0-mpi",
+ "applicationSlug": "vw-up-75ps-hatchback-2011-recon",
+ "engineCode": "EA211",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned 1.0 MPI Engine — VW Up! (75 PS) Hatchback 2011-present",
+  "description": "Reconditioned EA211 1.0 MPI engine for VW Up! 75 PS (CHYB) Hatchback 2011-present. Fixed £1,450, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/1-0-mpi/vw-up-75ps-hatchback-2011-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned 1.0 MPI Engine — VW Up! (75 PS) Hatchback 2011-present",
+  "subtitle": "Reconditioned EA211 engine for VW Up! 75 PS (CHYB) Hatchback 2011-present — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: MPI-RECON-UP-75-HATCH-12M",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,450",
+    "note": "12-month warranty",
+    "price": "£1,450.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned EA211 1.0 MPI 75 PS CHYB engine for VW Up! hatchback 2011-present.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA211",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2011-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "AA",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/volkswagen-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/volkswagen-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/volkswagen-vw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our reg checker or confirm engine code CHYB before ordering — this reconditioned EA211 1.0 MPI engine fits the VW Up! listed below.",
+  "list": [
+   "VW Up! AA (1.0 MPI 75 PS (CHYB) — Hatchback) 2011-present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Sump and timing cover"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA211 engine now, or view the full EA211 engine range for other applications.",
+  "crossLink": "← Back to all EA211 engines"
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "brand": "nissan",
+ "brandName": "Nissan",
+ "engineSlug": "k9k",
+ "applicationSlug": "nissan-note-e11-1-5-dci-mpv-2006",
+ "engineCode": "K9K",
+ "condition": "used",
+ "seo": {
+  "title": "Used K9K Engine — Nissan Note E11 1.5 dCi | Engined",
+  "description": "Used K9K engine for Nissan Note E11 1.5 dCi MPV. Fixed price £985 used, £1,935 reconditioned. Tested, UK delivery & 12-month warranty included.",
+  "canonical": "https://engined.co.uk/engines/k9k/nissan-note-e11-1-5-dci-mpv-2006/"
+ },
+ "hero": {
+  "title": "Used K9K Engine — Nissan Note E11 (1.5 dCi) MPV 2006-2012",
+  "subtitle": "Used K9K engine for Nissan Note E11 1.5 dCi MPV — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: K9K-USED-G1-NOTE",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £985",
+    "note": "12-month warranty",
+    "price": "£985.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used K9K Engine — Nissan Note E11 (1.5 dCi) MPV 2006-2012",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "K9K",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2006-2012",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E11",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/renault-k9k-dci-diesel-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number in our checker above to confirm this K9K engine is the exact match for your vehicle.",
+  "list": [
+   "Nissan Note E11 (1.5 dCi) 2006-2012"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "VAT inclusive pricing",
+   "Secure, palletised UK delivery"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system components",
+   "Ancillaries (alternator, starter motor, etc.)",
+   "Fitting and installation",
+   "ECU remapping or coding"
+  ]
+ },
+ "cta": {
+  "line": "Buy this K9K engine now, or view the full K9K engine range for other applications.",
+  "crossLink": "← Back to all K9K engines"
+ }
+}

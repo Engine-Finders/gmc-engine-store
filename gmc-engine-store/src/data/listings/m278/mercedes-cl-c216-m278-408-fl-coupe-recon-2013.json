@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "m278",
+ "applicationSlug": "mercedes-cl-c216-m278-408-fl-coupe-recon-2013",
+ "engineCode": "M278",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned M278 4.7 V8 Engine — CL C216 (CL500, 408 PS) FL 2013–2014 | Engined",
+  "description": "Reconditioned M278 4.7 V8 engine for Mercedes CL C216 CL500 408 PS FL 2013–2014. Fixed £7,200, 12-month warranty, UK delivery. Prepared to order.",
+  "canonical": "https://engined.co.uk/engines/m278/mercedes-cl-c216-m278-408-fl-coupe-recon-2013/"
+ },
+ "hero": {
+  "title": "Reconditioned M278 4.7 V8 Engine — CL C216 (CL500, 408 PS) FL 2013–2014",
+  "subtitle": "SUB — Reconditioned M278 engine for CL C216, CL500 and 408 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M278-RECON-C216-CL500-FL",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £7,200",
+    "note": "12-month warranty",
+    "price": "£7,200.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned M278 4.7 V8 biturbo engine for Mercedes CL C216 CL500 408 PS FL 2013–2014.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M278",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2013–2014",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "C216",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-m278-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration to confirm this reconditioned M278 engine fits your Mercedes CL C216 CL500 408 PS FL 2013–2014.",
+  "list": [
+   "CL C216 (Coupe — CL500 408 PS — M278 — 4.7 V8 Biturbo) 2013–2014"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Oil sump and timing covers"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M278 engine now, or view the full M278 range for other applications.",
+  "crossLink": "← Back to all M278 engines"
+ }
+}

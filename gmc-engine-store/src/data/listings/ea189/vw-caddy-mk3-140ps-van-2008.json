@@ -1,0 +1,96 @@
+{
+ "brand": "volkswagen",
+ "brandName": "Volkswagen",
+ "engineSlug": "ea189",
+ "applicationSlug": "vw-caddy-mk3-140ps-van-2008",
+ "engineCode": "EA189",
+ "condition": "used",
+ "seo": {
+  "title": "EA189 Caddy Mk3 140PS Van | Engined",
+  "description": "Used EA189 2.0 TDI engine for VW Caddy Mk3 van, 140 PS, 2008-2015. Fixed price £1,295, tested before dispatch, 12-month warranty. UK delivery.",
+  "canonical": "https://engined.co.uk/engines/ea189/vw-caddy-mk3-140ps-van-2008/"
+ },
+ "hero": {
+  "title": "Used EA189 Engine — VW Caddy Mk3 (2.0 TDI 140 PS) Van 2008-2015",
+  "subtitle": "Used EA189 engine for VW Caddy Mk3 2.0 TDI 140 PS van — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA189-USED-CADDY-MK3-140-VAN",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,295",
+    "note": "12-month warranty",
+    "price": "£1,295.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,950",
+    "note": "12-month warranty",
+    "price": "£1,950.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used EA189 2.0 TDI 140 PS engine for VW Caddy Mk3 van, 2008-2015, transverse mount",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA189",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2008-2015",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "2K",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/volkswagen-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/volkswagen-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/volkswagen-vw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with our reg checker before you buy — this used EA189 suits the application listed below.",
+  "list": [
+   "VW Caddy Mk3 2K (2.0 TDI 140 PS Van) 2008-2015"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil pump and sump",
+   "Cylinder head and block"
+  ],
+  "excluded": [
+   "Turbocharger (reusable — transferred from your unit where condition allows)",
+   "Injectors and fuel system",
+   "Ancillaries (alternator, starter motor, air conditioning compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA189 engine now, or view the full EA189 engine range for other applications.",
+  "crossLink": "← Back to all EA189 engines"
+ }
+}

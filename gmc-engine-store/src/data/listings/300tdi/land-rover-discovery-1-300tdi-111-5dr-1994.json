@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "300tdi",
+ "applicationSlug": "land-rover-discovery-1-300tdi-111-5dr-1994",
+ "engineCode": "300TDI",
+ "condition": "used",
+ "seo": {
+  "title": "300Tdi Discovery 1 5dr 111 PS | Engined",
+  "description": "Used 300Tdi 2.5 diesel engine for Discovery 1 5-door 111 PS 1994–1998. £1,995 with 12-month warranty and UK delivery. Discovery-spec 300Tdi.",
+  "canonical": "https://engined.co.uk/engines/300tdi/land-rover-discovery-1-300tdi-111-5dr-1994/"
+ },
+ "hero": {
+  "title": "300Tdi Discovery 1 5dr 111 PS",
+  "subtitle": "SUB — Used 300Tdi engine for Discovery 1 5-door 111 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 300TDI-USED-DISCO-5DR-111",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,995",
+    "note": "12-month warranty",
+    "price": "£1,995.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used 300Tdi diesel engine for Discovery 1 5-door 111 PS, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "300Tdi",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "1994–1998",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Discovery 1",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with our UK reg checker before ordering — this listing covers the following Discovery 1 application.",
+  "list": [
+   "Discovery 1 5-door (300Tdi 111 PS — 23L engine code) 1994–1998"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Engine block and cylinder head",
+   "Sump and timing covers"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 300Tdi engine now, or view the full 300Tdi engine range for other applications.",
+  "crossLink": "← Back to all 300Tdi engines"
+ }
+}

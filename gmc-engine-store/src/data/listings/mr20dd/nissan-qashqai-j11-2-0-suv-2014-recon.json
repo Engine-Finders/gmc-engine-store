@@ -1,0 +1,82 @@
+{
+ "brand": "nissan",
+ "brandName": "Nissan",
+ "engineSlug": "mr20dd",
+ "applicationSlug": "nissan-qashqai-j11-2-0-suv-2014-recon",
+ "engineCode": "MR20DD",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned Nissan MR20DD Engine — Nissan Qashqai J11 (2.0) SUV 2014-2021",
+  "description": "Reconditioned MR20DD engine for Nissan Qashqai J11 2.0 SUV. Fixed price £1,495 used or £2,250 recon, 12-month warranty & UK delivery. 140-147 PS.",
+  "canonical": "https://engined.co.uk/engines/mr20dd/nissan-qashqai-j11-2-0-suv-2014-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned Nissan MR20DD Engine — Nissan Qashqai J11 (2.0) SUV 2014-2021",
+  "subtitle": "Reconditioned MR20DD engine for Nissan Qashqai J11 2.0 petrol and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: MR20DD-USED-QASHQAI-J11",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,495",
+    "note": "12-month warranty",
+    "price": "£1,495.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "MR20DD transverse-mounted 2.0-litre naturally aspirated direct-injection petrol engine for Nissan Qashqai J11 SUV 2014-2021",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "MR20DD",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2014-2021",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "J11",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/nissan-nissan-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number above to confirm this MR20DD engine fits your vehicle before ordering.",
+  "list": [
+   "Nissan Qashqai J11 (2.0 petrol 140-147 PS, 4x4-i) 2014-2021"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Fully inspected and cleaned",
+   "Ready for direct fitment"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this MR20DD engine now, or view the full MR20DD engine range for other applications.",
+  "crossLink": "← Back to all MR20DD engines"
+ }
+}

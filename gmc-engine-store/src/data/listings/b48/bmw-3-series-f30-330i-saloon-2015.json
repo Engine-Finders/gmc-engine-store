@@ -1,0 +1,97 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "b48",
+ "applicationSlug": "bmw-3-series-f30-330i-saloon-2015",
+ "engineCode": "B48",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW B48 Engine — 3 Series F30 330i Saloon 2015-2019 | Engined",
+  "description": "B48 engine · used · 3 Series F30 330i · £2,760 · 12-month warranty · UK delivery — tested and ready to ship.",
+  "canonical": "https://engined.co.uk/engines/b48/bmw-3-series-f30-330i-saloon-2015/"
+ },
+ "hero": {
+  "title": "Used BMW B48 Engine — 3 Series F30 330i Saloon 2015-2019",
+  "subtitle": "Used B48 engine for 3 Series F30 330i and 4 Series F32 420i — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: B48-USED-F30-330I",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,760",
+    "note": "12-month warranty",
+    "price": "£2,760.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £3,220",
+    "note": "12-month warranty",
+    "price": "£3,220.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW B48 engine for 3 Series F30 330i Saloon — longitudinal mount, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "B48",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2015-2019",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F30, F32",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-b48-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your vehicle's compatibility with a reg check or review the specific chassis, variant, and year coverage below.",
+  "list": [
+   "3 Series Saloon (F30) 2015-2019 — 330i (252 hp)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil and coolant filled",
+   "UK mainland delivery included",
+   "All gaskets and seals replaced"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries (alternator, starter, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this B48 engine now, or view the full B48 engine range for other applications.",
+  "crossLink": "← Back to all B48 engines"
+ }
+}

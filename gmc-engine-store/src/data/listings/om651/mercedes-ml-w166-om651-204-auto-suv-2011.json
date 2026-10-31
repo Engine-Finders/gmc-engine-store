@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "om651",
+ "applicationSlug": "mercedes-ml-w166-om651-204-auto-suv-2011",
+ "engineCode": "OM651",
+ "condition": "used",
+ "seo": {
+  "title": "OM651 ML250 W166 204 | Engined",
+  "description": "Used OM651 2.1 CDI engine for Mercedes-Benz ML W166, ML 250 BlueTEC 204 PS auto. Fixed £2,400, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/om651/mercedes-ml-w166-om651-204-auto-suv-2011/"
+ },
+ "hero": {
+  "title": "OM651 ML250 W166 204",
+  "subtitle": "SUB — Used OM651 engine for ML 250 BlueTEC 204 PS Auto — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: OM651-USED-W166-ML250-AUTO",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,400",
+    "note": "12-month warranty",
+    "price": "£2,400.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Mercedes-Benz OM651 2.1 CDI engine for ML W166 ML 250 BlueTEC auto SUV 2011–2015.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "OM651",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2011–2015",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W166",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-om651-engine.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration to confirm fitment before buying — this OM651 listing covers the ML W166 applications below.",
+  "list": [
+   "ML W166 (SUV ML 250 BlueTEC 204 PS Auto, OM651.924) 2011–2015"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil sump and rocker cover",
+   "Timing covers and oil pump"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this OM651 engine now, or view the full OM651 engine range for other applications.",
+  "crossLink": "← Back to all OM651 engines — https://engined.co.uk/engines/om651/"
+ }
+}

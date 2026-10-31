@@ -1,0 +1,91 @@
+{
+ "brand": "jaguar",
+ "brandName": "Jaguar",
+ "engineSlug": "aj-v8-legacy",
+ "applicationSlug": "recon-jaguar-xkr-x100-aj26s-4-0-sc-convertible-1998",
+ "engineCode": "AJ26S",
+ "condition": "recon",
+ "seo": {
+  "title": "Recon Jaguar AJ26S Engine — XKR X100 4.0 SC | Engined",
+  "description": "Reconditioned AJ26S engine for Jaguar XKR (X100) 4.0 Supercharged Convertible. £4,025 fixed price, tested before dispatch, 12-month warranty & UK delivery.",
+  "canonical": "https://engined.co.uk/engines/aj-v8-legacy/recon-jaguar-xkr-x100-aj26s-4-0-sc-convertible-1998/"
+ },
+ "hero": {
+  "title": "Reconditioned Jaguar AJ26S Engine — XKR (X100) 4.0 Supercharged Convertible 1998-1999",
+  "subtitle": "Reconditioned AJ26S engine for Jaguar XKR (X100) 4.0 V8 Supercharged Convertible — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: AJV8-RECON-X100-40-SC-CONV-AJ26S-12M",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £4,025",
+    "note": "12-month warranty",
+    "price": "£4,025.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned AJ26S 4.0 V8 supercharged engine for Jaguar XKR X100 convertible, complete longitudinal sports car assembly.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJ26S",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "1998-1999",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X100",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/jaguar-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/jaguar-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/jaguar-jaguar-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Verify fitment for your specific chassis using our registration checker before purchasing this AJ26S engine.",
+  "list": [
+   "Jaguar XKR (X100) 4.0 V8 Supercharged (AJ26S) Convertible (1998-1999)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch",
+   "Warranty as standard",
+   "Longitudinal sports car specification components",
+   "Eaton M112 supercharger unit",
+   "Engine wiring harness"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this AJ26S engine now, or view the full AJ26S engine range for other applications.",
+  "crossLink": "← Back to all AJ26S engines"
+ }
+}

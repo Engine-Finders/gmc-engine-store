@@ -1,0 +1,97 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "b47",
+ "applicationSlug": "bmw-x3-g01-xdrive20d-suv-2017",
+ "engineCode": "B47",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW B47 Engine — X3 G01 (xDrive20d) SUV 2017-present",
+  "description": "B47 · used · X3 G01 xDrive20d · from £1,995 · 12-month warranty · UK delivery. Check fitment with your reg or chassis code.",
+  "canonical": "https://engined.co.uk/engines/b47/bmw-x3-g01-xdrive20d-suv-2017/"
+ },
+ "hero": {
+  "title": "Used BMW B47 Engine — X3 G01 (xDrive20d) SUV 2017-present",
+  "subtitle": "Used B47 engine for X3 G01 xDrive20d — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: B47-USED-SUV-G01-XDRIVE20D",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,995",
+    "note": "12-month warranty",
+    "price": "£1,995.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,895",
+    "note": "12-month warranty",
+    "price": "£2,895.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW B47 engine for X3 G01 xDrive20d SUV — complete tested unit",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "B47",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2017-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "G01",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-b47-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check with your registration or chassis code to confirm, but this engine is designed for the following model.",
+  "list": [
+   "X3 SUV (G01) 2017-present — xDrive20d (190 hp)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (long block)",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Compression and leak-down test report",
+   "Oil and filter service completed",
+   "All necessary gaskets and seals fitted"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries (alternator, starter, air‑con compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this B47 engine now, or view the full B47 engine range for other applications.",
+  "crossLink": "← Back to all B47 engines"
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "b47",
+ "applicationSlug": "bmw-2-series-gran-tourer-f46-218d-mpv-2015-recon",
+ "engineCode": "B47",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned BMW B47 Engine — 2 Series Gran Tourer F46 (218d) MPV 2015-2022",
+  "description": "Reconditioned BMW B47 engine for 2 Series Gran Tourer F46 218d MPV 2015-2022. Tested, 12-month warranty, UK delivery. £2,595.",
+  "canonical": "https://engined.co.uk/engines/b47/bmw-2-series-gran-tourer-f46-218d-mpv-2015-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW B47 Engine — 2 Series Gran Tourer F46 (218d) MPV 2015-2022",
+  "subtitle": "Reconditioned B47 engine for 2 Series Gran Tourer F46 218d — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: B47-RECON-UKL-F46-218D",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,595",
+    "note": "12-month warranty",
+    "price": "£2,595.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned BMW B47 engine for 2 Series Gran Tourer F46 218d MPV, transverse-mounted UKL unit.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "B47",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2015-2022",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F46",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-b47-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "This B47 engine fits the 2 Series Gran Tourer (F46) 218d. Use our reg checker to confirm your car.",
+  "list": [
+   "2 Series Gran Tourer (F46) 218d (150 hp) 2015-2022"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch",
+   "12-month warranty as standard",
+   "Full inspection and compression test report",
+   "All gaskets and seals replaced",
+   "Oil and filter service completed"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries (alternator, starter, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this B47 engine now, or view the full B47 engine range for other applications.",
+  "crossLink": "← Back to all B47 engines"
+ }
+}

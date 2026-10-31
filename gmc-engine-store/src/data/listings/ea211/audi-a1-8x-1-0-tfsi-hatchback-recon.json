@@ -1,0 +1,92 @@
+{
+ "brand": "audi",
+ "brandName": "Audi",
+ "engineSlug": "ea211",
+ "applicationSlug": "audi-a1-8x-1-0-tfsi-hatchback-recon",
+ "engineCode": "EA211",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned Audi EA211 Engine — A1 8X (1.0 TFSI 95 PS) Hatchback 2012-2018 | Engined",
+  "description": "EA211 · Reconditioned · Audi A1 Hatchback 8X 2012-2018, 1.0 TFSI 95 PS — rebuilt with new timing belt, tested, £1,305 · 12-month warranty · UK delivery.",
+  "canonical": "https://engined.co.uk/engines/ea211/audi-a1-8x-1-0-tfsi-hatchback-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned Audi EA211 Engine — A1 8X (1.0 TFSI 95 PS) Hatchback 2012-2018",
+  "subtitle": "Reconditioned EA211 1.0 TFSI engine for Audi A1 Hatchback (8X) 95 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA211-RECON-A1-8X-1.0",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,305",
+    "note": "12-month warranty",
+    "price": "£1,305.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned EA211 1.0 TFSI engine for Audi A1 8X Hatchback – 95 PS, three-cylinder, rebuilt with new timing belt",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA211",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2012-2018",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "8X",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/audi-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/audi-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/audi-audi-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration for instant compatibility confirmation, or check the list below to see if this EA211 1.0 TFSI engine fits your vehicle.",
+  "list": [
+   "Audi A1 Hatchback (8X) 2012-2018 — 1.0 TFSI (95 PS)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch with compression and leak-down checks",
+   "12-month warranty as standard",
+   "Full technical inspection report",
+   "Timing belt and tensioners replaced (as part of recon)",
+   "Water pump replaced (as part of recon)",
+   "Oil and filter service completed"
+  ],
+  "excluded": [
+   "Turbocharger (reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, air conditioning compressor, power steering pump)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA211 engine now, or view the full EA211 engine range for other applications.",
+  "crossLink": "← Back to all EA211 engines (links to https://engined.co.uk/engines/ea211/)"
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "m52",
+ "applicationSlug": "bmw-5-series-e39-523i-estate-1995-recon-2",
+ "engineCode": "M52",
+ "condition": "recon",
+ "seo": {
+  "title": "Recond BMW M52 Engine E39 523i Estate 1995-2000 | Engined",
+  "description": "Reconditioned BMW M52 E39 523i Estate (170 PS) — tested, 12-month warranty, UK delivery. From £1,295. Fits 5 Series E39 1995-2000.",
+  "canonical": "https://engined.co.uk/engines/m52/bmw-5-series-e39-523i-estate-1995-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW M52 Engine — 5 Series E39 (523i) Estate 1995-2000",
+  "subtitle": "Reconditioned BMW M52 E39 engine for 5 Series E39 523i Estate and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M52-RECON-E39-523I-ESTATE",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,295",
+    "note": "12-month warranty",
+    "price": "£1,295.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "BMW M52 engine for E39 523i Estate 1995-2000 — reconditioned 170 PS 6-cylinder unit",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M52",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "1995-2000",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E39",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration for a guaranteed fit check — these vehicles are confirmed compatible with this BMW M52 engine.",
+  "list": [
+   "5 Series Estate (E39) 1995-2000 — 523i (170 PS)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Full pressure and leak testing",
+   "All gaskets and seals replaced",
+   "Timing components inspected"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries (alternator, starter, AC compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M52 engine now, or view the full M52 engine range for other applications.",
+  "crossLink": "← Back to all M52 engines"
+ }
+}

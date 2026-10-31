@@ -1,0 +1,90 @@
+{
+ "brand": "volkswagen",
+ "brandName": "Volkswagen",
+ "engineSlug": "ea888",
+ "applicationSlug": "vw-tiguan-mk2-230ps-suv-2016",
+ "engineCode": "EA888 GEN 3",
+ "condition": "used",
+ "seo": {
+  "title": "Used EA888 Engine — VW Tiguan Mk2 (2.0 TSI 230 PS) SUV 2016-present | Engined",
+  "description": "",
+  "canonical": "https://engined.co.uk/engines/ea888/vw-tiguan-mk2-230ps-suv-2016/"
+ },
+ "hero": {
+  "title": "Used EA888 Engine — VW Tiguan Mk2 (2.0 TSI 230 PS) SUV 2016-present",
+  "subtitle": "Used EA888 Gen 3 engine for VW Tiguan Mk2 230 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA888-USED-TIGUAN-MK2-230-SUV",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,395",
+    "note": "12-month warranty",
+    "price": "£1,395.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used EA888 Gen 3 2.0 TSI 230 PS transverse MQB turbo petrol engine, VW Tiguan Mk2 SUV spec, high-output variant",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA888 Gen 3",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2016-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "AD",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/volkswagen-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/volkswagen-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/volkswagen-vw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration against the list below to confirm this EA888 engine matches your Tiguan before ordering.",
+  "list": [
+   "VW Tiguan Mk2 AD (2.0 TSI 230 PS) SUV 2016-present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Fully drained and sealed for transport",
+   "New gaskets and seals where applicable"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA888 engine now, or view the full EA888 engine range for other applications.",
+  "crossLink": "← Back to all EA888 engines"
+ }
+}

@@ -1,0 +1,96 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "s58",
+ "applicationSlug": "bmw-g83-m4-xdrive-convertible-2021",
+ "engineCode": "S58",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW S58 3.0 Engine — G83 M4 Competition xDrive Convertible (503 PS) 2021–present | Engined",
+  "description": "Used BMW S58 3.0 engine for the G83 M4 Competition xDrive Convertible (503 PS) — fixed price £8,690, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/s58/bmw-g83-m4-xdrive-convertible-2021/"
+ },
+ "hero": {
+  "title": "Used BMW S58 3.0 Engine — G83 M4 Competition xDrive Convertible (503 PS) 2021–present",
+  "subtitle": "Used S58 engine for the BMW M4 G83 Competition xDrive Convertible (503 PS) — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: S58-USED-G83-M4X",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £8,690",
+    "note": "12-month warranty",
+    "price": "£8,690.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £11,470",
+    "note": "12-month warranty",
+    "price": "£11,470.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW S58 3.0 engine for G83 M4 Competition xDrive Convertible, 503 PS, AWD calibration — tested unit.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "S58",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2021–present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "G83",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration in our checker to confirm this S58 fits your G83 M4 Competition xDrive Convertible before you buy.",
+  "list": [
+   "BMW M4 G83 (Competition xDrive, 503 PS) 2021–present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Timing components (belt/chain) where applicable",
+   "New gaskets and seals"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this S58 engine now, or view the full S58 engine range for other applications.",
+  "crossLink": "← Back to all S58 engines → https://engined.co.uk/engines/s58"
+ }
+}

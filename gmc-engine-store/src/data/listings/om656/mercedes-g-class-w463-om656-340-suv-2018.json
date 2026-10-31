@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "om656",
+ "applicationSlug": "mercedes-g-class-w463-om656-340-suv-2018",
+ "engineCode": "OM656",
+ "condition": "used",
+ "seo": {
+  "title": "OM656 G400d W463 340 | Engined",
+  "description": "Used OM656 3.0 diesel engine for Mercedes-Benz G-Class W463 G400d 340 PS — £4,940, 12-month warranty, tested before dispatch and UK delivery. Check registration.",
+  "canonical": "https://engined.co.uk/engines/om656/mercedes-g-class-w463-om656-340-suv-2018/"
+ },
+ "hero": {
+  "title": "OM656 G400d W463 340",
+  "subtitle": "SUB — Used OM656 engine for G-Class W463 G400d 340 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: OM656-USED-W463-G400D",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £4,940",
+    "note": "12-month warranty",
+    "price": "£4,940.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Mercedes-Benz OM656 3.0 diesel engine for G-Class W463 G400d 340 PS SUV, ladder-frame chassis.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "OM656",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2018–present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W463",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-om656-engine.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration before ordering — this used OM656 is listed for the G-Class W463 applications below.",
+  "list": [
+   "G-Class W463 (G400d 340 PS, OM656, Longitudinal) 2018–present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Renewed timing chain",
+   "New gaskets and seals"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this OM656 engine now, or view the full OM656 range for other applications.",
+  "crossLink": "← Back to all OM656 engines — https://engined.co.uk/engines/om656/"
+ }
+}

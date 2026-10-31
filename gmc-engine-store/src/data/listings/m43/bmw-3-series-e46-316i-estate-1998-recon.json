@@ -1,0 +1,91 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "m43",
+ "applicationSlug": "bmw-3-series-e46-316i-estate-1998-recon",
+ "engineCode": "M43",
+ "condition": "recon",
+ "seo": {
+  "title": "Recon BMW M43 Engine — 3 Series E46 (316i) Estate 1998-2001",
+  "description": "M43 · Reconditioned · BMW 3 Series E46 316i Estate (105 PS) · £805 · 12-month warranty · UK delivery.",
+  "canonical": "https://engined.co.uk/engines/m43/bmw-3-series-e46-316i-estate-1998-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW M43 Engine — 3 Series E46 (316i) Estate 1998-2001",
+  "subtitle": "Reconditioned M43 engine for E46 316i Estate — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M43-RECON-E46-316I-ESTATE",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £805",
+    "note": "12-month warranty",
+    "price": "£805.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned BMW M43 Engine — 3 Series E46 (316i) Estate 1998-2001",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M43",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "1998-2001",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E46",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your vehicle's registration number to confirm compatibility before ordering.",
+  "list": [
+   "3 Series Estate (E46) 1998-2001 — 316i (105 PS)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Compression and leak-down tested",
+   "Oil and filter service completed",
+   "Fully inspected and validated"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter, air con compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M43 engine now, or view the full M43 engine range for other applications.",
+  "crossLink": "← Back to all M43 engines"
+ }
+}

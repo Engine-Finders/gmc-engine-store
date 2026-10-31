@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n52",
+ "applicationSlug": "f25-xdrive28i-suv-2011",
+ "engineCode": "N52",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW N52 Engine — X3 F25 (xDrive28i) SUV 2011‑2017",
+  "description": "Used BMW N52 engine for X3 F25 xDrive28i (245 PS) 2011-2017. Fixed £1,605, tested before dispatch, 12-month warranty and UK delivery. In stock, ready to ship.",
+  "canonical": "https://engined.co.uk/engines/bmw-n52/f25-xdrive28i-suv-2011/"
+ },
+ "hero": {
+  "title": "Used BMW N52 Engine — X3 F25 (xDrive28i) SUV 2011‑2017",
+  "subtitle": "Used BMW N52 engine for X3 F25 xDrive28i (245 PS) SUV 2011-2017 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N52-USED-F25-XDRIVE28I",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,605",
+    "note": "12-month warranty",
+    "price": "£1,605.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "BMW N52 used engine for X3 F25 xDrive28i SUV 2011-2017, N52B30 245PS high output, tested.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "BMW N52",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2011‑2017",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F25",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our reg checker to confirm your registration fits this BMW X3 F25 xDrive28i application before buying.",
+  "list": [
+   "BMW X3 F25 (xDrive28i (245 PS) SUV) 2011‑2017"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil sump and rocker cover",
+   "Timing cover and inlet manifold"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this BMW N52 engine now, or view the full BMW N52 engine range for other applications.",
+  "crossLink": "← Back to all BMW N52 engines"
+ }
+}

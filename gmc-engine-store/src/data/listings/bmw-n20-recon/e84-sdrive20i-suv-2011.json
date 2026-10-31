@@ -1,0 +1,91 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n20-recon",
+ "applicationSlug": "e84-sdrive20i-suv-2011",
+ "engineCode": "N20B20",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned BMW N20 Engine — X1 E84 (sDrive20i) SUV 2011‑2012",
+  "description": "N20B20 · reconditioned · fits X1 E84 sDrive20i SUV · £1,995 · 12-month warranty · UK delivery.",
+  "canonical": "https://engined.co.uk/engines/bmw-n20-recon/e84-sdrive20i-suv-2011/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW N20 Engine — X1 E84 (sDrive20i) SUV 2011‑2012",
+  "subtitle": "Reconditioned N20B20 standard-output engine for BMW X1 E84 sDrive20i SUV — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N20-RECON-E84-SDRIVE20I-PREFL",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,995",
+    "note": "12-month warranty",
+    "price": "£1,995.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned BMW N20B20 engine for X1 E84 sDrive20i SUV 2011-2012",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N20B20",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2011-2012",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E84",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration for a guaranteed fitment check, or see the list of compatible models below.",
+  "list": [
+   "BMW X1 (E84) 2011‑2012 — sDrive20i (184 PS) SUV"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch",
+   "12-month warranty as standard",
+   "OEM-spec gaskets and seals",
+   "Oil and filter service",
+   "Full inspection report"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries (e.g., alternator, starter motor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N20B20 engine now, or view the full BMW N20 engine range for other applications.",
+  "crossLink": "← Back to all BMW N20 engines"
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n57",
+ "applicationSlug": "e93-325d-conv-2008",
+ "engineCode": "N57",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW N57 Engine — 3 Series E93 325d Conv 08-11 | Engined",
+  "description": "Used BMW N57 engine for 3 Series E93 325d Convertible 2008-2011. Pre-LCI N57D30O0, 204PS. £2,695 with 12-month warranty, tested before dispatch and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/bmw-n57/e93-325d-conv-2008/"
+ },
+ "hero": {
+  "title": "Used BMW N57 Engine — 3 Series E93 (325d) Convertible 2008‑2011",
+  "subtitle": "Used N57 engine for BMW 3 Series E93 325d Convertible 2008-2011 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N57-USED-E93-325D-PREFL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,695",
+    "note": "12-month warranty",
+    "price": "£2,695.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW N57 engine for E93 325d Convertible 2008-2011, pre-LCI N57D30O0 204PS, tested.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N57",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2008‑2011",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E93",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-n57-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our reg checker to confirm this N57 engine fits your BMW before ordering — it covers the following application.",
+  "list": [
+   "BMW 3 Series E93 (325d 204 PS Convertible) 2008‑2011"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block included",
+   "Oil sump and timing cover included"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N57 engine now, or view the full N57 range for other applications.",
+  "crossLink": "← Back to all N57 engines"
+ }
+}

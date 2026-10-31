@@ -1,0 +1,97 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-m62",
+ "applicationSlug": "e38-740il-saloon-1995",
+ "engineCode": "M62",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW M62 Engine — 7 Series E38 (740iL) Saloon 1995-1998",
+  "description": "Used BMW M62 engine for E38 740iL Saloon · 286 PS · £1,150 · 12‑month warranty · UK delivery.",
+  "canonical": "https://engined.co.uk/engines/bmw-m62/e38-740il-saloon-1995/"
+ },
+ "hero": {
+  "title": "Used BMW M62 Engine — 7 Series E38 (740iL) Saloon 1995-1998",
+  "subtitle": "Used M62 engine for E38 740iL Saloon — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M62-USED-E38-740IL-SALOON-PREFL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,150",
+    "note": "12-month warranty",
+    "price": "£1,150.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,305",
+    "note": "12-month warranty",
+    "price": "£2,305.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW M62 V8 engine for 7 Series E38 740iL Saloon (1995‑1998) — complete unit",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M62",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "1995-1998",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E38",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration or confirm these fitments — this M62 engine is verified for the following BMW 7 Series applications.",
+  "list": [
+   "BMW 7 Series (E38) 1995-1998 — 740iL (286 PS) Saloon LWB"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12‑month warranty as standard",
+   "Full inspection report",
+   "Compression and leak‑down test results",
+   "Oil and filter service completed"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter, AC compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M62 engine now, or view the full M62 engine range for other applications.",
+  "crossLink": "← Back to all M62 engines"
+ }
+}

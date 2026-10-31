@@ -1,0 +1,82 @@
+{
+ "brand": "nissan",
+ "brandName": "Nissan",
+ "engineSlug": "mr16ddt",
+ "applicationSlug": "nissan-juke-f15-16gt-suv-2010-recon",
+ "engineCode": "MR16DDT",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned Nissan MR16DDT Engine — Nissan Juke F15 (16GT) SUV 2010-2020",
+  "description": "Reconditioned MR16DDT engine for Nissan Juke F15 16GT SUV. Fixed price £2,200 used or £2,900 recon, with 12-month warranty & UK delivery. 190 PS.",
+  "canonical": "https://engined.co.uk/engines/mr16ddt/nissan-juke-f15-16gt-suv-2010-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned Nissan MR16DDT Engine — Nissan Juke F15 (16GT) SUV 2010-2020",
+  "subtitle": "Reconditioned MR16DDT engine for Nissan Juke F15 16GT and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: MR16DDT-USED-JUKE-F15-16GT-SUV",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,200",
+    "note": "12-month warranty",
+    "price": "£2,200.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "MR16DDT transverse-mounted 1.6-litre DIG-T turbo petrol engine for Nissan Juke F15 16GT SUV 2010-2020",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "MR16DDT",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2010-2020",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F15",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/nissan-nissan-mr16ddt-engine-and-1-6-dig-t-engine.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number above to confirm this MR16DDT engine fits your vehicle before ordering.",
+  "list": [
+   "Nissan Juke F15 (16GT 190 PS SUV) 2010-2020"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Fully inspected and cleaned",
+   "Ready for direct fitment"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this MR16DDT engine now, or view the full MR16DDT engine range for other applications.",
+  "crossLink": "← Back to all MR16DDT engines"
+ }
+}

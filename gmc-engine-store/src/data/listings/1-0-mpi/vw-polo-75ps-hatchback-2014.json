@@ -1,0 +1,90 @@
+{
+ "brand": "volkswagen",
+ "brandName": "Volkswagen",
+ "engineSlug": "1-0-mpi",
+ "applicationSlug": "vw-polo-75ps-hatchback-2014",
+ "engineCode": "EA211",
+ "condition": "used",
+ "seo": {
+  "title": "Used 1.0 MPI Engine — VW Polo (75 PS) Hatchback 2014-present",
+  "description": "Used EA211 1.0 MPI engine for VW Polo 75 PS (CHYB) Hatchback 2014-present. Fixed £1,095, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/1-0-mpi/vw-polo-75ps-hatchback-2014/"
+ },
+ "hero": {
+  "title": "Used 1.0 MPI Engine — VW Polo (75 PS) Hatchback 2014-present",
+  "subtitle": "Used EA211 engine for VW Polo 75 PS (CHYB) Hatchback 2014-present — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: MPI-USED-POLO-75-HATCH",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,095",
+    "note": "12-month warranty",
+    "price": "£1,095.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used EA211 1.0 MPI 75 PS CHYB engine for VW Polo Hatchback 2014-present, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA211",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2014-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "V/VI",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/volkswagen-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/volkswagen-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/volkswagen-vw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our reg checker or confirm engine code CHYB before ordering — this used EA211 1.0 MPI engine fits the VW Polo applications listed below.",
+  "list": [
+   "VW Polo V/VI (1.0 MPI 75 PS (CHYB) Hatchback) 2014-present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Sump and timing cover"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA211 engine now, or view the full EA211 engine range for other applications.",
+  "crossLink": "← Back to all EA211 engines"
+ }
+}

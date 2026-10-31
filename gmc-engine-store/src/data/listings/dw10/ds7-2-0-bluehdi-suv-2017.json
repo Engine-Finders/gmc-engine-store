@@ -1,0 +1,89 @@
+{
+ "brand": "citroen",
+ "brandName": "Citroen",
+ "engineSlug": "dw10",
+ "applicationSlug": "ds7-2-0-bluehdi-suv-2017",
+ "engineCode": "DW10",
+ "condition": "used",
+ "seo": {
+  "title": "Used Citroën DW10 2.0 BlueHDi Engine — DS7 SUV 2017-present",
+  "description": "DW10 · used · Citroën DS7 SUV 2.0 BlueHDi · 180 PS · £1,360 · 12-month warranty · UK delivery",
+  "canonical": "https://engined.co.uk/engines/dw10/ds7-2-0-bluehdi-suv-2017/"
+ },
+ "hero": {
+  "title": "Used Citroën DW10 2.0 BlueHDi Engine — DS7 SUV 2017-present",
+  "subtitle": "Used DW10 diesel engine for Citroën DS7 SUV 2.0 BlueHDi — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: DW10-USED-DS7-BLUEHDI-SUV",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,360",
+    "note": "12-month warranty",
+    "price": "£1,360.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,095",
+    "note": "12-month warranty",
+    "price": "£2,095.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Citroën DW10 2.0 BlueHDi engine for DS7 SUV 2017-present — tested diesel unit",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "DW10",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2017-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Citroën DS7 SUV (2017-present)",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/citroen-citroen-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your vehicle's compatibility below — use our reg-checker to confirm this DW10 engine matches your Citroën DS7 exactly.",
+  "list": [
+   "Citroën DS7 SUV (2017-present) — 2.0 BlueHDi"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Comprehensive inspection report",
+   "Oil and filter service",
+   "UK mainland delivery"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this DW10 engine now, or view the full DW10 engine range for other applications.",
+  "crossLink": "← Back to all DW10 engines"
+ }
+}

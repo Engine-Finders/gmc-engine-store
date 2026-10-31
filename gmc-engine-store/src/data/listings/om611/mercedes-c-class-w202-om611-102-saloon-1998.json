@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "om611",
+ "applicationSlug": "mercedes-c-class-w202-om611-102-saloon-1998",
+ "engineCode": "OM611",
+ "condition": "used",
+ "seo": {
+  "title": "Used OM611 2.2 CDI Engine — C-Class W202 Saloon (C 200 CDI, 102 PS) 1998–2001 | Engined",
+  "description": "In stock used OM611 2.2 CDI engine for Mercedes C-Class W202 Saloon (C 200 CDI, 102 PS) 1998–2001. £1,195 with 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/om611/mercedes-c-class-w202-om611-102-saloon-1998/"
+ },
+ "hero": {
+  "title": "Used OM611 2.2 CDI Engine — C-Class W202 Saloon (C 200 CDI, 102 PS) 1998–2001",
+  "subtitle": "SUB — Used OM611 engine for C-Class W202 Saloon and C 200 CDI 102 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: OM611-USED-G1-W202-102-SAL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,195",
+    "note": "12-month warranty",
+    "price": "£1,195.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used OM611 2.2 CDI engine for Mercedes C-Class W202 Saloon C 200 CDI 102 PS, 1998–2001",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "OM611",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "1998–2001",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W202",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-mercedes-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your registration with our reg checker before buying — this OM611 listing fits the C-Class W202 applications below.",
+  "list": [
+   "C-Class W202 (Saloon, C 200 CDI 102 PS, OM611, Longitudinal) 1998–2001"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New gaskets and seals where required",
+   "New oil filter and sump plug washer"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this OM611 engine now, or view the full OM611 engine range for other applications.",
+  "crossLink": "← Back to all OM611 engines"
+ }
+}

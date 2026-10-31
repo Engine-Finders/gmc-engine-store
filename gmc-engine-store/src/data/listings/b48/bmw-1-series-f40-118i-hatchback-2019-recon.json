@@ -1,0 +1,91 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "b48",
+ "applicationSlug": "bmw-1-series-f40-118i-hatchback-2019-recon",
+ "engineCode": "B48",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned BMW B48 Engine — 1 Series F40 (118i) Hatchback 2019-present",
+  "description": "B48 · Reconditioned · 1 Series F40 118i (136 hp) · Fits F20/F40 & 2 Series F22/F23/G42 · £2,340 · 12-month warranty · UK delivery",
+  "canonical": "https://engined.co.uk/engines/b48/bmw-1-series-f40-118i-hatchback-2019-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW B48 Engine — 1 Series F40 (118i) Hatchback 2019-present",
+  "subtitle": "Reconditioned B48 engine for 1 Series F40 118i (136 hp) — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: B48-RECON-F40-118I",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,340",
+    "note": "12-month warranty",
+    "price": "£2,340.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "BMW B48 reconditioned engine for 1 Series F40 118i 136hp — complete assembly tested",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "B48",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2019-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F40",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-b48-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "This B48 engine fits the following BMW vehicles. Enter your registration for instant fitment confirmation.",
+  "list": [
+   "1 Series Hatchback (F40) 2019-present — 118i (136 hp)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Full diagnostic report",
+   "Delivery within UK",
+   "Installation guide"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries (alternator, starter motor, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this B48 engine now, or view the full B48 engine range for other applications.",
+  "crossLink": "← Back to all B48 engines"
+ }
+}

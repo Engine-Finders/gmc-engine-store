@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "m275-m279",
+ "applicationSlug": "mercedes-sl-r230-m279-612-prefl-used-roadster-2004",
+ "engineCode": "M279",
+ "condition": "used",
+ "seo": {
+  "title": "Used M279 6.0 V12 Engine — SL R230 (SL65 AMG, 612 PS) Pre-FL 2004–2006 | Engined",
+  "description": "Used M279 6.0 V12 engine for SL R230 SL65 AMG (612 PS). £11,995 with 12-month warranty and UK delivery. Pre-facelift 2004–2006 fitment. Order today.",
+  "canonical": "https://engined.co.uk/engines/m275-m279/mercedes-sl-r230-m279-612-prefl-used-roadster-2004/"
+ },
+ "hero": {
+  "title": "Used M279 6.0 V12 Engine — SL R230 (SL65 AMG, 612 PS) Pre-FL 2004–2006",
+  "subtitle": "Used M279 6.0 V12 engine for SL R230 SL65 AMG — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M279-USED-R230-SL65-PREFL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £11,995",
+    "note": "12-month warranty",
+    "price": "£11,995.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used M279 6.0 V12 Engine — SL R230 (SL65 AMG, 612 PS) Pre-FL 2004–2006",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M279",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2004–2006",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "R230",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-mercedes-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration to confirm fitment — this M279 engine fits the R230 SL65 AMG listed below.",
+  "list": [
+   "SL R230 Roadster (SL65 AMG 612 PS, V12 Biturbo) 2004–2006"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Sump included",
+   "Timing cover included"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M279 engine now, or view the full M279 range for more.",
+  "crossLink": "← Back to all M279 engines → https://engined.co.uk/engines/m275-m279/"
+ }
+}

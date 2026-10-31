@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "m52b28",
+ "applicationSlug": "bmw-z3-2.8-m52b28-193-manual-coupe-1998",
+ "engineCode": "M52B28",
+ "condition": "used",
+ "seo": {
+  "title": "PENDING — M52B28 2.8 Engine — BMW Z3 2.8 Coupe (Manual, 193 PS) 1998–1999",
+  "description": "M52B28 · PENDING Used · BMW Z3 2.8 Coupe Manual · £1,395 · 12-month warranty included as standard. Fast UK delivery on all reconditioned and used engines.",
+  "canonical": "https://engined.co.uk/engines/m52b28/bmw-z3-2.8-m52b28-193-manual-coupe-1998/"
+ },
+ "hero": {
+  "title": "PENDING — M52B28 2.8 Engine — BMW Z3 2.8 Coupe (Manual, 193 PS) 1998–1999",
+  "subtitle": "PENDING Used M52B28 engine for BMW Z3 2.8 Coupe Manual and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M52B28-PEND-Z3-2.8-CPE-9899",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,395",
+    "note": "12-month warranty",
+    "price": "£1,395.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "M52B28 2.8 Engine for BMW Z3 2.8 Coupe Manual 193 PS, tested and ready for fast UK delivery.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M52B28",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "1998–1999",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E36/8",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your exact registration with our free checker to ensure this M52B28 engine perfectly matches your BMW Z3 E36/8 chassis.",
+  "list": [
+   "BMW Z3 E36/8 Coupe (Manual, 193 PS) 1998–1999"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Full technical support",
+   "UK delivery included"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M52B28 engine now, or view the M52B28 range for other applications.",
+  "crossLink": "← Back to all M52B28 engines"
+ }
+}

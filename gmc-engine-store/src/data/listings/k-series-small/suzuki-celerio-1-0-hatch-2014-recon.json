@@ -1,0 +1,83 @@
+{
+ "brand": "suzuki",
+ "brandName": "Suzuki",
+ "engineSlug": "k-series-small",
+ "applicationSlug": "suzuki-celerio-1-0-hatch-2014-recon",
+ "engineCode": "K10B",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned Suzuki K10B Engine — Celerio 1.0 Hatch",
+  "description": "K10B reconditioned engine for Suzuki Celerio 1.0 Hatchback 2014-Present. Used £355, 12-month warranty, tested before dispatch, UK delivery. In stock.",
+  "canonical": "https://engined.co.uk/engines/k-series-small/suzuki-celerio-1-0-hatch-2014-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned Suzuki K10B Engine — Suzuki Celerio (1.0) Hatchback 2014-Present",
+  "subtitle": "SUB — Reconditioned K10B engine for Suzuki Celerio 1.0 Hatchback — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: K10B-RECON-CELERIO",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £355",
+    "note": "12-month warranty",
+    "price": "£355.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned Suzuki K10B engine for Suzuki Celerio 1.0 hatchback, 3-cylinder petrol, tested before dispatch",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "K10B",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2014-Present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Suzuki Celerio",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our reg checker to confirm your Suzuki Celerio 1.0 before ordering — this K10B engine fits the application listed below.",
+  "list": [
+   "Suzuki Celerio (1.0 Hatchback) 2014-Present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New gaskets and seals",
+   "Oil and filter service components"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this K10B engine now, or view full K10B range for other fits.",
+  "crossLink": "← Back to all K10B engines"
+ }
+}

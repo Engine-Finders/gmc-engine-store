@@ -1,0 +1,96 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "m276",
+ "applicationSlug": "mercedes-cls-c218-m276-333-saloon-2014",
+ "engineCode": "M276",
+ "condition": "used",
+ "seo": {
+  "title": "Used M276 3.0 TT Engine — CLS C218 (CLS400, 333 PS) 2014–2018",
+  "description": "Used twin-turbo M276 3.0 TT engine for Mercedes CLS C218 CLS400 333 PS. £3,000, 12-month warranty, tested before dispatch, fast UK delivery.",
+  "canonical": "https://engined.co.uk/engines/m276/mercedes-cls-c218-m276-333-saloon-2014/"
+ },
+ "hero": {
+  "title": "Used M276 3.0 TT Engine — CLS C218 (CLS400, 333 PS) 2014–2018",
+  "subtitle": "SUB — Used M276 engine for Mercedes CLS C218 CLS400 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M276-USED-G4-C218-CLS400",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £3,000",
+    "note": "12-month warranty",
+    "price": "£3,000.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £4,500",
+    "note": "12-month warranty",
+    "price": "£4,500.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Twin-turbo used M276 3.0 TT engine for Mercedes CLS C218 CLS400 333 PS",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M276",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2014–2018",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "C218",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-m276-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our reg checker to confirm your CLS C218 CLS400 fits this used M276 engine before you buy.",
+  "list": [
+   "CLS C218 (Saloon — CLS400 333 PS — M276 DE30 AL — 3.0 TT) 2014–2018"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New oil and filter",
+   "New gaskets and seals"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M276 engine, or view the full M276 engine range for other applications.",
+  "crossLink": "← Back to all M276 engines"
+ }
+}

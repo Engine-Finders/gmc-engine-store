@@ -1,0 +1,90 @@
+{
+ "brand": "citroen",
+ "brandName": "Citroen",
+ "engineSlug": "ep6",
+ "applicationSlug": "peugeot-207-1-6-thp-hatchback-2006",
+ "engineCode": "EP6",
+ "condition": "used",
+ "seo": {
+  "title": "Used Peugeot EP6 1.6 THP Engine — 207 1.6 THP 150/175 Hatchback 2006-2012",
+  "description": "EP6 · used · Peugeot 207 Hatchback 1.6 THP · 150-175 PS · £995 · 12-month warranty · UK delivery",
+  "canonical": "https://engined.co.uk/engines/ep6/peugeot-207-1-6-thp-hatchback-2006/"
+ },
+ "hero": {
+  "title": "Used Peugeot EP6 1.6 THP Engine — 207 1.6 THP 150/175 Hatchback 2006-2012",
+  "subtitle": "Used EP6 petrol engine for Peugeot 207 Hatchback 1.6 THP 150 and 175 (including 207 GTi) — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EP6-USED-PEUGEOT-207-THP-HATCH",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £995",
+    "note": "12-month warranty",
+    "price": "£995.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,850",
+    "note": "12-month warranty",
+    "price": "£1,850.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Peugeot EP6 1.6 THP engine for 207 Hatchback 2006-2012 — tested petrol unit",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EP6",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2006-2012",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Peugeot 207 Hatchback (2006-2012) — 1.6 THP 150, 1.6 THP 175 (207 GTi)",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/citroen-psa-bmw-ep6-prince-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your vehicle's compatibility below — use our reg-checker to confirm this EP6 engine matches your Peugeot 207 exactly.",
+  "list": [
+   "Peugeot 207 Hatchback (2006-2012) — 1.6 THP 150",
+   "Peugeot 207 Hatchback (2006-2012) — 1.6 THP 175 (207 GTi)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Comprehensive inspection report",
+   "Oil and filter service",
+   "UK mainland delivery"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EP6 engine now, or view the full EP6 engine range for other applications.",
+  "crossLink": "← Back to all EP6 engines"
+ }
+}

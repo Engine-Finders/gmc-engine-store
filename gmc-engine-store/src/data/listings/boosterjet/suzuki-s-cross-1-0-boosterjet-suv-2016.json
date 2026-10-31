@@ -1,0 +1,83 @@
+{
+ "brand": "suzuki",
+ "brandName": "Suzuki",
+ "engineSlug": "boosterjet",
+ "applicationSlug": "suzuki-s-cross-1-0-boosterjet-suv-2016",
+ "engineCode": "K10C",
+ "condition": "used",
+ "seo": {
+  "title": "Used Suzuki K10C Engine — S-Cross (1.0 Boosterjet) SUV 2016-Present",
+  "description": "Used Suzuki K10C engine for S-Cross — 1.0 Boosterjet turbo petrol SUV, 2016-present. Fixed price £1,075 with 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/boosterjet/suzuki-s-cross-1-0-boosterjet-suv-2016/"
+ },
+ "hero": {
+  "title": "Used Suzuki K10C Engine — S-Cross (1.0 Boosterjet) SUV 2016-Present",
+  "subtitle": "Used K10C Boosterjet engine for Suzuki S-Cross — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: K10C-USED-SCROSS",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,075",
+    "note": "12-month warranty",
+    "price": "£1,075.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Suzuki K10C 1.0 Boosterjet turbo petrol engine, transverse, for S-Cross / SX4 S-Cross 2016-present",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "K10C",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2016-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "S-Cross",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol (turbocharged, direct injection)",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your registration before ordering — every K10C engine we list is matched to the exact S-Cross chassis it was built for.",
+  "list": [
+   "Suzuki S-Cross / SX4 S-Cross (1.0 Boosterjet 111 PS, transverse) 2016–present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Compression and oil-pressure test report",
+   "Free UK mainland delivery"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries (alternator, starter motor, A/C compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this K10C engine now, or view the full K10C engine range for other applications.",
+  "crossLink": "← Back to all K10C engines"
+ }
+}

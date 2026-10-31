@@ -1,0 +1,92 @@
+{
+ "brand": "citroen",
+ "brandName": "Citroen",
+ "engineSlug": "dw10",
+ "applicationSlug": "vauxhall-vivaro-2-0-bluehdi-van-2016",
+ "engineCode": "DW10",
+ "condition": "used",
+ "seo": {
+  "title": "Used Vauxhall DW10 2.0 BlueHDi Engine — Vivaro/Grandland/Insignia/Zafira",
+  "description": "DW10 · used · Vauxhall Vivaro/Grandland/Insignia II/Zafira Life 2.0 BlueHDi · 150-180 PS · £1,295 · 12-month warranty · UK delivery",
+  "canonical": "https://engined.co.uk/engines/dw10/vauxhall-vivaro-2-0-bluehdi-van-2016/"
+ },
+ "hero": {
+  "title": "Used Vauxhall DW10 2.0 BlueHDi Engine — Vivaro/Grandland/Insignia/Zafira",
+  "subtitle": "Used DW10 diesel engine for Vauxhall Vivaro, Grandland, Insignia II, and Zafira Life 2.0 BlueHDi — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: DW10-USED-VAUXHALL-VIVARO-BLUEHDI-VAN",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,295",
+    "note": "12-month warranty",
+    "price": "£1,295.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,995",
+    "note": "12-month warranty",
+    "price": "£1,995.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Vauxhall DW10 2.0 BlueHDi engine for Vivaro/Grandland/Insignia/Zafira 2016-present — tested diesel unit",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "DW10",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2016-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Vauxhall Vivaro (2016-present), Vauxhall Grandland (2016-present), Vauxhall Insignia II (2016-present), Vauxhall Zafira Life (2016-present)",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/citroen-citroen-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your vehicle's compatibility below — use our reg-checker to confirm this DW10 engine matches your Vauxhall exactly.",
+  "list": [
+   "Vauxhall Vivaro (2016-present) — 2.0 BlueHDi",
+   "Vauxhall Grandland (2016-present) — 2.0 BlueHDi",
+   "Vauxhall Insignia II (2016-present) — 2.0 BlueHDi",
+   "Vauxhall Zafira Life (2016-present) — 2.0 BlueHDi"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Comprehensive inspection report",
+   "Oil and filter service",
+   "UK mainland delivery"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this DW10 engine now, or view the full DW10 engine range for other applications.",
+  "crossLink": "← Back to all DW10 engines"
+ }
+}

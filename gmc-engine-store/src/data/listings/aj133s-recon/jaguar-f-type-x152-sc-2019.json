@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "aj133s-recon",
+ "applicationSlug": "jaguar-f-type-x152-sc-2019",
+ "engineCode": "AJ133S",
+ "condition": "recon",
+ "seo": {
+  "title": "Recon 5.0 V8 Engine — Jaguar F-Type X152 5.0 SC (AJ133S) 2019-present",
+  "description": "Recon Jaguar 5.0 V8 engine for F-Type X152 Supercharged (AJ133S) 2019-present. Fixed price £6,325, 12-month warranty, tested before dispatch, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/aj133s-recon/jaguar-f-type-x152-sc-2019/"
+ },
+ "hero": {
+  "title": "Recon 5.0 V8 Engine — Jaguar F-Type X152 5.0 SC (AJ133S) 2019-present",
+  "subtitle": "Reconditioned AJ133S engine for Jaguar F-Type X152 Supercharged — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: AJ133S-RECON-FTYPE-LATE",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £6,325",
+    "note": "12-month warranty",
+    "price": "£6,325.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned Jaguar 5.0 V8 supercharged engine for Jaguar F-Type X152 (AJ133S), 2019-present",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJ133S",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2019-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X152",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration to confirm fitment — this listing covers one specific Jaguar F-Type X152 application.",
+  "list": [
+   "Jaguar F-Type X152 (5.0 SC, AJ133S, 510 PS) 2019-present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (block, head, sump, timing cover)",
+   "Tested before dispatch — compression and oil pressure verified",
+   "12-month warranty as standard",
+   "New gaskets and seals on reassembly",
+   "Crated and palletised for safe transit"
+  ],
+  "excluded": [
+   "Turbocharger (reusable if condition allows)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, power steering pump, A/C compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this AJ133S engine now, or view the full AJ133S range for other applications.",
+  "crossLink": "← Back to all AJ133S engines"
+ }
+}

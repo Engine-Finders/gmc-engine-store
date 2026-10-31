@@ -1,0 +1,90 @@
+{
+ "brand": "volkswagen",
+ "brandName": "Volkswagen",
+ "engineSlug": "ea888",
+ "applicationSlug": "vw-jetta-gli-200ps-saloon-2010",
+ "engineCode": "EA888 GEN 1",
+ "condition": "used",
+ "seo": {
+  "title": "Used EA888 Engine — VW Jetta Mk6 GLI (2.0 TSI 200 PS) Saloon 2010-2018 | Engined",
+  "description": "",
+  "canonical": "https://engined.co.uk/engines/ea888/vw-jetta-gli-200ps-saloon-2010/"
+ },
+ "hero": {
+  "title": "Used EA888 Engine — VW Jetta Mk6 GLI (2.0 TSI 200 PS) Saloon 2010-2018",
+  "subtitle": "Used EA888 Gen 1 engine for VW Jetta GLI 200 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA888-USED-JETTA-GLI-200-SALOON",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £805",
+    "note": "12-month warranty",
+    "price": "£805.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used EA888 Gen 1 2.0 TSI 200 PS transverse turbo petrol engine, VW Jetta GLI saloon spec",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA888 Gen 1",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2010-2018",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "16",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/volkswagen-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/volkswagen-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/volkswagen-vw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration against the list below to confirm this EA888 engine matches your Jetta GLI before ordering.",
+  "list": [
+   "VW Jetta Mk6 16 (2.0 TSI GLI 200 PS) Saloon 2010-2018"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Fully drained and sealed for transport",
+   "New gaskets and seals where applicable"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA888 engine now, or view the full EA888 engine range for other applications.",
+  "crossLink": "← Back to all EA888 engines"
+ }
+}

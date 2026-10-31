@@ -1,0 +1,82 @@
+{
+ "brand": "nissan",
+ "brandName": "Nissan",
+ "engineSlug": "hr16de",
+ "applicationSlug": "nissan-note-e11-1-6-mpv-2006",
+ "engineCode": "HR16DE",
+ "condition": "used",
+ "seo": {
+  "title": "Used Nissan HR16DE Engine — Nissan Note E11 (1.6) MPV 2006-2012",
+  "description": "Used HR16DE engine for Nissan Note E11 1.6 MPV 2006-2012. Fixed price £650, tested before dispatch, 12-month warranty, and UK delivery included.",
+  "canonical": "https://engined.co.uk/engines/hr16de/nissan-note-e11-1-6-mpv-2006/"
+ },
+ "hero": {
+  "title": "Used Nissan HR16DE Engine — Nissan Note E11 (1.6) MPV 2006-2012",
+  "subtitle": "Used HR16DE engine for Nissan Note E11 1.6 petrol MPV and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: HR16DE-USED-G3-NOTE",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £650",
+    "note": "12-month warranty",
+    "price": "£650.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Nissan HR16DE Engine — Nissan Note E11 (1.6) MPV 2006-2012",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "HR16DE",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2006-2012",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E11",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/nissan-nissan-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your exact fitment with our free reg-checker before ordering this HR16DE engine for your Nissan Note E11.",
+  "list": [
+   "Nissan Note E11 (1.6 petrol) 2006-2012"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch",
+   "12-month warranty as standard",
+   "Full technical support",
+   "Secure UK delivery"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this HR16DE engine now, or view the full HR16DE engine range for other applications.",
+  "crossLink": "← Back to all HR16DE engines"
+ }
+}

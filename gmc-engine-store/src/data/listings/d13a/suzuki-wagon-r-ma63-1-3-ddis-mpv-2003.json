@@ -1,0 +1,83 @@
+{
+ "brand": "suzuki",
+ "brandName": "Suzuki",
+ "engineSlug": "d13a",
+ "applicationSlug": "suzuki-wagon-r-ma63-1-3-ddis-mpv-2003",
+ "engineCode": "D13A",
+ "condition": "used",
+ "seo": {
+  "title": "Used Suzuki D13A Engine — Suzuki Wagon R+ MA63 (1.3 DDiS) MPV 2003-2008 | Engined",
+  "description": "Used Suzuki D13A engine for Suzuki Wagon R+ MA63 (1.3 DDiS) 2003–2008 — fixed price £625, tested before dispatch, 12-month warranty, and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/d13a/suzuki-wagon-r-ma63-1-3-ddis-mpv-2003/"
+ },
+ "hero": {
+  "title": "Used Suzuki D13A Engine — Suzuki Wagon R+ MA63 (1.3 DDiS) MPV 2003-2008",
+  "subtitle": "SUB — Used D13A engine for Suzuki Wagon R+ MA63 (1.3 DDiS) 2003–2008 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: D13A-USED-WAGONR-MA63",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £625",
+    "note": "12-month warranty",
+    "price": "£625.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Suzuki D13A 1.3 DDiS diesel engine for Suzuki Wagon R+ MA63 MPV, transverse-mounted, 2003–2008.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "D13A",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2003–2008",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "MA63",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your registration with our reg checker to verify this used D13A engine fits your Suzuki Wagon R+ MA63 before ordering.",
+  "list": [
+   "Suzuki Wagon R+ MA63 (1.3 DDiS, 69‑75 PS) 2003–2008"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil sump and timing cover",
+   "Cylinder head and block"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this D13A engine now, or view the full D13A engine range for other applications.",
+  "crossLink": "← Back to all D13A engines — https://engined.co.uk/engines/d13a"
+ }
+}

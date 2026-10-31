@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "om651",
+ "applicationSlug": "mercedes-c-class-w204-om651-170-manual-prefl-estate-recon-2008",
+ "engineCode": "OM651",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned OM651 2.1 CDI Engine — C-Class W204 Estate (C220 CDI, 170 PS, Manual) Pre-FL 2008–2011 | Engined",
+  "description": "Reconditioned OM651 2.1 CDI engine for C-Class W204 Estate C220 CDI 170 PS Manual. Fixed £2,875, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/om651/mercedes-c-class-w204-om651-170-manual-prefl-estate-recon-2008/"
+ },
+ "hero": {
+  "title": "Reconditioned OM651 2.1 CDI Engine — C-Class W204 Estate (C220 CDI, 170 PS, Manual) Pre-FL 2008–2011",
+  "subtitle": "Reconditioned OM651 engine for C-Class W204 Estate C220 CDI 170 PS Manual — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: OM651-RECON-W204-C220-MAN-PREFL-EST",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,875",
+    "note": "12-month warranty",
+    "price": "£2,875.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned OM651 2.1 CDI engine for Mercedes C-Class W204 Estate C220 CDI 170 PS Manual, tested.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "OM651",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2008–2011",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W204",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-om651-engine.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration before buying — confirm your Mercedes C-Class W204 Estate C220 CDI 170 PS Manual matches this OM651 fitment.",
+  "list": [
+   "C-Class W204 (Estate — C220 CDI 170 PS — Manual — OM651.911) 2008–2011"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New timing belt/chain where applicable",
+   "New gaskets and seals"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this OM651 engine now, or view the full OM651 range for other applications.",
+  "crossLink": "← Back to all OM651 engines"
+ }
+}

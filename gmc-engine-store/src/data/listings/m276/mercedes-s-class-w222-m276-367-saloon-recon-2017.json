@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "m276",
+ "applicationSlug": "mercedes-s-class-w222-m276-367-saloon-recon-2017",
+ "engineCode": "M276",
+ "condition": "recon",
+ "seo": {
+  "title": "Recon M276 S450 W222 367 | Engined",
+  "description": "Reconditioned Mercedes-Benz M276 3.0 TT engine for S-Class W222 S450 367 PS, 2017–2020. £5,796, 12-month warranty, tested before dispatch, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/m276/mercedes-s-class-w222-m276-367-saloon-recon-2017/"
+ },
+ "hero": {
+  "title": "Reconditioned M276 3.0 TT Engine — S-Class W222 (S450, 367 PS) 2017–2020",
+  "subtitle": "SUB — Reconditioned M276 engine for S-Class W222, S450 and 367 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M276-RECON-G5-W222-S450",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £5,796",
+    "note": "12-month warranty",
+    "price": "£5,796.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned M276 3.0 TT engine for Mercedes S-Class W222 S450 367 PS, renewed chains, inspected turbos.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M276",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2017–2020",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W222",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-m276-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our registration checker to confirm this reconditioned M276 fits your S-Class W222 S450 367 PS before ordering.",
+  "list": [
+   "S-Class W222 Saloon (S450 367 PS) 2017–2020"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Renewed timing chains",
+   "Inspected turbochargers"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M276 now, or view the full M276 range for other applications.",
+  "crossLink": "← Back to all M276 engines — https://engined.co.uk/engines/m276/"
+ }
+}

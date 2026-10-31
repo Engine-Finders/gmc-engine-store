@@ -1,0 +1,82 @@
+{
+ "brand": "nissan",
+ "brandName": "Nissan",
+ "engineSlug": "mr16ddt",
+ "applicationSlug": "nissan-tiida-c12-gts-hatch-2011",
+ "engineCode": "MR16DDT",
+ "condition": "used",
+ "seo": {
+  "title": "Used Nissan MR16DDT Engine — Nissan Tiida C12 (GTS) Hatchback 2011‑2014",
+  "description": "Used MR16DDT engine for Nissan Tiida C12 GTS Hatchback. Fixed price £1,800, tested before dispatch, 12-month warranty and UK delivery. Recon: £2,700.",
+  "canonical": "https://engined.co.uk/engines/mr16ddt/nissan-tiida-c12-gts-hatch-2011/"
+ },
+ "hero": {
+  "title": "Used Nissan MR16DDT Engine — Nissan Tiida C12 (GTS) Hatchback 2011‑2014",
+  "subtitle": "Used MR16DDT engine for Nissan Tiida C12 GTS Hatchback — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: MR16DDT-USED-TIIDA-C12-GTS-HATCH",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,800",
+    "note": "12-month warranty",
+    "price": "£1,800.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Nissan MR16DDT Engine — Nissan Tiida C12 (GTS) Hatchback 2011‑2014",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "MR16DDT",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2011-2014",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "C12",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/nissan-nissan-mr16ddt-engine-and-1-6-dig-t-engine.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number in our checker above to confirm this MR16DDT engine fits your specific Nissan Tiida C12.",
+  "list": [
+   "Nissan Tiida C12 (GTS) 2011-2014"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Clean, drained, and ready for installation",
+   "Full compression test report"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this MR16DDT engine now, or view the full MR16DDT engine range for other applications.",
+  "crossLink": "← Back to all MR16DDT engines"
+ }
+}

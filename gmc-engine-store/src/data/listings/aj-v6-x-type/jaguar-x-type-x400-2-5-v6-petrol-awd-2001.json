@@ -1,0 +1,90 @@
+{
+ "brand": "jaguar",
+ "brandName": "Jaguar",
+ "engineSlug": "aj-v6-x-type",
+ "applicationSlug": "jaguar-x-type-x400-2-5-v6-petrol-awd-2001",
+ "engineCode": "AJ-V6",
+ "condition": "used",
+ "seo": {
+  "title": "Used AJ-V6 2.5 V6 Petrol Engine X-Type X400 | Engined",
+  "description": "Used AJ-V6 2.5 V6 Petrol Engine for Jaguar X-Type (X400) AWD Saloon. Fixed price £850. Tested before dispatch, UK delivery, 12-month warranty.",
+  "canonical": "https://engined.co.uk/engines/aj-v6-x-type/jaguar-x-type-x400-2-5-v6-petrol-awd-2001/"
+ },
+ "hero": {
+  "title": "Used Jaguar AJ-V6 2.5 V6 Petrol Engine — X-Type (X400) AWD Saloon 2001-2009",
+  "subtitle": "Used AJ-V6 engine for Jaguar X-Type (X400) AWD Saloon — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: AJV6-25-USED-XTYPE-SALOON",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £850",
+    "note": "12-month warranty",
+    "price": "£850.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Jaguar AJ-V6 2.5 V6 Petrol Engine — X-Type (X400) AWD Saloon 2001-2009",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJ-V6",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2001-2009",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X400",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/jaguar-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/jaguar-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/jaguar-jaguar-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number above to confirm fitment for your Jaguar X-Type (X400) AWD Saloon before purchasing this AJ-V6 engine.",
+  "list": [
+   "Jaguar X-Type X400 (2.5 V6 Petrol 194-196 hp AWD Saloon) 2001-2009"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "OEM-spec gaskets and seals",
+   "Cleaned and inspected engine block"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this AJ-V6 engine now, or view the full AJ-V6 engine range for other applications.",
+  "crossLink": "← Back to all AJ-V6 engines"
+ }
+}

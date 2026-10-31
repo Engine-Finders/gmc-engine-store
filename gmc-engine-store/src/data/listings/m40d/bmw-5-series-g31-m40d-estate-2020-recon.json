@@ -1,0 +1,92 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "m40d",
+ "applicationSlug": "bmw-5-series-g31-m40d-estate-2020-recon",
+ "engineCode": "M40D",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned M40d 3.0 Twin-Turbo Engine — BMW 5 Series G31 (M40d) Estate 2020-present",
+  "description": "M40d · reconditioned · BMW 5 Series G31 M40d Estate · £5,745 · 12-month warranty · UK delivery. Fully rebuilt to factory specification.",
+  "canonical": "https://engined.co.uk/engines/m40d/bmw-5-series-g31-m40d-estate-2020-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned M40d 3.0 Twin-Turbo Engine — BMW 5 Series G31 (M40d) Estate 2020-present",
+  "subtitle": "Reconditioned M40d engine for BMW 5 Series Estate (G31) M40d 2020-present — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M40D-RECON-G31-M40D-ESTATE",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £5,745",
+    "note": "12-month warranty",
+    "price": "£5,745.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "BMW M40d 3.0 Twin-Turbo reconditioned engine for 5 Series G31 M40d Estate 2020-present — fully rebuilt with new bearings and seals",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M40d",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2020-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "G31",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-m40d-engine.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number above to confirm compatibility, or check the list below for exact vehicle fitment.",
+  "list": [
+   "BMW 5 Series Estate (G31) M40d 2020-present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (long block)",
+   "Tested before dispatch — compression, leak-down, and running checks",
+   "12-month warranty as standard",
+   "Crankshaft regrind and bearing replacement",
+   "Cylinder head skim and pressure test",
+   "New piston rings and con rod bearings",
+   "Full gasket and seal replacement"
+  ],
+  "excluded": [
+   "Turbocharger (reusable from your existing unit if serviceable)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, air conditioning compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M40d engine now, or view the full M40d engine range for other applications.",
+  "crossLink": "← Back to all M40d engines"
+ }
+}

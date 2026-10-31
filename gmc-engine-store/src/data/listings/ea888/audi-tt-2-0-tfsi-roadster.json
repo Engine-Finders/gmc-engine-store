@@ -1,0 +1,97 @@
+{
+ "brand": "audi",
+ "brandName": "Audi",
+ "engineSlug": "ea888",
+ "applicationSlug": "audi-tt-2-0-tfsi-roadster",
+ "engineCode": "EA888",
+ "condition": "used",
+ "seo": {
+  "title": "Used Audi EA888 2.0 TFSI Engine — TT 8J/8S (2.0 TFSI) Roadster 2008-2023",
+  "description": "EA888 · Used · Audi TT Roadster 8J/8S 2008-2023, 2.0 TFSI 211-230 PS — £2,195 · 12-month warranty · UK delivery.",
+  "canonical": "https://engined.co.uk/engines/ea888/audi-tt-2-0-tfsi-roadster/"
+ },
+ "hero": {
+  "title": "Used Audi EA888 2.0 TFSI Engine — TT 8J/8S (2.0 TFSI) Roadster 2008-2023",
+  "subtitle": "Used EA888 2.0 TFSI engine for Audi TT Roadster (8J/8S) 211-230 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA888-USED-TT-RDS",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,195",
+    "note": "12-month warranty",
+    "price": "£2,195.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £3,200",
+    "note": "12-month warranty",
+    "price": "£3,200.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used EA888 2.0 TFSI engine for Audi TT 8J/8S Roadster – 211-230 PS, transverse-mounted sports chassis spec",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA888",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2008-2023",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "8J,8S",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/audi-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/audi-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/audi-audi-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration for instant compatibility confirmation, or check the list below to see if this EA888 2.0 TFSI engine fits your vehicle.",
+  "list": [
+   "Audi TT Roadster (8J/8S) 2008-2023 — 2.0 TFSI (211-230 PS)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch with compression and leak-down checks",
+   "12-month warranty as standard",
+   "Full technical inspection report",
+   "Cam belt and water pump replaced where applicable",
+   "Oil and filter service completed"
+  ],
+  "excluded": [
+   "Turbocharger (reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, air conditioning compressor, power steering pump)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA888 engine now, or view the full EA888 engine range for other applications.",
+  "crossLink": "← Back to all EA888 engines (links to https://engined.co.uk/engines/ea888/)"
+ }
+}

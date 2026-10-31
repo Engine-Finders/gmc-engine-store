@@ -1,0 +1,91 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "td5-recon",
+ "applicationSlug": "discovery-2-es-14p-1998",
+ "engineCode": "TD5",
+ "condition": "recon",
+ "seo": {
+  "title": "Recon Td5 Engine — Discovery 2 ES (14P) 1998-2002",
+  "description": "Land Rover Td5 Recon engine for Discovery 2 ES (L318) — fixed price £6,093, tested before dispatch, UK delivery, and a standard 12-month warranty.",
+  "canonical": "https://engined.co.uk/engines/td5-recon/discovery-2-es-14p-1998/"
+ },
+ "hero": {
+  "title": "Recon Td5 Engine — Discovery 2 ES (14P) 1998-2002",
+  "subtitle": "!Land Rover Td5 2.5 I5 turbo diesel engine for Discovery 2 ES 14P 1998-2002, reconditioned condition.",
+  "sku": "SKU: TD5-RECON-DISCO2-ES-14P",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £6,093",
+    "note": "12-month warranty",
+    "price": "£6,093.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Recon Td5 Engine — Discovery 2 ES (14P) 1998-2002",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "Td5",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "1998-2002",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L318",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Turbo diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your exact fitment using our free reg-checker below, or check the compatible models listed.",
+  "list": [
+   "Discovery 2 (L318) ES (14P) 1998-2002"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Sump and oil pan",
+   "Front cover and seals",
+   "Timing components"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this Td5 engine now, or view the full Td5 range for other applications.",
+  "crossLink": "← Back to all Td5 engines"
+ }
+}

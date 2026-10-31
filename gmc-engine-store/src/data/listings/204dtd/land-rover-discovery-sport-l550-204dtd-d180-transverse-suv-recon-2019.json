@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "204dtd",
+ "applicationSlug": "land-rover-discovery-sport-l550-204dtd-d180-transverse-suv-recon-2019",
+ "engineCode": "204DTD",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned 204DTD 2.0 Diesel Engine — Discovery Sport L550 (D180, Transverse) 2019–present",
+  "description": "Reconditioned 204DTD 2.0 diesel engine for Discovery Sport L550 D180. Fixed price £3,200, tested before dispatch, 12-month warranty & UK delivery.",
+  "canonical": "https://engined.co.uk/engines/204dtd/land-rover-discovery-sport-l550-204dtd-d180-transverse-suv-recon-2019/"
+ },
+ "hero": {
+  "title": "Reconditioned 204DTD 2.0 Diesel — Discovery Sport L550 D180 2019–present",
+  "subtitle": "Reconditioned 204DTD engine for Discovery Sport L550 D180 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 204DTD-RECON-DISCO-D180-2019",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £3,200",
+    "note": "12-month warranty",
+    "price": "£3,200.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned 204DTD 2.0 diesel engine for Discovery Sport L550 D180 transverse mount 2019 to present",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "204DTD",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2019–present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L550",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your exact fitment with our free reg-checker below, then review the compatible models for this 204DTD engine.",
+  "list": [
+   "Discovery Sport L550 (D180) 2019–present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch",
+   "12-month warranty as standard",
+   "Full technical support",
+   "UK delivery included"
+  ],
+  "excluded": [
+   "Turbocharger",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 204DTD engine now, or view the full 204DTD engine range for other applications.",
+  "crossLink": "← Back to all 204DTD engines"
+ }
+}

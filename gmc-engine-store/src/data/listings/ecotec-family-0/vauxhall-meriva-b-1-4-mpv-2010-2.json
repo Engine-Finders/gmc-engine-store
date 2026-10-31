@@ -1,0 +1,83 @@
+{
+ "brand": "vauxhall",
+ "brandName": "Vauxhall",
+ "engineSlug": "ecotec-family-0",
+ "applicationSlug": "vauxhall-meriva-b-1-4-mpv-2010-2",
+ "engineCode": "GM FAMILY 0",
+ "condition": "used",
+ "seo": {
+  "title": "Used Ecotec Family 0 Engine — Vauxhall Meriva B (1.4) MPV 2010-2017 | Engined",
+  "description": "Used GM Family 0 1.4 petrol engine for Vauxhall Meriva B MPV, code A14XER. £895, tested before dispatch, 12-month warranty, and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/ecotec-family-0/vauxhall-meriva-b-1-4-mpv-2010/"
+ },
+ "hero": {
+  "title": "Used Ecotec Family 0 Engine — Vauxhall Meriva B (1.4) MPV 2010-2017",
+  "subtitle": "SUB — Used GM Family 0 engine for Vauxhall Meriva B 1.4 MPV — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: ECOFAM0-USED-MERIVA-B-14-MPV",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £895",
+    "note": "12-month warranty",
+    "price": "£895.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used GM Family 0 1.4 petrol engine for Vauxhall Meriva B MPV, code A14XER, tested before dispatch",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "GM Family 0",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2010-2017",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Meriva B",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your reg before ordering — this 1.4 Family 0 engine is listed for the Vauxhall Meriva B below.",
+  "list": [
+   "Vauxhall Meriva B (1.4 petrol A14XER, MPV) 2010-2017"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block as one unit",
+   "Sump and timing covers where fitted"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this GM Family 0 engine now, or view the full GM Family 0 engine range for other applications.",
+  "crossLink": "← Back to all GM Family 0 engines"
+ }
+}

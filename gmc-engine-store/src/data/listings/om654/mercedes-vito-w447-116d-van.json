@@ -1,0 +1,91 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "om654",
+ "applicationSlug": "mercedes-vito-w447-116d-van",
+ "engineCode": "OM654",
+ "condition": "used",
+ "seo": {
+  "title": "Used OM654 Engine — Mercedes Vito W447 (116d) Van 2019+",
+  "description": "Used OM654 engine for Mercedes Vito W447 116d Van 2019+. £2,180, tested before dispatch, 12-month warranty and UK delivery. In stock, ready to ship.",
+  "canonical": "https://engined.co.uk/engines/om654/mercedes-vito-w447-116d-van/"
+ },
+ "hero": {
+  "title": "Used OM654 Engine — Mercedes Vito W447 (116d) Van 2019+",
+  "subtitle": "Used OM654 engine for Mercedes Vito W447 116d Van — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: OM654-USED-W447-116D-VAN",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,180",
+    "note": "12-month warranty",
+    "price": "£2,180.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used OM654 engine for Mercedes Vito W447 116d Van, van spec commercial duty, W447 Van only.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "OM654",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2019+",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W447",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-om654-engine.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our reg checker to confirm this Used OM654 engine fits your Mercedes Vito W447 116d Van 2019+.",
+  "list": [
+   "Vito Van (W447) 2019+ — 116d",
+   "Fitment note: W447 Van only."
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block included",
+   "Oil sump and timing cover included"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this OM654 engine now, or view the full OM654 engine range for more.",
+  "crossLink": "← Back to all OM654 engines"
+ }
+}

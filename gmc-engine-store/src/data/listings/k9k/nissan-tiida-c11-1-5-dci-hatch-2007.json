@@ -1,0 +1,82 @@
+{
+ "brand": "nissan",
+ "brandName": "Nissan",
+ "engineSlug": "k9k",
+ "applicationSlug": "nissan-tiida-c11-1-5-dci-hatch-2007",
+ "engineCode": "K9K",
+ "condition": "used",
+ "seo": {
+  "title": "Used K9K Engine — Nissan Tiida C11 (1.5 dCi) Hatchback 2007-2011",
+  "description": "Used K9K engine for Nissan Tiida C11 1.5 dCi Hatchback. Fixed price £805, tested before dispatch, 12-month warranty and UK delivery. Recon: £1,755.",
+  "canonical": "https://engined.co.uk/engines/k9k/nissan-tiida-c11-1-5-dci-hatch-2007/"
+ },
+ "hero": {
+  "title": "Used K9K Engine — Nissan Tiida C11 (1.5 dCi) Hatchback 2007-2011",
+  "subtitle": "Used K9K engine for Nissan Tiida C11 1.5 dCi Hatchback — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: K9K-USED-G2-TIIDA",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £805",
+    "note": "12-month warranty",
+    "price": "£805.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used K9K Engine — Nissan Tiida C11 (1.5 dCi) Hatchback 2007-2011",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "K9K",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2007-2011",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "C11",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/renault-k9k-dci-diesel-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number in our checker above to confirm this K9K engine fits your specific Nissan Tiida C11.",
+  "list": [
+   "Nissan Tiida C11 (1.5 dCi) 2007-2011"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Clean, drained, and ready for installation",
+   "Full compression test report"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this K9K engine now, or view the full K9K engine range for other applications.",
+  "crossLink": "← Back to all K9K engines"
+ }
+}

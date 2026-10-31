@@ -1,0 +1,70 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n13-recon",
+ "applicationSlug": "f21-120i-3dr-hatch-2015",
+ "engineCode": "BMW-N13-RECON",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned BMW N13 Engine — 1 Series F21 (120i) 3‑dr Hatch 2015‑2016 | Engined",
+  "description": "Reconditioned BMW N13B16A engine for 1 Series F21 120i (3dr 2015-2016). 170 PS, EU6, renewed timing. £2,495 with 12-month warranty & UK delivery.",
+  "canonical": "https://engined.co.uk/engines/bmw-n13-recon/f21-120i-3dr-hatch-2015/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW N13 Engine — 1 Series F21 (120i) 3‑dr Hatch 2015‑2016",
+  "subtitle": "Reconditioned N13B16A engine for BMW 1 Series F21 120i (3dr, 2015-2016) — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: BMW-N13-RECON-RECON-F21-120I-3DR-HATCH-2015",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,495",
+    "note": "12-month warranty",
+    "price": "£2,495.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned BMW N13B16A engine for F21 120i 3dr hatchback, 2015-2016, 170 PS EU6",
+  "specCards": [],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your reg or confirm fitment — this reconditioned N13 engine is compatible with the models listed below.",
+  "list": [
+   "BMW 1 Series (F21) 2015‑2016 — 120i (170 PS) 3‑door Hatchback"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (N13B16A)",
+   "Tested before dispatch on running rig",
+   "12-month warranty as standard",
+   "New timing chain & guides",
+   "Full gasket set replaced",
+   "Oil and filter service completed"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system components",
+   "Ancillaries (alternator, starter, AC compressor, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N13 engine now, or view the full N13 engine range for other applications.",
+  "crossLink": "← Back to all BMW N13 engines"
+ }
+}

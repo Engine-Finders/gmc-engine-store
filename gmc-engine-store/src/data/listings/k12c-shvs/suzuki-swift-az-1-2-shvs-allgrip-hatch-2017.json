@@ -1,0 +1,83 @@
+{
+ "brand": "suzuki",
+ "brandName": "Suzuki",
+ "engineSlug": "k12c-shvs",
+ "applicationSlug": "suzuki-swift-az-1-2-shvs-allgrip-hatch-2017",
+ "engineCode": "K12C SHVS",
+ "condition": "used",
+ "seo": {
+  "title": "Used Suzuki K12C SHVS Engine — Swift AZ AllGrip | Engined",
+  "description": "Used K12C SHVS engine for Suzuki Swift AZ 1.2 SHVS AllGrip 2017-2020. £495, 12-month warranty, tested before dispatch, UK delivery. In stock, ready to ship.",
+  "canonical": "https://engined.co.uk/engines/k12c-shvs/suzuki-swift-az-1-2-shvs-allgrip-hatch-2017/"
+ },
+ "hero": {
+  "title": "Used Suzuki K12C SHVS Engine — Swift AZ (1.2 SHVS AllGrip) Hatchback 2017-2020",
+  "subtitle": "SUB — Used K12C SHVS engine for Suzuki Swift AZ 1.2 SHVS AllGrip — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: K12C-USED-SWIFT-AZ-ALLGRIP",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £495",
+    "note": "12-month warranty",
+    "price": "£495.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Suzuki K12C SHVS engine for Swift AZ 1.2 SHVS AllGrip 4WD hatchback, tested before dispatch",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "K12C SHVS",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2017-2020",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "AZ",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our reg checker to confirm your Suzuki Swift AZ 1.2 SHVS AllGrip — this K12C SHVS engine fits the application below.",
+  "list": [
+   "Suzuki Swift AZ (1.2 SHVS AllGrip 90 PS, 4WD) 2017-2020"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New gaskets and seals",
+   "Oil and filter service components"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this K12C SHVS engine now, or view full K12C SHVS range.",
+  "crossLink": "← Back to all K12C SHVS engines"
+ }
+}

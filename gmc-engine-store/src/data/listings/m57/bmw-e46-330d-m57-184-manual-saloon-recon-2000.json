@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "m57",
+ "applicationSlug": "bmw-e46-330d-m57-184-manual-saloon-recon-2000",
+ "engineCode": "M57",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned M57 3.0 Engine — BMW E46 330d (Manual, 184 PS) 2000–2005",
+  "description": "Reconditioned M57 engine for BMW E46 330d, 184 PS Manual saloon. Fixed price £2,500, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/m57/bmw-e46-330d-m57-184-manual-saloon-recon-2000/"
+ },
+ "hero": {
+  "title": "Reconditioned M57 3.0 Engine — BMW E46 330d (Manual, 184 PS) 2000–2005",
+  "subtitle": "Reconditioned M57 engine for BMW E46 330d, 184 PS Manual — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M57-PEND-RECON-E46-330D-0005",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,500",
+    "note": "12-month warranty",
+    "price": "£2,500.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned M57 3.0 engine for BMW E46 330d 184 PS Manual saloon, tested unit ready for installation.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M57",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2000–2005",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E46",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm exact fitment for your vehicle by entering your registration into our checker below before purchasing this M57 engine.",
+  "list": [
+   "BMW E46 330d (Saloon) 2000–2005"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Renewed timing chains",
+   "UK delivery"
+  ],
+  "excluded": [
+   "Turbocharger",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M57 engine now, or view the full M57 engine range for other applications.",
+  "crossLink": "← Back to all M57 engines"
+ }
+}

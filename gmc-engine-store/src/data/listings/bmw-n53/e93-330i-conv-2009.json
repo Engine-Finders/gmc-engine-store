@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n53",
+ "applicationSlug": "e93-330i-conv-2009",
+ "engineCode": "N53",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW N53 Engine — E93 330i N53 2009‑2011 | Engined",
+  "description": "Used BMW N53 engine for BMW 3 Series E93 330i N53 (272 PS) Convertible 2009‑2011. Fixed £1,605, tested before dispatch, 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/bmw-n53/e93-330i-conv-2009/"
+ },
+ "hero": {
+  "title": "Used BMW N53 Engine — 3 Series E93 (330i N53) Convertible 2009‑2011",
+  "subtitle": "Used BMW N53 engine for BMW 3 Series E93 330i N53 (272 PS) Convertible — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N52-USED-E93-330I-N53-FL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,605",
+    "note": "12-month warranty",
+    "price": "£1,605.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW N53 engine for BMW 3 Series E93 330i N53 Convertible 2009‑2011, LCI N53B30 direct-injection.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "BMW N53",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2009‑2011",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E93",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your registration with our reg checker before ordering to ensure this BMW N53 engine matches your E93 330i N53 Convertible.",
+  "list": [
+   "BMW 3 Series (E93) 2009‑2011 — 330i N53 (272 PS) Convertible"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Sump and timing covers"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this BMW N53 engine now, or view the full BMW N53 engine range for other applications.",
+  "crossLink": "← Back to all BMW N53 engines"
+ }
+}

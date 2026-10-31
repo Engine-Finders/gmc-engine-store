@@ -1,0 +1,91 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n43-recon",
+ "applicationSlug": "e81-118i-3dr-hatch-2010",
+ "engineCode": "N43",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned BMW N43 Engine — 1 Series E81 (118i) 3‑dr Hatch 2010‑2013",
+  "description": "Recon BMW N43 143PS engine for 1 Series E81 118i 3‑dr Hatchback (2010‑2013). EU5 compliant, renewed timing chain, fully tested. 12-month warranty, UK delivery. £1,705.",
+  "canonical": "https://engined.co.uk/engines/bmw-n43-recon/e81-118i-3dr-hatch-2010/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW N43 Engine — 1 Series E81 (118i) 3‑dr Hatch 2010‑2013",
+  "subtitle": "Reconditioned N43 143PS engine for 1 Series E81 118i 3‑door Hatchback — fully rebuilt, tested before dispatch, UK delivery.",
+  "sku": "SKU: N43-RECON-E81-118I-FL",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,705",
+    "note": "12-month warranty",
+    "price": "£1,705.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Fully reconditioned BMW N43B20 engine for E81 118i 3‑dr Hatchback — rebuilt 143PS EU5 unit with renewed timing chain, complete assembly",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N43",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2010‑2013",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E81",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your vehicle's compatibility using our registration checker, or confirm these models and chassis codes below.",
+  "list": [
+   "BMW 1 Series (E81) 2010‑2013 — 118i (143 PS) 3‑door Hatchback"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Timing chain components",
+   "Gaskets and seals",
+   "Oil and filters"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries (alternator, starter, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N43 engine now, or view the full BMW N43 engine range for other applications.",
+  "crossLink": "← Back to all BMW N43 engines"
+ }
+}

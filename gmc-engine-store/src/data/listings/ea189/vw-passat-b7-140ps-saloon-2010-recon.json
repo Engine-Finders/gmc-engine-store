@@ -1,0 +1,90 @@
+{
+ "brand": "volkswagen",
+ "brandName": "Volkswagen",
+ "engineSlug": "ea189",
+ "applicationSlug": "vw-passat-b7-140ps-saloon-2010-recon",
+ "engineCode": "EA189",
+ "condition": "recon",
+ "seo": {
+  "title": "Recon EA189 Passat B7 140PS | Engined",
+  "description": "Reconditioned EA189 2.0 TDI engine for VW Passat B7 saloon, 140 PS 2010-2014. Fixed price £1,900, tested before dispatch, 12-month warranty.",
+  "canonical": "https://engined.co.uk/engines/ea189/vw-passat-b7-140ps-saloon-2010-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned EA189 Engine — VW Passat B7 (2.0 TDI 140 PS) Saloon 2010-2014",
+  "subtitle": "Reconditioned EA189 engine for VW Passat B7 2.0 TDI 140 PS saloon — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA189-RECON-PASSAT-B7-140-SALOON-12M",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,900",
+    "note": "12-month warranty",
+    "price": "£1,900.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned EA189 2.0 TDI 140 PS engine for VW Passat B7 saloon, 2010-2014, ready for fitting",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA189",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2010-2014",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "36",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/volkswagen-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/volkswagen-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/volkswagen-vw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with our reg checker before you buy — this reconditioned EA189 suits the applications listed below.",
+  "list": [
+   "VW Passat B7 (36) — 2.0 TDI 140 PS Saloon — 2010-2014"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly, built to EA189 2.0 TDI 140 PS specification",
+   "Renewed timing belt and tensioner",
+   "Rebuilt cylinder head with new valve stem seals",
+   "New water pump",
+   "Tested before dispatch, with 12-month warranty as standard"
+  ],
+  "excluded": [
+   "Turbocharger (reusable — transferred from your unit where condition allows)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, air conditioning compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA189 engine now, or view the full EA189 engine range for other applications.",
+  "crossLink": "← Back to all EA189 engines"
+ }
+}

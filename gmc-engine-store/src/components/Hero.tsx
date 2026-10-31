@@ -1,14 +1,18 @@
+"use client";
+
 import Icon from "./Icon";
 import UkFlag from "./UkFlag";
 import HeroOrbit from "./HeroOrbit";
 import HeroCarousel from "./HeroCarousel";
 import TrustBar from "./TrustBar";
 import hero from "@/data/hero.json";
+import { useRegCheck } from "./quote/QuoteModal";
 
 /* =========================================================
    Registration Form
    ========================================================= */
 function RegistrationForm() {
+  const rc = useRegCheck();
   return (
     <div
       id="reg-check"
@@ -39,7 +43,7 @@ function RegistrationForm() {
       </p>
 
       {/* Form */}
-      <form className="relative mt-2.5 flex flex-col gap-2 sm:flex-row lg:mt-4">
+      <form onSubmit={rc.onSubmit} className="relative mt-2.5 flex flex-col gap-2 sm:flex-row lg:mt-4">
         <div className="flex flex-1 items-center overflow-hidden rounded-lg bg-white">
           {/* Country */}
           <span className="flex items-center gap-1.5 border-r border-line bg-[#eef1f6] px-2 py-1.5">
@@ -54,6 +58,7 @@ function RegistrationForm() {
           <input
             type="text"
             placeholder={hero.form.placeholder}
+            value={rc.reg} onChange={rc.onChange} name="reg" autoComplete="off" aria-label="Vehicle registration"
             /* text-base on mobile: iOS Safari auto-zooms the viewport on focus for
                any input under 16px, which pans the page and clips the hero */
             className="min-w-0 flex-1 px-3 py-1.5 text-base sm:text-sm font-semibold tracking-wide text-ink-900 outline-none placeholder:text-ink-400"

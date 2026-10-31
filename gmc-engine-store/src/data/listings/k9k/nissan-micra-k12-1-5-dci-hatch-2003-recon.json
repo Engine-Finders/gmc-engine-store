@@ -1,0 +1,82 @@
+{
+ "brand": "nissan",
+ "brandName": "Nissan",
+ "engineSlug": "k9k",
+ "applicationSlug": "nissan-micra-k12-1-5-dci-hatch-2003-recon",
+ "engineCode": "K9K",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned K9K Engine — Nissan Micra K12 (1.5 dCi) Hatchback 2003-2010",
+  "description": "Reconditioned K9K engine for Nissan Micra K12 1.5 dCi Hatchback. Used from £805, recon £1,755. Tested before dispatch, 12-month warranty & UK delivery.",
+  "canonical": "https://engined.co.uk/engines/k9k/nissan-micra-k12-1-5-dci-hatch-2003-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned K9K Engine — Nissan Micra K12 (1.5 dCi) Hatchback 2003-2010",
+  "subtitle": "Reconditioned K9K engine for Nissan Micra K12 1.5 dCi Hatchback — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: K9K-USED-G2-MICRAK12",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £805",
+    "note": "12-month warranty",
+    "price": "£805.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned K9K Engine — Nissan Micra K12 (1.5 dCi) Hatchback 2003-2010",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "K9K",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2003-2010",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "K12",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/renault-k9k-dci-diesel-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number in our checker above to confirm this K9K engine fits your specific Nissan Micra K12.",
+  "list": [
+   "Nissan Micra K12 (1.5 dCi) 2003-2010"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Clean, drained, and ready for installation",
+   "Full compression test report"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this K9K engine now, or view the full K9K engine range for other applications.",
+  "crossLink": "← Back to all K9K engines"
+ }
+}

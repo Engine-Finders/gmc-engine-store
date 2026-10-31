@@ -1,0 +1,82 @@
+{
+ "brand": "volvo",
+ "brandName": "Volvo",
+ "engineSlug": "d5244t",
+ "applicationSlug": "volvo-s80-163ps-saloon-2001",
+ "engineCode": "D5244T",
+ "condition": "used",
+ "seo": {
+  "title": "D5 S80 163PS Saloon | Engined [30 chars]",
+  "description": "Used D5244T D5 engine for Volvo S80 I (184) 2001-2006 —",
+  "canonical": "https://engined.co.uk/engines/d5244t/volvo-s80-163ps-saloon-2001/"
+ },
+ "hero": {
+  "title": "Used D5 Engine — Volvo S80 (2.4 D5 163 PS) Saloon 2001-2006",
+  "subtitle": "Used D5244T engine for Volvo S80 I 2001-2006 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: D5244T-USED-S80-163-SALOON",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £895",
+    "note": "12-month warranty",
+    "price": "£895.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used D5 Engine — Volvo S80 (2.4 D5 163 PS) Saloon 2001-2006",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "D5244T",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2001-2006",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "184",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "<p>Confirm fitment with our registration checker before ordering — every S80 I",
+  "list": [
+   "Volvo S80 I 184 (2.4 D5 163 PS) 2001-2006"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Core internals as built at the factory",
+   "Oil sump and cam cover",
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ],
+  "excluded": []
+ },
+ "cta": {
+  "line": "<p class=\"cta\">Buy this D5244T engine now, or",
+  "crossLink": "← Back to all D5244T engines</a>"
+ }
+}

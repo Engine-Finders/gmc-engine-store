@@ -1,0 +1,96 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "m274",
+ "applicationSlug": "mercedes-c-class-w205-m274-245-prefl-coupe-2014-2",
+ "engineCode": "M274",
+ "condition": "used",
+ "seo": {
+  "title": "Used M274 2.0T Engine — C-Class W205 Coupe (C300, 245 PS) Pre-FL 2014–2017 | Engined",
+  "description": "Used M274 2.0T engine for C-Class W205 C300 coupe (pre-FL 2014–2017), 245 PS. Tested before dispatch, 12-month warranty and UK delivery. £1,835.",
+  "canonical": "https://engined.co.uk/engines/m274/mercedes-c-class-w205-m274-245-prefl-coupe-2014/"
+ },
+ "hero": {
+  "title": "Used M274 2.0T Engine — C-Class W205 Coupe (C300, 245 PS) Pre-FL 2014–2017",
+  "subtitle": "Used M274 engine for C-Class W205 C300 Coupe (pre-FL 2014–2017) — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M274-USED-W205-C300-PREFL-CPE",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,835",
+    "note": "12-month warranty",
+    "price": "£1,835.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,985",
+    "note": "12-month warranty",
+    "price": "£2,985.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used M274 2.0T engine, longitudinal, Mercedes-Benz C-Class W205 C300 coupe pre-facelift 2014–2017, 245 PS.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M274",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2014–2017",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W205",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-m274-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration in the checker above to confirm this M274 fits your C-Class W205 C300 coupe before you buy.",
+  "list": [
+   "Mercedes-Benz C-Class W205 (C300 Coupe — 245 PS — M274 — Longitudinal) 2014–2017"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly — block, cylinder head, sump and covers",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Engine code verified against your registration before dispatch",
+   "UK delivery"
+  ],
+  "excluded": [
+   "Turbocharger (included only where reusable and confirmed for the unit supplied)",
+   "Injectors and fuel system components",
+   "Ancillaries — alternator, starter motor, air conditioning compressor",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M274 engine now, or view the full M274 engine range for other applications.",
+  "crossLink": "← Back to all M274 engines"
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "brand": "peugeot",
+ "brandName": "Peugeot",
+ "engineSlug": "vq35-37-v6",
+ "applicationSlug": "infiniti-g35-v36-sedan-saloon-2007-2",
+ "engineCode": "VQ35HR",
+ "condition": "used",
+ "seo": {
+  "title": "Used Nissan VQ35HR Engine — Infiniti G35 V36 (Sedan) Saloon 2007-2008 | Engined",
+  "description": "Used VQ35HR engine for Infiniti G35 V36 Sedan (2007-2008). 3.5L V6 HR 313 PS, £2,525, 12-month warranty, tested before dispatch, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/vq35-37-v6/infiniti-g35-v36-sedan-saloon-2007/"
+ },
+ "hero": {
+  "title": "Used Nissan VQ35HR Engine — Infiniti G35 V36 (Sedan) Saloon 2007-2008",
+  "subtitle": "Used VQ35HR engine for Infiniti G35 V36 Sedan — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: VQ35-USED-G35-V36-SEDAN",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,525",
+    "note": "12-month warranty",
+    "price": "£2,525.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used VQ35HR engine for Infiniti G35 V36 Sedan 2007-2008, 3.5L V6 HR 313 PS, tested.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "VQ35HR",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2007–2008",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "V36",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with your registration before ordering — this listing covers the Infiniti G35 V36 Sedan only.",
+  "list": [
+   "Infiniti G35 V36 (Sedan — 3.5L V6 HR, 313 PS) 2007–2008"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New gaskets and seals",
+   "New timing chain and tensioner"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this VQ35HR engine now, or view the full VQ35HR engine range for other applications.",
+  "crossLink": "← Back to all VQ35HR engines"
+ }
+}

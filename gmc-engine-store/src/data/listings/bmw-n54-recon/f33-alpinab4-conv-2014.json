@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n54-recon",
+ "applicationSlug": "f33-alpinab4-conv-2014",
+ "engineCode": "N54",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned BMW N54 Engine — 4 Series F33 (Alpina B4) Convertible 2014‑2019",
+  "description": "Reconditioned BMW N54 engine for Alpina B4 (F33) Convertible 2014‑2019. N54B30B with Alpina tune, Biturbo 410 PS. £3,680 with 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/bmw-n54-recon/f33-alpinab4-conv-2014/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW N54 Engine — 4 Series F33 (Alpina B4) Convertible 2014‑2019",
+  "subtitle": "Reconditioned N54 engine for Alpina B4 Biturbo Convertible — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N54-RECON-F33-ALPINAB4",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £3,680",
+    "note": "12-month warranty",
+    "price": "£3,680.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned BMW N54B30B engine for Alpina B4 (F33) Biturbo Convertible, 410 PS, 2014‑2019.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N54",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2014-2019",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F33",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration below to confirm this reconditioned N54 engine fits your Alpina B4 before you buy.",
+  "list": [
+   "Alpina B4 F33 (B4 Biturbo 410 PS Convertible) 2014‑2019"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Renewed timing components",
+   "Gaskets and seals required for fitting"
+  ],
+  "excluded": [
+   "Turbocharger (reusable only, subject to condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N54 engine now, or view the full N54 engine range for other applications.",
+  "crossLink": "← Back to all N54 engines"
+ }
+}

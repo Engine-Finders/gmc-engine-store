@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "204dtd",
+ "applicationSlug": "land-rover-discovery-sport-l550-204dtd-d150-transverse-suv-recon-2015",
+ "engineCode": "204DTD",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned 204DTD 2.0 Diesel Engine — Discovery Sport L550 (D150, Transverse) 2015–2019",
+  "description": "Reconditioned 204DTD 2.0 diesel engine for Discovery Sport L550 (D150, Transverse) 2015–2019. Fixed £3,200, fully tested, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/204dtd/land-rover-discovery-sport-l550-204dtd-d150-transverse-suv-recon-2015/"
+ },
+ "hero": {
+  "title": "Reconditioned 204DTD 2.0 Diesel Engine — Discovery Sport L550 (D150, Transverse) 2015–2019",
+  "subtitle": "Reconditioned 204DTD engine for Discovery Sport L550 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 204DTD-RECON-DISCO-D150-1519",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £3,200",
+    "note": "12-month warranty",
+    "price": "£3,200.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned 204DTD 2.0 diesel engine for Discovery Sport L550, transverse mount, 2015–2019",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "204DTD",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2015–2019",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L550",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration to confirm your Discovery Sport L550 is covered before ordering.",
+  "list": [
+   "Discovery Sport L550 (2.0 Ingenium D150, Transverse) 2015–2019"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New gaskets and seals fitted during preparation",
+   "Oil sump and timing cover"
+  ],
+  "excluded": [
+   "Turbocharger / supercharger (if reusable, supplied per condition)",
+   "Injectors and fuel system",
+   "Ancillaries (alternator, starter, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 204DTD engine now, or view the full 204DTD engine range for other applications.",
+  "crossLink": "← Back to all 204DTD engines"
+ }
+}

@@ -1,0 +1,97 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "b48",
+ "applicationSlug": "bmw-x1-u11-xdrive23i-suv-2022",
+ "engineCode": "B48",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW B48 Engine — X1 U11 (xDrive23i) SUV 2022-present",
+  "description": "B48 · used · X1 U11 xDrive23i (218 hp) — £2,530. Tested before dispatch. 12-month warranty & UK delivery included.",
+  "canonical": "https://engined.co.uk/engines/b48/bmw-x1-u11-xdrive23i-suv-2022/"
+ },
+ "hero": {
+  "title": "Used BMW B48 Engine — X1 U11 (xDrive23i) SUV 2022-present",
+  "subtitle": "Used B48 engine for BMW X1 U11 xDrive23i — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: B48-USED-U11-XDRIVE23I",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,530",
+    "note": "12-month warranty",
+    "price": "£2,530.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £3,105",
+    "note": "12-month warranty",
+    "price": "£3,105.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW B48 engine for X1 U11 xDrive23i SUV, transverse-mounted configuration.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "B48",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2022-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "U11",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-b48-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our registration checker for exact fitment confirmation on your specific vehicle.",
+  "list": [
+   "BMW X1 SUV (U11) 2022-present — xDrive23i (218 hp)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch",
+   "12-month warranty as standard",
+   "Comprehensive inspection report",
+   "UK mainland delivery",
+   "14-day return policy"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this B48 engine now, or view the full B48 engine range for other applications.",
+  "crossLink": "← Back to all B48 engines"
+ }
+}

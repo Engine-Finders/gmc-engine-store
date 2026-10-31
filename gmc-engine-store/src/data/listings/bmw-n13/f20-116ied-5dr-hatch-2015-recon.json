@@ -1,0 +1,91 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n13",
+ "applicationSlug": "f20-116ied-5dr-hatch-2015-recon",
+ "engineCode": "N13",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned BMW N13 Engine — 1 Series F20 (116i ED) 5‑dr Hatch 2015‑2016",
+  "description": "Recond N13 F20 116i ED · Fully reconditioned · 1 Series 5dr Hatchback · £2,245 · 12-month warranty · UK delivery. EU6 compliant with renewed timing components.",
+  "canonical": "https://engined.co.uk/engines/bmw-n13/f20-116ied-5dr-hatch-2015-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW N13 Engine — 1 Series F20 (116i ED) 5‑dr Hatch 2015‑2016",
+  "subtitle": "Reconditioned N13 engine for 1 Series 5‑door Hatchback — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N13-RECON-F20-116IED-FL",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,245",
+    "note": "12-month warranty",
+    "price": "£2,245.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned BMW N13 F20 116i ED engine for 1 Series 5‑door Hatchback, EU6 116PS Efficient Dynamics, fully rebuilt.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N13",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2015‑2016",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F20",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our reg-checker to confirm this BMW N13 engine is the correct fit for your vehicle.",
+  "list": [
+   "BMW 1 Series (F20) 2015‑2016 — 116i ED (116 PS) 5‑door Hatchback"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch (including compression, leak-down and oil pressure tests)",
+   "12-month warranty as standard",
+   "UK mainland delivery (included in price)",
+   "All gaskets and seals renewed",
+   "Correct specification for your vehicle"
+  ],
+  "excluded": [
+   "Turbocharger (reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries (starter motor, alternator, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N13 engine now, or view the full N13 engine range for other applications.",
+  "crossLink": "← Back to all BMW N13 engines"
+ }
+}

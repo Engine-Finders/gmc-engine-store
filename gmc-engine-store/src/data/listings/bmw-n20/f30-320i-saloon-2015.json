@@ -1,0 +1,91 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n20",
+ "applicationSlug": "f30-320i-saloon-2015",
+ "engineCode": "N20",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW N20 Engine — 3 Series F30 (320i) Saloon 2015‑2016",
+  "description": "Used BMW N20B20 engine for 3 Series F30 320i Saloon (2015-2016). 184 PS, EU6, tested. £1,595 with 12-month warranty & UK delivery.",
+  "canonical": "https://engined.co.uk/engines/bmw-n20/f30-320i-saloon-2015/"
+ },
+ "hero": {
+  "title": "Used BMW N20 Engine — 3 Series F30 (320i) Saloon 2015‑2016",
+  "subtitle": "Used N20B20 engine for BMW 3 Series F30 320i Saloon (2015‑2016) — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N20-USED-F30-320I-FL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,595",
+    "note": "12-month warranty",
+    "price": "£1,595.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW N20B20 engine for F30 320i Saloon (2015-2016), 184 PS, EU6",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N20",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2015‑2016",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F30",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-n20-n47-engine.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration or confirm compatibility — this used N20 engine is designed for the following models.",
+  "list": [
+   "BMW 3 Series (F30) 2015‑2016 — 320i (184 PS) Saloon"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (N20B20)",
+   "Tested before dispatch on running rig",
+   "12-month warranty as standard",
+   "Full inspection and compression test",
+   "Oil and filter service completed",
+   "Ancillary components (where fitted)"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system components",
+   "Ancillaries (alternator, starter, AC compressor, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N20 engine now, or view the full N20 engine range for other applications.",
+  "crossLink": "← Back to all BMW N20 engines"
+ }
+}

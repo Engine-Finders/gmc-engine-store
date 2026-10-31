@@ -1,0 +1,91 @@
+{
+ "brand": "volkswagen",
+ "brandName": "Volkswagen",
+ "engineSlug": "ea189",
+ "applicationSlug": "vw-tiguan-mk1-140ps-suv-2007-recon",
+ "engineCode": "EA189",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned EA189 Engine — VW Tiguan Mk1 (2.0 TDI 140 PS) SUV 2007-2015 | Engined",
+  "description": "Reconditioned EA189 2.0 TDI engine for VW Tiguan Mk1 (5N) 2007-2015 and more — £1,800 fixed price, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/ea189/vw-tiguan-mk1-140ps-suv-2007-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned EA189 Engine — VW Tiguan Mk1 (2.0 TDI 140 PS) SUV 2007-2015",
+  "subtitle": "Reconditioned EA189 engine for Tiguan Mk1 2.0 TDI 140 PS SUV — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA189-RECON-TIGUAN-MK1-140-SUV-12M",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,800",
+    "note": "12-month warranty",
+    "price": "£1,800.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned EA189 2.0 TDI engine, Tiguan Mk1 5N SUV, 140 PS, transverse FWD/4x4 fitment",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA189",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2007-2015",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Tiguan Mk1 5N",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/volkswagen-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/volkswagen-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/volkswagen-vw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration with our reg checker before ordering — it confirms the exact engine code for your Tiguan Mk1.",
+  "list": [
+   "VW Tiguan Mk1 5N (2.0 TDI 140 PS — SUV) 2007-2015"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Renewed timing belt and tensioner",
+   "New water pump",
+   "Rebuilt cylinder head with new valve stem seals"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA189 engine now, or view the full EA189 engine range for other applications.",
+  "crossLink": "← Back to all EA189 engines"
+ }
+}

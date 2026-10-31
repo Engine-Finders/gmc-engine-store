@@ -1,0 +1,90 @@
+{
+ "brand": "jaguar",
+ "brandName": "Jaguar",
+ "engineSlug": "ingenium-2-0-diesel",
+ "applicationSlug": "land-rover-discovery-5-l462-sd4-diesel-2017",
+ "engineCode": "204DTA",
+ "condition": "used",
+ "seo": {
+  "title": "Used 204DTA 2.0 Ingenium Diesel Engine — Discovery 5 (L462) Sd4 SUV 2017-Present",
+  "description": "Used 204DTA 2.0 Ingenium diesel engine for Discovery 5 (L462) Sd4 SUV. Fixed price £3,444, tested before dispatch, 12-month warranty & UK delivery.",
+  "canonical": "https://engined.co.uk/engines/ingenium-2-0-diesel/land-rover-discovery-5-l462-sd4-diesel-2017/"
+ },
+ "hero": {
+  "title": "Used 204DTA 2.0 Ingenium Diesel Engine — Discovery 5 (L462) Sd4 SUV 2017-Present",
+  "subtitle": "Used 204DTA engine for Discovery 5 (L462) Sd4 SUV — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 204DTA-USED-DISCOVERY-L462-SD4",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £3,444",
+    "note": "12-month warranty",
+    "price": "£3,444.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used 204DTA 2.0 Ingenium Diesel Engine — Discovery 5 (L462) Sd4 SUV 2017-Present",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "204DTA",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2017-Present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L462",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/jaguar-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/jaguar-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/jaguar-jaguar-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number above to confirm this 204DTA engine is the exact match for your Land Rover before you buy.",
+  "list": [
+   "Land Rover Discovery 5 L462 (Sd4 2.0 Diesel 240 PS SUV) 2017-Present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Discovery 5-specific ancillaries fitted",
+   "UK delivery included"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 204DTA engine now, or view the full 204DTA engine range for other applications.",
+  "crossLink": "← Back to all 204DTA engines"
+ }
+}

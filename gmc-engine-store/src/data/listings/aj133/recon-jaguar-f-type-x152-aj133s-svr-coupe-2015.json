@@ -1,0 +1,91 @@
+{
+ "brand": "jaguar",
+ "brandName": "Jaguar",
+ "engineSlug": "aj133",
+ "applicationSlug": "recon-jaguar-f-type-x152-aj133s-svr-coupe-2015",
+ "engineCode": "AJ133S",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned Jaguar AJ133S V8 Engine – F-Type SVR Coupe | Engined",
+  "description": "Reconditioned AJ133S engine for Jaguar F-Type SVR Coupe. 5.0L Supercharged V8, 575 PS. Fixed price £7,245. 12-month warranty included. UK delivery available.",
+  "canonical": "https://engined.co.uk/engines/aj133/recon-jaguar-f-type-x152-aj133s-svr-coupe-2015/"
+ },
+ "hero": {
+  "title": "Reconditioned Jaguar AJ133S 5.0 V8 Supercharged Engine — F-Type (X152) SVR Coupe 2013-Present",
+  "subtitle": "Reconditioned AJ133S engine for Jaguar F-Type SVR Coupe and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: AJ133-RECON-FTYPE-X152-SVR-COUPE",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £7,245",
+    "note": "12-month warranty",
+    "price": "£7,245.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned Jaguar AJ133S 5.0L Supercharged V8 engine for F-Type X152 SVR Coupe, highest-output assembly with supercharger.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJ133S",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2013-Present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X152",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/jaguar-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/jaguar-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jlr-aj133-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration above to confirm this AJ133S engine fits your Jaguar F-Type SVR Coupe.",
+  "list": [
+   "F-Type (X152) SVR Coupe (2013–Present)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (AJ133S 5.0L V8 Supercharged)",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Supercharger unit included",
+   "ECU and wiring loom compatibility verified",
+   "Oil filter and sump plug included"
+  ],
+  "excluded": [
+   "Turbocharger (N/A - Supercharged)",
+   "Injectors/fuel system (unless specified as reusable)",
+   "Ancillaries (alternator, starter motor, AC compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this AJ133S engine now, or view the full AJ133 engine range for other applications.",
+  "crossLink": "← Back to all AJ133 engines"
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "brand": "seat",
+ "brandName": "Seat",
+ "engineSlug": "ea211",
+ "applicationSlug": "seat-tarraco-kn-1-5-tsi-evo-150-suv-2018",
+ "engineCode": "EA211",
+ "condition": "used",
+ "seo": {
+  "title": "Used EA211 Engine — SEAT Tarraco KN (1.5 TSI EVO 150 PS) SUV 2018-Present",
+  "description": "Used EA211 engine for SEAT Tarraco KN 1.5 TSI EVO 150 PS (DLAC), 2018-present. Used £1,195. 12-month warranty, UK delivery, tested before dispatch.",
+  "canonical": "https://engined.co.uk/engines/ea211/seat-tarraco-kn-1-5-tsi-evo-150-suv-2018/"
+ },
+ "hero": {
+  "title": "Used EA211 Engine — SEAT Tarraco KN (1.5 TSI EVO 150 PS) SUV 2018-Present",
+  "subtitle": "Used EA211 engine for SEAT Tarraco KN 1.5 TSI EVO — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA211-USED-G2-15TSI-TARRACO",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,195",
+    "note": "12-month warranty",
+    "price": "£1,195.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "EA211 1.5 TSI EVO 150 PS used engine for SEAT Tarraco KN SUV, transverse-mounted, Miller cycle",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA211",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2018-Present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "KN",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration to confirm this EA211 fits your SEAT Tarraco KN — every application listed is matched by chassis and engine code.",
+  "list": [
+   "SEAT Tarraco KN (1.5 TSI EVO 150 PS, DLAC) 2018-present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Engine code and chassis match confirmed before dispatch",
+   "Delivery across the UK"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA211 engine now, or view the full EA211 range for other applications.",
+  "crossLink": "← Back to all EA211 engines"
+ }
+}

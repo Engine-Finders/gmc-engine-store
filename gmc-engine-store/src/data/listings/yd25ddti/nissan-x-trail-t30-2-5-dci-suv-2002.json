@@ -1,0 +1,82 @@
+{
+ "brand": "nissan",
+ "brandName": "Nissan",
+ "engineSlug": "yd25ddti",
+ "applicationSlug": "nissan-x-trail-t30-2-5-dci-suv-2002",
+ "engineCode": "YD25DDTI",
+ "condition": "used",
+ "seo": {
+  "title": "Used Nissan YD25DDTi Engine — X‑Trail T30 2.5 dCi 2002-2006",
+  "description": "Used YD25DDTi engine for Nissan X‑Trail T30 2.5 dCi SUV 2002–2006. Used price £2,155, tested before dispatch, 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/yd25ddti/nissan-x-trail-t30-2-5-dci-suv-2002/"
+ },
+ "hero": {
+  "title": "Used Nissan YD25DDTi Engine — Nissan X‑Trail T30 (2.5 dCi) SUV 2002-2006",
+  "subtitle": "SUB — Used YD25DDTi engine for Nissan X‑Trail T30 2.5 dCi — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: YD25DDTi-USED-XTRAIL-T30",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,155",
+    "note": "12-month warranty",
+    "price": "£2,155.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used YD25DDTi 2.5 dCi diesel engine for Nissan X‑Trail T30 SUV 2002–2006, longitudinal common-rail unit.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "YD25DDTi",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2002–2006",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "T30",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/nissan-nissan-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our registration checker to confirm this YD25DDTi fits your Nissan X‑Trail T30 before you buy.",
+  "list": [
+   "Nissan X‑Trail T30 (2.5 dCi 136–173 PS) 2002–2006"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Sump and rocker cover included as supplied",
+   "Timing covers included as supplied"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this YD25DDTi engine now, or view the full YD25DDTi engine range for other applications.",
+  "crossLink": "← Back to all YD25DDTi engines"
+ }
+}

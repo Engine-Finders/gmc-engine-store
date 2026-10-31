@@ -1,0 +1,84 @@
+{
+ "brand": "peugeot",
+ "brandName": "Peugeot",
+ "engineSlug": "ecotec-family-0",
+ "applicationSlug": "vauxhall-meriva-b-1-4-mpv-2010-recon",
+ "engineCode": "ECOTEC FAMILY 0",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned Vauxhall Ecotec Engine — Meriva B (1.4) MPV 2010-2017 | Engined",
+  "description": "Reconditioned Ecotec Family 0 engine for Vauxhall Meriva B (1.4). Fits A14XEL/A14XER models. £1,345 with 12-month warranty and UK delivery. Buy now.",
+  "canonical": "https://engined.co.uk/engines/ecotec-family-0/vauxhall-meriva-b-1-4-mpv-2010-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned Vauxhall Ecotec Engine — Meriva B (1.4) MPV 2010-2017",
+  "subtitle": "Reconditioned Ecotec Family 0 engine for Vauxhall Meriva B (1.4), Corsa D/E, Astra H/J and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: ECOFAM0-RECON-MERIVA-B-14",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,345",
+    "note": "12-month warranty",
+    "price": "£1,345.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned Ecotec Family 0 1.4 engine for Vauxhall Meriva B, transverse-mounted, chain-driven petrol.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "Ecotec Family 0",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2010-2017",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Meriva B",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "This Ecotec Family 0 engine is a direct fit for the vehicles listed below. Use our registration checker to instantly confirm compatibility with your specific model.",
+  "list": [
+   "Vauxhall Meriva B (1.4 MPV) (2010-2017)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (block, cylinder head, sump, and internals)",
+   "Fully tested and reconditioned before dispatch",
+   "12-month warranty as standard",
+   "New timing chain and tensioner kit",
+   "New gaskets and seals",
+   "Oil pump and water pump"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, A/C compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this Ecotec Family 0 engine now, or view the full Ecotec Family 0 engine range for other applications.",
+  "crossLink": "← Back to all Ecotec Family 0 engines"
+ }
+}

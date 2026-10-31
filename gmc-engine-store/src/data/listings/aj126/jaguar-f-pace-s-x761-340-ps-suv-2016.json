@@ -1,0 +1,97 @@
+{
+ "brand": "jaguar",
+ "brandName": "Jaguar",
+ "engineSlug": "aj126",
+ "applicationSlug": "jaguar-f-pace-s-x761-340-ps-suv-2016",
+ "engineCode": "AJ126",
+ "condition": "used",
+ "seo": {
+  "title": "Used Jaguar AJ126 3.0 V6 Engine F-Pace S X761 | Engined",
+  "description": "Used AJ126 engine for Jaguar F-Pace S (X761) 3.0 V6 SC 340 PS SUV 2016-2018. Fixed price £3,325, tested before dispatch, 12-month warranty included.",
+  "canonical": "https://engined.co.uk/engines/aj126/jaguar-f-pace-s-x761-340-ps-suv-2016/"
+ },
+ "hero": {
+  "title": "Used Jaguar AJ126 3.0 V6 Engine — F-Pace S (X761) 340 PS SUV 2016-2018",
+  "subtitle": "Used AJ126 engine for Jaguar F-Pace S (X761) 3.0 V6 SC (340 PS) SUV 2016-2018 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: AJ126-USED-FPACE-X761-340-SUV",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £3,325",
+    "note": "12-month warranty",
+    "price": "£3,325.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £4,500",
+    "note": "12-month warranty",
+    "price": "£4,500.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used AJ126 3.0 V6 supercharged engine for Jaguar F-Pace S X761 SUV, complete assembly with AWD integration, ready for installation.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJ126",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2016-2018",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X761",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/jaguar-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/jaguar-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jlr-aj126-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment by entering your registration number above to ensure this AJ126 engine matches your Jaguar F-Pace S (X761).",
+  "list": [
+   "Jaguar F-Pace S (X761) SUV (3.0 V6 SC 340 PS) 2016-2018"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (AJ126 3.0 V6 Supercharged)",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Longitudinal configuration specific to F-Pace X761",
+   "Supercharger unit included",
+   "SUV-specific sump and AWD integration components"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition) – *Note: This is a supercharged engine, so turbo is N/A, but standard list applies.",
+   "Injectors/fuel system (unless specified as included in specific lot)",
+   "Ancillaries (alternator, starter, AC compressor if not part of core assembly)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this AJ126 engine now, or view the full AJ126 engine range for other applications.",
+  "crossLink": "← Back to all AJ126 engines"
+ }
+}

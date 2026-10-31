@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "508ps-recon",
+ "applicationSlug": "defender-l663-p425-2022",
+ "engineCode": "508PS",
+ "condition": "recon",
+ "seo": {
+  "title": "Recon 5.0 V8 Engine — Defender L663 V8 P425 2022-present",
+  "description": "Recon Land Rover 5.0 V8 engine for Defender L663 V8 P425 (508PS) 2022-present. Fixed price £8,625, 12-month warranty, tested before dispatch, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/508ps-recon/defender-l663-p425-2022/"
+ },
+ "hero": {
+  "title": "Recon 5.0 V8 Engine — Defender L663 V8 P425 2022-present",
+  "subtitle": "Reconditioned 508PS engine for Defender L663 V8 P425 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 508PS-RECON-DEF-P425-LATE",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £8,625",
+    "note": "12-month warranty",
+    "price": "£8,625.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned Land Rover 5.0 V8 supercharged engine for Defender L663 V8 P425 (508PS), 2022-present",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "508PS",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2022-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L663",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration to confirm fitment — this listing covers one specific Defender L663 V8 P425 application.",
+  "list": [
+   "Defender L663 (V8 P425, 508PS, 425 PS) 2022-present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (block, head, sump, timing cover)",
+   "Tested before dispatch — compression and oil pressure verified",
+   "12-month warranty as standard",
+   "New gaskets and seals on reassembly",
+   "Crated and palletised for safe transit"
+  ],
+  "excluded": [
+   "Turbocharger (reusable if condition allows)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, power steering pump, A/C compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 508PS engine now, or view the full 508PS range for other applications.",
+  "crossLink": "← Back to all 508PS engines"
+ }
+}

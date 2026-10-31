@@ -1,0 +1,83 @@
+{
+ "brand": "volvo",
+ "brandName": "Volvo",
+ "engineSlug": "b5254t3",
+ "applicationSlug": "volvo-v50-2-5-230ps-estate-2004",
+ "engineCode": "B5254T3",
+ "condition": "used",
+ "seo": {
+  "title": "Used T5 Engine — Volvo V50 (2.5 T5 230 PS) Estate 2004-2012",
+  "description": "Used Volvo B5254T3 2.5 T5 230 PS engine for V50 P1 estates, transverse mounted — tested before dispatch, 12-month warranty, fast UK delivery. £1,095.",
+  "canonical": "https://engined.co.uk/engines/b5254t3/volvo-v50-2-5-230ps-estate-2004/"
+ },
+ "hero": {
+  "title": "Used T5 Engine — Volvo V50 (2.5 T5 230 PS) Estate 2004-2012",
+  "subtitle": "Used B5254T3 engine for the Volvo V50 P1 estate — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: T5-P1-USED-V50-25-T5",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,095",
+    "note": "12-month warranty",
+    "price": "£1,095.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Volvo B5254T3 2.5 T5 230 PS turbo petrol engine for V50 P1 estate, transverse mounted, 2004-2012",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "B5254T3",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2004-2012",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "P1",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "These engines fit the applications listed below. Enter your registration in the reg checker to confirm fitment before you buy.",
+  "list": [
+   "Volvo V50 P1 (2.5 T5 230 PS, B5254T3, Estate) 2004-2012"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Free UK delivery",
+   "14-day returns policy"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this B5254T3 engine now, or view the full B5254T3 engine range for other applications.",
+  "crossLink": "← Back to all B5254T3 engines"
+ }
+}

@@ -1,0 +1,82 @@
+{
+ "brand": "nissan",
+ "brandName": "Nissan",
+ "engineSlug": "vq35-37-v6",
+ "applicationSlug": "infiniti-g37-v36-sedan-2008",
+ "engineCode": "VQ37VHR",
+ "condition": "used",
+ "seo": {
+  "title": "Used Nissan VQ37VHR Engine — Infiniti G37 V36 (Sedan) Saloon 2008-2013 | Engined",
+  "description": "Used VQ37VHR engine for Infiniti G37 V36 Sedan 2008-2013. Fixed price £3,445, tested before dispatch, 12-month warranty, and secure UK delivery.",
+  "canonical": "https://engined.co.uk/engines/vq35-37-v6/infiniti-g37-v36-sedan-2008/"
+ },
+ "hero": {
+  "title": "Used Nissan VQ37VHR Engine — Infiniti G37 V36 (Sedan) Saloon 2008-2013",
+  "subtitle": "Used VQ37VHR engine for Infiniti G37 V36 Sedan — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: VQ37-USED-G37-V36-SEDAN",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £3,445",
+    "note": "12-month warranty",
+    "price": "£3,445.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Nissan VQ37VHR Engine — Infiniti G37 V36 (Sedan) Saloon 2008-2013",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "VQ37VHR",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2008-2013",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "V36",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/nissan-nissan-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number in our checker above to confirm this VQ37VHR engine fits your Infiniti G37 V36.",
+  "list": [
+   "Infiniti G37 V36 (Sedan) 2008-2013"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "VAT included in the price",
+   "Secure, palletised UK delivery"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this VQ37VHR engine now, or view the full VQ37VHR range for other applications.",
+  "crossLink": "← Back to all VQ37VHR engines"
+ }
+}

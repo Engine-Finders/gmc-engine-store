@@ -1,0 +1,91 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n45",
+ "applicationSlug": "e90-316i-saloon-2005",
+ "engineCode": "N45B16",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW N45 Engine — 3 Series E90 (316i) Saloon 2005‑2007",
+  "description": "Used BMW N45 engine for 3 Series E90 316i Saloon (2005-2007). Fully tested, 122 PS. £630 with 12-month warranty & UK delivery.",
+  "canonical": "https://engined.co.uk/engines/bmw-n45/e90-316i-saloon-2005/"
+ },
+ "hero": {
+  "title": "Used BMW N45 Engine — 3 Series E90 (316i) Saloon 2005‑2007",
+  "subtitle": "Used N45B16 engine for BMW 3 Series E90 316i Saloon (2005‑2007) — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N45-USED-E90-316I",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £630",
+    "note": "12-month warranty",
+    "price": "£630.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW N45B16 engine for E90 316i Saloon, 122 PS, 3‑Series ancillaries",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N45B16",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2005-2007",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E90",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your vehicle's compatibility by checking your registration or chassis number against the list below.",
+  "list": [
+   "BMW 3 Series (E90) 2005‑2007 — 316i (122 PS) Saloon"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch on our dyno",
+   "12-month unlimited mileage warranty as standard",
+   "Full gasket set and seals",
+   "Engine oil and filter change",
+   "Comprehensive inspection report"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system components",
+   "Ancillaries (alternator, starter, AC compressor, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N45 engine now, or view the full BMW N45 engine range for other applications.",
+  "crossLink": "← Back to all BMW N45 engines"
+ }
+}

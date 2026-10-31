@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "om654",
+ "applicationSlug": "mercedes-c-class-s206-c300d-estate",
+ "engineCode": "OM654",
+ "condition": "used",
+ "seo": {
+  "title": "OM654 C-Class S206 C300d Estate | Engined",
+  "description": "Used OM654 engine for Mercedes C-Class S206 C300d Estate. Used £2,754 with 12-month warranty, tested before dispatch and UK delivery. Recon £3,910 available.",
+  "canonical": "https://engined.co.uk/engines/om654/mercedes-c-class-s206-c300d-estate/"
+ },
+ "hero": {
+  "title": "Used OM654 Engine — Mercedes C-Class S206 (C300d) Estate 2021+",
+  "subtitle": "Used OM654 engine for C-Class Estate S206 C300d — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: OM654-USED-S206-C300D-EST",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,754",
+    "note": "12-month warranty",
+    "price": "£2,754.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used OM654 engine for Mercedes C-Class S206 C300d Estate, twin-turbo, 2021 onwards.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "OM654",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2021+",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "S206",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-om654-engine.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration to confirm fitment before buying — this listing covers the following C-Class estate application.",
+  "list": [
+   "C-Class Estate S206 (C300d) 2021+"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and valvetrain",
+   "Sump and timing cover"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this OM654 engine now, or view the full OM654 engine range for other applications.",
+  "crossLink": "← Back to all OM654 engines"
+ }
+}

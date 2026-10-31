@@ -1,0 +1,83 @@
+{
+ "brand": "volvo",
+ "brandName": "Volvo",
+ "engineSlug": "d5244t",
+ "applicationSlug": "volvo-xc90-185ps-suv-2005-recon",
+ "engineCode": "D5244T4",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned D5 Engine — Volvo XC90 (2.4 D5 185 PS) SUV 2005-2014",
+  "description": "Reconditioned D5244T4 engine for Volvo XC90 I 275 SUV 2005–2014. 2.4 D5 185 PS diesel. £2,095 with 12-month warranty, tested before dispatch and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/d5244t/volvo-xc90-185ps-suv-2005-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned D5 Engine — Volvo XC90 (2.4 D5 185 PS) SUV 2005-2014",
+  "subtitle": "Reconditioned D5244T4 engine for Volvo XC90 I 275 SUV — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: D5244T-RECON-XC90-185-SUV-12M",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,095",
+    "note": "12-month warranty",
+    "price": "£2,095.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned D5244T4 diesel engine for Volvo XC90 I 275 SUV 2005-2014, 2.4 D5 185 PS, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "D5244T4",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2005-2014",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "275",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with our reg checker before ordering — this reconditioned D5244T4 listing covers the following Volvo XC90 application.",
+  "list": [
+   "Volvo XC90 I 275 (2.4 D5 185 PS (D5244T4) — SUV) 2005-2014"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil sump and oil pickup",
+   "Timing cover and rocker cover"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this D5244T4 engine now, or view the full D5244T4 engine range",
+  "crossLink": "← Back to all D5244T engines"
+ }
+}

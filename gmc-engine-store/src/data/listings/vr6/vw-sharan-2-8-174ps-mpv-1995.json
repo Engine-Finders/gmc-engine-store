@@ -1,0 +1,90 @@
+{
+ "brand": "volkswagen",
+ "brandName": "Volkswagen",
+ "engineSlug": "vr6",
+ "applicationSlug": "vw-sharan-2-8-174ps-mpv-1995",
+ "engineCode": "VR6",
+ "condition": "used",
+ "seo": {
+  "title": "Used VR6 Engine — VW Sharan (2.8 VR6 174 PS) MPV 1995-2000",
+  "description": "Used VR6 engine for VW Sharan 2.8 VR6 174 PS (7M, 1995-2000). AAA code, tested before dispatch, £995, in stock with 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/vr6/vw-sharan-2-8-174ps-mpv-1995/"
+ },
+ "hero": {
+  "title": "Used VR6 Engine — VW Sharan (2.8 VR6 174 PS) MPV 1995-2000",
+  "subtitle": "Used VR6 engine for VW Sharan 2.8 VR6 174 PS (7M) — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: VR6-USED-SHARAN-28-MPV",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £995",
+    "note": "12-month warranty",
+    "price": "£995.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used VR6 engine for VW Sharan 2.8 VR6 174 PS MPV 7M, AAA code, 1995-2000, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "VR6",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "1995-2000",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "7M",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/volkswagen-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/volkswagen-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/volkswagen-vw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our registration checker to confirm this used VR6 engine fits your VW Sharan 7M before you buy.",
+  "list": [
+   "VW Sharan 7M (2.8 VR6 174 PS AAA — MPV) 1995-2000"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block included",
+   "Oil sump and timing cover included"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this VR6 engine now, or view the full VR6 engine range for other applications.",
+  "crossLink": "← Back to all VR6 engines"
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "brand": "nissan",
+ "brandName": "Nissan",
+ "engineSlug": "hr16de",
+ "applicationSlug": "nissan-qashqai-plus-j10-1-6-suv-2008",
+ "engineCode": "HR16DE",
+ "condition": "used",
+ "seo": {
+  "title": "Used Nissan HR16DE Engine — Qashqai +2 J10 1.6 | Engined",
+  "description": "Used HR16DE engine for Nissan Qashqai +2 J10 1.6 petrol. Fixed price £895, tested before dispatch, UK delivery & 12-month warranty included.",
+  "canonical": "https://engined.co.uk/engines/hr16de/nissan-qashqai-plus-j10-1-6-suv-2008/"
+ },
+ "hero": {
+  "title": "Used Nissan HR16DE Engine — Nissan Qashqai +2 J10 (1.6) SUV 2008-2013",
+  "subtitle": "Used HR16DE engine for Nissan Qashqai +2 J10 1.6 petrol and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: HR16DE-USED-G1-QASHQAIPLUS",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £895",
+    "note": "12-month warranty",
+    "price": "£895.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Nissan HR16DE Engine — Nissan Qashqai +2 J10 (1.6) SUV 2008-2013",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "HR16DE",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2008-2013",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "J10",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/nissan-nissan-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number in our checker above to confirm this HR16DE engine is the exact match for your vehicle.",
+  "list": [
+   "Nissan Qashqai +2 J10 (1.6 petrol) 2008-2013"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "VAT inclusive pricing",
+   "Secure, palletised UK delivery"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system components",
+   "Ancillaries (alternator, starter motor, etc.)",
+   "Fitting and installation",
+   "ECU remapping or coding"
+  ]
+ },
+ "cta": {
+  "line": "Buy this HR16DE engine now, or view the full HR16DE engine range for other applications.",
+  "crossLink": "← Back to all HR16DE engines"
+ }
+}

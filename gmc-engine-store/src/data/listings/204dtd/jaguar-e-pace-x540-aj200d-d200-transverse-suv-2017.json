@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "204dtd",
+ "applicationSlug": "jaguar-e-pace-x540-aj200d-d200-transverse-suv-2017",
+ "engineCode": "204DTD",
+ "condition": "used",
+ "seo": {
+  "title": "PENDING — AJ200D 2.0 Diesel Engine — Jaguar E-Pace X540 (D200, Transverse) 2017–2020",
+  "description": "Used 204DTD 2.0 diesel engine for Jaguar E-Pace X540 D200 SUV. Fixed price £2,870, tested before dispatch, 12-month warranty & UK delivery included.",
+  "canonical": "https://engined.co.uk/engines/204dtd/jaguar-e-pace-x540-aj200d-d200-transverse-suv-2017/"
+ },
+ "hero": {
+  "title": "PENDING — AJ200D 2.0 Diesel Engine — Jaguar E-Pace X540 D200 2017–2020",
+  "subtitle": "Used 204DTD engine for Jaguar E-Pace X540 D200 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 204DTD-PEND-EPACE-D200-1720",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,870",
+    "note": "12-month warranty",
+    "price": "£2,870.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used 204DTD 2.0 diesel engine for Jaguar E-Pace X540 D200 transverse mount 2017 to 2020",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "204DTD",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2017–2020",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X540",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your exact fitment with our free reg-checker below, then review the compatible models for this 204DTD engine.",
+  "list": [
+   "Jaguar E-Pace X540 (D200) 2017–2020"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch",
+   "12-month warranty as standard",
+   "Full technical support",
+   "UK delivery included"
+  ],
+  "excluded": [
+   "Turbocharger",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 204DTD engine now, or view the full 204DTD engine range for other applications.",
+  "crossLink": "← Back to all 204DTD engines"
+ }
+}

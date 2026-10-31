@@ -1,0 +1,91 @@
+{
+ "brand": "jaguar",
+ "brandName": "Jaguar",
+ "engineSlug": "aj-v8-legacy",
+ "applicationSlug": "jaguar-s-type-x200-aj34-4-2-saloon-2003",
+ "engineCode": "AJ34",
+ "condition": "used",
+ "seo": {
+  "title": "Used Jaguar AJ34 Engine — S-Type X200 4.2 V8 Saloon | Engined",
+  "description": "Used AJ34 engine for Jaguar S-Type (X200) 4.2 V8 Saloon. £1,995 fixed price, tested before dispatch, 12-month warranty & UK delivery.",
+  "canonical": "https://engined.co.uk/engines/aj-v8-legacy/jaguar-s-type-x200-aj34-4-2-saloon-2003/"
+ },
+ "hero": {
+  "title": "Used Jaguar AJ34 Engine — S-Type (X200) 4.2 V8 Saloon 2003-2008",
+  "subtitle": "Used AJ34 engine for Jaguar S-Type (X200) 4.2 V8 Saloon — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: AJV8-USED-X200-42-NA-SALOON-AJ34",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,900",
+    "note": "12-month warranty",
+    "price": "£2,900.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "AJ34 4.2 V8 naturally aspirated engine for Jaguar S-Type X200 saloon, complete longitudinal assembly with CVVT.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJ34",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2003-2008",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X200",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/jaguar-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/jaguar-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/jaguar-jaguar-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Verify fitment for your specific chassis using our registration checker before purchasing this AJ34 engine.",
+  "list": [
+   "Jaguar S-Type (X200) 4.2 V8 (AJ34) Saloon (2003-2008)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch",
+   "Warranty as standard",
+   "Longitudinal saloon specification components",
+   "Continuous Variable Valve Timing (CVVT) system",
+   "Engine wiring harness"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this AJ34 engine now, or view the full AJ34 engine range for other applications.",
+  "crossLink": "← Back to all AJ34 engines"
+ }
+}

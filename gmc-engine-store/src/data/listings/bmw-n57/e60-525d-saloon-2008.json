@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n57",
+ "applicationSlug": "e60-525d-saloon-2008",
+ "engineCode": "N57",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW N57 Engine — 5 Series E60 (525d) Saloon 2008‑2010",
+  "description": "Used N57 engine for BMW 5 Series E60 525d Saloon. Fixed price £2,695, 12-month warranty, tested before dispatch, and fast UK delivery. Buy now.",
+  "canonical": "https://engined.co.uk/engines/bmw-n57/e60-525d-saloon-2008/"
+ },
+ "hero": {
+  "title": "Used BMW N57 Engine — 5 Series E60 (525d) Saloon 2008‑2010",
+  "subtitle": "Used N57 engine for BMW 5 Series E60 525d Saloon — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N57-USED-E60-525D",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,695",
+    "note": "12-month warranty",
+    "price": "£2,695.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW N57 engine for BMW 5 Series E60 525d Saloon, 204PS diesel, tested used unit.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N57",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2008‑2010",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E60",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-n57-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration to confirm this used N57 engine fits your BMW 5 Series E60 525d Saloon before ordering.",
+  "list": [
+   "BMW 5 Series (E60) 2008‑2010 — 525d (204 PS) Saloon"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Correct engine code and specification",
+   "Ready for fitting"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N57 engine now, or view the full N57 engine range.",
+  "crossLink": "← Back to all N57 engines"
+ }
+}

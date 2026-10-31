@@ -1,0 +1,91 @@
+{
+ "brand": "audi",
+ "brandName": "Audi",
+ "engineSlug": "ea839",
+ "applicationSlug": "audi-a6-c8-3-0t-saloon",
+ "engineCode": "EA839",
+ "condition": "used",
+ "seo": {
+  "title": "Used Audi EA839 3.0T Engine — A6 C8 3.0 TFSI (340 PS) Saloon 2018-present",
+  "description": "EA839 3.0 TFSI · used tested engine · fits Audi A6 Saloon C8 (3.0 TFSI 340 PS) 2018-present · £2,995 · 12-month warranty · UK delivery",
+  "canonical": "https://engined.co.uk/engines/ea839/audi-a6-c8-3-0t-saloon/"
+ },
+ "hero": {
+  "title": "Used Audi EA839 3.0T Engine — A6 C8 3.0 TFSI (340 PS) Saloon 2018-present",
+  "subtitle": "Used EA839 3.0 TFSI engine for Audi A6 Saloon C8 (340 PS) — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA839-USED-A6-SAL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,995",
+    "note": "12-month warranty",
+    "price": "£2,995.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "EA839 3.0 TFSI engine for Audi A6 Saloon C8 3.0 TFSI 340 PS longitudinal MLB",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA839",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2018-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "C8",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/audi-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/audi-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/audi-audi-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "This EA839 3.0 TFSI engine is confirmed to fit the following Audi A6 Saloon applications — use our registration checker to verify compatibility with your specific vehicle.",
+  "list": [
+   "Audi A6 Saloon (C8) 2018-present — 3.0 TFSI (340 PS)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Full diagnostic report",
+   "Compression test certificate",
+   "Oil and filter service completed"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA839 engine now, or view the full EA839 engine range for other applications.",
+  "crossLink": "← Back to all EA839 engines"
+ }
+}

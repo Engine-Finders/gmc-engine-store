@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n52",
+ "applicationSlug": "e87-130i-5dr-hatch-2007",
+ "engineCode": "N52",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW N52 Engine — 1 Series E87 (130i) 5‑dr Hatch 2007‑2011",
+  "description": "In stock used BMW N52 engine for 1 Series E87 130i 5-door hatch 2007-2011. LCI N52B30, 265 PS, £1,605, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/bmw-n52/e87-130i-5dr-hatch-2007/"
+ },
+ "hero": {
+  "title": "Used BMW N52 Engine — 1 Series E87 (130i) 5‑dr Hatch 2007‑2011",
+  "subtitle": "Used N52 engine for 1 Series E87 130i 5-door hatch — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N52-USED-E87-130I-FL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,605",
+    "note": "12-month warranty",
+    "price": "£1,605.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW N52 engine for 1 Series E87 130i 5-door hatch, LCI N52B30 with updated DME, 265 PS.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N52",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2007‑2011",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E87",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration to confirm this N52 engine fits your BMW 1 Series E87 130i before ordering.",
+  "list": [
+   "BMW 1 Series (E87) 2007‑2011 — 130i (265 PS) 5‑door Hatchback"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head, camshafts and valves",
+   "Sump and timing covers"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N52 engine now, or view the full N52 engine range for other applications.",
+  "crossLink": "← Back to all N52 engines"
+ }
+}

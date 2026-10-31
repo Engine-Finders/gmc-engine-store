@@ -1,0 +1,89 @@
+{
+ "brand": "citroen",
+ "brandName": "Citroen",
+ "engineSlug": "dw10",
+ "applicationSlug": "toyota-proace-2-0-bluehdi-van-2016",
+ "engineCode": "DW10",
+ "condition": "used",
+ "seo": {
+  "title": "Used Toyota DW10 2.0 BlueHDi Engine — Proace Van 2016-present",
+  "description": "DW10 · used · Toyota Proace Van 2.0 BlueHDi · 150-180 PS · £1,295 · 12-month warranty · UK delivery",
+  "canonical": "https://engined.co.uk/engines/dw10/toyota-proace-2-0-bluehdi-van-2016/"
+ },
+ "hero": {
+  "title": "Used Toyota DW10 2.0 BlueHDi Engine — Proace Van 2016-present",
+  "subtitle": "Used DW10 diesel engine for Toyota Proace Van 2.0 BlueHDi — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: DW10-USED-TOYOTA-PROACE-BLUEHDI-VAN",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,295",
+    "note": "12-month warranty",
+    "price": "£1,295.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,995",
+    "note": "12-month warranty",
+    "price": "£1,995.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Toyota DW10 2.0 BlueHDi engine for Proace Van 2016-present — tested diesel unit",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "DW10",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2016-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Toyota Proace Van (2016-present)",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/citroen-citroen-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your vehicle's compatibility below — use our reg-checker to confirm this DW10 engine matches your Toyota Proace exactly.",
+  "list": [
+   "Toyota Proace Van (2016-present) — 2.0 BlueHDi"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Comprehensive inspection report",
+   "Oil and filter service",
+   "UK mainland delivery"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this DW10 engine now, or view the full DW10 engine range for other applications.",
+  "crossLink": "← Back to all DW10 engines"
+ }
+}

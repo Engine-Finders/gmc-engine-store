@@ -1,0 +1,90 @@
+{
+ "brand": "jaguar",
+ "brandName": "Jaguar",
+ "engineSlug": "aj126",
+ "applicationSlug": "jaguar-f-type-x152-340-ps-coupe-2013",
+ "engineCode": "AJ126",
+ "condition": "used",
+ "seo": {
+  "title": "Used Jaguar AJ126 3.0 V6 Engine — F-Type (X152) 340 PS Coupe 2013-2019",
+  "description": "Used AJ126 engine for Jaguar F-Type (X152) 340 PS Coupe 2013-2019. Fixed price £2,965, tested before dispatch, 12-month warranty & UK delivery.",
+  "canonical": "https://engined.co.uk/engines/aj126/jaguar-f-type-x152-340-ps-coupe-2013/"
+ },
+ "hero": {
+  "title": "Used Jaguar AJ126 3.0 V6 Engine — F-Type (X152) 340 PS Coupe 2013-2019",
+  "subtitle": "Used AJ126 engine for Jaguar F-Type (X152) 340 PS Coupe — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: AJ126-USED-FTYPE-X152-340-COUPE",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,965",
+    "note": "12-month warranty",
+    "price": "£2,965.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Jaguar AJ126 3.0L V6 supercharged engine for F-Type (X152) 340 PS Coupe, showing longitudinal layout.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJ126",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2013-2019",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X152",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/jaguar-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/jaguar-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jlr-aj126-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment instantly by entering your registration number below to match your chassis code.",
+  "list": [
+   "F-Type (X152) 2013-2019 — V6 3.0 SC (340 PS) Coupe"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Longitudinal 3.0 V6 supercharged unit",
+   "Sports car-specific ancillaries"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries not specified above",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this AJ126 engine now, or view the full AJ126 range for other applications.",
+  "crossLink": "← Back to all AJ126 engines"
+ }
+}

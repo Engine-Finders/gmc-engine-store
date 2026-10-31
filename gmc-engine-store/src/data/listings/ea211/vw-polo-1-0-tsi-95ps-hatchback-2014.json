@@ -1,0 +1,96 @@
+{
+ "brand": "volkswagen",
+ "brandName": "Volkswagen",
+ "engineSlug": "ea211",
+ "applicationSlug": "vw-polo-1-0-tsi-95ps-hatchback-2014",
+ "engineCode": "EA211",
+ "condition": "used",
+ "seo": {
+  "title": "EA211 Polo 1.0 TSI 95PS | Engined",
+  "description": "Used EA211 1.0 TSI engine for VW Polo hatchback, 95 PS, 2014-present. Fixed price £985, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/ea211/vw-polo-1-0-tsi-95ps-hatchback-2014/"
+ },
+ "hero": {
+  "title": "Used EA211 Engine — VW Polo (1.0 TSI 95 PS) Hatchback 2014-present",
+  "subtitle": "Used EA211 engine for VW Polo 1.0 TSI 95 PS hatchback — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA211-USED-POLO-10TSI-95-HATCH",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £985",
+    "note": "12-month warranty",
+    "price": "£985.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,620",
+    "note": "12-month warranty",
+    "price": "£1,620.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used EA211 1.0 TSI 95 PS engine for VW Polo hatchback, 2014-present, transverse mount",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA211",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2014-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "V/VI",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/volkswagen-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/volkswagen-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/volkswagen-vw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with our reg checker before you buy — this used EA211 suits the application listed below.",
+  "list": [
+   "VW Polo V/VI (1.0 TSI 95 PS, Hatchback) 2014-present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil pump and sump",
+   "Cylinder head and block"
+  ],
+  "excluded": [
+   "Turbocharger (reusable — transferred from your unit where condition allows)",
+   "Injectors and fuel system",
+   "Ancillaries (alternator, starter motor, air conditioning compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA211 engine now, or view the full EA211 range for other applications.",
+  "crossLink": "← Back to all EA211 engines"
+ }
+}

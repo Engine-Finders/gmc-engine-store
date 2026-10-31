@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "200tdi",
+ "applicationSlug": "land-rover-range-rover-classic-lh-200tdi-111-2door-recon-1992",
+ "engineCode": "200TDI",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned 200Tdi 2.5 Diesel Engine — Range Rover Classic 2-door (111 PS) 1992–1994",
+  "description": "Reconditioned Land Rover 200Tdi diesel engine for Range Rover Classic LH 2-door (111 PS) 1992-1994. Fixed price £4,200, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/200tdi/land-rover-range-rover-classic-lh-200tdi-111-2door-recon-1992/"
+ },
+ "hero": {
+  "title": "Reconditioned 200Tdi 2.5 Diesel Engine — Range Rover Classic 2-door (111 PS) 1992–1994",
+  "subtitle": "Reconditioned 200Tdi engine for Range Rover Classic 2-door — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 200TDI-RECON-RRC-2DR-111",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £4,200",
+    "note": "12-month warranty",
+    "price": "£4,200.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned Land Rover 200Tdi 2.5 diesel engine for Range Rover Classic LH 2-door, 111 PS, 1992-1994",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "200Tdi",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "1992-1994",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "LH",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration to confirm fitment — this listing covers one specific Range Rover Classic 2-door 200Tdi application.",
+  "list": [
+   "Range Rover Classic LH (2-door, 200Tdi, 111 PS) 1992-1994"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (block, head, sump, timing cover)",
+   "Tested before dispatch — compression and oil pressure verified",
+   "12-month warranty as standard",
+   "New gaskets and seals on reassembly",
+   "Crated and palletised for safe transit"
+  ],
+  "excluded": [
+   "Turbocharger (reusable if condition allows)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, power steering pump, A/C compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 200Tdi engine now, or view the full 200Tdi range for other applications.",
+  "crossLink": "← Back to all 200Tdi engines"
+ }
+}

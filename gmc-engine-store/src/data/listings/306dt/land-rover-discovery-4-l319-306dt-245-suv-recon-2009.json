@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "306dt",
+ "applicationSlug": "land-rover-discovery-4-l319-306dt-245-suv-recon-2009",
+ "engineCode": "306DT",
+ "condition": "recon",
+ "seo": {
+  "title": "306DT TDV6 Engine — Discovery 4 L319 (245 PS) | Engined",
+  "description": "Reconditioned 306DT engine for Discovery 4 L319. Fixed price £3,445, tested before dispatch, UK delivery & 12-month warranty. Single-turbo 245 PS.",
+  "canonical": "https://engined.co.uk/engines/306dt/land-rover-discovery-4-l319-306dt-245-suv-recon-2009/"
+ },
+ "hero": {
+  "title": "Reconditioned 306DT TDV6 Engine — Discovery 4 L319 (245 PS, Single-Turbo)",
+  "subtitle": "Reconditioned 306DT engine for Discovery 4 L319 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 306DT-RECON-DISCO4-L319-245",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £3,445",
+    "note": "12-month warranty",
+    "price": "£3,445.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned 306DT TDV6 Engine — Discovery 4 L319 (245 PS, Single-Turbo)",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "306DT",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2009–2017",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L319",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number in our checker above to confirm this 306DT engine is the exact match for your vehicle.",
+  "list": [
+   "Discovery 4 L319 (3.0 TDV6 245 PS) 2009–2017"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Fully rebuilt internal components",
+   "Single-turbo high output configuration"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 306DT engine now, or view the full 306DT range for other applications.",
+  "crossLink": "← Back to all 306DT engines"
+ }
+}

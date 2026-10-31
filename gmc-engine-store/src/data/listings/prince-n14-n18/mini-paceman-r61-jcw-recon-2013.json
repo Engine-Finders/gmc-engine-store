@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "prince-n14-n18",
+ "applicationSlug": "mini-paceman-r61-jcw-recon-2013",
+ "engineCode": "N14",
+ "condition": "recon",
+ "seo": {
+  "title": "Recon N14 MINI R61 Paceman JCW | Engined",
+  "description": "Reconditioned N14 1.6 Turbo engine for MINI Paceman R61 JCW 2013. £2,295, tested before dispatch, 12-month warranty, UK delivery. Order today.",
+  "canonical": "https://engined.co.uk/engines/prince-n14-n18/mini-paceman-r61-jcw-recon-2013/"
+ },
+ "hero": {
+  "title": "Reconditioned Prince N14 1.6 Turbo Engine — MINI Paceman R61 JCW 2013",
+  "subtitle": "Reconditioned N14 engine for MINI Paceman R61 JCW 2013 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: PRINCE-RECON-R61-JCW-N14",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,295",
+    "note": "12-month warranty",
+    "price": "£2,295.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned N14 1.6 Turbo engine for MINI Paceman R61 JCW 2013, 211 PS, rebuilt to JCW spec.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N14",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2013",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "R61",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our reg checker to confirm fitment for your MINI Paceman R61 JCW 2013 before you buy.",
+  "list": [
+   "MINI Paceman R61 (JCW 211 PS, N14) 2013"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New gaskets and seals",
+   "New timing chain and tensioner"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N14 engine now, or view the full N14 engine range for other applications.",
+  "crossLink": "← Back to all N14 engines"
+ }
+}

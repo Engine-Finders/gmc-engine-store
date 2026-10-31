@@ -1,0 +1,83 @@
+{
+ "brand": "mini",
+ "brandName": "Mini",
+ "engineSlug": "b38",
+ "applicationSlug": "mini-convertible-f57-one-conv-2015",
+ "engineCode": "B38",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW B38 Engine — MINI Convertible F57 (One) Convertible 2015-Present",
+  "description": "Used BMW B38 engine for MINI Convertible F57 One (1.5 petrol turbo). 12-month warranty, UK delivery. Fixed price £1,305. Covers F57 One 2015–present.",
+  "canonical": "https://engined.co.uk/engines/b38/mini-convertible-f57-one-conv-2015/"
+ },
+ "hero": {
+  "title": "Used BMW B38 Engine — MINI Convertible F57 (One) Convertible 2015-Present",
+  "subtitle": "Used B38 engine for MINI Convertible F57 One — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: B38-USED-F57-ONE-CONV",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,305",
+    "note": "12-month warranty",
+    "price": "£1,305.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW B38 engine for MINI Convertible F57 One 2015–present, 1.5 petrol turbo three-cylinder, transverse.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "B38",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2015–present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F57",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/mini-bmw-b38-b48-petrol-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration to confirm fitment before ordering — enter your reg to verify this B38 engine matches your MINI Convertible F57 One.",
+  "list": [
+   "MINI Convertible F57 (One 1.5 petrol turbo, 102 PS) 2015–present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Oil sump and timing cover",
+   "Comprehensive pre-dispatch inspection report"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this B38 engine now, or view the full B38 engine range for other applications.",
+  "crossLink": "← Back to all B38 engines"
+ }
+}

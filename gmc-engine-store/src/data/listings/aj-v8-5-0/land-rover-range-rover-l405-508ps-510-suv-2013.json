@@ -1,0 +1,91 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "aj-v8-5-0",
+ "applicationSlug": "land-rover-range-rover-l405-508ps-510-suv-2013",
+ "engineCode": "508PS",
+ "condition": "used",
+ "seo": {
+  "title": "Used 508PS 5.0 V8 Engine — Range Rover L405 (SC, 510hp) 2013–2017",
+  "description": "Used 508PS 5.0 V8 engine for Range Rover L405 (SC, 510hp). Fixed price £5,185. Supercharged, tested before dispatch, 12-month warranty & UK delivery.",
+  "canonical": "https://engined.co.uk/engines/aj-v8-5-0/land-rover-range-rover-l405-508ps-510-suv-2013/"
+ },
+ "hero": {
+  "title": "Used 508PS 5.0 V8 Engine — Range Rover L405 (SC, 510hp) 2013–2017",
+  "subtitle": "Used 508PS 5.0 V8 engine for Range Rover L405 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 508PS-USED-L405-510-1317",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £5,185",
+    "note": "12-month warranty",
+    "price": "£5,185.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used 508PS 5.0 V8 supercharged engine for Range Rover L405 2013–2017, 510hp, tested and ready for dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "508PS",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2013–2017",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L405",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Will this fit your vehicle? Use our registration checker to confirm compatibility for your Range Rover L405 with the 508PS engine code.",
+  "list": [
+   "Range Rover L405 (SUV) (5.0 V8 SC 510hp) 2013–2017"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Full compression test report",
+   "Cleaned and decarbonised internals",
+   "New seals and gaskets fitted"
+  ],
+  "excluded": [
+   "Turbocharger/supercharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 508PS engine now, or view the full 5.0 AJ-V8 engine range for other applications.",
+  "crossLink": "← Back to all 5.0 AJ-V8 engines"
+ }
+}

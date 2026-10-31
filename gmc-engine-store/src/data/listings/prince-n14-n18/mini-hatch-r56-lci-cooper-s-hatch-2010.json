@@ -1,0 +1,83 @@
+{
+ "brand": "mini",
+ "brandName": "Mini",
+ "engineSlug": "prince-n14-n18",
+ "applicationSlug": "mini-hatch-r56-lci-cooper-s-hatch-2010",
+ "engineCode": "N14/N18",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned Prince Engine — MINI Hatch R56 LCI (Cooper S) Hatchback 2010-2013 | Engined",
+  "description": "Reconditioned N14/N18 Prince engine for MINI Hatch R56 LCI Cooper S (2010–2013). 184 PS 1.6 turbo. Used from £1,650, recon £2,500. 12-month warranty. UK delivery.",
+  "canonical": "https://engined.co.uk/engines/prince-n14-n18/mini-hatch-r56-lci-cooper-s-hatch-2010/"
+ },
+ "hero": {
+  "title": "Reconditioned Prince Engine — MINI Hatch R56 LCI (Cooper S) Hatchback 2010-2013",
+  "subtitle": "Reconditioned N14/N18 Prince engine for MINI Hatch R56 LCI Cooper S (184 PS) — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: PRINCE-RECON-R56LCI-COOPERS-HATCH",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,650",
+    "note": "12-month warranty",
+    "price": "£1,650.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned Prince N14/N18 engine for MINI Hatch R56 LCI Cooper S 2010–2013, 1.6 turbo 184 PS transverse configuration.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N14/N18",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2010-2013",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "R56 LCI",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/mini-mini-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration before ordering — enter your reg at checkout to confirm exact fitment for your MINI.",
+  "list": [
+   "MINI Hatch 3dr (R56 LCI) 2010–2013 — Cooper S (1.6 turbo, 184 PS) — LCI, N18 generation"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block (reconditioned to specification)",
+   "Gaskets and seals (where applicable to assembly)",
+   "Oil pump and timing components (as fitted to assembly)"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition — may be supplied separately)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, air conditioning compressor, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N14/N18 engine now, or view the full Prince N14/N18 engine range for other applications.",
+  "crossLink": "← Back to all Prince N14/N18 engines"
+ }
+}

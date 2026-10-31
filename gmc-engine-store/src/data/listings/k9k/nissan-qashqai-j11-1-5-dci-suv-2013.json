@@ -1,0 +1,82 @@
+{
+ "brand": "nissan",
+ "brandName": "Nissan",
+ "engineSlug": "k9k",
+ "applicationSlug": "nissan-qashqai-j11-1-5-dci-suv-2013",
+ "engineCode": "K9K",
+ "condition": "used",
+ "seo": {
+  "title": "Used K9K Engine — Nissan Qashqai J11 (1.5 dCi) SUV 2013-Present",
+  "description": "Used K9K engine for Nissan Qashqai J11 1.5 dCi SUV. Fixed price £985, tested before dispatch, 12-month warranty & UK delivery. Various outputs 90-116 PS.",
+  "canonical": "https://engined.co.uk/engines/k9k/nissan-qashqai-j11-1-5-dci-suv-2013/"
+ },
+ "hero": {
+  "title": "Used K9K Engine — Nissan Qashqai J11 (1.5 dCi) SUV 2013-Present",
+  "subtitle": "Used K9K engine for Nissan Qashqai J11 1.5 dCi SUV and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: K9K-USED-G1-QASHQAIJ11",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £985",
+    "note": "12-month warranty",
+    "price": "£985.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "K9K transverse-mounted 1.5-litre dCi diesel engine for Nissan Qashqai J11 SUV 2013-present",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "K9K",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2013-Present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "J11",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/renault-k9k-dci-diesel-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number above to confirm this K9K engine fits your vehicle before ordering.",
+  "list": [
+   "Nissan Qashqai J11 (1.5 dCi SUV) 2013-Present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Fully inspected and cleaned",
+   "Ready for direct fitment"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this K9K engine now, or view the full K9K engine range for other applications.",
+  "crossLink": "← Back to all K9K engines"
+ }
+}

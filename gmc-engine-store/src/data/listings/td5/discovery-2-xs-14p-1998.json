@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "td5",
+ "applicationSlug": "discovery-2-xs-14p-1998",
+ "engineCode": "TD5",
+ "condition": "used",
+ "seo": {
+  "title": "Used Td5 Engine — Discovery 2 XS (14P) 1998-2002 | Engined",
+  "description": "Used Td5 engine for Discovery 2 XS. Fixed price £1,706, tested before dispatch, 12-month warranty and UK delivery included. Enter reg to confirm.",
+  "canonical": "https://engined.co.uk/engines/td5/discovery-2-xs-14p-1998/"
+ },
+ "hero": {
+  "title": "Used Td5 Engine — Discovery 2 XS (14P) 1998-2002",
+  "subtitle": "Used Td5 engine for Discovery 2 XS and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: TD5-USED-DISCO2-XS-14P",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,706",
+    "note": "12-month warranty",
+    "price": "£1,706.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Td5 engine for Discovery 2 XS, 2.5L 5-cylinder turbo diesel long-block assembly.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "Td5",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "1998-2002",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L318",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Turbo diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm exact fitment for your vehicle by entering your registration into our checker below.",
+  "list": [
+   "Discovery 2 (L318) XS 1998-2002 — 14P (136 PS)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "UK delivery included",
+   "Full technical support"
+  ],
+  "excluded": [
+   "Turbocharger",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this Td5 engine now, or view the full Td5 engine range for other applications.",
+  "crossLink": "← Back to all Td5 engines"
+ }
+}

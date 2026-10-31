@@ -1,0 +1,96 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "m276",
+ "applicationSlug": "mercedes-cls-c257-m276-367-saloon-2018",
+ "engineCode": "M276",
+ "condition": "used",
+ "seo": {
+  "title": "Used M276 3.0 TT Engine — CLS C257 (CLS450 4MATIC, 367 PS) 2018–2021",
+  "description": "Used twin-turbo M276 3.0 TT engine for Mercedes CLS C257 CLS450 4MATIC 367 PS. £3,450, 12-month warranty, tested before dispatch, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/m276/mercedes-cls-c257-m276-367-saloon-2018/"
+ },
+ "hero": {
+  "title": "Used M276 3.0 TT Engine — CLS C257 (CLS450 4MATIC, 367 PS) 2018–2021",
+  "subtitle": "SUB — Used M276 engine for CLS C257 CLS450 4MATIC — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M276-USED-G4-C257-CLS450",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £3,450",
+    "note": "12-month warranty",
+    "price": "£3,450.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £5,175",
+    "note": "12-month warranty",
+    "price": "£5,175.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used M276 3.0 TT engine for Mercedes CLS C257 CLS450 4MATIC 367 PS, tested before dispatch",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M276",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2018–2021",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "C257",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-m276-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our reg checker to confirm your CLS C257 CLS450 4MATIC fits this used M276 engine before you buy.",
+  "list": [
+   "CLS C257 (Saloon — CLS450 4MATIC 367 PS — M276 DE30 AL — 3.0 TT) 2018–2021"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New oil and filter",
+   "New gaskets and seals"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M276 engine, or view the full M276 engine range for other applications.",
+  "crossLink": "← Back to all M276 engines"
+ }
+}

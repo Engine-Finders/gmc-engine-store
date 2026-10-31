@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n52",
+ "applicationSlug": "e89-sdrive30i-roadster-2009",
+ "engineCode": "N52",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW N52 Engine — Z4 E89 (sDrive30i) Roadster 2009‑2017",
+  "description": "Used BMW N52 engine for Z4 E89 sDrive30i (258 PS) Roadster 2009-2017. Fixed £1,605, tested before dispatch, 12-month warranty, UK delivery. In stock.",
+  "canonical": "https://engined.co.uk/engines/bmw-n52/e89-sdrive30i-roadster-2009/"
+ },
+ "hero": {
+  "title": "Used BMW N52 Engine — Z4 E89 (sDrive30i) Roadster 2009‑2017",
+  "subtitle": "Used BMW N52 engine for Z4 E89 sDrive30i — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N52-USED-E89-SDRIVE30I",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,605",
+    "note": "12-month warranty",
+    "price": "£1,605.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "BMW N52 used engine for Z4 E89 sDrive30i Roadster 2009-2017, 258 PS, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "BMW N52",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2009‑2017",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E89",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our reg checker to confirm your registration fits this BMW Z4 E89 sDrive30i application before buying.",
+  "list": [
+   "BMW Z4 E89 (sDrive30i (258 PS) Roadster) 2009‑2017"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil sump and rocker cover",
+   "Timing cover and inlet manifold"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this BMW N52 engine now, or view the full BMW N52 engine range for other applications.",
+  "crossLink": "← Back to all BMW N52 engines"
+ }
+}

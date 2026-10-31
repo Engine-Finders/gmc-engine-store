@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "m273",
+ "applicationSlug": "mercedes-e-class-w212-m273-388-auto-fl-estate-recon-2010",
+ "engineCode": "M273",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned M273 5.5 V8 Engine — E-Class W212 Estate (E500, 388 PS, Auto) FL 2010–2011",
+  "description": "Reconditioned M273 5.5 V8 engine for E-Class W212 E500 Estate 388 PS Auto FL 2010–2011. Fixed £3,500, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/m273/mercedes-e-class-w212-m273-388-auto-fl-estate-recon-2010/"
+ },
+ "hero": {
+  "title": "Reconditioned M273 5.5 V8 Engine — E-Class W212 Estate (E500, 388 PS, Auto) FL 2010–2011",
+  "subtitle": "SUB — Reconditioned M273 engine for E-Class W212, E500 and Estate — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M273-RECON-W212-E500-FL-EST",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £3,500",
+    "note": "12-month warranty",
+    "price": "£3,500.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned M273 5.5 V8 engine for E-Class W212 E500 Estate 388 PS Auto FL 2010–2011",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M273",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2010–2011",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W212",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-m273-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our reg checker to confirm this reconditioned M273 engine fits your E-Class W212 E500 Estate before ordering.",
+  "list": [
+   "E-Class W212 (Estate — E500 388 PS — Auto — M273.961) 2010–2011"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head, block, sump and timing cover as applicable",
+   "Oil pump and water pump where fitted"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M273 engine now, or view the full M273 engine range for other applications.",
+  "crossLink": "← Back to all M273 engines — https://engined.co.uk/engines/m273"
+ }
+}

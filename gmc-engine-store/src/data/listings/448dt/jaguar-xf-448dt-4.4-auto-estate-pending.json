@@ -1,0 +1,91 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "448dt",
+ "applicationSlug": "jaguar-xf-448dt-4.4-auto-estate-pending",
+ "engineCode": "448DT",
+ "condition": "used",
+ "seo": {
+  "title": "PENDING — Jaguar XF Sportbrake 4.4 V8 Auto (PENDING)",
+  "description": "Pending 448DT engine for Jaguar XF Sportbrake (4.4 V8 Diesel Auto). Fixed price £2,995. Requires BRF verification, 12-month warranty & UK delivery.",
+  "canonical": "https://engined.co.uk/engines/448dt/jaguar-xf-448dt-4.4-auto-estate-pending/"
+ },
+ "hero": {
+  "title": "PENDING — Jaguar XF Sportbrake 4.4 V8 Auto (PENDING)",
+  "subtitle": "Pending 448DT engine for Jaguar XF Sportbrake — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 448DT-PEND-XF-ESTATE-AUTO",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,995",
+    "note": "12-month warranty",
+    "price": "£2,995.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Pending 448DT 4.4 V8 Diesel engine for Jaguar XF Sportbrake, requires BRF verification before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "448DT",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "PENDING",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "XF Sportbrake",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Will this fit your vehicle? Use our registration checker to confirm compatibility for your Jaguar XF Sportbrake with the 448DT code.",
+  "list": [
+   "Jaguar XF Sportbrake (Estate) (4.4 V8 Diesel Auto) PENDING"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Full compression test report",
+   "Cleaned and decarbonised internals",
+   "New seals and gaskets fitted"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 448DT engine now, or view the full 448DT engine range for other applications.",
+  "crossLink": "← Back to all 448DT engines"
+ }
+}

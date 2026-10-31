@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n55-recon",
+ "applicationSlug": "f33-440i-conv-2015",
+ "engineCode": "N55",
+ "condition": "recon",
+ "seo": {
+  "title": "Recond N55 F33 440i Conv 2015‑2016 | Engined",
+  "description": "Reconditioned BMW N55 engine for 4 Series F33 440i Convertible 2015‑2016. Late N55B30A, tested before dispatch, 12-month warranty, UK delivery. £4,600.",
+  "canonical": "https://engined.co.uk/engines/bmw-n55-recon/f33-440i-conv-2015/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW N55 Engine — 4 Series F33 (440i) Convertible 2015‑2016",
+  "subtitle": "Reconditioned N55 engine for 4 Series F33 440i Convertible — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N55-RECON-F33-440I",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £4,600",
+    "note": "12-month warranty",
+    "price": "£4,600.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned BMW N55B30A engine for BMW 4 Series F33 440i Convertible 2015‑2016, cabriolet fitment.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N55",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2015‑2016",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F33",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with your registration before ordering — this reconditioned N55 listing covers the F33 440i Convertible applications below.",
+  "list": [
+   "BMW 4 Series (F33) 2015‑2016 — 440i (326 PS) Convertible"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Renewed timing components",
+   "Reconditioned N55B30A late variant"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N55 engine now, or view the N55 range for other applications.",
+  "crossLink": "← Back to all N55 engines"
+ }
+}

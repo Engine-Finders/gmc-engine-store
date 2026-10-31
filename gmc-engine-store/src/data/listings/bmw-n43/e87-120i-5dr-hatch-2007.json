@@ -1,0 +1,97 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n43",
+ "applicationSlug": "e87-120i-5dr-hatch-2007",
+ "engineCode": "N43",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW N43 Engine — 1 Series E87 (120i) 5‑dr Hatch 2007‑2010",
+  "description": "BMW N43 engine for 1 Series E87 (120i) 5‑dr Hatchback 2007‑2010. Used & recon options. Tested before dispatch, 12-month warranty, UK delivery. £1,195.",
+  "canonical": "https://engined.co.uk/engines/bmw-n43/e87-120i-5dr-hatch-2007/"
+ },
+ "hero": {
+  "title": "Used BMW N43 Engine — 1 Series E87 (120i) 5‑dr Hatch 2007‑2010",
+  "subtitle": "Used N43 engine for 1 Series E87 120i 5‑dr Hatchback — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N43-USED-E87-120I-PREFL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,195",
+    "note": "12-month warranty",
+    "price": "£1,195.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,895",
+    "note": "12-month warranty",
+    "price": "£1,895.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "BMW N43B20 high-output engine for E87 120i 5‑dr Hatchback — used 170PS EU5 unit, complete assembly",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N43",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2007‑2010",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E87",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your vehicle's compatibility using our registration checker, or confirm these models and chassis codes below.",
+  "list": [
+   "BMW 1 Series (E87) 2007‑2010 — 120i (170 PS) 5‑door Hatchback"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Timing chain components",
+   "Gaskets and seals",
+   "Oil and filters"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries (alternator, starter, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N43 engine now, or view the full BMW N43 engine range for other applications.",
+  "crossLink": "← Back to all BMW N43 engines"
+ }
+}

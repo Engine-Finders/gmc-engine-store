@@ -1,0 +1,91 @@
+{
+ "brand": "jaguar",
+ "brandName": "Jaguar",
+ "engineSlug": "aj133",
+ "applicationSlug": "recon-jaguar-f-type-x152-aj133s-p450-convertible-2013",
+ "engineCode": "AJ133S",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned Jaguar AJ133S 5.0 V8 Supercharged Engine — F-Type (X152) P450 Convertible 2013-Present | Engined",
+  "description": "Recon AJ133S engine for Jaguar F-Type X152 P450 Convertible. Fixed price £6,300, tested before dispatch, 12-month warranty included. UK delivery available.",
+  "canonical": "https://engined.co.uk/engines/aj133/recon-jaguar-f-type-x152-aj133s-p450-convertible-2013/"
+ },
+ "hero": {
+  "title": "Reconditioned Jaguar AJ133S 5.0 V8 Supercharged Engine — F-Type (X152) P450 Convertible 2013-Present",
+  "subtitle": "Reconditioned AJ133S engine for Jaguar F-Type X152 P450 Convertible and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: AJ133-RECON-FTYPE-X152-P450-CONV",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £6,300",
+    "note": "12-month warranty",
+    "price": "£6,300.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned AJ133S 5.0L V8 supercharged engine for Jaguar F-Type X152 P450 Convertible, complete assembly with warranty.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJ133S",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2013-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X152",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/jaguar-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/jaguar-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jlr-aj133-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number above to confirm this AJ133S engine fits your Jaguar F-Type before you buy.",
+  "list": [
+   "F-Type (X152) P450 5.0 Supercharged (450 PS) Convertible (2013-present)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete reconditioned engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Full compression test report",
+   "Cleaned and degreased exterior",
+   "New seals and gaskets fitted"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this AJ133S engine now, or view the full AJ133 engine range for other applications.",
+  "crossLink": "← Back to all AJ133 engines"
+ }
+}

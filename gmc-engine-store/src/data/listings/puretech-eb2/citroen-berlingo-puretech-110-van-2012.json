@@ -1,0 +1,90 @@
+{
+ "brand": "citroen",
+ "brandName": "Citroen",
+ "engineSlug": "puretech-eb2",
+ "applicationSlug": "citroen-berlingo-puretech-110-van-2012",
+ "engineCode": "EB2",
+ "condition": "used",
+ "seo": {
+  "title": "Used PureTech EB2 1.2 Engine — Berlingo PureTech 110 Van/MPV 2012-present",
+  "description": "EB2 · used · Citroën Berlingo Van/MPV PureTech 110 · commercial-spec · £1,200 · 12-month warranty · UK delivery",
+  "canonical": "https://engined.co.uk/engines/puretech-eb2/citroen-berlingo-puretech-110-van-2012/"
+ },
+ "hero": {
+  "title": "Used PureTech EB2 1.2 Engine — Berlingo PureTech 110 Van/MPV 2012-present",
+  "subtitle": "Used EB2 petrol engine for Citroën Berlingo Van and MPV PureTech 110 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EB2-USED-CITROEN-BERLINGO-PURETECH-VAN",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,200",
+    "note": "12-month warranty",
+    "price": "£1,200.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,900",
+    "note": "12-month warranty",
+    "price": "£1,900.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Citroën PureTech EB2 1.2 engine for Berlingo Van/MPV 2012-present — tested commercial petrol unit",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EB2",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2012-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Citroën Berlingo Van (2012-present) — PureTech 110, Citroën Berlingo MPV (2012-present) — PureTech 110",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/citroen-citroen-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your vehicle's compatibility below — use our reg-checker to confirm this EB2 engine matches your Citroën Berlingo exactly.",
+  "list": [
+   "Citroën Berlingo Van (2012-present) — PureTech 110",
+   "Citroën Berlingo MPV (2012-present) — PureTech 110"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Comprehensive inspection report",
+   "Oil and filter service",
+   "UK mainland delivery"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EB2 engine now, or view the full PureTech EB2 engine range for other applications.",
+  "crossLink": "← Back to all PureTech EB2 engines"
+ }
+}

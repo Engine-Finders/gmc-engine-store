@@ -1,0 +1,96 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n55",
+ "applicationSlug": "f11-535i-estate-2013",
+ "engineCode": "N55",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW N55 Engine — 5 Series F11 (535i) Estate 2013‑2016",
+  "description": "Used BMW N55 engine for 5 Series F11 535i Estate 2013‑2016. 302 PS N55B30O0, tested before dispatch, £3,215 with 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/bmw-n55/f11-535i-estate-2013/"
+ },
+ "hero": {
+  "title": "Used BMW N55 Engine — 5 Series F11 (535i) Estate 2013‑2016",
+  "subtitle": "Used N55 engine for 5 Series F11 535i Estate — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N55-USED-F11-535I-FL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £3,215",
+    "note": "12-month warranty",
+    "price": "£3,215.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £4,600",
+    "note": "12-month warranty",
+    "price": "£4,600.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW N55 engine for 5 Series F11 535i Estate 2013‑2016, 302 PS N55B30O0 LCI with updated DME.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N55",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2013‑2016",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F11",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration to confirm fitment, or check the application list below before ordering.",
+  "list": [
+   "BMW 5 Series F11 (535i 302 PS Estate) 2013‑2016"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Sump and rocker cover"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N55 engine now, or view the full N55 engine range for other applications.",
+  "crossLink": "← Back to all N55 engines"
+ }
+}

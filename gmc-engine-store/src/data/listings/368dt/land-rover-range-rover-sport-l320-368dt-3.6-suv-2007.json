@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "368dt",
+ "applicationSlug": "land-rover-range-rover-sport-l320-368dt-3.6-suv-2007",
+ "engineCode": "368DT",
+ "condition": "used",
+ "seo": {
+  "title": "Used 368DT 3.6 TDV8 Engine — Range Rover Sport L320 (2007–2010) | Engined",
+  "description": "Used 368DT engine for Range Rover Sport L320. Fixed price £2,515. Tested before dispatch, 12-month warranty & UK delivery. 3.6 TDV8 272 hp.",
+  "canonical": "https://engined.co.uk/engines/368dt/land-rover-range-rover-sport-l320-368dt-3.6-suv-2007/"
+ },
+ "hero": {
+  "title": "Used 368DT 3.6 TDV8 Engine — Range Rover Sport L320 (2007–2010)",
+  "subtitle": "Used 368DT engine for Range Rover Sport L320 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 368DT-USED-L320",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,515",
+    "note": "12-month warranty",
+    "price": "£2,515.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used 368DT 3.6 TDV8 Engine — Range Rover Sport L320 (2007–2010)",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "368DT",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2007–2010",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L320",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number in our checker above to confirm this 368DT engine is the exact match for your Range Rover Sport.",
+  "list": [
+   "Range Rover Sport L320 (3.6 TDV8 272 hp) 2007–2010"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "VAT included in the price",
+   "Secure, tracked UK delivery"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system components",
+   "Ancillaries (alternator, starter motor, etc.)",
+   "Fitting and installation services"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 368DT engine now, or view the full 368DT range for other applications.",
+  "crossLink": "← Back to all 368DT engines"
+ }
+}

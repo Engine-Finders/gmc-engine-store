@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "m274",
+ "applicationSlug": "mercedes-e-class-w213-m274-245-prefl-saloon-recon-2016",
+ "engineCode": "M274",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned M274 2.0T Engine — E-Class W213 Saloon (E300, 245 PS) Pre-FL 2016–2019",
+  "description": "Reconditioned M274 engine for Mercedes E-Class W213 Saloon E300 (245 PS). Fixed price £3,215, tested before dispatch, UK delivery, 12-month warranty.",
+  "canonical": "https://engined.co.uk/engines/m274/mercedes-e-class-w213-m274-245-prefl-saloon-recon-2016/"
+ },
+ "hero": {
+  "title": "Reconditioned M274 2.0T Engine — E-Class W213 Saloon (E300, 245 PS) Pre-FL 2016–2019",
+  "subtitle": "Reconditioned M274 engine for E-Class W213 Saloon E300 245 PS and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M274-RECON-W213-E300-PREFL",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £3,215",
+    "note": "12-month warranty",
+    "price": "£3,215.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned Mercedes M274 engine for E-Class W213 Saloon E300, complete assembly, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M274",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2016–2019",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W213",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-m274-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number in our checker above to confirm this M274 engine fits your Mercedes E-Class W213.",
+  "list": [
+   "Mercedes-Benz E-Class W213 Saloon (E300 245 PS) 2016–2019"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Renewed timing chain",
+   "OEM-spec gaskets and seals"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M274 engine now, or view the full M274 engine range for other applications.",
+  "crossLink": "← Back to all M274 engines"
+ }
+}

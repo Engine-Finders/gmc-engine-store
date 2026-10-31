@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "aj200p",
+ "applicationSlug": "jaguar-e-pace-x540-aj200p-p300-transverse-suv-2017",
+ "engineCode": "AJ200P",
+ "condition": "recon",
+ "seo": {
+  "title": "PENDING — AJ200P 2.0 Petrol Engine — Jaguar E-Pace X540",
+  "description": "PENDING AJ200P 2.0 petrol engine for Jaguar E-Pace X540 P300 Transverse. Reconditioned price £3,680. Includes 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/aj200p/jaguar-e-pace-x540-aj200p-p300-transverse-suv-2017/"
+ },
+ "hero": {
+  "title": "PENDING — AJ200P 2.0 Petrol Engine — Jaguar E-Pace X540 (P300, Transverse)",
+  "subtitle": "Reconditioned AJ200P engine for Jaguar E-Pace X540 P300 Transverse — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: AJ200P-PEND-EPACE-P300-1720",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £3,680",
+    "note": "12-month warranty",
+    "price": "£3,680.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "PENDING AJ200P 2.0 turbo petrol engine for Jaguar E-Pace X540 P300 transverse mount, reconditioned.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJ200P",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2017–2020",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X540",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Verify your registration below to confirm fitment for your Jaguar E-Pace X540 before purchasing this AJ200P engine.",
+  "list": [
+   "Jaguar E-Pace X540 (P300, Transverse) 2017–2020"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "UK delivery",
+   "Full compliance with emissions standards"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this AJ200P engine now, or view the full AJ200P range for other applications.",
+  "crossLink": "← Back to all AJ200P engines"
+ }
+}

@@ -1,0 +1,82 @@
+{
+ "brand": "mini",
+ "brandName": "Mini",
+ "engineSlug": "prince",
+ "applicationSlug": "mini-clubman-r55-cooper-estate-2007",
+ "engineCode": "PRINCE N14/N18",
+ "condition": "used",
+ "seo": {
+  "title": "Used Prince Engine — MINI Clubman R55 (Cooper) Estate 2007-2010 | Engined",
+  "description": "Used N14/N18 Prince engine for MINI Clubman R55 Cooper Estate (2007-2010). 120 PS 1.6 turbo. Used from £1,485, recon £2,250. 12-month warranty. UK delivery.",
+  "canonical": "https://engined.co.uk/engines/prince/mini-clubman-r55-cooper-estate-2007/"
+ },
+ "hero": {
+  "title": "Used Prince Engine — MINI Clubman R55 (Cooper) Estate 2007-2010",
+  "subtitle": "Used N14/N18 engine for MINI Clubman R55 Cooper Estate (2007-2010) — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: PRINCE-USED-R55-COOPER-ESTATE",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,485",
+    "note": "12-month warranty",
+    "price": "£1,485.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used N14/N18 Prince engine for MINI Clubman R55 Cooper Estate 2007-2010, 1.6 turbo 120 PS transverse.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "Prince N14/N18",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2007-2010",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "R55",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/mini-mini-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration before ordering — enter your reg at checkout to confirm exact fitment for your MINI Clubman.",
+  "list": [
+   "MINI Clubman R55 (Cooper 1.6 turbo, 120 PS, N14) 2007–2010"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block (reconditioned to specification)",
+   "Gaskets and seals (where applicable to assembly)"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, air conditioning compressor, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N14/N18 engine now, or view the full N14/N18 engine range for other applications.",
+  "crossLink": "← Back to all N14/N18 engines"
+ }
+}

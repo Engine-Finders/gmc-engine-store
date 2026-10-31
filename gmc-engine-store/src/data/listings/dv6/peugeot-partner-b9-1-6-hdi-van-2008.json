@@ -1,0 +1,83 @@
+{
+ "brand": "peugeot",
+ "brandName": "Peugeot",
+ "engineSlug": "dv6",
+ "applicationSlug": "peugeot-partner-b9-1-6-hdi-van-2008",
+ "engineCode": "PSA DV6",
+ "condition": "used",
+ "seo": {
+  "title": "Used PSA DV6 Engine — Peugeot Partner B9 (1.6 HDi) Van 2008-2018 | Engined",
+  "description": "Used PSA DV6 engine for Peugeot Partner B9 1.6 HDi/BlueHDi (75-120 PS) 2008-2018. £1,215. Tested before dispatch, 12-month warranty, UK delivery. Recon £2,115.",
+  "canonical": "https://engined.co.uk/engines/dv6/peugeot-partner-b9-1-6-hdi-van-2008/"
+ },
+ "hero": {
+  "title": "Used PSA DV6 Engine — Peugeot Partner B9 (1.6 HDi) Van 2008-2018",
+  "subtitle": "Used PSA DV6 engine for Peugeot Partner B9 1.6 HDi/BlueHDi — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: DV6-USED-PARTNER-B9-HDI",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,215",
+    "note": "12-month warranty",
+    "price": "£1,215.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used PSA DV6 engine for Peugeot Partner B9 1.6 HDi/BlueHDi van 2008-2018, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "PSA DV6",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2008-2018",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "B9",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our registration checker to confirm this used PSA DV6 engine fits your Peugeot Partner B9 before you buy.",
+  "list": [
+   "Peugeot Partner B9 2008-2018 — 1.6 HDi / BlueHDi (75-120 PS), codes: DV6FE, DV6FETED, DV6ETED"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New oil and filter",
+   "Gaskets and seals"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this DV6 engine now, or view the full DV6 range for other applications.",
+  "crossLink": "← Back to all DV6 engines"
+ }
+}

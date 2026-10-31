@@ -1,0 +1,91 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "aj-v8-5-0",
+ "applicationSlug": "jaguar-xk-x150-508pn-385-convertible-recon-2009",
+ "engineCode": "508PN",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned 508PN 5.0 V8 Engine — Jaguar XK X150 Convertible (NA, 385hp) 2009–2011",
+  "description": "Reconditioned 508PN 5.0 V8 engine for Jaguar XK X150 Convertible (NA, 385hp). Fixed price £5,850. Fully rebuilt, 12-month warranty & UK delivery.",
+  "canonical": "https://engined.co.uk/engines/aj-v8-5-0/jaguar-xk-x150-508pn-385-convertible-recon-2009/"
+ },
+ "hero": {
+  "title": "Reconditioned 508PN 5.0 V8 Engine — Jaguar XK X150 Convertible (NA, 385hp) 2009–2011",
+  "subtitle": "Reconditioned 508PN 5.0 V8 engine for Jaguar XK X150 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 508PN-RECON-XK-CONV-385-0911",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £5,850",
+    "note": "12-month warranty",
+    "price": "£5,850.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned 508PN 5.0 V8 NA engine for Jaguar XK X150 Convertible 2009–2011, 385hp, fully rebuilt.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "508PN",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2009–2011",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X150",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Will this fit your vehicle? Use our registration checker to confirm compatibility for your Jaguar XK X150 with the 508PN engine code.",
+  "list": [
+   "Jaguar XK X150 (Convertible) (5.0 V8 NA 385hp) 2009–2011"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Full compression test report",
+   "Cleaned and decarbonised internals",
+   "New seals and gaskets fitted"
+  ],
+  "excluded": [
+   "Turbocharger/supercharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 508PN engine now, or view the full 5.0 AJ-V8 engine range for other applications.",
+  "crossLink": "← Back to all 5.0 AJ-V8 engines"
+ }
+}

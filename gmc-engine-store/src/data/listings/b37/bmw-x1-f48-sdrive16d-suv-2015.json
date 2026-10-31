@@ -1,0 +1,91 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "b37",
+ "applicationSlug": "bmw-x1-f48-sdrive16d-suv-2015",
+ "engineCode": "B37",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW B37 Engine — X1 F48 (sDrive16d) SUV 2015-2022",
+  "description": "Used BMW B37 engine for X1 F48 sDrive16d SUV (2015-2022) — fixed price £2,185, fully tested before dispatch, 12-month warranty included, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/b37/bmw-x1-f48-sdrive16d-suv-2015/"
+ },
+ "hero": {
+  "title": "Used BMW B37 Engine — X1 F48 (sDrive16d) SUV 2015-2022",
+  "subtitle": "Used B37 engine for X1 F48 sDrive16d SUV — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: B37-USED-F48-SDRIVE16D-SUV",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,185",
+    "note": "12-month warranty",
+    "price": "£2,185.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW B37C15U0 engine for F48 X1 sDrive16d SUV — transverse FWD/AWD configuration",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "B37",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2015-2022",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F48",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration to confirm fitment, or check the compatible models listed below.",
+  "list": [
+   "X1 SUV (F48) 2015-2022 — sDrive16d (116 hp)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil and filters pre-filled",
+   "Compression and leak-down test certificate",
+   "Full inspection report"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries (alternator, starter, A/C compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this B37 engine now, or view the full B37 engine range for other applications.",
+  "crossLink": "← Back to all B37 engines"
+ }
+}

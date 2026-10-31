@@ -1,0 +1,96 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "m274",
+ "applicationSlug": "mercedes-c-class-w205-m274-211-fl-saloon-2017",
+ "engineCode": "M274",
+ "condition": "used",
+ "seo": {
+  "title": "Used M274 2.0T Engine — C-Class W205 Saloon (C250, 211 PS) FL 2017–2018",
+  "description": "Used M274 2.0T engine for Mercedes-Benz C-Class W205 Saloon C250 211 PS FL (2017–2018). Fixed £1,595, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/m274/mercedes-c-class-w205-m274-211-fl-saloon-2017/"
+ },
+ "hero": {
+  "title": "Used M274 2.0T Engine — C-Class W205 Saloon (C250, 211 PS) FL 2017–2018",
+  "subtitle": "Used M274 engine for C-Class W205 Saloon C250 211 PS FL — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M274-USED-W205-C250-FL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,595",
+    "note": "12-month warranty",
+    "price": "£1,595.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,595",
+    "note": "12-month warranty",
+    "price": "£2,595.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Mercedes-Benz M274 2.0T engine, C-Class W205 C250 211 PS facelift saloon, longitudinal fitment",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M274",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2017–2018",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W205",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-m274-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with our reg checker before you buy — this M274 fits the application listed below.",
+  "list": [
+   "Mercedes-Benz C-Class W205 (Saloon C250 211 PS FL) 2017–2018"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (block, head, sump, timing cover as fitted)",
+   "Tested before dispatch (compression and oil pressure)",
+   "12-month warranty as standard",
+   "All gaskets and seals fitted at build",
+   "Ready to fit — no core exchange required"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries (alternator, starter, air-con compressor, pumps)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M274 engine now, or view the full M274 engine range for other applications.",
+  "crossLink": "← Back to all M274 engines → https://engined.co.uk/engines/m274"
+ }
+}

@@ -1,0 +1,96 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "m273",
+ "applicationSlug": "mercedes-g-class-w463-m273-388-auto-fl-suv-2010",
+ "engineCode": "M273",
+ "condition": "used",
+ "seo": {
+  "title": "Used M273 5.5 V8 Engine — G-Class W463 (G500, 388 PS, Auto) FL 2010–2012",
+  "description": "Used M273 5.5 V8 engine for Mercedes G-Class W463 G500 2010–2012. Fixed price £2,795, tested before dispatch, 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/m273/mercedes-g-class-w463-m273-388-auto-fl-suv-2010/"
+ },
+ "hero": {
+  "title": "Used M273 5.5 V8 Engine — G-Class W463 (G500, 388 PS, Auto) FL 2010–2012",
+  "subtitle": "Used M273 engine for G-Class W463 G500 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M273-USED-W463-G500-FL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,795",
+    "note": "12-month warranty",
+    "price": "£2,795.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £4,200",
+    "note": "12-month warranty",
+    "price": "£4,200.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "M273 used 5.5 V8 engine for Mercedes G-Class W463 G500 facelift 2010–2012, auto, 388 PS.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M273",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2010–2012",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W463",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-m273-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with your registration before ordering — this used M273 engine is listed for the applications below.",
+  "list": [
+   "G-Class W463 (SUV — G500 388 PS — Auto — M273.963) 2010–2012"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Renewed timing chains",
+   "New gaskets and seals"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M273 engine now, or view the full M273 range for other applications.",
+  "crossLink": "← Back to all M273 engines"
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "brand": "peugeot",
+ "brandName": "Peugeot",
+ "engineSlug": "dw10",
+ "applicationSlug": "peugeot-508-2-0-hdi-163-saloon-2010-recon",
+ "engineCode": "PSA DW10",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned DW10 Engine — Peugeot 508 (2.0 HDi 163) Saloon 2010-2018",
+  "description": "Reconditioned PSA DW10 engine for Peugeot 508 2.0 HDi 163 Saloon 2010-2018. Used £1,295 or recon £1,995, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/dw10/peugeot-508-2-0-hdi-163-saloon-2010-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned DW10 Engine — Peugeot 508 (2.0 HDi 163) Saloon 2010-2018",
+  "subtitle": "Reconditioned PSA DW10 engine for Peugeot 508 2.0 HDi 163 Saloon — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: DW10-RECON-508-HDI163",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,995",
+    "note": "12-month warranty",
+    "price": "£1,995.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "PSA DW10 2.0 HDi 163 engine for Peugeot 508 Saloon 2010-2018, DPF/BlueHDi, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "PSA DW10",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2010-2018",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Peugeot 508 2010-2018",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration to confirm this DW10 engine fits your Peugeot 508 2.0 HDi 163 before ordering.",
+  "list": [
+   "Peugeot 508 (2.0 HDi 163 PS, code RHE/RHH (DW10CTED4)) 2010-2018"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Engine block and cylinder head",
+   "Sump and timing covers"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this DW10 engine now, or view full DW10 engine range for other applications.",
+  "crossLink": "← Back to all DW10 engines"
+ }
+}

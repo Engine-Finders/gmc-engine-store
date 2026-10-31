@@ -1,0 +1,92 @@
+{
+ "brand": "audi",
+ "brandName": "Audi",
+ "engineSlug": "ea888",
+ "applicationSlug": "audi-tts-2-0-tfsi-roadster-recon",
+ "engineCode": "EA888",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned Audi EA888 2.0 TFSI Engine — TTS 8J/8S (2.0 TFSI) Roadster 2008-2023",
+  "description": "EA888 · Reconditioned · Audi TTS Roadster (8J/8S) 2008-2023, 2.0 TFSI 265-310 PS — £3,680 · 12-month warranty · UK delivery.",
+  "canonical": "https://engined.co.uk/engines/ea888/audi-tts-2-0-tfsi-roadster-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned Audi EA888 2.0 TFSI Engine — TTS 8J/8S (2.0 TFSI) Roadster 2008-2023",
+  "subtitle": "Reconditioned high-output EA888 2.0 TFSI engine for Audi TTS Roadster (8J/8S) (265-310 PS) — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA888-RECON-TTS-RDS",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £3,680",
+    "note": "12-month warranty",
+    "price": "£3,680.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned high-output EA888 2.0 TFSI engine for Audi TTS 8J/8S Roadster – 265-310 PS, rebuilt with renewed timing components and piston rings",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA888",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2008-2023",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "8J,8S",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/audi-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/audi-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/audi-audi-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration for instant compatibility confirmation, or check the list below to see if this EA888 2.0 TFSI engine fits your vehicle.",
+  "list": [
+   "Audi TTS Roadster (8J/8S) 2008-2023 — 2.0 TFSI (265-310 PS)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch with compression and leak-down checks",
+   "12-month warranty as standard (parts and labour on the engine assembly)",
+   "Full technical inspection report",
+   "Timing chains, tensioners, and guides replaced (as part of recon)",
+   "Piston rings renewed (as part of recon)",
+   "Oil and filter service completed"
+  ],
+  "excluded": [
+   "Turbocharger (reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, air conditioning compressor, power steering pump)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA888 engine now, or view the full EA888 engine range for other applications.",
+  "crossLink": "← Back to all EA888 engines (links to https://engined.co.uk/engines/ea888/)"
+ }
+}

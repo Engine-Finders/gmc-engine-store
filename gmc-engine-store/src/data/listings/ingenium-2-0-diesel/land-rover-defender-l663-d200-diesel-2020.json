@@ -1,0 +1,90 @@
+{
+ "brand": "jaguar",
+ "brandName": "Jaguar",
+ "engineSlug": "ingenium-2-0-diesel",
+ "applicationSlug": "land-rover-defender-l663-d200-diesel-2020",
+ "engineCode": "204DTA",
+ "condition": "used",
+ "seo": {
+  "title": "Used 204DTA 2.0 Ingenium Diesel Engine — Defender (L663) D200 SUV 2020-Present",
+  "description": "Used 204DTA engine for Defender (L663) D200 2.0 Diesel SUV. Fixed price £2,995. Tested before dispatch, 12-month warranty & UK delivery included.",
+  "canonical": "https://engined.co.uk/engines/ingenium-2-0-diesel/land-rover-defender-l663-d200-diesel-2020/"
+ },
+ "hero": {
+  "title": "Used 204DTA 2.0 Ingenium Diesel Engine — Defender (L663) D200 SUV 2020-Present",
+  "subtitle": "Used 204DTA engine for Defender (L663) D200 2.0 Diesel (200 PS) SUV — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 204DTA-USED-DEFENDER-L663-D200",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,995",
+    "note": "12-month warranty",
+    "price": "£2,995.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used 204DTA 2.0 Ingenium Diesel engine for Land Rover Defender L663 D200, twin-turbo, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "204DTA",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2020-Present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L663",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/jaguar-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/jaguar-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/jaguar-jaguar-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our reg-checker above to confirm this 204DTA engine is the exact match for your Land Rover Defender before you buy.",
+  "list": [
+   "Defender L663 (D200 2.0 Diesel 200 PS SUV) 2020–Present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Verified compression and oil pressure",
+   "Full quality assurance sign-off"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 204DTA engine now, or view the full 204DTA engine range for other applications.",
+  "crossLink": "← Back to all 204DTA engines"
+ }
+}

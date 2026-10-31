@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "m274",
+ "applicationSlug": "mercedes-e-class-w213-m274-245-prefl-estate-recon-2016",
+ "engineCode": "M274",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned M274 Engine — E-Class W213 Estate | Engined",
+  "description": "Reconditioned M274 engine for E-Class W213 E300 Estate (245 PS) Pre-FL. Fixed price £3,215, tested before dispatch, includes 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/m274/mercedes-e-class-w213-m274-245-prefl-estate-recon-2016/"
+ },
+ "hero": {
+  "title": "Reconditioned M274 2.0T Engine — E-Class W213 Estate (E300, 245 PS) Pre-FL 2016–2019",
+  "subtitle": "Reconditioned M274 engine for E-Class W213 E300 Estate (245 PS) Pre-FL — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M274-RECON-W213-E300-PREFL-EST",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £3,215",
+    "note": "12-month warranty",
+    "price": "£3,215.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned M274 engine for Mercedes E-Class W213 E300 Estate Pre-FL, complete longitudinal assembly with renewed timing chain.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M274",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2016–2019",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W213",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-m274-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number in our checker above to confirm this reconditioned M274 engine is an exact match for your vehicle.",
+  "list": [
+   "E-Class W213 (E300 245 PS Estate) 2016–2019"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Fully cleaned and inspected",
+   "VAT included"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M274 engine now, or view the full M274 engine range for other applications.",
+  "crossLink": "← Back to all M274 engines"
+ }
+}

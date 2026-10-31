@@ -1,0 +1,82 @@
+{
+ "brand": "nissan",
+ "brandName": "Nissan",
+ "engineSlug": "mr16ddt",
+ "applicationSlug": "nissan-pulsar-c13-1-6-dig-t-hatch-2014",
+ "engineCode": "MR16DDT",
+ "condition": "used",
+ "seo": {
+  "title": "Used Nissan MR16DDT Engine — Nissan Pulsar C13 (1.6 DIG‑T) Hatchback 2014‑2018 | Engined",
+  "description": "Used MR16DDT engine for Nissan Pulsar C13 1.6 DIG-T. Fixed price £2,200 (Used) or £2,900 (Recon). Tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/mr16ddt/nissan-pulsar-c13-1-6-dig-t-hatch-2014/"
+ },
+ "hero": {
+  "title": "Used Nissan MR16DDT Engine — Nissan Pulsar C13 (1.6 DIG‑T) Hatchback 2014‑2018",
+  "subtitle": "Used MR16DDT engine for Nissan Pulsar C13 1.6 DIG-T and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: MR16DDT-USED-PULSAR-C13-16DIGT-HATCH",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,200",
+    "note": "12-month warranty",
+    "price": "£2,200.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "MR16DDT used engine for Nissan Pulsar C13 1.6 DIG-T, transverse turbo petrol unit, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "MR16DDT",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2014-2018",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "C13",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/nissan-nissan-mr16ddt-engine-and-1-6-dig-t-engine.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number above to confirm this MR16DDT engine fits your vehicle before ordering.",
+  "list": [
+   "Nissan Pulsar C13 (1.6 DIG-T) 2014-2018"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "VAT included",
+   "Free UK delivery"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this MR16DDT engine now, or view the full MR16DDT engine range for other applications.",
+  "crossLink": "← Back to all MR16DDT engines"
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "brand": "volkswagen",
+ "brandName": "Volkswagen",
+ "engineSlug": "ea189",
+ "applicationSlug": "vw-golf-mk7-150ps-hatchback-2012",
+ "engineCode": "EA189",
+ "condition": "used",
+ "seo": {
+  "title": "Used EA189 Engine — VW Golf Mk7 (2.0 TDI 150 PS) Hatchback 2012-2015 | Engined",
+  "description": "Used EA189 2.0 TDI engine for VW Golf Mk7 (CRBC) 2012-2015 and more — £1,095 fixed price, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/ea189/vw-golf-mk7-150ps-hatchback-2012/"
+ },
+ "hero": {
+  "title": "Used EA189 Engine — VW Golf Mk7 (2.0 TDI 150 PS) Hatchback 2012-2015",
+  "subtitle": "Used EA189 engine for Golf Mk7 2.0 TDI 150 PS Hatchback, CRBC — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA189-USED-GOLF-MK7-150-HATCH",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,095",
+    "note": "12-month warranty",
+    "price": "£1,095.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used EA189 2.0 TDI engine, Golf Mk7 5G hatchback, CRBC 150 PS, transverse FWD 2012-2015",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA189",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2012-2015",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Golf Mk7 5G",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/volkswagen-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/volkswagen-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/volkswagen-vw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration with our reg checker before ordering — it confirms your Golf Mk7 uses engine code CRBC.",
+  "list": [
+   "VW Golf Mk7 5G (2.0 TDI 150 PS — CRBC Hatchback) 2012-2015"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block as removed",
+   "Sump and timing cover",
+   "Oil pump and water pump"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA189 engine now, or view the full EA189 engine range for other applications.",
+  "crossLink": "← Back to all EA189 engines"
+ }
+}

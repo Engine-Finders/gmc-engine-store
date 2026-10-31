@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n54-recon",
+ "applicationSlug": "e60-535i-saloon-2007",
+ "engineCode": "N54",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned BMW N54 Engine — 5 Series E60 (535i) Saloon 2007‑2010",
+  "description": "Reconditioned BMW N54 engine for 5 Series E60 535i Saloon 2007‑2010. N54B30 with tested HPFP and wastegates. £3,200 with 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/bmw-n54-recon/e60-535i-saloon-2007/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW N54 Engine — 5 Series E60 (535i) Saloon 2007‑2010",
+  "subtitle": "Reconditioned N54 engine for 5 Series E60 535i Saloon — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N54-RECON-E60-535I",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £3,200",
+    "note": "12-month warranty",
+    "price": "£3,200.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned BMW N54B30 engine for 5 Series E60 535i Saloon, 302 PS, tested HPFP and wastegates.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N54",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2007-2010",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E60",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration below to confirm this reconditioned N54 engine fits your BMW before you buy.",
+  "list": [
+   "BMW 5 Series E60 (535i 302 PS Saloon) 2007‑2010"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Renewed timing components",
+   "Gaskets and seals required for fitting"
+  ],
+  "excluded": [
+   "Turbocharger (reusable only, subject to condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N54 engine now, or view the full N54 engine range for other applications.",
+  "crossLink": "← Back to all N54 engines"
+ }
+}

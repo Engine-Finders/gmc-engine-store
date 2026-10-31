@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "td5",
+ "applicationSlug": "defender-90-cabrio-10p-1998",
+ "engineCode": "TD5",
+ "condition": "used",
+ "seo": {
+  "title": "Used Td5 Engine — Defender 90 Cabrio (10P) 1998-2002",
+  "description": "Used Td5 engine for Defender 90 Cabrio (10P) 1998-2002. Fixed price £1,706, tested before dispatch, 12-month warranty and UK delivery. In stock.",
+  "canonical": "https://engined.co.uk/engines/td5/defender-90-cabrio-10p-1998/"
+ },
+ "hero": {
+  "title": "Used Td5 Engine — Defender 90 Cabrio (10P) 1998-2002",
+  "subtitle": "Used Td5 engine for Defender 90 Cabrio (10P) — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: TD5-USED-DEF90-CABRIO-10P",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,706",
+    "note": "12-month warranty",
+    "price": "£1,706.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Td5 Engine — Defender 90 Cabrio (10P) 1998-2002",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "Td5",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "1998-2002",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "10P",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration above to confirm this Td5 engine fits your Land Rover Defender 90 Cabrio.",
+  "list": [
+   "Defender 90 (L316) Cabrio (10P) 1998-2002"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "ECU and wiring loom",
+   "Sump and oil pump"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this Td5 engine now, or view the full Td5 engine range for other applications.",
+  "crossLink": "← Back to all Td5 engines"
+ }
+}

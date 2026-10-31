@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "aj-v8-5-0",
+ "applicationSlug": "jaguar-xf-x250-508ps-510-saloon-2011",
+ "engineCode": "508PS",
+ "condition": "used",
+ "seo": {
+  "title": "Used 508PS 5.0 V8 Engine — Jaguar XF X250 (SC, 510hp) 2011–2015 | Engined",
+  "description": "Used 508PS 5.0 V8 engine for Jaguar XF X250, 510hp supercharged. Fits XFR, XFR-S. Fixed price £4,595 with 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/aj-v8-5-0/jaguar-xf-x250-508ps-510-saloon-2011/"
+ },
+ "hero": {
+  "title": "Used 508PS 5.0 V8 Engine — Jaguar XF X250 (SC, 510hp) 2011–2015",
+  "subtitle": "SUB — Used 508PS engine for Jaguar XF X250 XFR, XFR-S — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 508PS-USED-XF-510-1115",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £4,595",
+    "note": "12-month warranty",
+    "price": "£4,595.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used 508PS 5.0 V8 supercharged engine for Jaguar XF X250 510hp, tested before dispatch",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "508PS",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2011–2015",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X250",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration to confirm this 508PS engine fits your Jaguar XF X250 2011–2015 supercharged model.",
+  "list": [
+   "Jaguar XF X250 (Saloon, 5.0 V8 SC 510hp, 508PS code) 2011–2015"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New gaskets and seals",
+   "Ready for fitting"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 508PS engine now, or view the full 508PS engine range for other applications.",
+  "crossLink": "← Back to all 508PS engines"
+ }
+}

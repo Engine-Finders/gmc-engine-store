@@ -1,0 +1,96 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n43-recon",
+ "applicationSlug": "e87-118i-5dr-hatch-2007-recon",
+ "engineCode": "N43B20",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned BMW N43 Engine — 1 Series E87 (118i) 5‑dr Hatch 2007‑2010",
+  "description": "Reconditioned N43B20 standard‑output engine for BMW 1 Series E87 118i 5‑door Hatchback 2007‑2010 — fully tested, renewed timing, £1,705, 12‑month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/bmw-n43-recon/e87-118i-5dr-hatch-2007-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW N43 Engine — 1 Series E87 (118i) 5‑dr Hatch 2007‑2010",
+  "subtitle": "Reconditioned N43B20 standard‑output engine for BMW 1 Series E87 118i 5‑door Hatchback — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N43-RECON-E87-118I-PREFL",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,705",
+    "note": "12-month warranty",
+    "price": "£1,705.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned BMW N43B20 standard‑output engine for E87 118i 5‑door hatchback with renewed timing",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N43B20",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2007‑2010",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E87",
+    "label": "Compatible"
+   },
+   {
+    "icon": "gauge",
+    "value": "143 PS",
+    "label": "Max Output"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration to confirm exact compatibility with your BMW 1 Series E87 118i.",
+  "list": [
+   "BMW 1 Series (E87) 2007‑2010 — 118i (143 PS) 5‑door Hatchback"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12‑month warranty as standard",
+   "Renewed timing components",
+   "5‑door‑specific ancillaries fitted",
+   "Oil and filter service completed"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries not specific to this application",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this BMW N43 engine now, or view the full BMW N43 engine range for other applications.",
+  "crossLink": "← [Back to all BMW N43 engines"
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "brand": "peugeot",
+ "brandName": "Peugeot",
+ "engineSlug": "ecotec-family-0",
+ "applicationSlug": "vauxhall-mokka-a-1-4-suv-2012",
+ "engineCode": "ECOTEC FAMILY 0",
+ "condition": "used",
+ "seo": {
+  "title": "Ecotec Mokka A 1.4 Used | Engined",
+  "description": "Used Ecotec Family 0 engine for Mokka A, Corsa D/E, Astra H/J and more. Used price £805, fixed price, tested before dispatch, 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/ecotec-family-0/vauxhall-mokka-a-1-4-suv-2012/"
+ },
+ "hero": {
+  "title": "Ecotec Mokka A 1.4 Used",
+  "subtitle": "Used Ecotec Family 0 engine for Mokka A, Corsa D/E, Astra H/J and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: ECOFAM0-USED-MOKKA-A-14",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £805",
+    "note": "12-month warranty",
+    "price": "£805.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Ecotec Family 0 1.4 petrol engine for Vauxhall Mokka A SUV, A14XER, used.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "Ecotec Family 0",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2012-2016",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Mokka A",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with our reg checker before ordering — this engine is listed for the Vauxhall Mokka A 1.4.",
+  "list": [
+   "Vauxhall Mokka A (1.4 100-140 PS, code A14XER) 2012-2016"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "UK delivery",
+   "Secure palletised shipping"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this Ecotec Family 0 engine now, or view the full Ecotec Family 0 engine range for other applications.",
+  "crossLink": "← Back to all Ecotec Family 0 engines"
+ }
+}

@@ -1,0 +1,97 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "m47",
+ "applicationSlug": "bmw-3-series-compact-e46-318td-hatchback-2001",
+ "engineCode": "M47",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW M47 Engine — E46 318td Compact 2001-2005",
+  "description": "Used BMW M47 engine for 3 Series Compact Hatchback (E46) 2001-2005 - 115 PS, low output variant, tested before dispatch, £625, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/m47/bmw-3-series-compact-e46-318td-hatchback-2001/"
+ },
+ "hero": {
+  "title": "Used BMW M47 Engine — 3 Series Compact E46 (318td) Hatchback 2001-2005",
+  "subtitle": "Used M47 engine for 3 Series Compact Hatchback (E46) 2001-2005 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M47-USED-E46-318TD-HATCH",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £625",
+    "note": "12-month warranty",
+    "price": "£625.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,215",
+    "note": "12-month warranty",
+    "price": "£1,215.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW M47 E46 318td Compact Hatchback 2001-2005 longitudinal-mounted diesel engine — tested",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M47",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2001-2005",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E46",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our registration checker to confirm compatibility, or review the exact vehicle applications listed below.",
+  "list": [
+   "3 Series Compact Hatchback (E46) 2001-2005 — 318td (115 PS)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Fully inspected and pressure tested",
+   "Cam belt and timing components checked",
+   "Oil and filter changed prior to dispatch"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, air conditioning compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M47 engine now, or view the full BMW M47 engine range for other applications.",
+  "crossLink": "← Back to all BMW M47 engines"
+ }
+}

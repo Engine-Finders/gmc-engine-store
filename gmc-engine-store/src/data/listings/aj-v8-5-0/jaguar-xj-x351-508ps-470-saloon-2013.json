@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "aj-v8-5-0",
+ "applicationSlug": "jaguar-xj-x351-508ps-470-saloon-2013",
+ "engineCode": "508PS",
+ "condition": "used",
+ "seo": {
+  "title": "Used 508PS 5.0 V8 Engine — Jaguar XJ X351 (SC, 470hp) 2013–2019",
+  "description": "Used 508PS engine for Jaguar XJ X351 (2013–2019). Fixed price £4,595, tested before dispatch, UK delivery and a 12-month warranty included as standard.",
+  "canonical": "https://engined.co.uk/engines/aj-v8-5-0/jaguar-xj-x351-508ps-470-saloon-2013/"
+ },
+ "hero": {
+  "title": "Used 508PS 5.0 V8 Engine — Jaguar XJ X351 (SC, 470hp) 2013–2019",
+  "subtitle": "Used 508PS engine for Jaguar XJ X351 (SC, 470hp) — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 508PS-USED-XJ-470-1319",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £4,595",
+    "note": "12-month warranty",
+    "price": "£4,595.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used 508PS 5.0 V8 supercharged engine for Jaguar XJ X351 (2013–2019) saloon, tested and ready for dispatch",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "508PS",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2013-2019",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X351",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Will a 508PN NA engine fit my XJ? — Yes, same block. Confirm chassis X351. Enter your registration above to confirm exact fitment.",
+  "list": [
+   "Jaguar XJ X351 (2013–2019) — Saloon, 5.0 V8 SC 470hp"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Clean, drained, and sealed for transport",
+   "OEM-spec internal components"
+  ],
+  "excluded": [
+   "Turbocharger / supercharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 508PS engine now, or view the full 508PS range for other applications.",
+  "crossLink": "← Back to all 508PS engines"
+ }
+}

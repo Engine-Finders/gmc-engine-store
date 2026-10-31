@@ -1,0 +1,96 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "s63",
+ "applicationSlug": "bmw-g06-x6m-suv-2020",
+ "engineCode": "S63",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW S63 4.4 V8 Engine — G06 X6 M SUV (600 PS) 2020–present",
+  "description": "Used BMW S63 4.4 V8 engine for the G06 X6 M SUV (600 PS, 2020–present). Tested before dispatch, 12-month warranty and UK delivery. £7,245 fixed price.",
+  "canonical": "https://engined.co.uk/engines/s63/bmw-g06-x6m-suv-2020/"
+ },
+ "hero": {
+  "title": "Used BMW S63 4.4 V8 Engine — G06 X6 M SUV (600 PS) 2020–present",
+  "subtitle": "Used S63 engine for the G06 X6 M SUV (600 PS) — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: S63-USED-G06-X6M",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £7,245",
+    "note": "12-month warranty",
+    "price": "£7,245.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £10,870",
+    "note": "12-month warranty",
+    "price": "£10,870.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW S63 4.4 V8 Engine — G06 X6 M SUV (600 PS) 2020–present",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "S63",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2020–present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "G06",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-n63-s63-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with our registration checker before ordering — this listing covers the G06 X6 M SUV only.",
+  "list": [
+   "BMW X6 M G06 SUV (600 PS) 2020–present — S63B44TÜ2"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (block, cylinder head, sump, covers and oil pump)",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Compression and oil pressure verified",
+   "Securely crated and palletised for UK delivery"
+  ],
+  "excluded": [
+   "Turbocharger (included only where reusable for the condition supplied)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, air conditioning compressor, wiring)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this S63 engine now, or view the full S63 engine range for other applications.",
+  "crossLink": "← Back to all S63 engines"
+ }
+}

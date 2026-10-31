@@ -1,0 +1,83 @@
+{
+ "brand": "volvo",
+ "brandName": "Volvo",
+ "engineSlug": "t5-t6-legacy",
+ "applicationSlug": "volvo-xc90-2-9-272ps-suv-2002-recon",
+ "engineCode": "B6294T",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned T6 Engine — Volvo XC90 (2.9 T6 272 PS) SUV 2002-2006",
+  "description": "Reconditioned Volvo B6294T 2.9 T6 engine for XC90 P28 SUVs — rebuilt head, new timing belt and water pump, twin-turbos inspected, 12-month warranty. £2,195.",
+  "canonical": "https://engined.co.uk/engines/t5-t6-legacy/volvo-xc90-2-9-272ps-suv-2002-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned T6 Engine — Volvo XC90 (2.9 T6 272 PS) SUV 2002-2006",
+  "subtitle": "Reconditioned B6294T engine for the Volvo XC90 P28 SUV — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: T6-RECON-XC90-29-T6-12M",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,195",
+    "note": "12-month warranty",
+    "price": "£2,195.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned Volvo B6294T 2.9 T6 272 PS twin-turbo petrol engine for XC90 P28 SUV, AWD, 2002-2006",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "B6294T",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2002-2006",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "P28",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "These engines fit the applications listed below. Enter your registration in the reg checker to confirm fitment before you buy.",
+  "list": [
+   "Volvo XC90 P28 (2.9 T6 272 PS, B6294T, SUV) 2002-2006"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Free UK delivery",
+   "14-day returns policy"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this B6294T engine now, or view the full B6294T engine range for other applications.",
+  "crossLink": "← Back to all B6294T engines"
+ }
+}

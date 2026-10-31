@@ -1,0 +1,91 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "b58",
+ "applicationSlug": "bmw-3-series-g20-m340i-saloon-2019-recon",
+ "engineCode": "B58",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned BMW B58 Engine — 3 Series G20 M340i",
+  "description": "Reconditioned BMW B58 3.0L M Performance engine for 3 Series G20 M340i Saloon (2019+). 374hp. £7,475 with 12-month warranty. UK delivery.",
+  "canonical": "https://engined.co.uk/engines/b58/bmw-3-series-g20-m340i-saloon-2019-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW B58 Engine — 3 Series G20 (M340i) Saloon 2019-present",
+  "subtitle": "Reconditioned B58 3.0L M Performance engine for 3 Series G20 M340i Saloon (374hp) — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: B58-RECON-G20-M340I",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £7,475",
+    "note": "12-month warranty",
+    "price": "£7,475.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned BMW B58 3.0L M Performance engine for 3 Series G20 M340i Saloon, 374hp variant",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "B58",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2019-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "G20",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-b58-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check compatibility by entering your registration for instant confirmation, or review the models this engine fits below.",
+  "list": [
+   "3 Series Saloon (G20) 2019-present — M340i (374 hp)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Full diagnostic report",
+   "Oil and filter service completed",
+   "Compression and leak-down test verified"
+  ],
+  "excluded": [
+   "Turbocharger (reusable from your original engine)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, air conditioning compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this BMW B58 3.0L M Performance engine now, or view the full B58 engine range for other applications.",
+  "crossLink": "← Back to all B58 engines"
+ }
+}

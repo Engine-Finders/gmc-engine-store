@@ -8,12 +8,18 @@ import ListingAbout from "@/components/listing/ListingAbout";
 import ListingCompatible from "@/components/listing/ListingCompatible";
 import ListingInfoCards from "@/components/listing/ListingInfoCards";
 import ListingFaqs from "@/components/listing/ListingFaqs";
+import ListingCta from "@/components/listing/ListingCta";
 import { getListingData, listingParams } from "@/lib/listing";
 
 type Params = { engineSlug: string; applicationSlug: string };
 
+// ~5,800 extracted listings: only the hand-built page is pre-rendered at build time; every
+// other listing renders on its first request and is cached after that (building all of them
+// in one `next build` takes far too long).
+export const dynamicParams = true;
+
 export function generateStaticParams() {
-  return listingParams();
+  return listingParams().filter((p) => p.engineSlug === "om651");
 }
 
 export function generateMetadata({ params }: { params: Params }): Metadata {
@@ -39,7 +45,8 @@ export default function ListingPage({ params }: { params: Params }) {
           <ListingAbout data={data} />
           <ListingCompatible data={data.compatible} />
           <ListingInfoCards data={data} />
-          <ListingFaqs data={data.faqs} />
+          {data.cta && <ListingCta data={data.cta} />}
+          {data.faqs && <ListingFaqs data={data.faqs} />}
         </main>
       </ModelThemeShell>
       <Footer />

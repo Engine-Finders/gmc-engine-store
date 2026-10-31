@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "m274",
+ "applicationSlug": "mercedes-a-class-w176-m270-211-prefl-hatchback-recon-2012",
+ "engineCode": "M270",
+ "condition": "recon",
+ "seo": {
+  "title": "Recon M270 A250 W176 211 | Engined",
+  "description": "Reconditioned M270 engine for Mercedes A-Class W176 A250 211 PS (2012-2015). Fixed price £2,350, renewed timing chain, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/m274/mercedes-a-class-w176-m270-211-prefl-hatchback-recon-2012/"
+ },
+ "hero": {
+  "title": "Recon M270 A250 W176 211",
+  "subtitle": "Reconditioned M270 engine for A-Class W176 Hatchback A250 211 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M270-RECON-W176-A250-PREFL",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,350",
+    "note": "12-month warranty",
+    "price": "£2,350.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Recon M270 A250 W176 211",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M270",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2012–2015",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W176",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-m274-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number above to confirm this reconditioned M270 engine is an exact match for your Mercedes-Benz.",
+  "list": [
+   "A-Class W176 Hatchback (A250 211 PS) 2012–2015"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "Warranty as standard",
+   "Replacement gaskets and seals",
+   "Full compression test report"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M270 engine now, or view the full M270 engine range for other applications.",
+  "crossLink": "← Back to all M270 engines"
+ }
+}

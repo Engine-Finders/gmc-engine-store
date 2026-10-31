@@ -1,0 +1,83 @@
+{
+ "brand": "suzuki",
+ "brandName": "Suzuki",
+ "engineSlug": "k-series-small",
+ "applicationSlug": "suzuki-swift-1-0-hatch-2000",
+ "engineCode": "K10B",
+ "condition": "used",
+ "seo": {
+  "title": "Used Suzuki K10B Engine — Suzuki Swift (1.0) Hatchback 2000-Present",
+  "description": "Used Suzuki K10B engine for Suzuki Swift (1.0) Hatchback 2000-Present — £355, 12-month warranty, tested before dispatch, UK delivery available.",
+  "canonical": "https://engined.co.uk/engines/k-series-small/suzuki-swift-1-0-hatch-2000/"
+ },
+ "hero": {
+  "title": "Used Suzuki K10B Engine — Suzuki Swift (1.0) Hatchback 2000-Present",
+  "subtitle": "Used K10B engine for Suzuki Swift (1.0) — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: K10B-USED-SWIFT",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £355",
+    "note": "12-month warranty",
+    "price": "£355.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Suzuki K10B 1.0 petrol engine, transverse FWD, for Suzuki Swift hatchback 2000-Present",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "K10B",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2000–Present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Suzuki Swift",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your registration with our reg checker before ordering — this K10B fits the Suzuki Swift applications listed below.",
+  "list": [
+   "Suzuki Swift — 1.0 (K10B, 3-cylinder) entry-level petrol, transverse FWD (2000–Present)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (cylinder block, cylinder head, sump and rocker cover)",
+   "Fully tested before dispatch",
+   "12-month warranty as standard",
+   "Timing chain and tensioner fitted",
+   "Oil seals and gaskets renewed"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, air conditioning compressor and similar)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this K10B engine now, or view the full K10B engine range for other applications.",
+  "crossLink": "← Back to all K10B engines"
+ }
+}

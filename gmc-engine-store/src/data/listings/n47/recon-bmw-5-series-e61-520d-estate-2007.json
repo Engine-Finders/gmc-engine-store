@@ -1,0 +1,91 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "n47",
+ "applicationSlug": "recon-bmw-5-series-e61-520d-estate-2007",
+ "engineCode": "N47",
+ "condition": "recon",
+ "seo": {
+  "title": "Recon N47 Engine — BMW 5 Series E61 520d Estate 2007-2010",
+  "description": "N47 · Reconditioned · E61 520d Estate · 177 PS · £2,350 · Tested before dispatch · 12-month warranty · UK delivery. Buy this compatible 5 Series engine online.",
+  "canonical": "https://engined.co.uk/engines/n47/recon-bmw-5-series-e61-520d-estate-2007/"
+ },
+ "hero": {
+  "title": "Reconditioned N47 Engine — BMW 5 Series E61 520d Estate 2007-2010",
+  "subtitle": "Reconditioned N47 engine for BMW 5 Series Estate (E61) 520d and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N47-RECON-G3-E61-520D",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,350.00",
+    "note": "12-month warranty",
+    "price": "£2,350.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "BMW N47 reconditioned engine for E61 520d Estate, a 2.0-litre diesel engine for executive estate cars",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N47",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2007-2010",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E61",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-n47-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check if this N47 engine fits your vehicle below. Use our reg-checker for guaranteed compatibility.",
+  "list": [
+   "BMW 5 Series (E61) 520d Estate 2007-2010 — 177 PS"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch",
+   "12-month warranty as standard",
+   "Fully pressure and vacuum tested",
+   "All oil and fluid changes completed",
+   "UK-wide delivery included"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N47 engine now, or view the full N47 engine range for other applications.",
+  "crossLink": "← Back to all N47 engines"
+ }
+}

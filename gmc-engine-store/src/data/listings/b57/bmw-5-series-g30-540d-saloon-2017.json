@@ -1,0 +1,91 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "b57",
+ "applicationSlug": "bmw-5-series-g30-540d-saloon-2017",
+ "engineCode": "B57",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW B57 Engine — 5 Series G30 540d 2017+",
+  "description": "BMW B57 · used · 5 Series G30 540d Saloon · from £3,675 (recon £4,595) · 12-month warranty · UK delivery.",
+  "canonical": "https://engined.co.uk/engines/b57/bmw-5-series-g30-540d-saloon-2017/"
+ },
+ "hero": {
+  "title": "Used BMW B57 Engine — 5 Series G30 (540d) Saloon 2017-present",
+  "subtitle": "Used B57 engine for BMW 5 Series G30 540d Saloon — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: B57-USED-5SERIES-G30-540D-SALOON",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £3,675",
+    "note": "12-month warranty",
+    "price": "£3,675.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW B57 twin-turbo engine for 5 Series G30 540d Saloon, 340 hp diesel unit",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "B57",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2017-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "G30",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-b57-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your vehicle's compatibility below, or use our free reg-checker for instant confirmation.",
+  "list": [
+   "5 Series Saloon (G30) 2017-present — 540d (340 hp)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch",
+   "12-month warranty as standard",
+   "Full pre-delivery inspection",
+   "Oil and filter service",
+   "UK-wide delivery"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this B57 engine now, or view the full B57 engine range for other applications.",
+  "crossLink": "← Back to all B57 engines"
+ }
+}

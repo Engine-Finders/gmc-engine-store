@@ -1,0 +1,82 @@
+{
+ "brand": "nissan",
+ "brandName": "Nissan",
+ "engineSlug": "vq35-37-v6",
+ "applicationSlug": "infiniti-g35-v35-coupe-2003-recon",
+ "engineCode": "VQ35DE",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned Nissan VQ35DE Engine — Infiniti G35 V35 (Coupe) 2003-2006 | Engined",
+  "description": "Reconditioned VQ35DE engine for Infiniti G35 V35 Coupe 2003-2006. Fixed price £2,525 (Used) / £3,445 (Recon). Tested, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/vq35-37-v6/infiniti-g35-v35-coupe-2003-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned Nissan VQ35DE Engine — Infiniti G35 V35 (Coupe) 2003-2006",
+  "subtitle": "Reconditioned VQ35DE engine for Infiniti G35 V35 Coupe 2003-2006 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: VQ35-RECON-G35-V35-COUPE",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,525",
+    "note": "12-month warranty",
+    "price": "£2,525.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned Nissan VQ35DE Engine — Infiniti G35 V35 (Coupe) 2003-2006",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "VQ35DE",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2003-2006",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "V35",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/nissan-nissan-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our reg-checker to confirm fitment. Note: VQ37VHR is not a direct plug-and-play replacement for this VQ35DE.",
+  "list": [
+   "Infiniti G35 V35 (Coupe) 2003-2006"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cleaned and inspected block and heads",
+   "New seals and gaskets fitted"
+  ],
+  "excluded": [
+   "Turbocharger (if applicable/reusable)",
+   "Injectors / fuel system",
+   "Ancillaries (alternator, starter, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this VQ35DE engine now, or view the full VQ35DE range for others.",
+  "crossLink": "← Back to all VQ35DE engines"
+ }
+}

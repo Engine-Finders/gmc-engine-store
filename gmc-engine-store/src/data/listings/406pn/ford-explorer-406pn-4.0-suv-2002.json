@@ -1,0 +1,91 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "406pn",
+ "applicationSlug": "ford-explorer-406pn-4.0-suv-2002",
+ "engineCode": "406PN",
+ "condition": "used",
+ "seo": {
+  "title": "PENDING — Ford Explorer 4.0 V8 Engine (2002–2010) | Engined",
+  "description": "Used 406PN engine for Ford Explorer U251. Fixed price £2,495. Tested before dispatch, includes a 12-month warranty and free UK delivery.",
+  "canonical": "https://engined.co.uk/engines/406pn/ford-explorer-406pn-4.0-suv-2002/"
+ },
+ "hero": {
+  "title": "PENDING — Ford Explorer 4.0 V8 Engine (2002–2010)",
+  "subtitle": "Used 406PN engine for Ford Explorer U251 and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 406PN-PEND-FORD-EXPLORER",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,495",
+    "note": "12-month warranty",
+    "price": "£2,495.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Ford 406PN 4.0 V8 engine for Explorer U251 SUV, tested and ready for UK delivery.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "406PN",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2002–2010",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "U251",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number in our checker above to confirm this 406PN engine fits your Ford Explorer U251.",
+  "list": [
+   "Ford Explorer U251 (4.0 V8 SUV) 2002–2010"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "OEM-spec gaskets and seals",
+   "Cleaned and degreased block",
+   "Full compression test report"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 406PN engine now, or view the full 406PN engine range for other applications.",
+  "crossLink": "← Back to all 406PN engines"
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "b58",
+ "applicationSlug": "bmw-2-series-f23-m240i-convertible-2016-recon",
+ "engineCode": "B58",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned BMW B58 Engine — 2 Series F23 M240i",
+  "description": "Reconditioned BMW B58 3.0L M Performance engine for 2 Series F23 M240i Convertible (2016-2021). 340hp. £7,475 with 12-month warranty. UK delivery.",
+  "canonical": "https://engined.co.uk/engines/b58/bmw-2-series-f23-m240i-convertible-2016-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW B58 Engine — 2 Series F23 (M240i) Convertible 2016-2021",
+  "subtitle": "Reconditioned B58 3.0L M Performance engine for 2 Series F23 M240i Convertible (340hp) — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: B58-RECON-F23-M240I",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £7,475",
+    "note": "12-month warranty",
+    "price": "£7,475.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned BMW B58 3.0L M Performance engine for 2 Series F23 M240i Convertible, 340hp variant",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "B58",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2016-2021",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F23",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-b58-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check compatibility by entering your registration for instant confirmation, or review the models this engine fits below.",
+  "list": [
+   "2 Series Convertible (F23) 2016-2021 — M240i (340 hp)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Full diagnostic report",
+   "Oil and filter service completed",
+   "Compression and leak-down test verified"
+  ],
+  "excluded": [
+   "Turbocharger (reusable from your original engine)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, air conditioning compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this BMW B58 3.0L M Performance engine now, or view the full B58 engine range for other applications.",
+  "crossLink": "← Back to all B58 engines"
+ }
+}

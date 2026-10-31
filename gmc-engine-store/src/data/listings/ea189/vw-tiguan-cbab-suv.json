@@ -1,0 +1,91 @@
+{
+ "brand": "audi",
+ "brandName": "Audi",
+ "engineSlug": "ea189",
+ "applicationSlug": "vw-tiguan-cbab-suv",
+ "engineCode": "EA189",
+ "condition": "used",
+ "seo": {
+  "title": "Used EA189 2.0 TDI Engine — VW Tiguan 5N (CBAB 140 hp) SUV 2008-2012",
+  "description": "EA189 · Used · VW Tiguan SUV 5N CBAB 140 hp · £1,295 · 12-month warranty · UK delivery. SUV-spec ancillaries; verify compatibility with Golf.",
+  "canonical": "https://engined.co.uk/engines/ea189/vw-tiguan-cbab-suv/"
+ },
+ "hero": {
+  "title": "Used EA189 2.0 TDI Engine — VW Tiguan 5N (CBAB 140 hp) SUV 2008-2016",
+  "subtitle": "Used EA189 2.0 TDI engine for VW Tiguan SUV 5N — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA189-USED-TIGUAN-CBAB",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,295",
+    "note": "12-month warranty",
+    "price": "£1,295.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "EA189 2.0 TDI CBAB engine for VW Tiguan SUV 5N, transverse single-turbo diesel, 140 hp.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA189",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2008-2016",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "5N",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/audi-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/audi-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/audi-audi-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Verify this engine fits your VW Tiguan using our free registration checker — input your reg for instant confirmation.",
+  "list": [
+   "VW Tiguan SUV (5N) 2008-2016 — 2.0 TDI CBAB (140 hp)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Comprehensive inspection report",
+   "Oil and filter service",
+   "UK delivery included"
+  ],
+  "excluded": [
+   "Turbocharger (reusable if in good condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA189 engine now, or view the full EA189 engine range for other applications.",
+  "crossLink": "← Back to all EA189 engines"
+ }
+}

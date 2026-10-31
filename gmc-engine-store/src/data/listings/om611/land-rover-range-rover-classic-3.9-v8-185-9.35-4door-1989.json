@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "om611",
+ "applicationSlug": "land-rover-range-rover-classic-3.9-v8-185-9.35-4door-1989",
+ "engineCode": "37L",
+ "condition": "used",
+ "seo": {
+  "title": "Used 37L 3.9 V8 Engine — Range Rover Classic 4-door (185 PS, 9.35:1) 1989–1994",
+  "description": "Used 37L 3.9 V8 engine for Range Rover Classic 4-door (185 PS, 9.35:1) 1989–1994. £1,465 with 12-month warranty and fast UK delivery. Tested before dispatch.",
+  "canonical": "https://engined.co.uk/engines/om611/land-rover-range-rover-classic-3.9-v8-185-9.35-4door-1989/"
+ },
+ "hero": {
+  "title": "Used 37L 3.9 V8 Engine — Range Rover Classic 4-door (185 PS, 9.35:1) 1989–1994",
+  "subtitle": "Used 37L engine for Range Rover Classic 4-door — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 37L-USED-RRC-4DOOR-185-HC",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,465",
+    "note": "12-month warranty",
+    "price": "£1,465.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used 37L 3.9 V8 engine for Range Rover Classic 4-door, 185 PS, 9.35:1, 1989–1994, high compression.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "37L",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "1989–1994",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Range Rover Classic",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration to confirm fitment for the Range Rover Classic 4-door — this 37L engine matches the applications listed below.",
+  "list": [
+   "Range Rover Classic 4-door (3.9 V8 185 PS, 9.35:1) 1989–1994"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty",
+   "New timing belt",
+   "New gaskets and seals"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 37L engine now, or view the full 37L engine range for other applications.",
+  "crossLink": "← Back to all 37L engines (links to https://engined.co.uk/engines/om611/)"
+ }
+}

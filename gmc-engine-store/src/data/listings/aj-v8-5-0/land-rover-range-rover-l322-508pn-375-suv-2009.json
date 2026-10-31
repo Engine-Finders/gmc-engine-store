@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "aj-v8-5-0",
+ "applicationSlug": "land-rover-range-rover-l322-508pn-375-suv-2009",
+ "engineCode": "508PN",
+ "condition": "used",
+ "seo": {
+  "title": "Used 508PN 5.0 V8 Engine — Range Rover L322 (NA, 375hp) 2009–2012",
+  "description": "Used 508PN engine for Range Rover L322 2009–2012 SUV. Fixed price £4,510, tested before dispatch, 12-month warranty & UK delivery. Buy today.",
+  "canonical": "https://engined.co.uk/engines/aj-v8-5-0/land-rover-range-rover-l322-508pn-375-suv-2009/"
+ },
+ "hero": {
+  "title": "Used 508PN 5.0 V8 Engine — Range Rover L322 (NA, 375hp) 2009–2012",
+  "subtitle": "Used 508PN engine for Range Rover L322 2009–2012 SUV — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 508PN-USED-L322-375-0912",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £4,510",
+    "note": "12-month warranty",
+    "price": "£4,510.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used 508PN 5.0 V8 Engine — Range Rover L322 (NA, 375hp) 2009–2012",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "508PN",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2009–2012",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L322",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Will a 508PS supercharged engine fit my L322? Use our reg-checker to confirm, but yes, this engine fits the L322 5.0 V8 NA.",
+  "list": [
+   "Range Rover L322 (5.0 V8 NA 375hp SUV) 2009–2012"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Clean, drained, and sealed for transport",
+   "Full compression test report"
+  ],
+  "excluded": [
+   "Turbocharger / supercharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 508PN engine now, or view the full 508PN engine range for other applications.",
+  "crossLink": "← Back to all 508PN engines"
+ }
+}

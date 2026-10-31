@@ -1,0 +1,89 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "m276",
+ "applicationSlug": "mercedes-e-class-w213-m276-367-saloon-recon-2018",
+ "engineCode": "M276",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned M276 3.0 TT Engine — E-Class W213 Saloon (E450 4MATIC, 367 PS) 2018–2020 | Engined",
+  "description": "Reconditioned M276 3.0 TT engine for E-Class W213 Saloon E450 4MATIC 367 PS (2018–2020). Renewed timing chains, inspected turbos, 12-month warranty, UK delivery. £5,175.",
+  "canonical": "https://engined.co.uk/engines/m276/mercedes-e-class-w213-m276-367-saloon-recon-2018/"
+ },
+ "hero": {
+  "title": "Reconditioned M276 3.0 TT Engine — E-Class W213 Saloon (E450 4MATIC, 367 PS) 2018–2020",
+  "subtitle": "Reconditioned M276 engine for E-Class W213 Saloon E450 4MATIC 367 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M276-RECON-G4-W213-E450",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £5,175",
+    "note": "12-month warranty",
+    "price": "£5,175.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned Mercedes-Benz M276 3.0 twin-turbo V6 engine for E-Class W213 E450 4MATIC saloon, 2018–2020",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M276",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2018–2020",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W213",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-m276-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration against the list below before ordering — every application this M276 engine fits is confirmed for the E-Class W213.",
+  "list": [
+   "E-Class W213 Saloon (E450 4MATIC 367 PS — M276 DE30 AL, 3.0 TT) 2018–2020"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly, ready to fit",
+   "Renewed timing chains",
+   "Turbos inspected",
+   "Tested before dispatch",
+   "12-month warranty as standard"
+  ],
+  "excluded": [
+   "Injectors and fuel system components",
+   "Ancillaries — alternator, starter, air-con compressor, sensors",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M276 engine now, or view the full M276 engine range for other applications.",
+  "crossLink": "← Back to all M276 engines"
+ }
+}

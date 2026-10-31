@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n52",
+ "applicationSlug": "e93-323i-conv-2009",
+ "engineCode": "N52",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW N52 Engine — 3 Series E93 323i 2009‑2011 | Engined",
+  "description": "BMW N52 used engine for BMW 3 Series E93 (323i) Convertible 2009‑2011. Fixed £1,395, tested before dispatch, 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/bmw-n52/e93-323i-conv-2009/"
+ },
+ "hero": {
+  "title": "Used BMW N52 Engine — 3 Series E93 (323i) Convertible 2009‑2011",
+  "subtitle": "Used BMW N52 engine for BMW 3 Series E93 (323i) Convertible 2009‑2011 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N52-USED-E93-323I-FL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,395",
+    "note": "12-month warranty",
+    "price": "£1,395.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW N52 engine for BMW 3 Series E93 323i Convertible 2009‑2011, LCI N52B25 with updated DME",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "BMW N52",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2009‑2011",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E93",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your registration with our reg checker before ordering to ensure this BMW N52 engine matches your E93 323i Convertible.",
+  "list": [
+   "BMW 3 Series (E93) 2009‑2011 — 323i (177 PS) Convertible"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Sump and timing covers"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this BMW N52 engine now, or view the full BMW N52 engine range for other applications.",
+  "crossLink": "← Back to all BMW N52 engines"
+ }
+}

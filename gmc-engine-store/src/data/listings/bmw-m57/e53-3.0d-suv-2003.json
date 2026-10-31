@@ -1,0 +1,97 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-m57",
+ "applicationSlug": "e53-3.0d-suv-2003",
+ "engineCode": "M57TUD30",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW M57 Engine — X5 E53 (3.0d) SUV 2003-2006",
+  "description": "BMW M57TUD30 · used · X5 E53 3.0d (184 PS) SUV · £1,795 · 12-month warranty · UK delivery — tested before dispatch.",
+  "canonical": "https://engined.co.uk/engines/bmw-m57/e53-3.0d-suv-2003/"
+ },
+ "hero": {
+  "title": "Used BMW M57 Engine — X5 E53 (3.0d) SUV 2003-2006",
+  "subtitle": "Used BMW M57TUD30 engine for BMW X5 E53 3.0d SUV — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M57-USED-E53-3.0D-FL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,795",
+    "note": "12-month warranty",
+    "price": "£1,795.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,850",
+    "note": "12-month warranty",
+    "price": "£2,850.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "BMW M57TUD30 2993cc engine for E53 3.0d SUV — used tested unit with 184 PS",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M57TUD30",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2003-2006",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E53",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-m57-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your vehicle compatibility below — use our reg-checker to confirm fitment for your specific BMW X5 E53 3.0d.",
+  "list": [
+   "BMW X5 E53 (3.0d) SUV 2003-2006"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch (compression and leak-down tests)",
+   "12-month warranty as standard",
+   "Full service history documentation",
+   "UK delivery included",
+   "14-day return policy"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system components",
+   "Ancillaries (alternator, starter motor, AC compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this BMW M57TUD30 engine now, or view the full BMW M57 engine range for other applications.",
+  "crossLink": "← Back to all BMW M57 engines"
+ }
+}

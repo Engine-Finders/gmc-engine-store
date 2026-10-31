@@ -1,0 +1,90 @@
+{
+ "brand": "peugeot",
+ "brandName": "Peugeot",
+ "engineSlug": "eb2-puretech",
+ "applicationSlug": "vauxhall-corsa-f-1-2-puretech-130ps-hatch-2019",
+ "engineCode": "PSA EB2",
+ "condition": "used",
+ "seo": {
+  "title": "Used PSA EB2 Engine — Vauxhall Corsa F (1.2 PureTech 130 PS) Hatchback 2019-Present",
+  "description": "Used PSA EB2 engine for Vauxhall Corsa F 1.2 PureTech 130 PS. Fixed price £1,450 with 12-month warranty and UK delivery. Tested before dispatch.",
+  "canonical": "https://engined.co.uk/engines/eb2-puretech/vauxhall-corsa-f-1-2-puretech-130ps-hatch-2019/"
+ },
+ "hero": {
+  "title": "Used PSA EB2 Engine — Vauxhall Corsa F (1.2 PureTech 130 PS) Hatchback 2019-Present",
+  "subtitle": "Used PSA EB2 engine for Vauxhall Corsa F 1.2 PureTech 130 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EB2-USED-CORSAF-130PS",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,450",
+    "note": "12-month warranty",
+    "price": "£1,450.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,500",
+    "note": "12-month warranty",
+    "price": "£2,500.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used PSA EB2 1.2 PureTech 130 PS engine for Vauxhall Corsa F, transverse mount, tested before dispatch",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "PSA EB2",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2019–present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Corsa F",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration with our reg checker to confirm this used PSA EB2 engine fits your Vauxhall Corsa F 1.2 PureTech 130 PS.",
+  "list": [
+   "Vauxhall Corsa F (1.2 PureTech 130 PS) 2019–present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block included",
+   "Sump, rocker cover and timing cover included",
+   "Compression tested and oil pressure checked"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EB2 engine now, or view the full EB2 engine range for other applications.",
+  "crossLink": "← Back to all PSA EB2 engines"
+ }
+}

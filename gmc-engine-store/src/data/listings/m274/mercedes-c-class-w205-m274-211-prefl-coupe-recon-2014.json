@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "m274",
+ "applicationSlug": "mercedes-c-class-w205-m274-211-prefl-coupe-recon-2014",
+ "engineCode": "M274",
+ "condition": "recon",
+ "seo": {
+  "title": "Recon M274 C250 W205 Cpe 211 | Engined",
+  "description": "Reconditioned M274 engine for Mercedes C-Class W205 Coupe C250 211 PS (2014-2017). Fixed price £2,595, renewed timing chain, 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/m274/mercedes-c-class-w205-m274-211-prefl-coupe-recon-2014/"
+ },
+ "hero": {
+  "title": "Recon M274 C250 W205 Cpe 211",
+  "subtitle": "Reconditioned M274 engine for C-Class W205 Coupe C250 211 PS (2014–2017) — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M274-RECON-W205-C250-PREFL-CPE",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,595",
+    "note": "12-month warranty",
+    "price": "£2,595.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Recon M274 C250 W205 Cpe 211",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M274",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2014–2017",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W205",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-m274-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number above to confirm this reconditioned M274 engine is an exact match for your Mercedes-Benz.",
+  "list": [
+   "C-Class W205 Coupe (C250 211 PS) 2014–2017"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "Warranty as standard",
+   "Replacement gaskets and seals",
+   "Full compression test report"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M274 engine now, or view the full M274 range for other applications.",
+  "crossLink": "← Back to all M274 engines"
+ }
+}

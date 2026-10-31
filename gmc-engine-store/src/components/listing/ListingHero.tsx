@@ -4,6 +4,7 @@ import { useState } from "react";
 import Link from "next/link";
 import Icon from "../Icon";
 import UkFlag from "../UkFlag";
+import { useQuoteModal, useRegCheck } from "../quote/QuoteModal";
 import type { ListingPageData } from "@/lib/listing";
 
 type Data = ListingPageData;
@@ -48,6 +49,9 @@ function SpecCard({ s, i }: { s: Spec; i: number }) {
 
 export default function ListingHero({ data }: { data: Data }) {
   const h = data.hero;
+  const { open: openQuote } = useQuoteModal();
+  const quoteNote = `Enquiry about: ${h.title} (${h.sku})`;
+  const rc = useRegCheck({ heading: "Check this engine fits your car", note: quoteNote });
   const [option, setOption] = useState(h.options.find((o) => o.default)?.id ?? h.options[0].id);
   const [active, setActive] = useState(0);
   const selected = h.options.find((o) => o.id === option) ?? h.options[0];
@@ -57,7 +61,11 @@ export default function ListingHero({ data }: { data: Data }) {
   // `thumbnails` is a separate list from `gallery` on purpose: the thumbs use the
   // alpha-trimmed PNG so the engine fills the tile, while the main stage keeps the
   // untrimmed one, whose transparent padding the podium positioning depends on.
-  const thumbs = h.thumbnails ?? h.gallery;
+  // Each gallery item is either a transparent "engine" cut-out (shown on the podium) or a
+  // full-frame "photo" (car front / engine bay). Photos fill their thumb tile; engines
+  // keep the padded contain-fit.
+  const thumbs = h.gallery.map((g) => ({ src: g.thumb ?? g.src, photo: g.kind === "photo" }));
+  const current = h.gallery[active];
   const visible = thumbs.slice(0, THUMBS_DESKTOP);
   const overflow = h.gallery.length - THUMBS_DESKTOP;
 
@@ -98,21 +106,21 @@ export default function ListingHero({ data }: { data: Data }) {
             <div className="flex min-h-0 flex-1 gap-3 lg:gap-4">
               {/* thumbnails — vertical rail on desktop */}
               <div className="hidden lg:flex w-[74px] shrink-0 flex-col justify-start gap-2">
-                {visible.map((src, i) => {
+                {visible.map(({ src, photo }, i) => {
                   const isLast = i === THUMBS_DESKTOP - 1 && overflow > 0;
                   return (
                     <button
                       key={src + i}
                       onClick={() => setActive(i)}
                       aria-label={`View image ${i + 1}`}
-                      className={`relative grid aspect-square shrink-0 place-items-center overflow-hidden rounded-xl border p-2.5 transition-all ${
+                      className={`relative grid aspect-square shrink-0 place-items-center overflow-hidden rounded-xl border ${photo ? "p-0" : "p-2.5"} transition-all ${
                         active === i
                           ? "border-primary-600 shadow-[0_0_0_1px_rgba(37,99,235,0.5),0_0_18px_-2px_rgba(59,130,246,0.55)] bg-primary-50/60 dark:bg-[#0d1a30]"
                           : "border-line dark:border-white/12 bg-white dark:bg-white/[0.03] hover:border-primary-300"
                       }`}
                     >
                       {/* eslint-disable-next-line @next/next/no-img-element */}
-                      <img src={src} alt="" className={`h-full w-full object-contain ${isLast ? "opacity-30" : ""}`} />
+                      <img src={src} alt="" className={`h-full w-full ${photo ? "object-cover" : "object-contain"} ${isLast ? "opacity-30" : ""}`} />
                       {isLast && (
                         <span className="absolute inset-0 grid place-items-center text-[17px] font-bold text-ink-900 dark:text-white">+{overflow}</span>
                       )}
@@ -126,13 +134,26 @@ export default function ListingHero({ data }: { data: Data }) {
                 {/* aspect-driven on mobile; from lg it just fills whatever height the
                     flex column leaves, which is what makes the hero fit exactly */}
                 <div className="relative h-full min-h-[210px] lg:min-h-[130px] lg:aspect-auto">
-                  {h.specCards.map((s, i) => (
+                  {current.kind === "engine" && h.specCards.map((s, i) => (
                     <SpecCard key={s.label} s={s} i={i} />
                   ))}
+
+                  {/* Full-frame photo (car front / engine bay): fills the stage, no podium. */}
+                  {current.kind === "photo" && (
+                    <div className="absolute inset-x-0 bottom-[2%] top-[3%] lg:bottom-[4%] lg:top-[4%]">
+                      {/* eslint-disable-next-line @next/next/no-img-element */}
+                      <img
+                        src={current.src}
+                        alt={h.title}
+                        className="h-full w-full rounded-xl object-contain drop-shadow-[0_18px_34px_rgba(0,0,0,0.35)]"
+                      />
+                    </div>
+                  )}
 
                   {/* Engine + podium composite. Both PNGs are 583x428 with their own
                       transparent padding, so the podium defines the box and the engine
                       is positioned against it — the CSS rings are gone. */}
+                  {current.kind === "engine" && (
                   <div className="pointer-events-none absolute inset-x-0 bottom-[2%] top-[3%] lg:bottom-[4%] lg:top-[8%]">
                     {/* podium — deliberately narrower than the engine above it.
                         Visible disc is 70.7% of this PNG's width, so w-[42%] here
@@ -149,11 +170,19 @@ export default function ListingHero({ data }: { data: Data }) {
                         visible base on the disc. */}
                     {/* eslint-disable-next-line @next/next/no-img-element */}
                     <img
-                      src={h.gallery[active]}
+                      src={current.src}
                       alt={h.title}
-                      className="absolute bottom-[7%] left-1/2 h-[97%] w-auto max-w-[96%] lg:max-w-[78%] -translate-x-1/2 object-contain object-bottom drop-shadow-[0_18px_34px_rgba(0,0,0,0.55)]"
+                      className={`absolute left-1/2 w-auto -translate-x-1/2 object-contain object-bottom drop-shadow-[0_18px_34px_rgba(0,0,0,0.55)] ${
+                        // Alpha-trimmed engine photos have no built-in padding, unlike engine.png
+                        // (engine fills ~46% of its width, 67% of its height, 16% empty below).
+                        // Size and seat them to match that visible footprint so the podium shows.
+                        current.trimmed
+                          ? "bottom-[18%] h-[62%] max-w-[58%]"
+                          : "bottom-[7%] h-[97%] max-w-[96%] lg:max-w-[78%]"
+                      }`}
                     />
                   </div>
+                  )}
 
                   {/* prev / next */}
                   <button onClick={() => go(-1)} aria-label="Previous image" className="absolute left-1 top-[54%] z-20 hidden h-9 w-9 lg:grid -translate-y-1/2 place-items-center rounded-full border border-line dark:border-white/20 bg-white/90 dark:bg-white/10 text-ink-700 dark:text-white backdrop-blur transition-colors hover:border-primary-400">
@@ -170,7 +199,7 @@ export default function ListingHero({ data }: { data: Data }) {
 
                   {/* dots */}
                   <div className="absolute bottom-4 left-1/2 flex -translate-x-1/2 items-center gap-2">
-                    {h.gallery.slice(0, 4).map((_, i) => (
+                    {h.gallery.map((_, i) => (
                       <button key={i} onClick={() => setActive(i)} aria-label={`Image ${i + 1}`} className={`h-2 w-2 rounded-full transition-colors ${active === i ? "bg-primary-600" : "bg-ink-400/50 dark:bg-white/25"}`} />
                     ))}
                   </div>
@@ -180,21 +209,21 @@ export default function ListingHero({ data }: { data: Data }) {
 
             {/* thumbnails — horizontal row on mobile */}
             <div className="mx-auto mt-1.5 grid w-full max-w-[288px] shrink-0 grid-cols-4 gap-1.5 sm:gap-2 lg:hidden">
-              {thumbs.slice(0, 4).map((src, i) => {
+              {thumbs.slice(0, 4).map(({ src, photo }, i) => {
                 const isLast = i === 3 && h.gallery.length > 4;
                 return (
                   <button
                     key={src + i}
                     onClick={() => setActive(i)}
                     aria-label={`View image ${i + 1}`}
-                    className={`relative grid aspect-square place-items-center overflow-hidden rounded-xl border p-2.5 transition-all ${
+                    className={`relative grid aspect-square place-items-center overflow-hidden rounded-xl border ${photo ? "p-0" : "p-2.5"} transition-all ${
                       active === i
                         ? "border-primary-600 shadow-[0_0_0_1px_rgba(37,99,235,0.5),0_0_18px_-2px_rgba(59,130,246,0.55)] bg-primary-50/60 dark:bg-[#0d1a30]"
                         : "border-line dark:border-white/12 bg-white dark:bg-white/[0.03]"
                     }`}
                   >
                     {/* eslint-disable-next-line @next/next/no-img-element */}
-                    <img src={src} alt="" className={`h-full w-full object-contain ${isLast ? "opacity-30" : ""}`} />
+                    <img src={src} alt="" className={`h-full w-full ${photo ? "object-cover" : "object-contain"} ${isLast ? "opacity-30" : ""}`} />
                     {isLast && (
                       <span className="absolute inset-0 grid place-items-center text-[17px] font-bold text-ink-900 dark:text-white">+{h.gallery.length - 4}</span>
                     )}
@@ -219,7 +248,7 @@ export default function ListingHero({ data }: { data: Data }) {
             <h1 className="mt-2 lg:mt-3 text-[21px] sm:text-[27px] lg:text-[31px] [@media(max-height:840px)]:lg:text-[27px] [@media(max-height:740px)]:lg:text-[24px] font-extrabold leading-[1.14] tracking-tight text-ink-900 dark:text-white">
               {h.title}
             </h1>
-            <p className="mt-1 text-[12.5px] sm:text-[14.5px] lg:text-[15.5px] [@media(max-height:840px)]:lg:text-[14px] text-ink-500 dark:text-white/65">{h.subtitle}</p>
+            {h.subtitle && <p className="mt-1 text-[12.5px] sm:text-[14.5px] lg:text-[15.5px] [@media(max-height:840px)]:lg:text-[14px] text-ink-500 dark:text-white/65">{h.subtitle}</p>}
 
             {/* condition options */}
             <div className="mt-2 lg:mt-3 grid grid-cols-2 gap-2 sm:gap-2.5">
@@ -261,18 +290,18 @@ export default function ListingHero({ data }: { data: Data }) {
             <p className="mt-1.5 lg:mt-2 text-[25px] sm:text-[30px] lg:text-[33px] [@media(max-height:840px)]:lg:text-[28px] [@media(max-height:740px)]:lg:text-[25px] font-extrabold leading-none text-ink-900 dark:text-white">{selected.price}</p>
             <p className="mt-1 text-[12.5px] font-semibold text-green-600 dark:text-green-400">{h.stockLabel}</p>
 
-            <button type="button" className="mt-2 lg:mt-2.5 inline-flex h-[42px] sm:h-[46px] [@media(max-height:840px)]:lg:h-[42px] w-full items-center justify-center gap-2.5 rounded-xl bg-primary-600 text-[15px] font-bold text-white transition-colors hover:bg-primary-500">
+            <button type="button" onClick={() => openQuote({ heading: "Order this engine", note: `${quoteNote} - ${selected.label}` })} className="mt-2 lg:mt-2.5 inline-flex h-[42px] sm:h-[46px] [@media(max-height:840px)]:lg:h-[42px] w-full items-center justify-center gap-2.5 rounded-xl bg-primary-600 text-[15px] font-bold text-white transition-colors hover:bg-primary-500">
               <Icon name="shopping-cart" className="h-5 w-5" />
               {h.addToBasketText}
             </button>
 
-            <button type="button" className="mt-2 inline-flex h-[42px] sm:h-[46px] [@media(max-height:840px)]:lg:h-[42px] w-full items-center justify-center gap-2.5 rounded-xl border border-line dark:border-white/15 bg-white dark:bg-white/[0.03] text-[15px] font-semibold text-ink-900 dark:text-white transition-colors hover:border-primary-300">
+            <button type="button" onClick={() => openQuote({ heading: "Check this engine fits your car", note: quoteNote })} className="mt-2 inline-flex h-[42px] sm:h-[46px] [@media(max-height:840px)]:lg:h-[42px] w-full items-center justify-center gap-2.5 rounded-xl border border-line dark:border-white/15 bg-white dark:bg-white/[0.03] text-[15px] font-semibold text-ink-900 dark:text-white transition-colors hover:border-primary-300">
               <Icon name="compat" className="h-5 w-5" />
               {h.checkCompatibilityText}
             </button>
 
             {/* reg lookup */}
-            <form className="mt-1.5 lg:mt-2 flex items-stretch gap-2">
+            <form onSubmit={rc.onSubmit} className="mt-1.5 lg:mt-2 flex items-stretch gap-2">
               <span className="flex min-w-0 flex-1 items-stretch overflow-hidden rounded-xl border border-line dark:border-white/15 bg-white dark:bg-white/[0.03]">
                 <span className="flex shrink-0 flex-col items-center justify-center border-r border-line dark:border-white/15 bg-[#eef1f6] dark:bg-white/[0.06] px-2.5">
                   <UkFlag className="h-4 w-6 rounded-sm" />
@@ -281,6 +310,7 @@ export default function ListingHero({ data }: { data: Data }) {
                 <input
                   type="text"
                   placeholder={h.regCheck.placeholder}
+                   value={rc.reg} onChange={rc.onChange} name="reg" autoComplete="off" aria-label="Vehicle registration"
                   className="min-w-0 flex-1 bg-transparent px-2.5 sm:px-3 py-2.5 text-base sm:text-[14px] font-semibold tracking-wide text-ink-900 dark:text-white outline-none placeholder:text-ink-400 dark:placeholder:text-white/40"
                 />
               </span>

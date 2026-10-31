@@ -1,0 +1,82 @@
+{
+ "brand": "mini",
+ "brandName": "Mini",
+ "engineSlug": "n13",
+ "applicationSlug": "mini-roadster-r59-cooper-s-roadster-2012",
+ "engineCode": "N13",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW N13 Engine — MINI Roadster R59 (Cooper S) Roadster 2012-2015",
+  "description": "Used BMW N13 engine for MINI Roadster R59 Cooper S, 2012-2015. Fixed price £1,834, reconditioned £2,530, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/n13/mini-roadster-r59-cooper-s-roadster-2012/"
+ },
+ "hero": {
+  "title": "Used BMW N13 Engine — MINI Roadster R59 (Cooper S) Roadster 2012-2015",
+  "subtitle": "Used N13 engine for MINI Roadster R59 Cooper S — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N13-USED-R59-COOPERS-ROADSTER",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,834",
+    "note": "12-month warranty",
+    "price": "£1,834.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW N13 engine for MINI Roadster R59 Cooper S, 1.6 turbo petrol 170-184 PS, transverse mounted.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N13",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2012–2015",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "R59",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/mini-mini-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with our reg checker before ordering — this N13 engine is listed for the following MINI Roadster R59 application.",
+  "list": [
+   "MINI Roadster R59 (Cooper S, 1.6 turbo petrol, 170-184 PS) 2012–2015"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Fully cleaned and inspected",
+   "Ready for fitment"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N13 engine now, or view the full N13 engine range for other applications.",
+  "crossLink": "← Back to all N13 engines"
+ }
+}

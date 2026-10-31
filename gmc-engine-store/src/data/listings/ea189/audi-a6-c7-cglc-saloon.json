@@ -1,0 +1,90 @@
+{
+ "brand": "audi",
+ "brandName": "Audi",
+ "engineSlug": "ea189",
+ "applicationSlug": "audi-a6-c7-cglc-saloon",
+ "engineCode": "EA189",
+ "condition": "used",
+ "seo": {
+  "title": "Used EA189 2.0 TDI Engine — Audi A6 C7 (CGLC) Saloon 2011-2014 | Engined",
+  "description": "Used EA189 2.0 TDI engine for Audi A6 C7 Saloon 2011-2014. Fixed price £1,305, tested before dispatch, 12-month warranty and UK delivery included.",
+  "canonical": "https://engined.co.uk/engines/ea189/audi-a6-c7-cglc-saloon/"
+ },
+ "hero": {
+  "title": "Used EA189 2.0 TDI Engine — Audi A6 C7 (CGLC) Saloon 2011-2014",
+  "subtitle": "Used EA189 engine for Audi A6 Saloon (C7) 2011-2014 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA189-USED-A6-C7-CGLC",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,305",
+    "note": "12-month warranty",
+    "price": "£1,305.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used EA189 2.0 TDI Engine — Audi A6 C7 (CGLC) Saloon 2011-2014",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA189",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2011-2014",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "C7",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/audi-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/audi-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/audi-audi-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number above to confirm this EA189 engine fits your Audi A6 Saloon (C7).",
+  "list": [
+   "Audi A6 Saloon (C7) (2.0 TDI CGLC 130 hp) 2011-2014"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "ECU and wiring loom",
+   "Sump and oil pump"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA189 engine now, or view the full EA189 range for other applications.",
+  "crossLink": "← Back to all EA189 engines"
+ }
+}

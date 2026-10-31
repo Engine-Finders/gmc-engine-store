@@ -1,0 +1,82 @@
+{
+ "brand": "volvo",
+ "brandName": "Volvo",
+ "engineSlug": "d5244t",
+ "applicationSlug": "volvo-s80-163ps-saloon-2001-recon",
+ "engineCode": "D5244T",
+ "condition": "recon",
+ "seo": {
+  "title": "Recon D5 S80 163PS | Engined [28 chars]",
+  "description": "Reconditioned D5244T D5 engine for Volvo S80 I (184) 2001-2006 —",
+  "canonical": "https://engined.co.uk/engines/d5244t/volvo-s80-163ps-saloon-2001-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned D5 Engine — Volvo S80 (2.4 D5 163 PS) Saloon 2001-2006",
+  "subtitle": "Reconditioned D5244T engine for Volvo S80 I 2001-2006 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: D5244T-RECON-S80-163-SALOON-12M",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,695",
+    "note": "12-month warranty",
+    "price": "£1,695.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned D5 Engine — Volvo S80 (2.4 D5 163 PS) Saloon 2001-2006",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "D5244T",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2001-2006",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "184",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "<p>Confirm fitment with our registration checker before ordering — every S80 I",
+  "list": [
+   "Volvo S80 I 184 (2.4 D5 163 PS) 2001-2006"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete reconditioned engine assembly",
+   "Renewed timing belt and tensioner",
+   "Water pump",
+   "Rebuilt cylinder head with new valve stem seals",
+   "12-month warranty as standard",
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ],
+  "excluded": []
+ },
+ "cta": {
+  "line": "<p class=\"cta\">Buy this D5244T engine now, or",
+  "crossLink": "← Back to all D5244T engines</a>"
+ }
+}

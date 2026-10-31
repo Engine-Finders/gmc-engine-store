@@ -1,0 +1,83 @@
+{
+ "brand": "peugeot",
+ "brandName": "Peugeot",
+ "engineSlug": "dv6",
+ "applicationSlug": "peugeot-307-1-6-hdi-110-hatch-2005-recon",
+ "engineCode": "DV6",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned PSA DV6 Engine — Peugeot 307 (1.6 HDi 110) Hatchback 2005-2008 | Engined",
+  "description": "Reconditioned PSA DV6 engine for Peugeot 307 1.6 HDi 110, 2005–2008. Used from £1,150 with 12-month warranty, tested before dispatch, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/dv6/peugeot-307-1-6-hdi-110-hatch-2005-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned PSA DV6 Engine — Peugeot 307 (1.6 HDi 110) Hatchback 2005-2008",
+  "subtitle": "Reconditioned DV6 engine for Peugeot 307 1.6 HDi 110 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: DV6-RECON-307-HDI110",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,150",
+    "note": "12-month warranty",
+    "price": "£1,150.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned PSA DV6 1.6 HDi 110 engine for Peugeot 307 hatchback 2005–2008, code 9HZ (DV6TED4).",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "DV6",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2005–2008",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "307",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with our reg checker before ordering — this engine fits the following Peugeot 307 applications.",
+  "list": [
+   "Peugeot 307 (1.6 HDi 110, 110 PS, code 9HZ / DV6TED4) 2005–2008"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (cylinder head, block, sump and internals)",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New gaskets and seals where required",
+   "Securely crated for UK delivery"
+  ],
+  "excluded": [
+   "Turbocharger (reused if serviceable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter, air conditioning compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this DV6 engine now, or view the full DV6 engine range for other applications.",
+  "crossLink": "← Back to all DV6 engines"
+ }
+}

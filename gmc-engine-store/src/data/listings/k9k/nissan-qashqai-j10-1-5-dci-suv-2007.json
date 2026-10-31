@@ -1,0 +1,82 @@
+{
+ "brand": "nissan",
+ "brandName": "Nissan",
+ "engineSlug": "k9k",
+ "applicationSlug": "nissan-qashqai-j10-1-5-dci-suv-2007",
+ "engineCode": "K9K",
+ "condition": "used",
+ "seo": {
+  "title": "Used K9K Engine — Nissan Qashqai J10 (1.5 dCi) SUV 2007-2013 | Engined",
+  "description": "Used K9K engine for Nissan Qashqai J10 1.5 dCi SUV (2007-2013). Fixed price £985, tested before dispatch, 12-month warranty and UK delivery. Recon: £1,935.",
+  "canonical": "https://engined.co.uk/engines/k9k/nissan-qashqai-j10-1-5-dci-suv-2007/"
+ },
+ "hero": {
+  "title": "Used K9K Engine — Nissan Qashqai J10 (1.5 dCi) SUV 2007-2013",
+  "subtitle": "Used K9K engine for Nissan Qashqai J10 1.5 dCi SUV — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: K9K-USED-G1-QASHQAIJ10",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £985",
+    "note": "12-month warranty",
+    "price": "£985.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used K9K Engine — Nissan Qashqai J10 (1.5 dCi) SUV 2007-2013",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "K9K",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2007-2013",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "J10",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/renault-k9k-dci-diesel-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number in our checker above to confirm this K9K engine fits your specific Nissan Qashqai J10.",
+  "list": [
+   "Nissan Qashqai J10 (1.5 dCi) 2007-2013"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Clean, drained, and ready for installation",
+   "Full compression test report"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this K9K engine now, or view the full K9K engine range for other applications.",
+  "crossLink": "← Back to all K9K engines"
+ }
+}

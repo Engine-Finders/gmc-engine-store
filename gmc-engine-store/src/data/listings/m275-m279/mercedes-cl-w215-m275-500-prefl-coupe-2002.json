@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "m275-m279",
+ "applicationSlug": "mercedes-cl-w215-m275-500-prefl-coupe-2002",
+ "engineCode": "M275",
+ "condition": "recon",
+ "seo": {
+  "title": "Recon M275 CL55 W215 500 | Engined",
+  "description": "Reconditioned M275 engine for Mercedes CL W215 CL55 AMG 500 PS (2002-2006). Fixed price £11,500, tested before dispatch, 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/m275-m279/mercedes-cl-w215-m275-500-prefl-coupe-2002/"
+ },
+ "hero": {
+  "title": "Reconditioned M275 5.5 V12 Engine — CL W215 (CL55 AMG, 500 PS) Pre-FL 2002–2006",
+  "subtitle": "Reconditioned M275 engine for CL W215 CL55 AMG 500 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M275-RECON-W215-CL55-PREFL",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £11,500",
+    "note": "12-month warranty",
+    "price": "£11,500.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned M275 5.5 V12 Engine — CL W215 (CL55 AMG, 500 PS) Pre-FL 2002–2006",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M275",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2002–2006",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W215",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-mercedes-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number above to confirm this reconditioned M275 engine is an exact match for your Mercedes-Benz.",
+  "list": [
+   "CL W215 Coupe (CL55 AMG 500 PS) 2002–2006"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "Warranty as standard",
+   "Replacement gaskets and seals",
+   "Full compression test report"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M275 engine now, or view the full M275 engine range for other applications.",
+  "crossLink": "← Back to all M275 engines"
+ }
+}

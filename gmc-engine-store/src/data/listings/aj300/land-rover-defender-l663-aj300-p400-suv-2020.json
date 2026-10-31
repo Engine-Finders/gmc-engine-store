@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "aj300",
+ "applicationSlug": "land-rover-defender-l663-aj300-p400-suv-2020",
+ "engineCode": "AJ300",
+ "condition": "used",
+ "seo": {
+  "title": "Used AJ300 3.0 Petrol Engine — Defender L663 P400 (MHEV, Longitudinal) 2020–present",
+  "description": "Used AJ300 3.0 petrol engine for Defender L663 P400 MHEV. Fixed price £5,175, tested before dispatch, 12-month warranty & UK delivery included.",
+  "canonical": "https://engined.co.uk/engines/aj300/land-rover-defender-l663-aj300-p400-suv-2020/"
+ },
+ "hero": {
+  "title": "Used AJ300 3.0 Petrol Engine — Defender L663 P400 MHEV 2020–present",
+  "subtitle": "Used AJ300 engine for Defender L663 P400 MHEV — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: AJ300-USED-DEFENDER-P400-2020",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £5,175",
+    "note": "12-month warranty",
+    "price": "£5,175.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used AJ300 3.0 petrol engine for Defender L663 P400 MHEV longitudinal mount 2020 to present",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJ300",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2020–present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L663",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your exact fitment with our free reg-checker below, then review the compatible models for this AJ300 engine.",
+  "list": [
+   "Defender L663 (P400 MHEV) 2020–present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch",
+   "12-month warranty as standard",
+   "Full technical support",
+   "UK delivery included"
+  ],
+  "excluded": [
+   "Turbocharger",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this AJ300 engine now, or view the full AJ300 engine range for other applications.",
+  "crossLink": "← Back to all AJ300 engines"
+ }
+}

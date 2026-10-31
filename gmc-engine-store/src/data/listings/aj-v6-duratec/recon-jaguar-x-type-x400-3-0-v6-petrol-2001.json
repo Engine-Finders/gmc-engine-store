@@ -1,0 +1,91 @@
+{
+ "brand": "jaguar",
+ "brandName": "Jaguar",
+ "engineSlug": "aj-v6-duratec",
+ "applicationSlug": "recon-jaguar-x-type-x400-3-0-v6-petrol-2001",
+ "engineCode": "AJ-V6",
+ "condition": "recon",
+ "seo": {
+  "title": "Recon Jaguar AJ-V6 3.0 V6 Engine – X-Type X400 | Engined",
+  "description": "Reconditioned AJ-V6 engine for Jaguar X-Type X400 Saloon. 3.0L Naturally Aspirated V6 Petrol. Fixed price £1,800. 12-month warranty included. UK delivery available.",
+  "canonical": "https://engined.co.uk/engines/aj-v6-duratec/recon-jaguar-x-type-x400-3-0-v6-petrol-2001/"
+ },
+ "hero": {
+  "title": "Reconditioned Jaguar AJ-V6 3.0 V6 Petrol Engine — X-Type (X400) 2001-2007",
+  "subtitle": "Reconditioned AJ-V6 engine for Jaguar X-Type X400 Saloon and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: AJV6-30-RECON-XTYPE",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,800",
+    "note": "12-month warranty",
+    "price": "£1,800.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned Jaguar AJ-V6 3.0L Naturally Aspirated V6 petrol engine for X-Type X400 Saloon, complete assembly.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJ-V6",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2001-2007",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X400",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/jaguar-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/jaguar-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/jaguar-jaguar-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration above to confirm this AJ-V6 engine fits your Jaguar X-Type X400 Saloon.",
+  "list": [
+   "X-Type (X400) 3.0 V6 Petrol Saloon (2001–2007)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (AJ-V6 3.0L V6 Petrol)",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder heads and camshafts included",
+   "ECU and wiring loom compatibility verified",
+   "Oil filter and sump plug included"
+  ],
+  "excluded": [
+   "Turbocharger (N/A - Naturally Aspirated)",
+   "Injectors/fuel system (unless specified as reusable)",
+   "Ancillaries (alternator, starter motor, AC compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this AJ-V6 engine now, or view the full AJ-V6 engine range for other applications.",
+  "crossLink": "← Back to all AJ-V6 engines"
+ }
+}

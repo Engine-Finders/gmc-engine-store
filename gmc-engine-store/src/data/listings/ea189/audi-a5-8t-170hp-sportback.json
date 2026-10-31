@@ -1,0 +1,90 @@
+{
+ "brand": "audi",
+ "brandName": "Audi",
+ "engineSlug": "ea189",
+ "applicationSlug": "audi-a5-8t-170hp-sportback",
+ "engineCode": "EA189",
+ "condition": "used",
+ "seo": {
+  "title": "Used EA189 2.0 TDI Engine — Audi A5 8T (170 hp) Sportback 2008-2016 | Engined",
+  "description": "Used EA189 2.0 TDI engine for Audi A5 Sportback (8T) 2008-2016. Fixed price £1,555, tested before dispatch, 12-month warranty and UK delivery included.",
+  "canonical": "https://engined.co.uk/engines/ea189/audi-a5-8t-170hp-sportback/"
+ },
+ "hero": {
+  "title": "Used EA189 2.0 TDI Engine — Audi A5 8T (170 hp) Sportback 2008-2016",
+  "subtitle": "Used EA189 engine for Audi A5 Sportback (8T) — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA189-USED-A5-8T-170-SB",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,555",
+    "note": "12-month warranty",
+    "price": "£1,555.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used EA189 2.0 TDI Engine — Audi A5 8T (170 hp) Sportback 2008-2016",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA189",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2008-2016",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "8T",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/audi-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/audi-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/audi-audi-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number above to confirm this EA189 engine fits your Audi A5 Sportback (8T).",
+  "list": [
+   "Audi A5 Sportback (8T) (2.0 TDI 170 hp) 2008-2016"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "ECU and wiring loom",
+   "Sump and oil pump"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA189 engine now, or view the full EA189 range for other applications.",
+  "crossLink": "← Back to all EA189 engines"
+ }
+}

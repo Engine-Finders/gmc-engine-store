@@ -1,0 +1,83 @@
+{
+ "brand": "suzuki",
+ "brandName": "Suzuki",
+ "engineSlug": "k12c-dualjet",
+ "applicationSlug": "suzuki-ignis-1-2-dualjet-hatch-2016-recon",
+ "engineCode": "K12C",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned Suzuki K12C Engine — Ignis 1.2 Dualjet",
+  "description": "Reconditioned K12C engine for Suzuki Ignis FF 1.2 Dualjet 2016-Present. Used £480, 12-month warranty, tested before dispatch, UK delivery. In stock.",
+  "canonical": "https://engined.co.uk/engines/k12c-dualjet/suzuki-ignis-1-2-dualjet-hatch-2016-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned Suzuki K12C Engine — Suzuki Ignis (1.2 Dualjet) Hatchback 2016-Present",
+  "subtitle": "SUB — Reconditioned K12C engine for Suzuki Ignis FF 1.2 Dualjet — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: K12C-RECON-IGNIS",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £480",
+    "note": "12-month warranty",
+    "price": "£480.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned Suzuki K12C engine for Suzuki Ignis 1.2 Dualjet FF hatchback, 4-cylinder petrol, tested before dispatch",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "K12C",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2016-Present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "FF, FF21S",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our reg checker to confirm your Suzuki Ignis FF 1.2 Dualjet before ordering — this K12C engine fits the application listed below.",
+  "list": [
+   "Suzuki Ignis FF (1.2 Dualjet 90 PS) 2016-Present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New gaskets and seals",
+   "Oil and filter service components"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this K12C engine now, or view full K12C range for other fits.",
+  "crossLink": "← Back to all K12C engines"
+ }
+}

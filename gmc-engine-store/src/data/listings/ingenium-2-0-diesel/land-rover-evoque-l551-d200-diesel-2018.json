@@ -1,0 +1,97 @@
+{
+ "brand": "jaguar",
+ "brandName": "Jaguar",
+ "engineSlug": "ingenium-2-0-diesel",
+ "applicationSlug": "land-rover-evoque-l551-d200-diesel-2018",
+ "engineCode": "204DTD",
+ "condition": "used",
+ "seo": {
+  "title": "Used 204DTD 2.0 Ingenium Diesel Engine — Range Rover Evoque (L551) D200 SUV 2018-Present",
+  "description": "Used 204DTD engine for Range Rover Evoque L551 D200 SUV. Fixed price £2,754, tested before dispatch, 12-month warranty included. UK delivery available.",
+  "canonical": "https://engined.co.uk/engines/ingenium-2-0-diesel/land-rover-evoque-l551-d200-diesel-2018/"
+ },
+ "hero": {
+  "title": "Used 204DTD 2.0 Ingenium Diesel Engine — Range Rover Evoque (L551) D200 SUV 2018-Present",
+  "subtitle": "Used 204DTD engine for Range Rover Evoque L551 D200 SUV and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 204DTD-USED-EVOQUE-L551-D200",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,754",
+    "note": "12-month warranty",
+    "price": "£2,754.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £3,680",
+    "note": "12-month warranty",
+    "price": "£3,680.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used 204DTD 2.0L inline-4 turbo diesel engine for Range Rover Evoque L551 D200 SUV, complete assembly with warranty.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "204DTD",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2018-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L551",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/jaguar-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/jaguar-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/jaguar-jaguar-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number above to confirm this 204DTD engine fits your Range Rover Evoque before you buy.",
+  "list": [
+   "Range Rover Evoque (L551) D200 2.0 Diesel (200 PS) SUV (2018-present)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete used engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Full compression test report",
+   "Cleaned and degreased exterior",
+   "New seals and gaskets fitted"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 204DTD engine now, or view the full 204DTD engine range for other applications.",
+  "crossLink": "← Back to all 204DTD engines"
+ }
+}

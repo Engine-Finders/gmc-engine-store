@@ -1,0 +1,95 @@
+{
+ "brand": "vauxhall",
+ "brandName": "Vauxhall",
+ "engineSlug": "dv5",
+ "applicationSlug": "vauxhall-grandland-x-130ps-suv-2020",
+ "engineCode": "PSA DV5 (D15DTH / DV5RC)",
+ "condition": "used",
+ "seo": {
+  "title": "Used DV5 Engine — Vauxhall Grandland X (130 PS) SUV 2020-present",
+  "description": "Used PSA DV5 1.5 diesel engine for Vauxhall Grandland X SUV 2020-present. £1,695 with 12-month warranty, tested before dispatch and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/dv5/vauxhall-grandland-x-130ps-suv-2020/"
+ },
+ "hero": {
+  "title": "Used DV5 Engine — Vauxhall Grandland X (130 PS) SUV 2020-present",
+  "subtitle": "Used PSA DV5 engine for Vauxhall Grandland X 1.5 CDTI SUV — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: DV5-USED-GRANDLAND-X-130-SUV",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,695",
+    "note": "12-month warranty",
+    "price": "£1,695.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,395",
+    "note": "12-month warranty",
+    "price": "£2,395.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used PSA DV5 1.5 turbo-diesel 130 PS engine for Vauxhall Grandland X SUV, transverse FWD, 2020-present",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "PSA DV5 (D15DTH / DV5RC)",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2020-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Vauxhall Grandland X",
+    "label": "Compatible"
+   },
+   {
+    "icon": "gauge",
+    "value": "130 PS",
+    "label": "Max Output"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your registration with our reg checker before ordering — this engine fits the Vauxhall Grandland X with the DV5 (D15DTH/DV5RC) code on the block.",
+  "list": [
+   "Vauxhall Grandland X (1.5 CDTI 130 PS, DV5/D15DTH, SUV) 2020-present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block inspected",
+   "Sump and timing components fitted",
+   "Compression-tested with documentation supplied"
+  ],
+  "excluded": [
+   "Turbocharger (reused only if condition allows)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this DV5 engine now, or view the full DV5 engine range for other applications.",
+  "crossLink": "← Back to all DV5 engines"
+ }
+}

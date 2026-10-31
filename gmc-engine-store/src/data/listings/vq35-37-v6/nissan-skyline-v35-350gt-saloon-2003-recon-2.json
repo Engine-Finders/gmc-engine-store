@@ -1,0 +1,83 @@
+{
+ "brand": "peugeot",
+ "brandName": "Peugeot",
+ "engineSlug": "vq35-37-v6",
+ "applicationSlug": "nissan-skyline-v35-350gt-saloon-2003-recon-2",
+ "engineCode": "VQ35DE",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned Nissan VQ35DE Engine — Nissan Skyline V35 (350GT) Saloon 2003-2006 | Engined",
+  "description": "Reconditioned VQ35DE engine for Nissan Skyline V35 350GT (2003-2006). Used price £2,525, 12-month warranty, tested before dispatch, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/vq35-37-v6/nissan-skyline-v35-350gt-saloon-2003-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned Nissan VQ35DE Engine — Nissan Skyline V35 (350GT) Saloon 2003-2006",
+  "subtitle": "Reconditioned VQ35DE engine for Nissan Skyline V35 350GT — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: VQ35-RECON-SKYLINE-V35",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,525",
+    "note": "12-month warranty",
+    "price": "£2,525.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned VQ35DE 3.5L V6 engine for Nissan Skyline V35 350GT 2003-2006, CVTC, tested.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "VQ35DE",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2003–2006",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "V35",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with your registration before ordering — this listing covers the Nissan Skyline V35 350GT only.",
+  "list": [
+   "Nissan Skyline V35 (350GT — 3.5L V6, 250‑280 PS) 2003–2006"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New gaskets and seals",
+   "New timing chain and tensioner"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this VQ35DE engine now, or view the full VQ35DE engine range for other applications.",
+  "crossLink": "← Back to all VQ35DE engines"
+ }
+}

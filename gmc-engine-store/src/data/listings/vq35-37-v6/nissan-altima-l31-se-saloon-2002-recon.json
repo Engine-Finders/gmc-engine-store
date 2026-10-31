@@ -1,0 +1,82 @@
+{
+ "brand": "nissan",
+ "brandName": "Nissan",
+ "engineSlug": "vq35-37-v6",
+ "applicationSlug": "nissan-altima-l31-se-saloon-2002-recon",
+ "engineCode": "VQ35DE",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned Nissan VQ35DE Engine — Nissan Altima L31 (SE) Saloon 2002-2006 | Engined",
+  "description": "Reconditioned VQ35DE engine for Nissan Altima L31 SE (2002-2006). Fixed price £1,615 (Recon £2,340). Tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/vq35-37-v6/nissan-altima-l31-se-saloon-2002-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned Nissan VQ35DE Engine — Nissan Altima L31 (SE) Saloon 2002-2006",
+  "subtitle": "Reconditioned VQ35DE engine for Nissan Altima L31 SE — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: VQ35-RECON-ALTIMA-L31",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,615",
+    "note": "12-month warranty",
+    "price": "£1,615.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned Nissan VQ35DE Engine — Nissan Altima L31 (SE) Saloon 2002-2006",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "VQ35DE",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2002-2006",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L31",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/nissan-nissan-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number above to confirm this VQ35DE engine is an exact match for your Nissan Altima L31.",
+  "list": [
+   "Nissan Altima L31 (SE) 2002-2006"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Fully cleaned and inspected block",
+   "New seals and gaskets fitted"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "External ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this VQ35DE engine now, or view the full VQ35DE engine range for other applications.",
+  "crossLink": "← Back to all VQ35DE engines"
+ }
+}

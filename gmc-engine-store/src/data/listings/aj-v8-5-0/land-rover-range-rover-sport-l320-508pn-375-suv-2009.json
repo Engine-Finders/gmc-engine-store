@@ -1,0 +1,91 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "aj-v8-5-0",
+ "applicationSlug": "land-rover-range-rover-sport-l320-508pn-375-suv-2009",
+ "engineCode": "508PN",
+ "condition": "used",
+ "seo": {
+  "title": "Used 508PN 5.0 V8 Engine — Range Rover Sport L320 (NA, 375hp) 2009–2013",
+  "description": "Used 508PN 5.0 V8 engine for Range Rover Sport L320 (NA, 375hp). Fixed price £4,825. Tested before dispatch, 12-month warranty & UK delivery.",
+  "canonical": "https://engined.co.uk/engines/aj-v8-5-0/land-rover-range-rover-sport-l320-508pn-375-suv-2009/"
+ },
+ "hero": {
+  "title": "Used 508PN 5.0 V8 Engine — Range Rover Sport L320 (NA, 375hp) 2009–2013",
+  "subtitle": "Used 508PN 5.0 V8 engine for Range Rover Sport L320 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 508PN-USED-L320-375-0913",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £4,825",
+    "note": "12-month warranty",
+    "price": "£4,825.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used 508PN 5.0 V8 NA engine for Range Rover Sport L320 2009–2013, 375hp, tested and ready for dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "508PN",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2009–2013",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L320",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Will this fit your vehicle? Use our registration checker to confirm compatibility for your Range Rover Sport L320 with the 508PN engine code.",
+  "list": [
+   "Range Rover Sport L320 (SUV) (5.0 V8 NA 375hp) 2009–2013"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Full compression test report",
+   "Cleaned and decarbonised internals",
+   "New seals and gaskets fitted"
+  ],
+  "excluded": [
+   "Turbocharger/supercharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 508PN engine now, or view the full 5.0 AJ-V8 engine range for other applications.",
+  "crossLink": "← Back to all 5.0 AJ-V8 engines"
+ }
+}

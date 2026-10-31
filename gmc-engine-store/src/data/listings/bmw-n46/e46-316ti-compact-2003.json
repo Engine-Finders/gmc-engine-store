@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n46",
+ "applicationSlug": "e46-316ti-compact-2003",
+ "engineCode": "N46",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW N46 Engine — 3 Series E46 (316ti) Compact 2003‑2005",
+  "description": "Used BMW N46 engine for 3 Series E46 316ti Compact 2003‑2005. N46B18 1.8L 114PS, Compact body, tested before dispatch, £715, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/bmw-n46/e46-316ti-compact-2003/"
+ },
+ "hero": {
+  "title": "Used BMW N46 Engine — 3 Series E46 (316ti) Compact 2003‑2005",
+  "subtitle": "Used N46 engine for 3 Series E46 316ti Compact — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N46-USED-E46-316TI",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £715",
+    "note": "12-month warranty",
+    "price": "£715.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW N46B18 1.8L 114PS engine for 3 Series E46 316ti Compact 2003‑2005, tested and ready to fit.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N46",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2003‑2005",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E46",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration to confirm fitment before ordering — this N46 engine fits the E46 316ti Compact listed below.",
+  "list": [
+   "BMW 3 Series E46 (316ti 114 PS Compact) 2003‑2005"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Sump and timing covers"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N46 engine now, or view N46 engine range for other applications.",
+  "crossLink": "← Back to all N46 engines"
+ }
+}

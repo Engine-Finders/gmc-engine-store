@@ -1,0 +1,83 @@
+{
+ "brand": "peugeot",
+ "brandName": "Peugeot",
+ "engineSlug": "dw10",
+ "applicationSlug": "peugeot-407-2-0-hdi-135-saloon-2004",
+ "engineCode": "PSA DW10",
+ "condition": "used",
+ "seo": {
+  "title": "Used DW10 Engine — Peugeot 407 (2.0 HDi 135) Saloon 2004-2010",
+  "description": "Used PSA DW10 engine for Peugeot 407 2.0 HDi 135 Saloon 2004-2010. Fixed price £1,165, tested before dispatch, 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/dw10/peugeot-407-2-0-hdi-135-saloon-2004/"
+ },
+ "hero": {
+  "title": "Used DW10 Engine — Peugeot 407 (2.0 HDi 135) Saloon 2004-2010",
+  "subtitle": "Used DW10 engine for Peugeot 407 2.0 HDi 135 Saloon — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: DW10-USED-407-HDI135",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,165",
+    "note": "12-month warranty",
+    "price": "£1,165.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used PSA DW10 2.0 HDi 135 diesel engine for Peugeot 407 Saloon 2004-2010, later 16-valve, DPF fitted.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "PSA DW10",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2004-2010",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Peugeot 407 2004-2010",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration to confirm this DW10 engine fits your Peugeot 407 2.0 HDi 135 before ordering.",
+  "list": [
+   "Peugeot 407 2004-2010 — 2.0 HDi 135 PS, code RHR (DW10BTED4)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Engine block and cylinder head",
+   "Sump and timing covers"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this DW10 engine now, or view the full DW10 engine range for other applications.",
+  "crossLink": "← Back to all DW10 engines"
+ }
+}

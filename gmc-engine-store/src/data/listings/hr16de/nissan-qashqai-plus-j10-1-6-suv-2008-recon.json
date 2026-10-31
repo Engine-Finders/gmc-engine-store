@@ -1,0 +1,82 @@
+{
+ "brand": "nissan",
+ "brandName": "Nissan",
+ "engineSlug": "hr16de",
+ "applicationSlug": "nissan-qashqai-plus-j10-1-6-suv-2008-recon",
+ "engineCode": "HR16DE",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned Nissan HR16DE Engine — Nissan Qashqai +2 J10 (1.6) SUV 2008-2013",
+  "description": "Reconditioned HR16DE engine for Nissan Qashqai +2 J10 1.6 SUV. Fixed price £895 used, 12-month warranty & UK delivery. Acenta, Visia, Tekna trims.",
+  "canonical": "https://engined.co.uk/engines/hr16de/nissan-qashqai-plus-j10-1-6-suv-2008-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned Nissan HR16DE Engine — Nissan Qashqai +2 J10 (1.6) SUV 2008-2013",
+  "subtitle": "Reconditioned HR16DE engine for Nissan Qashqai +2 J10 1.6 SUV and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: HR16DE-USED-G1-QASHQAIPLUS",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £895",
+    "note": "12-month warranty",
+    "price": "£895.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "HR16DE 1.6-litre petrol engine for Nissan Qashqai +2 J10 SUV 2008-2013",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "HR16DE",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2008-2013",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "J10",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/nissan-nissan-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number above to confirm this HR16DE engine fits your vehicle before ordering.",
+  "list": [
+   "Nissan Qashqai +2 J10 (1.6 petrol Acenta/Visia/Tekna) 2008-2013"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Fully inspected and cleaned",
+   "Ready for direct fitment"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this HR16DE engine now, or view the full HR16DE engine range for other applications.",
+  "crossLink": "← Back to all HR16DE engines"
+ }
+}

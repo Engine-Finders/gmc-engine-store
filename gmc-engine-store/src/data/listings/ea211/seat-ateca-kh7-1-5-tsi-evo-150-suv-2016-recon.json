@@ -1,0 +1,83 @@
+{
+ "brand": "seat",
+ "brandName": "Seat",
+ "engineSlug": "ea211",
+ "applicationSlug": "seat-ateca-kh7-1-5-tsi-evo-150-suv-2016-recon",
+ "engineCode": "EA211",
+ "condition": "recon",
+ "seo": {
+  "title": "EA211 Ateca KH7 1.5 Recon | Engined",
+  "description": "Reconditioned EA211 engine for SEAT Ateca KH7 1.5 TSI EVO 150 PS, code DLAC — used from £1,195, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/ea211/seat-ateca-kh7-1-5-tsi-evo-150-suv-2016-recon/"
+ },
+ "hero": {
+  "title": "EA211 Ateca KH7 1.5 Recon",
+  "subtitle": "Reconditioned EA211 engine for SEAT Ateca KH7 1.5 TSI EVO 150 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA211-RECON-G2-15TSI-ATECA",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,195",
+    "note": "12-month warranty",
+    "price": "£1,195.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "EA211 Ateca KH7 1.5 Recon",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA211",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2016–present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "KH7",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our registration checker to confirm fitment before ordering — this listing covers the applications below.",
+  "list": [
+   "SEAT Ateca KH7 (1.5 TSI EVO 150 PS, code DLAC) 2016–present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block as supplied",
+   "Sump, timing cover and oil pump where fitted"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA211 engine now, or view the full EA211 range for other applications.",
+  "crossLink": "← Back to all EA211 engines"
+ }
+}

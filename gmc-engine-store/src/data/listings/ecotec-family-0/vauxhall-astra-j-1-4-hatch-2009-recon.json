@@ -1,0 +1,89 @@
+{
+ "brand": "peugeot",
+ "brandName": "Peugeot",
+ "engineSlug": "ecotec-family-0",
+ "applicationSlug": "vauxhall-astra-j-1-4-hatch-2009-recon",
+ "engineCode": "A14XEL / A14XER",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned Vauxhall Ecotec Engine — Astra J (1.4) Hatchback 2009-2015 | Engined",
+  "description": "Ecotec Family 0 A14XEL/A14XER engine for Vauxhall Astra J, Meriva B, Mokka A and more — used from £805, reconditioned £1,345. 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/ecotec-family-0/vauxhall-astra-j-1-4-hatch-2009-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned Vauxhall Ecotec Engine — Astra J (1.4) Hatchback 2009-2015",
+  "subtitle": "Reconditioned A14XEL/A14XER engine for Astra J, Meriva B, Mokka A and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: ECOFAM0-RECON-ASTRA-J-14",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,345",
+    "note": "12-month warranty",
+    "price": "£1,345.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "A14XEL/A14XER Ecotec Family 0 reconditioned 1.4 petrol engine for Vauxhall Astra J hatchback",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "A14XEL / A14XER",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2009-2015",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Astra J, Astra H, Corsa D, Corsa E, Meriva B, Adam, Mokka A",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with our reg checker before you buy — this engine fits the applications listed below.",
+  "list": [
+   "Vauxhall Corsa D (1.4, A14XEL/A14XER)",
+   "Vauxhall Corsa E (1.4, A14XEL/A14XER)",
+   "Vauxhall Astra H (1.4, A14XEL/A14XER)",
+   "Vauxhall Astra J (1.4, A14XEL/A14XER) 2009–2015",
+   "Vauxhall Meriva B (1.4, A14XEL/A14XER)",
+   "Vauxhall Adam (1.4, A14XEL/A14XER)",
+   "Vauxhall Mokka A (1.4, A14XEL/A14XER)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Fully tested before dispatch",
+   "12-month warranty as standard",
+   "Oil sump and rocker cover fitted",
+   "Gaskets and seals renewed as required"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this Ecotec Family 0 engine now, or view the full Ecotec Family 0 engine range for other applications.",
+  "crossLink": "← Back to all Ecotec Family 0 engines → https://engined.co.uk/engines/ecotec-family-0/"
+ }
+}

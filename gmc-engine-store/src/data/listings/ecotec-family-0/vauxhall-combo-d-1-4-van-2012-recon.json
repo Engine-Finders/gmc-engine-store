@@ -1,0 +1,83 @@
+{
+ "brand": "peugeot",
+ "brandName": "Peugeot",
+ "engineSlug": "ecotec-family-0",
+ "applicationSlug": "vauxhall-combo-d-1-4-van-2012-recon",
+ "engineCode": "ECOTEC FAMILY 0",
+ "condition": "recon",
+ "seo": {
+  "title": "Ecotec Combo D 1.4 Recon | Engined",
+  "description": "Reconditioned Ecotec Family 0 engine for Combo D, Corsa D/E, Astra H/J and more. Used price £805, fixed price, 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/ecotec-family-0/vauxhall-combo-d-1-4-van-2012-recon/"
+ },
+ "hero": {
+  "title": "Ecotec Combo D 1.4 Recon",
+  "subtitle": "Reconditioned Ecotec Family 0 engine for Combo D — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: ECOFAM0-RECON-COMBO-D-14",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £805",
+    "note": "12-month warranty",
+    "price": "£805.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Ecotec Family 0 1.4 petrol engine for Vauxhall Combo D van, A14XEL/A14XER, reconditioned.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "Ecotec Family 0",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2012-2018",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Combo D",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with our reg checker before ordering — this engine is listed for the Vauxhall Combo D 1.4.",
+  "list": [
+   "Vauxhall Combo D (1.4 90-100 PS, codes A14XEL/A14XER) 2012-2018"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "UK delivery",
+   "Secure palletised shipping"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this Ecotec Family 0 engine now, or view the full range.",
+  "crossLink": "← Back to all Ecotec Family 0 engines"
+ }
+}

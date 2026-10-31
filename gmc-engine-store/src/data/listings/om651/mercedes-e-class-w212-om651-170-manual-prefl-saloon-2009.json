@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "om651",
+ "applicationSlug": "mercedes-e-class-w212-om651-170-manual-prefl-saloon-2009",
+ "engineCode": "OM651",
+ "condition": "used",
+ "seo": {
+  "title": "Used OM651 2.1 CDI Engine — E-Class W212 Saloon (E220 CDI, 170 PS, Manual) Pre-FL 2009–2013 | Engined",
+  "description": "Used OM651 engine for Mercedes E-Class W212 Saloon E220 CDI 170 PS Manual 2009–2013. £2,530, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/om651/mercedes-e-class-w212-om651-170-manual-prefl-saloon-2009/"
+ },
+ "hero": {
+  "title": "Used OM651 2.1 CDI Engine — E-Class W212 Saloon (E220 CDI, 170 PS, Manual) Pre-FL 2009–2013",
+  "subtitle": "Used OM651 engine for E-Class W212 Saloon E220 CDI 170 PS Manual — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: OM651-USED-W212-E220-MAN-PREFL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,530",
+    "note": "12-month warranty",
+    "price": "£2,530.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used OM651 2.1 CDI engine for Mercedes E-Class W212 Saloon E220 CDI 170 PS Manual 2009–2013, tested.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "OM651",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2009–2013",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W212",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-om651-engine.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration before buying — confirm your Mercedes E-Class W212 Saloon E220 CDI 170 PS Manual matches this OM651 fitment.",
+  "list": [
+   "E-Class W212 (Saloon — E220 CDI 170 PS — Manual — OM651.924) 2009–2013"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New timing belt/chain where applicable",
+   "New gaskets and seals"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this OM651 engine now, or view the full OM651 range for other applications.",
+  "crossLink": "← Back to all OM651 engines"
+ }
+}

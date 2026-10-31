@@ -1,0 +1,83 @@
+{
+ "brand": "renault",
+ "brandName": "Renault",
+ "engineSlug": "energy-tce",
+ "applicationSlug": "renault-clio-iv-1-2-tce-120-hatch-2012",
+ "engineCode": "H5FT/H5BT",
+ "condition": "used",
+ "seo": {
+  "title": "Used Renault Energy TCe Engine — Clio IV (1.2 TCe 120) Hatchback 2012-2018",
+  "description": "Used Renault Energy TCe (H5Ft/H5Bt) engine for Clio IV 1.2 TCe 120 Hatch 2012-2018. Used £695, recon £1,500, 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/energy-tce/renault-clio-iv-1-2-tce-120-hatch-2012/"
+ },
+ "hero": {
+  "title": "Used Renault Energy TCe Engine — Clio IV (1.2 TCe 120) Hatchback 2012-2018",
+  "subtitle": "Used Energy TCe engine for Renault Clio IV 1.2 TCe 120 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: TCe-USED-CLIO-12",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £695",
+    "note": "12-month warranty",
+    "price": "£695.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Energy TCe H5Ft/H5Bt 1.2-litre four-cylinder turbo petrol engine for Renault Clio IV 1.2 TCe 120, 2012-2018",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "H5Ft/H5Bt",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2012-2018",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Clio IV",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration below to confirm this Energy TCe engine fits your Renault Clio IV before you buy.",
+  "list": [
+   "Renault Clio IV (1.2 TCe 120 — 120 PS, code H5Ft/H5Bt) 2012–2018"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Test results supplied with the engine",
+   "Engine code and serial number verified before dispatch"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this Energy TCe engine now, or view the full Energy TCe engine range for other applications.",
+  "crossLink": "← Back to all Energy TCe engines"
+ }
+}

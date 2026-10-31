@@ -1,0 +1,92 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "b48",
+ "applicationSlug": "bmw-x4-g02-xdrive20i-suv-2018-recon-2",
+ "engineCode": "B48",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned BMW B48 Engine — X4 G02 (xDrive20i) | Engined",
+  "description": "BMW B48 · reconditioned · X4 G02 (xDrive20i) SUV · X3 G01 · £3,100 · 12-month warranty · UK delivery.",
+  "canonical": "https://engined.co.uk/engines/b48/bmw-x4-g02-xdrive20i-suv-2018-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW B48 Engine — X4 G02 (xDrive20i) SUV 2018-present",
+  "subtitle": "SUB — Reconditioned B48 engine for BMW X4 G02 (xDrive20i) and X3 G01 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: B48-RECON-G02-XDRIVE20I",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £3,100",
+    "note": "12-month warranty",
+    "price": "£3,100.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned BMW B48 engine for X4 G02 xDrive20i SUV, longitudinal mount, standard output.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "B48",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2018-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "G02, G01",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-b48-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration to confirm fitment, or check the list below for compatible BMW models.",
+  "list": [
+   "X4 SUV (G02) — xDrive20i (184 hp) 2018-present",
+   "X3 (G01) — xDrive20i (184 hp) 2018-present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch (compression, oil pressure, coolant)",
+   "12-month warranty as standard",
+   "Full gasket kit and oil filter",
+   "Free UK mainland delivery",
+   "14-day return policy"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, depends on condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, AC compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this B48 engine now, or view the full B48 engine range for other applications.",
+  "crossLink": "← Back to all B48 engines"
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "aj-v8-5-0",
+ "applicationSlug": "jaguar-xj-x351-508pn-385-saloon-recon-2013",
+ "engineCode": "508PN",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned 508PN 5.0 V8 Engine — Jaguar XJ X351 (NA, 385hp) 2013–2019 | Engined",
+  "description": "Reconditioned 508PN 5.0 V8 engine for Jaguar XJ X351 2013–2019, 385hp NA. Fixed price £5,850, tested before dispatch, 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/aj-v8-5-0/jaguar-xj-x351-508pn-385-saloon-recon-2013/"
+ },
+ "hero": {
+  "title": "Reconditioned 508PN 5.0 V8 Engine — Jaguar XJ X351 (NA, 385hp) 2013–2019",
+  "subtitle": "SUB — Reconditioned 508PN engine for Jaguar XJ X351 2013–2019 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 508PN-RECON-XJ-385-1319",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £5,850",
+    "note": "12-month warranty",
+    "price": "£5,850.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned 508PN 5.0 V8 engine for Jaguar XJ X351 2013–2019, 385hp NA — rebuilt unit",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "508PN",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2013–2019",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X351",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration to confirm this reconditioned 508PN engine fits your Jaguar XJ X351 2013–2019.",
+  "list": [
+   "Jaguar XJ X351 (Saloon, 5.0 V8 NA 385hp, 508PN code) 2013–2019"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New gaskets and seals",
+   "Ready for fitting"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 508PN engine now, or view the full 508PN engine range for other applications.",
+  "crossLink": "← Back to all 508PN engines"
+ }
+}

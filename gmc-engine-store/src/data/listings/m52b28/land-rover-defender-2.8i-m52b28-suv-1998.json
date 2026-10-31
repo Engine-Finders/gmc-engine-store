@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "m52b28",
+ "applicationSlug": "land-rover-defender-2.8i-m52b28-suv-1998",
+ "engineCode": "M52B28",
+ "condition": "used",
+ "seo": {
+  "title": "M52B28 2.8 Engine Land Rover Defender 2.8i | Engined",
+  "description": "M52B28 2.8 engine for Land Rover Defender 2.8i (South African market). Conditional availability, tested before dispatch, 12-month warranty.",
+  "canonical": "https://engined.co.uk/engines/m52b28/land-rover-defender-2.8i-m52b28-suv-1998/"
+ },
+ "hero": {
+  "title": "M52B28 2.8 Engine — Land Rover Defender 2.8i (1998, South Africa)",
+  "subtitle": "M52B28 engine for Land Rover Defender 2.8i (South African market) — conditional availability, tested before dispatch.",
+  "sku": "SKU: M52B28-COND-DEFENDER-2.8I-1998",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £0",
+    "note": "12-month warranty",
+    "price": "£0.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "M52B28 2.8 engine for Land Rover Defender 2.8i South African market, complete unit, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M52B28",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "1998",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "90/110",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number in our checker above to confirm exact fitment for your Land Rover Defender chassis before purchasing.",
+  "list": [
+   "Land Rover Defender 90/110 2.8i (SA) 1998 — SUV — 2.8 I6 193 PS — South African market"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "All internal seals and gaskets replaced",
+   "Professionally cleaned and degreased"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "External ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M52B28 engine now, or view the full M52B28 range for other applications.",
+  "crossLink": "← Back to all M52B28 engines"
+ }
+}

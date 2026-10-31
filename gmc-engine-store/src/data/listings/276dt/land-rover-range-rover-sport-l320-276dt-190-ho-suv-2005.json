@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "276dt",
+ "applicationSlug": "land-rover-range-rover-sport-l320-276dt-190-ho-suv-2005",
+ "engineCode": "276DT",
+ "condition": "used",
+ "seo": {
+  "title": "276DT Range Rover Sport L320 190 HO | Engined",
+  "description": "Used 276DT TDV6 engine for Range Rover Sport L320 High Output 190 PS single-turbo. £1,795 with 12-month warranty and UK delivery. Pre-facelift 2005–2009 fitment",
+  "canonical": "https://engined.co.uk/engines/276dt/land-rover-range-rover-sport-l320-276dt-190-ho-suv-2005/"
+ },
+ "hero": {
+  "title": "276DT Range Rover Sport L320 190 HO",
+  "subtitle": "SUB — Used 276DT engine for Range Rover Sport L320, 2.7 TDV6 190 PS and Single-Turbo High Output — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 276DT-USED-RRS-L320-190-HO",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,795",
+    "note": "12-month warranty",
+    "price": "£1,795.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used 276DT TDV6 engine for Range Rover Sport L320 High Output 190 PS single-turbo, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "276DT",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2005–2009",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L320",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with our UK reg checker before ordering — this listing covers the following Range Rover Sport L320 application.",
+  "list": [
+   "Range Rover Sport L320 (SUV — 2.7 TDV6 190 PS (140kW) Single-Turbo High Output — 276DT engine code) 2005–2009"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Engine block and cylinder head",
+   "Sump and timing covers"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 276DT engine now, or view the full 276DT engine range for other applications.",
+  "crossLink": "← Back to all 276DT engines"
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n52",
+ "applicationSlug": "e60-528i-saloon-2005",
+ "engineCode": "N52",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW N52 Engine — 5 Series E60 (528i) Saloon 2005‑2010",
+  "description": "Used BMW N52 engine for 5 Series E60 528i Saloon 2005‑2010. Fixed £1,605, tested before dispatch, 12-month warranty and UK delivery. Recon £1,895.",
+  "canonical": "https://engined.co.uk/engines/bmw-n52/e60-528i-saloon-2005/"
+ },
+ "hero": {
+  "title": "Used BMW N52 Engine — 5 Series E60 (528i) Saloon 2005‑2010",
+  "subtitle": "Used BMW N52 engine for 5 Series E60 528i Saloon — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N52-USED-E60-528I",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,605",
+    "note": "12-month warranty",
+    "price": "£1,605.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW N52 engine for BMW 5 Series E60 528i Saloon 2005‑2010, N52B30 3.0L I6 NA executive saloon.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "BMW N52",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2005‑2010",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E60",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your registration with our reg checker before ordering to ensure this BMW N52 engine matches your E60 528i Saloon.",
+  "list": [
+   "BMW 5 Series (E60) 528i (231 PS) Saloon 2005‑2010"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Sump and timing covers"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this BMW N52 engine now, or view the full BMW N52 range.",
+  "crossLink": "← Back to all BMW N52 engines"
+ }
+}

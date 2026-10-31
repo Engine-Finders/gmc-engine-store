@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "m273",
+ "applicationSlug": "mercedes-s-class-w221-m273-388-auto-prefl-saloon-recon-2005",
+ "engineCode": "M273",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned M273 5.5 V8 — S-Class W221 S500 | Engined",
+  "description": "Reconditioned M273 5.5 V8 engine for S-Class W221 S500 388 PS Auto, pre-facelift 2005–2009. Fixed £3,200, tested before dispatch, 12-month warranty, UK delivery",
+  "canonical": "https://engined.co.uk/engines/m273/mercedes-s-class-w221-m273-388-auto-prefl-saloon-recon-2005/"
+ },
+ "hero": {
+  "title": "Reconditioned M273 5.5 V8 Engine — S-Class W221 Saloon (S500, 388 PS, Auto) Pre-FL 2005–2009",
+  "subtitle": "SUB — Reconditioned M273 engine for S-Class W221 S500 388 PS Auto — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M273-RECON-W221-S500-PREFL",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £3,200",
+    "note": "12-month warranty",
+    "price": "£3,200.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned M273 5.5 V8 engine for S-Class W221 S500 388 PS Auto Pre-FL 2005–2009",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M273",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2005–2009",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W221",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-m273-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our reg checker to confirm this reconditioned M273 engine fits your S-Class W221 S500 before ordering.",
+  "list": [
+   "S-Class W221 Saloon (S500 388 PS Auto, M273.961) 2005–2009"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head, block, sump and timing cover as applicable",
+   "Oil pump and water pump where fitted"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M273 engine now, or view the full M273 engine range for other applications.",
+  "crossLink": "← Back to all M273 engines — https://engined.co.uk/engines/m273"
+ }
+}

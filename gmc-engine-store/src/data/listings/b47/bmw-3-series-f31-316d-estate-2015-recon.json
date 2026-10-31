@@ -1,0 +1,91 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "b47",
+ "applicationSlug": "bmw-3-series-f31-316d-estate-2015-recon",
+ "engineCode": "B47",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned BMW B47 Engine — 3 Series F31 (316d) Estate 2015-2019",
+  "description": "BMW B47 · reconditioned · 3 Series Estate F31 316d 2015-2019 — £2,245 · 12-month warranty · UK delivery. Fully tested before dispatch.",
+  "canonical": "https://engined.co.uk/engines/b47/bmw-3-series-f31-316d-estate-2015-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW B47 Engine — 3 Series F31 (316d) Estate 2015-2019",
+  "subtitle": "Reconditioned B47 engine for 3 Series Estate F31 316d 2015-2019 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: B47-RECON-COMPACT-F31-316D",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,245",
+    "note": "12-month warranty",
+    "price": "£2,245.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "BMW B47 engine reconditioned — 3 Series F31 316d Estate 2015-2019, complete assembly",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "B47",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2015-2019",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F31",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-b47-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration to confirm compatibility with this BMW B47 engine, or review the vehicle list below.",
+  "list": [
+   "3 Series Estate (F31) 2015-2019 — 316d (116 hp)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch — compression tested and inspected",
+   "12-month warranty as standard",
+   "Full oil service completed",
+   "New timing chain and tensioner",
+   "New gaskets and seals fitted"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries (alternator, starter, AC compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this B47 engine now, or view the full B47 engine range for other applications.",
+  "crossLink": "← Back to all B47 engines"
+ }
+}

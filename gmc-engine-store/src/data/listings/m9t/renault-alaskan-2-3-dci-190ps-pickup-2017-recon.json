@@ -1,0 +1,83 @@
+{
+ "brand": "renault",
+ "brandName": "Renault",
+ "engineSlug": "m9t",
+ "applicationSlug": "renault-alaskan-2-3-dci-190ps-pickup-2017-recon",
+ "engineCode": "M9T",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned Renault M9T Engine — Renault Alaskan (2.3 dCi 190 PS) Pickup 2017-Present",
+  "description": "Reconditioned Renault M9T engine for Renault Alaskan (2.3 dCi 190 PS twin-turbo). Used from £2,995 with 12-month warranty, UK delivery. Tested.",
+  "canonical": "https://engined.co.uk/engines/m9t/renault-alaskan-2-3-dci-190ps-pickup-2017-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned Renault M9T Engine — Renault Alaskan (2.3 dCi 190 PS) Pickup 2017-Present",
+  "subtitle": "Reconditioned M9T engine for Renault Alaskan 2.3 dCi 190 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M9T-RECON-ALASKAN-190",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,995",
+    "note": "12-month warranty",
+    "price": "£2,995.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned Renault M9T 2.3 dCi 190 PS twin-turbo engine for Renault Alaskan pickup, tested.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M9T",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2017–present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "N/A",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration to confirm this reconditioned M9T engine fits your Renault Alaskan before you buy.",
+  "list": [
+   "Renault Alaskan (2.3 dCi 190 PS twin-turbo, code M9T 880) 2017–present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Sump and timing cover"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M9T engine now, or view the full M9T engine range for other applications.",
+  "crossLink": "← Back to all M9T engines — https://engined.co.uk/engines/m9t/"
+ }
+}

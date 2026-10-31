@@ -1,0 +1,83 @@
+{
+ "brand": "vauxhall",
+ "brandName": "Vauxhall",
+ "engineSlug": "eb2",
+ "applicationSlug": "vauxhall-crossland-x-130ps-suv-2017-recon",
+ "engineCode": "EB2",
+ "condition": "recon",
+ "seo": {
+  "title": "Recon EB2 Crossland X 130PS | Engined",
+  "description": "Reconditioned EB2 engine for Vauxhall Crossland X 130 PS SUV (2017-present). Fixed £2,500, renewed wet-belt timing, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/eb2/vauxhall-crossland-x-130ps-suv-2017-recon/"
+ },
+ "hero": {
+  "title": "Recon EB2 Crossland X 130PS",
+  "subtitle": "SUB — Reconditioned EB2 engine for Vauxhall Crossland X 130 PS SUV — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EB2-RECON-CROSSLAND-X-130-SUV-12M",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,500",
+    "note": "12-month warranty",
+    "price": "£2,500.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Recon EB2 engine for Vauxhall Crossland X 130 PS SUV 2017-present, 1.2 PureTech EB2ADTS.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EB2",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2017-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Crossland X",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our registration checker to confirm this recon EB2 engine fits your Vauxhall Crossland X before ordering.",
+  "list": [
+   "Vauxhall Crossland X SUV (1.2 PureTech 130 PS, EB2ADTS) 2017-present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Renewed wet-belt timing system, tensioners and guides",
+   "Rebuilt cylinder head with new valve stem seals"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EB2 engine now, or view the full EB2 engine range for other applications.",
+  "crossLink": "← Back to all EB2 engines — https://engined.co.uk/engines/eb2"
+ }
+}

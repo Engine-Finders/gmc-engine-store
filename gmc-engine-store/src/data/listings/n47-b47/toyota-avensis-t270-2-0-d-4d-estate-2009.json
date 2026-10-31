@@ -1,0 +1,83 @@
+{
+ "brand": "toyota",
+ "brandName": "Toyota",
+ "engineSlug": "n47-b47",
+ "applicationSlug": "toyota-avensis-t270-2-0-d-4d-estate-2009",
+ "engineCode": "N47/B47",
+ "condition": "used",
+ "seo": {
+  "title": "Used N47/B47 Engine — Toyota Avensis T270 Estate 2009-2018 (2.0 D-4D) Estate | Engined",
+  "description": "Used BMW N47/B47 engine for the Toyota Avensis T270 Estate 2009-2018 (2.0 D-4D). £2,395, 12-month warranty, UK delivery, tested before dispatch.",
+  "canonical": "https://engined.co.uk/engines/n47-b47/toyota-avensis-t270-2-0-d-4d-estate-2009/"
+ },
+ "hero": {
+  "title": "Used N47/B47 Engine — Toyota Avensis T270 Estate 2009-2018 (2.0 D-4D) Estate",
+  "subtitle": "Used N47/B47 engine for the Toyota Avensis T270 Estate (2.0 D-4D) — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N47-B47-USED-TOYOTA-AVENSIS-T270-ESTATE",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,395",
+    "note": "12-month warranty",
+    "price": "£2,395.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW N47/B47 2.0-litre turbo-diesel engine for Toyota Avensis T270 Estate, 2.0 D-4D",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N47/B47",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2009-2018",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "T270",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration above to confirm this used N47/B47 fits your Toyota Avensis T270 Estate before you buy.",
+  "list": [
+   "Toyota Avensis T270 Estate (2.0 D-4D, N47/B47) 2009-2018"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Verified N47/B47 engine code match",
+   "Compression and leak-down checked"
+  ],
+  "excluded": [
+   "Turbocharger (reused only where condition allows)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N47/B47 engine now, or view the full N47/B47 engine range for other applications.",
+  "crossLink": "← Back to all N47/B47 engines"
+ }
+}

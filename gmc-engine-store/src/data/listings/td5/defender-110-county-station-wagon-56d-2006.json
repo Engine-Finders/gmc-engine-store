@@ -1,0 +1,91 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "td5",
+ "applicationSlug": "defender-110-county-station-wagon-56d-2006",
+ "engineCode": "TD5",
+ "condition": "used",
+ "seo": {
+  "title": "Used Td5 Engine — Defender 110 County Station Wagon (56D) 2006-2008",
+  "description": "Land Rover Td5 Used engine for Defender 110 County Station Wagon. Fixed price £1,706, tested before dispatch, UK delivery, and a standard 12-month warranty.",
+  "canonical": "https://engined.co.uk/engines/td5/defender-110-county-station-wagon-56d-2006/"
+ },
+ "hero": {
+  "title": "Used Td5 Engine — Defender 110 County Station Wagon (56D) 2006-2008",
+  "subtitle": "Used Td5 engine for Defender 110 County Station Wagon — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: TD5-USED-DEF110-COUNTY-56D",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £6,093",
+    "note": "12-month warranty",
+    "price": "£6,093.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Td5 Engine — Defender 110 County Station Wagon (56D) 2006-2008",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "Td5",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2006-2008",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L316",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Turbo diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your exact fitment using our free reg-checker below, or check the compatible models listed.",
+  "list": [
+   "Defender 110 (L316) County Station Wagon (56D) 2006-2008"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Sump and oil pan",
+   "Front cover and seals",
+   "Timing components"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this Td5 engine now, or view the full Td5 range for other applications.",
+  "crossLink": "← Back to all Td5 engines"
+ }
+}

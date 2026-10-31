@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "om646",
+ "applicationSlug": "mercedes-e-class-w211-om646-150-manual-prefl-saloon-recon-2002",
+ "engineCode": "OM646",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned OM646 Engine — E-Class W211 Saloon | Engined",
+  "description": "Reconditioned OM646 engine for E-Class W211 E220 CDI Saloon (150 PS, Manual). Fixed price £2,300, tested before dispatch, 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/om646/mercedes-e-class-w211-om646-150-manual-prefl-saloon-recon-2002/"
+ },
+ "hero": {
+  "title": "Reconditioned OM646 2.2 CDI Engine — E-Class W211 Saloon (E220 CDI, 150 PS, Manual) Pre-FL 2002–2006",
+  "subtitle": "Reconditioned OM646 engine for E-Class W211 E220 CDI Saloon and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: OM646-RECON-W211-E220-MAN-PREFL",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,300",
+    "note": "12-month warranty",
+    "price": "£2,300.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned OM646 2.2 CDI engine for Mercedes E-Class W211 E220 CDI Saloon Pre-FL, complete manual assembly with renewed timing chain.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "OM646",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2002–2006",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W211",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-mercedes-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number in our checker above to confirm this reconditioned OM646 engine is an exact match for your vehicle.",
+  "list": [
+   "E-Class W211 (E220 CDI 150 PS Saloon Manual) 2002–2006"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Fully cleaned and inspected",
+   "VAT included"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this OM646 engine now, or view the full OM646 engine range for other applications.",
+  "crossLink": "← Back to all OM646 engines"
+ }
+}

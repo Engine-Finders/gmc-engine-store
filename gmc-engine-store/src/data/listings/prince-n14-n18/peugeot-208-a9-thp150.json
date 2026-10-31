@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "prince-n14-n18",
+ "applicationSlug": "peugeot-208-a9-thp150",
+ "engineCode": "EP6",
+ "condition": "used",
+ "seo": {
+  "title": "Used EP6 Peugeot 208 THP150 | Engined",
+  "description": "Used EP6 engine for Peugeot 208 A9 THP150 (150 PS) 2012–2015. £1,095 fixed price, tested before dispatch, with 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/prince-n14-n18/peugeot-208-a9-thp150/"
+ },
+ "hero": {
+  "title": "Used Prince EP6 1.6 THP Engine — Peugeot 208 A9 THP150 2012–2015",
+  "subtitle": "SUB — Used EP6 engine for Peugeot 208 A9 THP150 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: PRINCE-USED-A9-THP150",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,095",
+    "note": "12-month warranty",
+    "price": "£1,095.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Prince EP6 1.6 THP engine for Peugeot 208 A9 THP150 2012–2015, standard output",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EP6",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2012–2015",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "A9",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with our registration checker before ordering — this listing covers the Peugeot 208 A9 THP 150 (150 PS) 2012–2015.",
+  "list": [
+   "Peugeot 208 A9 — THP 150 (150 PS) 2012–2015"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head, block and internals",
+   "Sump and timing covers"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EP6 engine now, or view the full EP6 engine range.",
+  "crossLink": "← Back to all EP6 engines"
+ }
+}

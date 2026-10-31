@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "m276",
+ "applicationSlug": "mercedes-e-class-w212-m276-306-fl-estate-2013",
+ "engineCode": "M276",
+ "condition": "used",
+ "seo": {
+  "title": "Used M276 3.5 V6 Engine — E-Class W212 Estate (E350 CGI, 306 PS) FL 2013–2016 | Engined",
+  "description": "Used M276 3.5 V6 engine for E-Class W212 Estate E350 CGI 306 PS facelift 2013–2016. £1,600 fixed price, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/m276/mercedes-e-class-w212-m276-306-fl-estate-2013/"
+ },
+ "hero": {
+  "title": "Used M276 3.5 V6 Engine — E-Class W212 Estate (E350 CGI, 306 PS) FL 2013–2016",
+  "subtitle": "Used M276 engine for E-Class W212 Estate, E350 CGI and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M276-USED-G1-W212-E350-FL-EST",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,600",
+    "note": "12-month warranty",
+    "price": "£1,600.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used M276 3.5 V6 engine for Mercedes E-Class W212 Estate E350 CGI 306 PS facelift 2013–2016",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M276",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2013–2016",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W212",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-m276-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your reg to confirm fitment — this used M276 listing covers the E-Class W212 estate applications shown below.",
+  "list": [
+   "E-Class W212 (Estate, E350 CGI 306 PS, M276 DE35, 3.5 NA) 2013–2016"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block included",
+   "Timing cover and sump included"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M276 engine now, or view the full M276 engine range for other applications.",
+  "crossLink": "← Back to all M276 engines"
+ }
+}

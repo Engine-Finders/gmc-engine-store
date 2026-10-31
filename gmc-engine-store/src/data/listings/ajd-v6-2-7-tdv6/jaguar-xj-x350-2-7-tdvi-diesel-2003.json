@@ -1,0 +1,96 @@
+{
+ "brand": "jaguar",
+ "brandName": "Jaguar",
+ "engineSlug": "ajd-v6-2-7-tdv6",
+ "applicationSlug": "jaguar-xj-x350-2-7-tdvi-diesel-2003",
+ "engineCode": "AJD-V6",
+ "condition": "used",
+ "seo": {
+  "title": "Used Jaguar AJD-V6 2.7 TDV6 Diesel Engine XJ X350 | Engined",
+  "description": "Used AJD-V6 engine for Jaguar XJ (X350) 2.7 TDVi Diesel 2003-2009. Fixed price £1,495, tested before dispatch, with 12-month warranty included.",
+  "canonical": "https://engined.co.uk/engines/ajd-v6-2-7-tdv6/jaguar-xj-x350-2-7-tdvi-diesel-2003/"
+ },
+ "hero": {
+  "title": "Used Jaguar AJD-V6 2.7 TDV6 Diesel Engine — XJ (X350) 2003-2009",
+  "subtitle": "Used AJD-V6 engine for Jaguar XJ (X350) 2.7 TDVi Diesel Saloon 2003-2009 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: AJDV6-USED-XJ-X350-27-TDV6-SALOON",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,495",
+    "note": "12-month warranty",
+    "price": "£1,495.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,500",
+    "note": "12-month warranty",
+    "price": "£2,500.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used AJD-V6 2.7 V6 twin-turbo diesel engine for Jaguar XJ X350, complete assembly, ready for installation.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJD-V6",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2003-2009",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X350",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/jaguar-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/jaguar-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/jaguar-jaguar-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment by entering your registration number above to ensure this AJD-V6 engine matches your Jaguar XJ (X350).",
+  "list": [
+   "Jaguar XJ (X350) Saloon (2.7 TDVi 207 PS Diesel) 2003-2009"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (AJD-V6 2.7 V6 Twin-Turbo Diesel)",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Longitudinal configuration specific to XJ X350",
+   "XJ-specific ancillaries and ECU calibration"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system (unless specified as included in specific lot)",
+   "Ancillaries (alternator, starter, AC compressor if not part of core assembly)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this AJD-V6 engine now, or view the full AJD-V6 range for more.",
+  "crossLink": "← Back to all AJD-V6 engines"
+ }
+}

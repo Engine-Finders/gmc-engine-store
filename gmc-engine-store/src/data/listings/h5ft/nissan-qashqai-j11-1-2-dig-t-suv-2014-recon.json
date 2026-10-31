@@ -1,0 +1,85 @@
+{
+ "brand": "nissan",
+ "brandName": "Nissan",
+ "engineSlug": "h5ft",
+ "applicationSlug": "nissan-qashqai-j11-1-2-dig-t-suv-2014-recon",
+ "engineCode": "H5FT",
+ "condition": "recon",
+ "seo": {
+  "title": "Nissan H5FT Engine — Qashqai J11 1.2 DIG-T | Engined",
+  "description": "Reconditioned & Used H5FT engine for Nissan Qashqai J11 1.2 DIG-T. Fixed price £1,495, tested before dispatch, UK delivery & 12-month warranty included.",
+  "canonical": "https://engined.co.uk/engines/h5ft/nissan-qashqai-j11-1-2-dig-t-suv-2014-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned Nissan H5FT Engine — Qashqai J11 1.2 DIG-T",
+  "subtitle": "Reconditioned H5FT engine for Nissan Qashqai J11 1.2 DIG-T — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: H5FT-RECON-G1-QASHQAI",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,495",
+    "note": "12-month warranty",
+    "price": "£1,495.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned Nissan H5FT Engine — Qashqai J11 1.2 DIG-T",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "H5FT",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2014-2021",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "J11, F15, C13",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/nissan-nissan-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number in our checker above to confirm this H5FT engine is the exact match for your vehicle.",
+  "list": [
+   "Nissan Qashqai J11 (1.2 DIG-T 115 bhp) 2014-2021",
+   "Nissan Juke F15 (1.2 DIG-T) 2014-2019",
+   "Nissan Pulsar C13 (1.2 DIG-T) 2014-2018"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "VAT inclusive pricing",
+   "Secure, palletised UK delivery"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system components",
+   "Ancillaries (alternator, starter motor, etc.)",
+   "Fitting and installation",
+   "ECU remapping or coding"
+  ]
+ },
+ "cta": {
+  "line": "Buy this H5FT engine now, or view the full H5FT engine range for other applications.",
+  "crossLink": "← Back to all H5FT engines"
+ }
+}

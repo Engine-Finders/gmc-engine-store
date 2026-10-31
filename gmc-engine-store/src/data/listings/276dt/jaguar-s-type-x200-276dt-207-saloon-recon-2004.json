@@ -1,0 +1,91 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "276dt",
+ "applicationSlug": "jaguar-s-type-x200-276dt-207-saloon-recon-2004",
+ "engineCode": "276DT",
+ "condition": "recon",
+ "seo": {
+  "title": "Recon 276DT Engine — Jaguar S-Type X200 (207 PS) | Engined",
+  "description": "Reconditioned 276DT engine for Jaguar S-Type X200 (207 PS). Fixed price £2,750, tested before dispatch, 12-month warranty and UK delivery included.",
+  "canonical": "https://engined.co.uk/engines/276dt/jaguar-s-type-x200-276dt-207-saloon-recon-2004/"
+ },
+ "hero": {
+  "title": "Recon 276DT Engine — Jaguar S-Type X200 (207 PS)",
+  "subtitle": "Reconditioned 276DT engine for Jaguar S-Type X200 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 276DT-RECON-S-TYPE-X200-207",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,750",
+    "note": "12-month warranty",
+    "price": "£2,750.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned 276DT AJD-V6 twin-turbo diesel engine for Jaguar S-Type X200, fully rebuilt and tested.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "276DT",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2004–2007",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X200",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number in our checker above to confirm this 276DT engine fits your Jaguar S-Type X200.",
+  "list": [
+   "Jaguar S-Type X200 (Saloon) 2004–2007"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Jaguar-spec recon unit",
+   "Twin-turbo setup (207 PS)",
+   "Fully rebuilt to standard output"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 276DT engine now, or view the full 276DT range for other applications.",
+  "crossLink": "← Back to all 276DT engines"
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "m62",
+ "applicationSlug": "bmw-e39-540i-m62b44-286-manual-estate-1997",
+ "engineCode": "M62B44",
+ "condition": "used",
+ "seo": {
+  "title": "PENDING — M62B44 4.4 V8 Engine — BMW E39 540i Touring (Manual, 286 PS) 1997–2000 | Engined",
+  "description": "Used BMW M62B44 4.4 V8 engine for E39 540i Touring manual estate, 1997–2000, 286 PS. Tested before dispatch with 12-month warranty and UK delivery. £1,900.",
+  "canonical": "https://engined.co.uk/engines/m62/bmw-e39-540i-m62b44-286-manual-estate-1997/"
+ },
+ "hero": {
+  "title": "PENDING — M62B44 4.4 V8 Engine — BMW E39 540i Touring (Manual, 286 PS) 1997–2000",
+  "subtitle": "Used M62B44 engine for BMW E39 540i Touring manual estate (M62 engine) — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M62-PEND-E39-540I-TOUR-9700",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,900",
+    "note": "12-month warranty",
+    "price": "£1,900.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "PENDING — M62B44 4.4 V8 engine, BMW E39 540i Touring manual estate, 286 PS, 1997–2000, as supplied",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M62B44",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "1997–2000",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E39",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "UNRESOLVED",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration before ordering to confirm this engine matches your BMW E39 540i Touring.",
+  "list": [
+   "PENDING E39 540i Touring"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "[STD ITEM 4 — from canonical M62 hub list]",
+   "[STD ITEM 5 — from canonical M62 hub list]",
+   "[STD ITEM 6 — from canonical M62 hub list]"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M62B44 engine now, or view the full M62B44 engine range for other applications.",
+  "crossLink": "← Back to all M62B44 engines → https://engined.co.uk/engines/m62/"
+ }
+}

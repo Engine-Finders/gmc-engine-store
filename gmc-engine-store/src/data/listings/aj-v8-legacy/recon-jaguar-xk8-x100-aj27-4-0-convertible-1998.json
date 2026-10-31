@@ -1,0 +1,90 @@
+{
+ "brand": "jaguar",
+ "brandName": "Jaguar",
+ "engineSlug": "aj-v8-legacy",
+ "applicationSlug": "recon-jaguar-xk8-x100-aj27-4-0-convertible-1998",
+ "engineCode": "AJ27",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned Jaguar AJ27 Engine — XK8 (X100) 4.0 V8 Convertible 1998-2003 | Engined",
+  "description": "Reconditioned Jaguar AJ27 engine for XK8 (X100) 4.0 V8 Convertible 1998-2003. Fixed £4,025, prepared to order, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/aj-v8-legacy/recon-jaguar-xk8-x100-aj27-4-0-convertible-1998/"
+ },
+ "hero": {
+  "title": "Reconditioned Jaguar AJ27 Engine — XK8 (X100) 4.0 V8 Convertible 1998-2003",
+  "subtitle": "SUB — Reconditioned AJ27 engine for XK8 (X100) 4.0 V8 Convertible — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: AJV8-RECON-X100-40-NA-CONV-AJ27-12M",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £4,025",
+    "note": "12-month warranty",
+    "price": "£4,025.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned Jaguar AJ27 4.0 V8 engine for XK8 X100 Convertible 1998-2003, longitudinal CVVT.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJ27",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "1998-2003",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X100",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/jaguar-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/jaguar-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/jaguar-jaguar-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration to confirm fitment before ordering — this listing covers the XK8 (X100) 1998-2003 4.0 V8 (AJ27) Convertible.",
+  "list": [
+   "XK8 (X100) (4.0 V8 (AJ27) Convertible) 1998-2003"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Sump and timing cover"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this AJ27 engine now, or view the full AJ27 engine range for other applications.",
+  "crossLink": "← Back to all AJ27 engines"
+ }
+}

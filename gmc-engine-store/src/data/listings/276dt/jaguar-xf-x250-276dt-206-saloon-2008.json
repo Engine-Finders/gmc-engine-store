@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "276dt",
+ "applicationSlug": "jaguar-xf-x250-276dt-206-saloon-2008",
+ "engineCode": "276DT",
+ "condition": "used",
+ "seo": {
+  "title": "Used 276DT (AJD-V6) Engine — Jaguar XF X250 (206 PS, Twin-Turbo) 2008–2009 | Engined",
+  "description": "Used & Recon 276DT AJD-V6 engines for Jaguar XF X250 2.7 Twin-Turbo. From £1,495 with 12-month warranty & UK delivery. Tested before dispatch.",
+  "canonical": "https://engined.co.uk/engines/276dt/jaguar-xf-x250-276dt-206-saloon-2008/"
+ },
+ "hero": {
+  "title": "Used 276DT (AJD-V6) Engine — Jaguar XF X250 (206 PS, Twin-Turbo) 2008–2009",
+  "subtitle": "Used 276DT engine for Jaguar XF X250 2.7 Twin-Turbo — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 276DT-USED-XF-X250-206",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,495",
+    "note": "12-month warranty",
+    "price": "£1,495.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used 276DT AJD-V6 2.7 twin-turbo diesel engine for Jaguar XF X250 206 PS saloon 2008-2009",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "276DT",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2008–2009",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X250",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your exact fitment using our free online reg-checker before purchasing this 276DT engine to ensure perfect compatibility.",
+  "list": [
+   "Jaguar XF X250 (Saloon) 2008–2009"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Sump and oil pan",
+   "Valve cover and rocker cover"
+  ],
+  "excluded": [
+   "Turbocharger (reusable if in good condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 276DT engine now, or view the full 276DT range for other applications.",
+  "crossLink": "← Back to all 276DT engines"
+ }
+}

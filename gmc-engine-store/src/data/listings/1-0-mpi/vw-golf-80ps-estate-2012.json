@@ -1,0 +1,90 @@
+{
+ "brand": "volkswagen",
+ "brandName": "Volkswagen",
+ "engineSlug": "1-0-mpi",
+ "applicationSlug": "vw-golf-80ps-estate-2012",
+ "engineCode": "EA211",
+ "condition": "used",
+ "seo": {
+  "title": "Used 1.0 MPI Engine — VW Golf VII Estate | Engined [N2 — derived, flagged]",
+  "description": "Used EA211 1.0 MPI engine for VW Golf VII Estate (80 PS) 2012-present. Tested before dispatch, fixed price £1,095, 12-month warranty and free UK delivery.",
+  "canonical": "https://engined.co.uk/engines/1-0-mpi/vw-golf-80ps-estate-2012/"
+ },
+ "hero": {
+  "title": "Used 1.0 MPI Engine — VW Golf VII (80 PS) Estate 2012-present",
+  "subtitle": "Used EA211 engine for VW Golf VII Estate — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: MPI-USED-GOLF-80-ESTATE",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,095",
+    "note": "12-month warranty",
+    "price": "£1,095.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used 1.0 MPI Engine — VW Golf VII (80 PS) Estate 2012-present",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA211",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2012-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "MQB (platform)",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/volkswagen-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/volkswagen-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/volkswagen-vw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration below to confirm this used EA211 1.0 MPI engine fits your VW Golf VII Estate before you order.",
+  "list": [
+   "VW Golf VII Variant (1.0 MPI 80 PS Estate) 2012-present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (EA211 1.0 MPI, naturally aspirated inline-three)",
+   "Compression tested before dispatch",
+   "12-month warranty as standard",
+   "New gaskets and seals throughout",
+   "Free UK mainland delivery"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 1.0 MPI engine now, or view the full 1.0 MPI engine range for other applications.",
+  "crossLink": "← Back to all 1.0 MPI engines"
+ }
+}

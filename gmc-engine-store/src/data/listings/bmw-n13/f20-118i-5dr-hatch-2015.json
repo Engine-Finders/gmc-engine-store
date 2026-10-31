@@ -1,0 +1,96 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n13",
+ "applicationSlug": "f20-118i-5dr-hatch-2015",
+ "engineCode": "N13B16A",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW N13 Engine — 1 Series F20 (118i) 5‑dr Hatch 2015‑2016",
+  "description": "N13 · Used BMW N13 engine for F20 118i 5dr Hatch (170 PS) — £1,495 · 12-month warranty · UK delivery.",
+  "canonical": "https://engined.co.uk/engines/bmw-n13/f20-118i-5dr-hatch-2015/"
+ },
+ "hero": {
+  "title": "Used BMW N13 Engine — 1 Series F20 (118i) 5‑dr Hatch 2015‑2016",
+  "subtitle": "Used N13 engine for F20 118i 5dr Hatch — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N13-USED-F20-118I-FL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,495",
+    "note": "12-month warranty",
+    "price": "£1,495.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,495",
+    "note": "12-month warranty",
+    "price": "£2,495.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW N13B16A engine for F20 118i 5dr Hatch 2015-2016 with EU6 emissions and facelift configuration",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N13B16A",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2015-2016",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F20",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "This used N13 engine is compatible with the following vehicles — use our reg checker to confirm your specific model before ordering.",
+  "list": [
+   "BMW 1 Series (F20) 2015‑2016 — 118i (170 PS) 5‑door Hatchback"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Facelift configuration with EU6 compliance",
+   "Fully tested and validated"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N13 engine now, or view the full BMW N13 engine range for other applications.",
+  "crossLink": "← Back to all BMW N13 engines"
+ }
+}

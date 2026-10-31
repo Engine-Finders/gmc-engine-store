@@ -1,0 +1,100 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "b48",
+ "applicationSlug": "bmw-5-series-g31-530i-estate-2017",
+ "engineCode": "B48",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW B48 Engine — 5 Series G31 (530i) Estate 2017-present",
+  "description": "B48 · used · 5 Series G31 530i, 7 Series G11, 530e PHEV — £2,990. Tested before dispatch. 12-month warranty & UK delivery included.",
+  "canonical": "https://engined.co.uk/engines/b48/bmw-5-series-g31-530i-estate-2017/"
+ },
+ "hero": {
+  "title": "Used BMW B48 Engine — 5 Series G31 (530i) Estate 2017-present",
+  "subtitle": "Used B48 engine for BMW 5 Series G31 (530i), 7 Series G11, and 530e PHEV — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: B48-USED-G31-530I",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,990",
+    "note": "12-month warranty",
+    "price": "£2,990.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £3,450",
+    "note": "12-month warranty",
+    "price": "£3,450.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW B48 engine for 5 Series G31 530i estate, longitudinal-mounted configuration.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "B48",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2017-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "G30, G31, G11",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-b48-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our registration checker for exact fitment confirmation on your specific vehicle.",
+  "list": [
+   "BMW 5 Series G31 Estate (530i) 2017-present",
+   "BMW 7 Series G11 (730i) 2017-present",
+   "BMW 5 Series G30 Saloon (530i) 2017-present",
+   "BMW 5 Series G31 Estate (530e PHEV) 2017-present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch",
+   "12-month warranty as standard",
+   "Comprehensive inspection report",
+   "UK mainland delivery",
+   "14-day return policy"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this B48 engine now, or view the full B48 engine range for other applications.",
+  "crossLink": "← Back to all B48 engines"
+ }
+}

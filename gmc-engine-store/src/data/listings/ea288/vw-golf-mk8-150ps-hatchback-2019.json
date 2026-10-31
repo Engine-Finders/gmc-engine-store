@@ -1,0 +1,91 @@
+{
+ "brand": "volkswagen",
+ "brandName": "Volkswagen",
+ "engineSlug": "ea288",
+ "applicationSlug": "vw-golf-mk8-150ps-hatchback-2019",
+ "engineCode": "EA288",
+ "condition": "used",
+ "seo": {
+  "title": "Used EA288 Engine — VW Golf Mk8 (2.0 TDI 150 PS) Hatchback 2019-present | Engined",
+  "description": "Used EA288 engine for VW Golf Mk8 2.0 TDI 150 PS Hatchback (2019-present). Fixed price £1,435, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/ea288/vw-golf-mk8-150ps-hatchback-2019/"
+ },
+ "hero": {
+  "title": "Used EA288 Engine — VW Golf Mk8 (2.0 TDI 150 PS) Hatchback 2019-present",
+  "subtitle": "Used EA288 engine for VW Golf Mk8 2.0 TDI 150 PS Hatchback — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA288-USED-GOLF-MK8-150-HATCH",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,435",
+    "note": "12-month warranty",
+    "price": "£1,435.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used EA288 2.0 TDI 150 PS engine for VW Golf Mk8 hatchback, transverse MQB, tested, UK delivery",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA288",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2019-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "CD1",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/volkswagen-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/volkswagen-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/vw-2-0-tdi-common-rail-and-later-ea288-engine.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "This EA288 engine fits the VW Golf Mk8 models listed below. Use our registration checker to confirm compatibility with your exact vehicle.",
+  "list": [
+   "VW Golf Mk8 CD1 (2.0 TDI 150 PS — Hatchback) 2019-present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Pistons and crankshaft",
+   "Oil sump and timing cover"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries (alternator, starter, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA288 engine now, or view the full EA288 range for other applications.",
+  "crossLink": "← Back to all EA288 engines"
+ }
+}

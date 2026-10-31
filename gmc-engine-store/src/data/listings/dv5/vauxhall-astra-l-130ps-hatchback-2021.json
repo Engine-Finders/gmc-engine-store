@@ -1,0 +1,90 @@
+{
+ "brand": "vauxhall",
+ "brandName": "Vauxhall",
+ "engineSlug": "dv5",
+ "applicationSlug": "vauxhall-astra-l-130ps-hatchback-2021",
+ "engineCode": "PSA DV5 (YHZ / DV5RC)",
+ "condition": "used",
+ "seo": {
+  "title": "Used DV5 Engine — Vauxhall Astra L (130 PS) Hatchback 2021-present",
+  "description": "Used PSA DV5 1.5 diesel engine for Vauxhall Astra L hatchback 2021-present. £1,695 with 12-month warranty, tested before dispatch and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/dv5/vauxhall-astra-l-130ps-hatchback-2021/"
+ },
+ "hero": {
+  "title": "Used DV5 Engine — Vauxhall Astra L (130 PS) Hatchback 2021-present",
+  "subtitle": "Used PSA DV5 engine for Vauxhall Astra L 1.5 CDTI hatchback — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: DV5-USED-ASTRA-L-130-HATCH",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,695",
+    "note": "12-month warranty",
+    "price": "£1,695.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,395",
+    "note": "12-month warranty",
+    "price": "£2,395.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used PSA DV5 1.5 turbo-diesel engine for Vauxhall Astra L hatchback, transverse FWD, 2021-present",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "PSA DV5 (YHZ / DV5RC)",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2021-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Vauxhall Astra L",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your registration with our reg checker before ordering — this engine fits the Vauxhall Astra L with the DV5 (YHZ) code on the block.",
+  "list": [
+   "Vauxhall Astra L (1.5 CDTI, DV5/YHZ, Hatchback) 2021-present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block inspected",
+   "Sump and timing components fitted",
+   "Compression-tested with documentation supplied"
+  ],
+  "excluded": [
+   "Turbocharger (reused only if condition allows)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this DV5 engine now, or view the full DV5 engine range for other applications.",
+  "crossLink": "← Back to all DV5 engines"
+ }
+}

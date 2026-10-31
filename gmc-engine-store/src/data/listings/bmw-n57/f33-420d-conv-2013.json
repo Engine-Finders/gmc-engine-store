@@ -1,0 +1,96 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n57",
+ "applicationSlug": "f33-420d-conv-2013",
+ "engineCode": "N57",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW N57 Engine — 4 Series F33 (420d) Convertible 2013‑2015",
+  "description": "Used BMW N57 engine for 4 Series F33 420d Convertible 2013‑2015. Pre‑LCI N57D30O0, 184 PS. Fixed £2,695, with 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/bmw-n57/f33-420d-conv-2013/"
+ },
+ "hero": {
+  "title": "Used BMW N57 Engine — 4 Series F33 (420d) Convertible 2013‑2015",
+  "subtitle": "Used N57 engine for 4 Series F33 420d Convertible — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N57-USED-F33-420D-PREFL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,695",
+    "note": "12-month warranty",
+    "price": "£2,695.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £3,495",
+    "note": "12-month warranty",
+    "price": "£3,495.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW N57 engine for 4 Series F33 420d Convertible 2013‑2015, Pre‑LCI 184 PS, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N57",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2013‑2015",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F33",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-n57-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration to confirm this N57 engine fits your BMW 4 Series F33 420d Convertible before ordering.",
+  "list": [
+   "BMW 4 Series F33 (420d 184 PS Convertible) 2013‑2015"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil sump and timing cover",
+   "Rocker cover"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N57 engine now, or view the full N57 engine range for other applications.",
+  "crossLink": "← Back to all N57 engines"
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n46",
+ "applicationSlug": "e87-118i-5dr-hatch-2007",
+ "engineCode": "N46B20",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW N46 Engine — 1 Series E87 (118i) 5‑dr Hatch 2007‑2012",
+  "description": "Used BMW N46B20 engine for 1 Series E87 118i 5‑door hatchback (2007‑2012). LCI, updated ECU, 141 PS. £805 with 12‑month warranty & UK delivery.",
+  "canonical": "https://engined.co.uk/engines/bmw-n46/e87-118i-5dr-hatch-2007/"
+ },
+ "hero": {
+  "title": "Used BMW N46 Engine — 1 Series E87 (118i) 5‑dr Hatch 2007‑2012",
+  "subtitle": "Used N46B20 engine for BMW 1 Series E87 118i 5‑door Hatchback (2007‑2012) — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N46-USED-E87-118I-FL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £805",
+    "note": "12-month warranty",
+    "price": "£805.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW N46B20 engine for E87 118i 5‑door hatchback, LCI, updated ECU, 141 PS",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N46B20",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2007-2012",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E87",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your vehicle's compatibility by checking your registration or chassis number against the list below.",
+  "list": [
+   "BMW 1 Series (E87) 2007‑2012 — 118i (141 PS) 5‑door Hatchback"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch on our dyno",
+   "12-month unlimited mileage warranty as standard",
+   "Full gasket set and seals",
+   "Engine oil and filter change",
+   "Comprehensive inspection report"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system components",
+   "Ancillaries (alternator, starter, AC compressor, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N46 engine now, or view the full BMW N46 engine range for other applications.",
+  "crossLink": "← Back to all BMW N46 engines"
+ }
+}

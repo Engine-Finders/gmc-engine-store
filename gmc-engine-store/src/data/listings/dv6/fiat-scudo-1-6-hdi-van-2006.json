@@ -1,0 +1,89 @@
+{
+ "brand": "citroen",
+ "brandName": "Citroen",
+ "engineSlug": "dv6",
+ "applicationSlug": "fiat-scudo-1-6-hdi-van-2006",
+ "engineCode": "DV6",
+ "condition": "used",
+ "seo": {
+  "title": "Used Fiat DV6 Engine — Scudo (1.6 HDi) Van 2006-present",
+  "description": "DV6 · used · Fiat Scudo Van 1.6 HDi · longitudinal mount · £1,300 · 12-month warranty · UK delivery",
+  "canonical": "https://engined.co.uk/engines/dv6/fiat-scudo-1-6-hdi-van-2006/"
+ },
+ "hero": {
+  "title": "Used Fiat DV6 Engine — Scudo (1.6 HDi) Van 2006-present",
+  "subtitle": "Used DV6 diesel engine for Fiat Scudo Van 1.6 HDi — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: DV6-USED-FIAT-SCUDO-HDI-VAN",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,300",
+    "note": "12-month warranty",
+    "price": "£1,300.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,100",
+    "note": "12-month warranty",
+    "price": "£2,100.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Fiat DV6 1.6 HDi engine for Scudo Van 2006-present — tested longitudinal diesel unit",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "DV6",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2006-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Fiat Scudo Van (2006-present)",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/citroen-psa-dv6-1-6-hdi-diesel-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your vehicle's compatibility below — use our reg-checker to confirm this DV6 engine matches your Fiat Scudo exactly.",
+  "list": [
+   "Fiat Scudo Van (2006-present) — 1.6 HDi"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Comprehensive inspection report",
+   "Oil and filter service",
+   "UK mainland delivery"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this DV6 engine now, or view the full DV6 engine range for other applications.",
+  "crossLink": "← Back to all DV6 engines"
+ }
+}

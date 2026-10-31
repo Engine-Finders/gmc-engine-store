@@ -1,0 +1,83 @@
+{
+ "brand": "seat",
+ "brandName": "Seat",
+ "engineSlug": "ea211",
+ "applicationSlug": "seat-alhambra-7n-1-4-tsi-150-mpv-2010",
+ "engineCode": "EA211",
+ "condition": "used",
+ "seo": {
+  "title": "EA211 Alhambra 7N 1.4 Used | Engined",
+  "description": "Used EA211 engine for SEAT Alhambra 7N 1.4 TSI 150 PS, code CZEA/CMBA — fixed price £1,195, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/ea211/seat-alhambra-7n-1-4-tsi-150-mpv-2010/"
+ },
+ "hero": {
+  "title": "EA211 Alhambra 7N 1.4 Used",
+  "subtitle": "Used EA211 engine for SEAT Alhambra 7N 1.4 TSI 150 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA211-USED-G2-14TSI-ALHAMBRA",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,195",
+    "note": "12-month warranty",
+    "price": "£1,195.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "EA211 Alhambra 7N 1.4 Used",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA211",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2010–2020",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "7N",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our registration checker to confirm fitment before ordering — this listing covers the applications below.",
+  "list": [
+   "SEAT Alhambra 7N (1.4 TSI 150 PS, code CZEA/CMBA) 2010–2020"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block as supplied",
+   "Sump, timing cover and oil pump where fitted"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA211 engine now, or view the full EA211 engine range for other applications.",
+  "crossLink": "← Back to all EA211 engines"
+ }
+}

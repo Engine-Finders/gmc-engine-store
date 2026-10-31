@@ -1,0 +1,91 @@
+{
+ "brand": "volkswagen",
+ "brandName": "Volkswagen",
+ "engineSlug": "ea288",
+ "applicationSlug": "vw-golf-mk7-190ps-hatchback-2012",
+ "engineCode": "EA288",
+ "condition": "used",
+ "seo": {
+  "title": "Used EA288 Engine — VW Golf Mk7 (2.0 TDI 190 PS) Hatchback 2012-2019 | Engined",
+  "description": "Used EA288 engine for VW Golf Mk7 2.0 TDI 190 PS (2012-2019). Fixed price £1,835, tested before dispatch, 12-month warranty, UK delivery. Reconditioned from £2,870.",
+  "canonical": "https://engined.co.uk/engines/ea288/vw-golf-mk7-190ps-hatchback-2012/"
+ },
+ "hero": {
+  "title": "Used EA288 Engine — VW Golf Mk7 (2.0 TDI 190 PS) Hatchback 2012-2019",
+  "subtitle": "Used EA288 engine for VW Golf Mk7 2.0 TDI 190 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA288-USED-GOLF-MK7-190-HATCH",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,835",
+    "note": "12-month warranty",
+    "price": "£1,835.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used EA288 2.0 TDI 190 PS engine for VW Golf Mk7 GTD hatchback, transverse MQB, tested, UK",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA288",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2012-2019",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "5G",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/volkswagen-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/volkswagen-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/vw-2-0-tdi-common-rail-and-later-ea288-engine.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "This EA288 engine fits the VW Golf Mk7 models listed below. Use our registration checker to confirm compatibility with your exact vehicle.",
+  "list": [
+   "VW Golf Mk7 (5G) (2.0 TDI 190 PS — CUAA) Hatchback 2012-2019"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Pistons and crankshaft",
+   "Oil sump and timing cover"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries (alternator, starter, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA288 engine now, or view the full EA288 engine range for other applications.",
+  "crossLink": "← Back to all EA288 engines"
+ }
+}

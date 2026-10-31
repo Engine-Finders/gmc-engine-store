@@ -1,0 +1,83 @@
+{
+ "brand": "renault",
+ "brandName": "Renault",
+ "engineSlug": "energy-tce",
+ "applicationSlug": "renault-kangoo-ii-1-2-tce-115-van-2013-2",
+ "engineCode": "ENERGY TCE",
+ "condition": "used",
+ "seo": {
+  "title": "Used Renault Energy TCe Engine — Kangoo II (1.2 TCe 115) Van 2013-2018 | Engined",
+  "description": "Used Energy TCe engine for Renault Kangoo II 1.2 TCe 115 (2013-2018). £695, fully tested before dispatch, and 12-month warranty, fast UK delivery.",
+  "canonical": "https://engined.co.uk/engines/energy-tce/renault-kangoo-ii-1-2-tce-115-van-2013/"
+ },
+ "hero": {
+  "title": "Used Renault Energy TCe Engine — Kangoo II (1.2 TCe 115) Van 2013-2018",
+  "subtitle": "Used Energy TCe engine for Kangoo II (1.2 TCe 115) — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: TCe-USED-KANGOO-12",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £695",
+    "note": "12-month warranty",
+    "price": "£695.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Energy TCe engine for Renault Kangoo II 1.2 TCe 115, front-transverse 1.2-litre turbo petrol.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "Energy TCe",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2013-2018",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Kangoo II",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our registration checker to confirm this Energy TCe engine fits your Renault Kangoo II 2013-2018.",
+  "list": [
+   "Renault Kangoo II (1.2 TCe 115, 115 PS, code H5Ft/H5Bt) 2013-2018"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil sump",
+   "Valve cover"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this Energy TCe engine now, or view the full Energy TCe engine range for other applications.",
+  "crossLink": "← Back to all Energy TCe engines"
+ }
+}

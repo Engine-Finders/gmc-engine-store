@@ -1,0 +1,91 @@
+{
+ "brand": "volkswagen",
+ "brandName": "Volkswagen",
+ "engineSlug": "ea189",
+ "applicationSlug": "vw-passat-b7-140ps-saloon-2010",
+ "engineCode": "EA189",
+ "condition": "used",
+ "seo": {
+  "title": "Used EA189 Engine — VW Passat B7 (2.0 TDI 140 PS) Saloon 2010-2014 | Engined",
+  "description": "Used EA189 2.0 TDI engine for VW Passat B7 (36) 2010-2014 and more — £1,195 fixed price, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/ea189/vw-passat-b7-140ps-saloon-2010/"
+ },
+ "hero": {
+  "title": "Used EA189 Engine — VW Passat B7 (2.0 TDI 140 PS) Saloon 2010-2014",
+  "subtitle": "Used EA189 engine for Passat B7 2.0 TDI 140 PS Saloon — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA189-USED-PASSAT-B7-140-SALOON",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,195",
+    "note": "12-month warranty",
+    "price": "£1,195.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used EA189 2.0 TDI engine, Passat B7 36 saloon, 140 PS, transverse FWD/AWD 2010-2014",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA189",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2010-2014",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Passat B7 36",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/volkswagen-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/volkswagen-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/volkswagen-vw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration with our reg checker before ordering — it confirms your Passat B7 uses the correct EA189 fitment.",
+  "list": [
+   "VW Passat B7 36 (2.0 TDI 140 PS — Saloon) 2010-2014"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block as removed",
+   "Sump and timing cover",
+   "Oil pump and water pump"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA189 engine now, or view the full EA189 engine range for other applications.",
+  "crossLink": "← Back to all EA189 engines"
+ }
+}

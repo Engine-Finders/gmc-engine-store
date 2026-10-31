@@ -1,10 +1,14 @@
+"use client";
+
 import Icon from "../Icon";
 import UkFlag from "../UkFlag";
+import { useRegCheck } from "../quote/QuoteModal";
 import type { BrandPageData } from "@/lib/brand";
 
 type Data = BrandPageData["cta"];
 
 export default function BrandCta({ data }: { data: Data }) {
+  const rc = useRegCheck();
   return (
     <section className="bg-white pb-10 lg:pb-12">
       <div className="max-w-content mx-auto px-4 sm:px-6 lg:px-8">
@@ -19,12 +23,12 @@ export default function BrandCta({ data }: { data: Data }) {
               </h2>
               <p className="mt-3 max-w-md text-[13px] leading-relaxed text-ink-400">{data.description}</p>
 
-              <form className="mt-5 flex max-w-md items-stretch overflow-hidden rounded-lg bg-white">
+              <form onSubmit={rc.onSubmit} className="mt-5 flex max-w-md items-stretch overflow-hidden rounded-lg bg-white">
                 <span className="flex items-center gap-1.5 px-2.5 bg-[#eef1f6] border-r border-line">
                   <UkFlag className="w-6 h-4 rounded-sm" />
                   <span className="text-[11px] font-bold text-ink-700">{data.countryFlag}</span>
                 </span>
-                <input type="text" placeholder={data.placeholder} className="flex-1 min-w-0 px-3 py-3 text-base sm:text-[13px] font-semibold tracking-wide text-ink-900 placeholder:text-ink-400 outline-none" />
+                <input type="text" placeholder={data.placeholder} value={rc.reg} onChange={rc.onChange} name="reg" autoComplete="off" aria-label="Vehicle registration" className="flex-1 min-w-0 px-3 py-3 text-base sm:text-[13px] font-semibold tracking-wide text-ink-900 placeholder:text-ink-400 outline-none" />
                 <button type="submit" className="shrink-0 bg-primary-600 px-5 text-sm font-bold text-white transition-colors hover:bg-primary-500">{data.buttonText}</button>
               </form>
 

@@ -1,0 +1,91 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "b57",
+ "applicationSlug": "bmw-4-series-g26-440d-gran-coupe-2020",
+ "engineCode": "B57",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW B57 Engine — 4 Series G26 440d 2020+",
+  "description": "BMW B57 · used · 4 Series G26 440d Gran Coupé · from £3,215 (recon £4,020) · 12-month warranty · UK delivery.",
+  "canonical": "https://engined.co.uk/engines/b57/bmw-4-series-g26-440d-gran-coupe-2020/"
+ },
+ "hero": {
+  "title": "Used BMW B57 Engine — 4 Series G26 (440d) Gran Coupé 2020-present",
+  "subtitle": "Used B57 engine for BMW 4 Series G26 440d Gran Coupé — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: B57-USED-4SERIES-G26-440D-GRANCOUPE",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £3,215",
+    "note": "12-month warranty",
+    "price": "£3,215.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW B57 twin-turbo engine for 4 Series G26 440d Gran Coupé, 340 hp diesel unit",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "B57",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2020-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "G26",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-b57-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your vehicle's compatibility below, or use our free reg-checker for instant confirmation.",
+  "list": [
+   "4 Series Gran Coupé (G26) 2020-present — 440d (340 hp)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch",
+   "12-month warranty as standard",
+   "Full pre-delivery inspection",
+   "Oil and filter service",
+   "UK-wide delivery"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this B57 engine now, or view the full B57 engine range for other applications.",
+  "crossLink": "← Back to all B57 engines"
+ }
+}

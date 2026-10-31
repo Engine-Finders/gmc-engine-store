@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "306dt",
+ "applicationSlug": "land-rover-range-rover-sport-l494-30ddtx-292-suv-fl-2017",
+ "engineCode": "30DDTX",
+ "condition": "used",
+ "seo": {
+  "title": "Used 30DDTX SDV6 Engine — Range Rover Sport L494 FL | Engined",
+  "description": "Used 30DDTX engine for Range Rover Sport L494 FL. Fixed price £3,615, tested before dispatch, UK delivery & 12-month warranty. Twin-turbo 292 PS.",
+  "canonical": "https://engined.co.uk/engines/306dt/land-rover-range-rover-sport-l494-30ddtx-292-suv-fl-2017/"
+ },
+ "hero": {
+  "title": "Used 30DDTX SDV6 Engine — Range Rover Sport L494 FL (292 PS, Twin-Turbo)",
+  "subtitle": "Used 30DDTX engine for Range Rover Sport L494 FL — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 306DT-USED-RRS-L494-292-FL",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £4,820",
+    "note": "12-month warranty",
+    "price": "£4,820.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used 30DDTX SDV6 Engine — Range Rover Sport L494 FL (292 PS, Twin-Turbo)",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "30DDTX",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2017–2020",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L494",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number in our checker above to confirm this 30DDTX engine is the exact match for your vehicle.",
+  "list": [
+   "Range Rover Sport L494 (3.0 SDV6 292 PS) 2017–2020"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Verified working condition",
+   "OEM-spec internal components"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 30DDTX engine now, or view the full 306DT range for other applications.",
+  "crossLink": "← Back to all 306DT engines"
+ }
+}

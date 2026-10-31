@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "m274",
+ "applicationSlug": "infiniti-q30-m270-2.0t-hatchback-2015",
+ "engineCode": "M270",
+ "condition": "recon",
+ "seo": {
+  "title": "Recon M270 Q30 2.0t | Engined",
+  "description": "Reconditioned M270 engine for Infiniti Q30 2.0t hatchback (2015-2019). Fixed price £2,495, renewed timing chain, 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/m274/infiniti-q30-m270-2.0t-hatchback-2015/"
+ },
+ "hero": {
+  "title": "Reconditioned M270 2.0T Engine — Infiniti Q30 (2.0t, Transverse) 2015–2019",
+  "subtitle": "Reconditioned M270 engine for Infiniti Q30 2.0t — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M270-RECON-Q30",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,495",
+    "note": "12-month warranty",
+    "price": "£2,495.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned M270 2.0T Engine — Infiniti Q30 (2.0t, Transverse) 2015–2019",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M270",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2015–2019",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Q30",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-m274-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number above to confirm this reconditioned M270 engine is an exact match for your Infiniti.",
+  "list": [
+   "Infiniti Q30 Hatchback (2.0t) 2015–2019"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "Warranty as standard",
+   "Replacement gaskets and seals",
+   "Full compression test report"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M270 engine now, or view the full M270 engine range for other applications.",
+  "crossLink": "← Back to all M270 engines"
+ }
+}

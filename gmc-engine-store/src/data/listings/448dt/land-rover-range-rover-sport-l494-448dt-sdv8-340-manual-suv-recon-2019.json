@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "448dt",
+ "applicationSlug": "land-rover-range-rover-sport-l494-448dt-sdv8-340-manual-suv-recon-2019",
+ "engineCode": "448DT",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned 448DT 4.4 SDV8 Engine — Range Rover Sport L494 (340 hp, Manual) 2019",
+  "description": "Reconditioned 448DT engine for Range Rover Sport L494 2019. Fixed price £5,770, tested before dispatch, 12-month warranty & UK delivery. Manual transmission.",
+  "canonical": "https://engined.co.uk/engines/448dt/land-rover-range-rover-sport-l494-448dt-sdv8-340-manual-suv-recon-2019/"
+ },
+ "hero": {
+  "title": "Reconditioned 448DT 4.4 SDV8 Engine — Range Rover Sport L494 (340 hp, Manual) 2019",
+  "subtitle": "Reconditioned 448DT engine for Range Rover Sport L494 2019 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 448DT-RECON-L494-340-MAN-2019",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £5,770",
+    "note": "12-month warranty",
+    "price": "£5,770.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "448DT engine for Range Rover Sport L494 2019 SUV, manual transmission, fully rebuilt, tested before dispatch",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "448DT",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2019",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L494",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Will this fit my Range Rover Sport SDV8? Yes, for L494 4.4 SDV8; please use the registration checker above to confirm fitment.",
+  "list": [
+   "Range Rover Sport L494 (4.4 SDV8 340 hp Manual) 2019"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Fully cleaned and inspected",
+   "Ready for direct fitment"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 448DT engine now, or view the full 448DT range for other applications.",
+  "crossLink": "← Back to all 448DT engines"
+ }
+}

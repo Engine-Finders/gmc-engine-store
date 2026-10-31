@@ -1,0 +1,83 @@
+{
+ "brand": "renault",
+ "brandName": "Renault",
+ "engineSlug": "r9m",
+ "applicationSlug": "mercedes-vito-w447-111-cdi-van-2014",
+ "engineCode": "R9M",
+ "condition": "used",
+ "seo": {
+  "title": "Used Renault R9M Engine — Mercedes Vito W447 (111 CDI) Van 2014-2020",
+  "description": "Used Renault R9M engine for Mercedes Vito W447 111 CDI (OM622). £1,345 with 12-month warranty and UK delivery. Reconditioned option £2,155. Tested.",
+  "canonical": "https://engined.co.uk/engines/r9m/mercedes-vito-w447-111-cdi-van-2014/"
+ },
+ "hero": {
+  "title": "Used Renault R9M Engine — Mercedes Vito W447 (111 CDI) Van 2014-2020",
+  "subtitle": "Used R9M engine for Mercedes Vito W447 111 CDI — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: R9M-USED-VITO-111CDI",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,345",
+    "note": "12-month warranty",
+    "price": "£1,345.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Renault R9M engine for Mercedes Vito W447 111 CDI van, OM622, longitudinal sump.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "R9M",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2014–2020",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W447",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our registration checker to confirm this R9M engine fits your Mercedes Vito W447 111 CDI before buying.",
+  "list": [
+   "Mercedes Vito W447 (111 CDI 1.6 dCi ~110 PS, OM622/R9M-470) 2014–2020"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Engine block and cylinder head",
+   "Internal rotating assembly"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this R9M engine now, or view the full R9M engine range for other applications.",
+  "crossLink": "← Back to all R9M engines"
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "s65",
+ "applicationSlug": "bmw-e90-m3-lci-saloon-2009",
+ "engineCode": "S65",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW S65 4.0 V8 Engine — E90 M3 Saloon (LCI 420 PS) 2009–2011 | Engined",
+  "description": "Used BMW S65 4.0 V8 engine for BMW M3 E90 LCI Saloon (420 PS) 2009–2011. £3,500, 12-month warranty, UK delivery. Tested before dispatch, fixed price.",
+  "canonical": "https://engined.co.uk/engines/s65/bmw-e90-m3-lci-saloon-2009/"
+ },
+ "hero": {
+  "title": "Used BMW S65 4.0 V8 Engine — E90 M3 Saloon (LCI 420 PS) 2009–2011",
+  "subtitle": "SUB — Used S65 engine for BMW M3 E90 LCI Saloon (420 PS) 2009–2011 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: S65-USED-E90-M3LCI",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £3,500",
+    "note": "12-month warranty",
+    "price": "£3,500.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW S65 4.0 V8 engine for E90 M3 LCI Saloon (420 PS) 2009–2011, tested and ready to ship",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "S65",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2009–2011",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E90",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our registration checker to confirm this used S65 engine fits your BMW M3 E90 LCI Saloon (420 PS) 2009–2011 before ordering.",
+  "list": [
+   "BMW M3 E90 — LCI Saloon (420 PS) 2009–2011 (S65B40A)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New gaskets and seals where required",
+   "Sump and timing cover included"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this S65 engine now, or view the full S65 engine range for other applications.",
+  "crossLink": "← Back to all S65 engines"
+ }
+}

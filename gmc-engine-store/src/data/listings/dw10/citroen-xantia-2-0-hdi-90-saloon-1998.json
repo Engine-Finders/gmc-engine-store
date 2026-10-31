@@ -1,0 +1,83 @@
+{
+ "brand": "peugeot",
+ "brandName": "Peugeot",
+ "engineSlug": "dw10",
+ "applicationSlug": "citroen-xantia-2-0-hdi-90-saloon-1998",
+ "engineCode": "PSA DW10",
+ "condition": "used",
+ "seo": {
+  "title": "Used DW10 Engine — Citroën Xantia (2.0 HDi 90) Saloon 1998-2001 | Engined",
+  "description": "Used DW10 engine for Citroën Xantia 2.0 HDi 90 Saloon, 1998-2001. Fixed price £715, 12-month warranty, tested before dispatch, UK delivery. In stock.",
+  "canonical": "https://engined.co.uk/engines/dw10/citroen-xantia-2-0-hdi-90-saloon-1998/"
+ },
+ "hero": {
+  "title": "Used DW10 Engine — Citroën Xantia (2.0 HDi 90) Saloon 1998-2001",
+  "subtitle": "SUB — Used DW10 engine for Citroën Xantia 2.0 HDi 90 Saloon — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: DW10-USED-XANTIA-HDI90",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £715",
+    "note": "12-month warranty",
+    "price": "£715.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used DW10 engine for Citroën Xantia 2.0 HDi 90 Saloon 1998-2001, early 8-valve DW10TD, transverse mount.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "PSA DW10",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "1998-2001",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Xantia",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration to confirm fitment before ordering — this listing covers the Citroën Xantia 2.0 HDi 90 applications below.",
+  "list": [
+   "Citroën Xantia (2.0 HDi 90 PS, early 8-valve DW10TD) 1998-2001"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New timing belt where applicable",
+   "New gaskets and seals"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this DW10 engine now, or view the full DW10 engine range for other applications.",
+  "crossLink": "← Back to all DW10 engines — links to https://engined.co.uk/engines/dw10"
+ }
+}

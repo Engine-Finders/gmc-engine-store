@@ -1,0 +1,91 @@
+{
+ "brand": "volkswagen",
+ "brandName": "Volkswagen",
+ "engineSlug": "ea211",
+ "applicationSlug": "vw-tiguan-1-5-tsi-150ps-suv-2017",
+ "engineCode": "EA211",
+ "condition": "used",
+ "seo": {
+  "title": "Used EA211 Engine — VW Tiguan (1.5 TSI EVO 150 PS) SUV 2017-present | Engined",
+  "description": "Used EA211 engine for VW Tiguan 1.5 TSI EVO 150 PS (2017-present). Fixed price £1,260, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/ea211/vw-tiguan-1-5-tsi-150ps-suv-2017/"
+ },
+ "hero": {
+  "title": "Used EA211 Engine — VW Tiguan (1.5 TSI EVO 150 PS) SUV 2017-present",
+  "subtitle": "Used EA211 engine for VW Tiguan 1.5 TSI EVO 150 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA211-USED-TIGUAN-15TSI-150-SUV",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,260",
+    "note": "12-month warranty",
+    "price": "£1,260.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used EA211 1.5 TSI EVO 150 PS engine for VW Tiguan II SUV, transverse MQB, tested, UK",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA211",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2017-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "AD",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/volkswagen-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/volkswagen-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/volkswagen-vw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "This EA211 engine fits the following VW Tiguan models. Use our registration checker to confirm compatibility with your exact vehicle.",
+  "list": [
+   "VW Tiguan II (AD) (1.5 TSI EVO 150 PS) 2017-present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Pistons and crankshaft",
+   "Oil sump and timing cover"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries (alternator, starter, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA211 engine now, or view the full EA211 engine range for other applications.",
+  "crossLink": "← Back to all EA211 engines"
+ }
+}

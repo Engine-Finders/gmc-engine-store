@@ -1,0 +1,91 @@
+{
+ "brand": "audi",
+ "brandName": "Audi",
+ "engineSlug": "ea896",
+ "applicationSlug": "audi-q7-4l-3-0-tdi-suv-recon",
+ "engineCode": "EA896",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned Audi EA896 3.0 TDI V6 Engine — Q7 4L (3.0 TDI) SUV 2005-2015",
+  "description": "EA896 3.0 V6 TDI · reconditioned engine · fits Audi Q7 SUV 4L (204‑245 PS) 2005‑2015 · £5,200 · 12‑month warranty · UK delivery",
+  "canonical": "https://engined.co.uk/engines/ea896/audi-q7-4l-3-0-tdi-suv-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned Audi EA896 3.0 TDI V6 Engine — Q7 4L (3.0 TDI) SUV 2005-2015",
+  "subtitle": "Reconditioned EA896 3.0 V6 TDI engine for Audi Q7 SUV (4L) — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA896-RECON-Q7-4L",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £5,200",
+    "note": "12-month warranty",
+    "price": "£5,200.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "EA896 3.0 V6 TDI engine reconditioned for Audi Q7 SUV 4L 204‑245 PS longitudinal SUV mounting",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA896",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2005-2015",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "4L",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/audi-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/audi-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/audi-audi-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "This EA896 3.0 V6 TDI engine is confirmed to fit the following Audi Q7 applications — use our registration checker to verify compatibility with your specific vehicle.",
+  "list": [
+   "Audi Q7 SUV (4L) 2005-2015 — 3.0 TDI (204-245 PS)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Full diagnostic report",
+   "Compression test certificate",
+   "Oil and filter service completed"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA896 engine now, or view the full EA896 engine range for other applications.",
+  "crossLink": "← Back to all EA896 engines"
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "brand": "audi",
+ "brandName": "Audi",
+ "engineSlug": "ea211",
+ "applicationSlug": "audi-a3-8v-1-2-tfsi-saloon-recon",
+ "engineCode": "EA211",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned Audi EA211 Engine — A3 8V (1.2 TFSI) Saloon 2013-2020",
+  "description": "EA211 1.2 TFSI · reconditioned engine · fits Audi A3 Saloon 8V (1.2 TFSI 116 PS) 2013-2020 · £1,650 · 12-month warranty · UK delivery",
+  "canonical": "https://engined.co.uk/engines/ea211/audi-a3-8v-1-2-tfsi-saloon-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned Audi EA211 Engine — A3 8V (1.2 TFSI) Saloon 2013-2020",
+  "subtitle": "Reconditioned EA211 1.2 TFSI engine for Audi A3 Saloon 8V (1.2 TFSI) 2013-2020 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA211-RECON-A3-8V-1.2-SAL",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,650",
+    "note": "12-month warranty",
+    "price": "£1,650.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "EA211 1.2 TFSI engine reconditioned for Audi A3 Saloon 8V 1.2 TFSI 116 PS",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA211",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2013-2020",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "8V",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/audi-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/audi-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/audi-audi-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "This EA211 1.2 TFSI engine is confirmed to fit the following Audi A3 Saloon applications — use our registration checker to verify compatibility with your specific vehicle.",
+  "list": [
+   "Audi A3 Saloon (8V) 2013-2020 — 1.2 TFSI (116 PS)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Full diagnostic report",
+   "Compression test certificate",
+   "Oil and filter service completed"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA211 engine now, or view the full EA211 engine range for other applications.",
+  "crossLink": "← Back to all EA211 engines"
+ }
+}

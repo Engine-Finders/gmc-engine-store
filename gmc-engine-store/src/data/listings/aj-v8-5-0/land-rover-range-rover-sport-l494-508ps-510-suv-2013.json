@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "aj-v8-5-0",
+ "applicationSlug": "land-rover-range-rover-sport-l494-508ps-510-suv-2013",
+ "engineCode": "508PS",
+ "condition": "used",
+ "seo": {
+  "title": "Used 508PS 5.0 V8 Engine — Range Rover Sport L494 | Engined",
+  "description": "Used 508PS 5.0 V8 supercharged engine for Range Rover Sport L494 SC 2013–2017. £5,545 fixed price, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/aj-v8-5-0/land-rover-range-rover-sport-l494-508ps-510-suv-2013/"
+ },
+ "hero": {
+  "title": "Used 508PS 5.0 V8 Engine — Range Rover Sport L494 (SC, 510hp) 2013–2017",
+  "subtitle": "Used 508PS engine for Range Rover Sport L494 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 508PS-USED-L494-510-1317",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £5,545",
+    "note": "12-month warranty",
+    "price": "£5,545.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Land Rover 508PS 5.0 V8 supercharged engine for Range Rover Sport L494 SC 510hp 2013–2017",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "508PS",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2013–2017",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L494",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your reg before buying — this used 508PS 5.0 V8 supercharged engine fits the Range Rover Sport L494 applications listed below.",
+  "list": [
+   "Range Rover Sport L494 (SUV — 5.0 V8 SC 510hp — 508PS code) 2013–2017"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Sump and timing cover"
+  ],
+  "excluded": [
+   "Supercharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 508PS engine now, or view the full 508PS engine range for other applications.",
+  "crossLink": "← Back to all 508PS engines"
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "brand": "volkswagen",
+ "brandName": "Volkswagen",
+ "engineSlug": "ea189",
+ "applicationSlug": "vw-tiguan-mk1-140ps-suv-2007",
+ "engineCode": "EA189",
+ "condition": "used",
+ "seo": {
+  "title": "Used EA189 Engine — VW Tiguan Mk1 (2.0 TDI 140 PS) SUV 2007-2015 | Engined",
+  "description": "Used EA189 2.0 TDI engine for VW Tiguan Mk1 (5N) 2007-2015 and more — £1,095 fixed price, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/ea189/vw-tiguan-mk1-140ps-suv-2007/"
+ },
+ "hero": {
+  "title": "Used EA189 Engine — VW Tiguan Mk1 (2.0 TDI 140 PS) SUV 2007-2015",
+  "subtitle": "Used EA189 engine for Tiguan Mk1 2.0 TDI 140 PS SUV, FWD and 4x4 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA189-USED-TIGUAN-MK1-140-SUV",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,095",
+    "note": "12-month warranty",
+    "price": "£1,095.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used EA189 2.0 TDI engine, Tiguan Mk1 5N SUV, 140 PS, transverse FWD/4x4 fitment 2007-2015",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA189",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2007-2015",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Tiguan Mk1 5N",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/volkswagen-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/volkswagen-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/volkswagen-vw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration with our reg checker before ordering — it confirms the exact engine code for your Tiguan Mk1.",
+  "list": [
+   "VW Tiguan Mk1 5N (2.0 TDI 140 PS — SUV) 2007-2015"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block as removed",
+   "Sump and timing cover",
+   "Oil pump and water pump"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA189 engine now, or view the full EA189 engine range for other applications.",
+  "crossLink": "← Back to all EA189 engines"
+ }
+}

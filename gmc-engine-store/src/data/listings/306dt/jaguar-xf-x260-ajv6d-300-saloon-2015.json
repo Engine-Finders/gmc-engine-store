@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "306dt",
+ "applicationSlug": "jaguar-xf-x260-ajv6d-300-saloon-2015",
+ "engineCode": "AJV6D",
+ "condition": "used",
+ "seo": {
+  "title": "AJV6D XF Saloon 300 PS | Engined",
+  "description": "Fits XF Saloon. Used AJV6D (306DT) engine for Jaguar XF Saloon X260 300 PS twin-turbo 2015–2020. £3,215 with 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/306dt/jaguar-xf-x260-ajv6d-300-saloon-2015/"
+ },
+ "hero": {
+  "title": "AJV6D XF Saloon 300 PS",
+  "subtitle": "SUB — Used AJV6D engine for Jaguar XF Saloon 300 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 306DT-USED-XF-X260-SAL-300",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £3,215",
+    "note": "12-month warranty",
+    "price": "£3,215.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used AJV6D (306DT) twin-turbo diesel engine for Jaguar XF Saloon X260 300 PS, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJV6D",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2015–2020",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X260",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with our UK reg checker before ordering — this listing covers the following Jaguar XF application.",
+  "list": [
+   "Jaguar XF X260 (Saloon — 3.0 AJV6D 300 PS — 306DT engine code) 2015–2020"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Engine block and cylinder head",
+   "Sump and timing covers"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 306DT engine now, or view the full 306DT engine range for other applications.",
+  "crossLink": "← Back to all 306DT engines"
+ }
+}

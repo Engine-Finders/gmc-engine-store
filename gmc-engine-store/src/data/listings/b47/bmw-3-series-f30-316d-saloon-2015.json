@@ -1,0 +1,97 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "b47",
+ "applicationSlug": "bmw-3-series-f30-316d-saloon-2015",
+ "engineCode": "B47",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW B47 Engine — 3 Series F30 (316d) Saloon 2015-2019",
+  "description": "B47 · Used · 3 Series F30 (316d) Saloon · £1,525 · 12-month warranty · UK delivery. Tested before dispatch. Also reconditioned at £2,245.",
+  "canonical": "https://engined.co.uk/engines/b47/bmw-3-series-f30-316d-saloon-2015/"
+ },
+ "hero": {
+  "title": "Used BMW B47 Engine — 3 Series F30 (316d) Saloon 2015-2019",
+  "subtitle": "Used B47 engine for 3 Series Saloon (F30) — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: B47-USED-COMPACT-F30-316D",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,525",
+    "note": "12-month warranty",
+    "price": "£1,525.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,245",
+    "note": "12-month warranty",
+    "price": "£2,245.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW B47 engine for 3 Series F30 316d saloon 2015-2019, diesel, 116 hp",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "B47",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2015-2019",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F30",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-b47-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration for instant fitment confirmation, or check the compatible models listed below for this B47 diesel engine.",
+  "list": [
+   "3 Series Saloon (F30) 2015-2019 — 316d (116 hp)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Full inspection and compression test",
+   "Oil and filter change service",
+   "UK mainland delivery"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this B47 engine now, or view the full B47 engine range for other applications.",
+  "crossLink": "← Back to all B47 engines"
+ }
+}

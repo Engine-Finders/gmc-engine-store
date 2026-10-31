@@ -1,0 +1,97 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "m47",
+ "applicationSlug": "bmw-3-series-e46-320d-saloon-1999",
+ "engineCode": "M47",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW M47 Engine — 3 Series E46 (320d) Saloon 1999-2005",
+  "description": "Used BMW M47 engine for 3 Series Saloon, Touring, Coupe and Compact - 150 PS, fully tested before dispatch, £695, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/m47/bmw-3-series-e46-320d-saloon-1999/"
+ },
+ "hero": {
+  "title": "Used BMW M47 Engine — 3 Series E46 (320d) Saloon 1999-2005",
+  "subtitle": "Used M47 engine for 3 Series Saloon, Touring, Coupé and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M47-USED-E46-320D-SALOON",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £695",
+    "note": "12-month warranty",
+    "price": "£695.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,350",
+    "note": "12-month warranty",
+    "price": "£1,350.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW M47 E46 320d Saloon 1999-2005 longitudinal-mounted diesel engine — tested",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M47",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "1999-2005",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E46",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our registration checker to confirm compatibility, or review the exact vehicle applications listed below.",
+  "list": [
+   "3 Series Saloon (E46) 1999-2005 — 320d (150 PS)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Fully inspected and pressure tested",
+   "Cam belt and timing components checked",
+   "Oil and filter changed prior to dispatch"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, air conditioning compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M47 engine now, or view the full BMW M47 engine range for other applications.",
+  "crossLink": "← Back to all BMW M47 engines"
+ }
+}

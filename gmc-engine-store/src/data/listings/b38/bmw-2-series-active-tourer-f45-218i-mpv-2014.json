@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "b38",
+ "applicationSlug": "bmw-2-series-active-tourer-f45-218i-mpv-2014",
+ "engineCode": "B38",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW B38 Engine — 2 Series Active Tourer F45 (218i) MPV 2014-2021",
+  "description": "BMW B38 · used · 2 Series Active Tourer F45, Gran Tourer F46 · £1,705 · 12-month warranty · UK delivery.",
+  "canonical": "https://engined.co.uk/engines/b38/bmw-2-series-active-tourer-f45-218i-mpv-2014/"
+ },
+ "hero": {
+  "title": "Used BMW B38 Engine — 2 Series Active Tourer F45 (218i) MPV 2014-2021",
+  "subtitle": "<p><strong>Used B38 engine for 2 Series Active Tourer F45, Gran Tourer F46 — fixed price, tested before dispatch, UK delivery.</strong></p>",
+  "sku": "SKU: B38-USED-F45-218I-MPV",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,705",
+    "note": "12-month warranty",
+    "price": "£1,705.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW B38 Engine — 2 Series Active Tourer F45 (218i) MPV 2014-2021",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "B38",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2014-2021",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F45, F46",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-b38-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "<p>Check your registration or use the list below — this B38 engine is confirmed for the following applications:</p>",
+  "list": [
+   "2 Series Active Tourer (F45) — all variants (2014-2021)",
+   "2 Series Gran Tourer (F46) — all variants (2014-2021)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch on our dyno",
+   "12-month warranty as standard",
+   "Full service history documented",
+   "Oil, filters, and spark plugs fitted",
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter, etc.)",
+   "Fitting and installation"
+  ],
+  "excluded": []
+ },
+ "cta": {
+  "line": "<p>Buy this B38 engine now, or <a href=\"https://engined.co.uk/engines/b38/\">view the full B38 engine range</a> for other applications.</p>",
+  "crossLink": "← Back to all B38 engines</a></p>"
+ }
+}

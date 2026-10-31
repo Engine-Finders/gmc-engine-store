@@ -1,0 +1,96 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "m282",
+ "applicationSlug": "mercedes-glb-x247-m282-163-suv-2022",
+ "engineCode": "M282",
+ "condition": "used",
+ "seo": {
+  "title": "Used M282 1.3T Engine — GLB X247 (GLB220, 163 PS) 2022–present",
+  "description": "Used Mercedes-Benz M282 1.3T engine for GLB X247 GLB220 163 PS (2022–present). £2,870 fixed, 12-month warranty, UK delivery, tested before dispatch.",
+  "canonical": "https://engined.co.uk/engines/m282/mercedes-glb-x247-m282-163-suv-2022/"
+ },
+ "hero": {
+  "title": "Used M282 1.3T Engine — GLB X247 (GLB220, 163 PS) 2022–present",
+  "subtitle": "Used M282 1.3T engine for GLB X247 GLB220 163 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M282-USED-MB-GLB220-2022",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,870",
+    "note": "12-month warranty",
+    "price": "£2,870.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £3,675",
+    "note": "12-month warranty",
+    "price": "£3,675.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Mercedes-Benz M282 1.3T petrol engine for GLB X247 GLB220 163 PS, facelift high-output SUV spec.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M282",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2022–present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X247",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-mercedes-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration in our reg checker to confirm this M282 fits your GLB X247 GLB220 163 PS exactly before you buy.",
+  "list": [
+   "GLB X247 (GLB220 163 PS, 1.3T) 2022–present — SUV — transverse M282"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New gaskets and seals",
+   "New oil and filter"
+  ],
+  "excluded": [
+   "Turbocharger (reused from your unit where reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M282 engine now, or view the full M282 engine range for other applications.",
+  "crossLink": "← Back to all M282 engines → https://engined.co.uk/engines/m282"
+ }
+}

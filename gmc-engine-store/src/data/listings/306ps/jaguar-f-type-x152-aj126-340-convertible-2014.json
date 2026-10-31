@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "306ps",
+ "applicationSlug": "jaguar-f-type-x152-aj126-340-convertible-2014",
+ "engineCode": "AJ126",
+ "condition": "used",
+ "seo": {
+  "title": "Used AJ126 3.0 SC V6 Engine — Jaguar F-Type (340PS) | Engined",
+  "description": "Used AJ126 engine for Jaguar F-Type X152 Convertible. Fixed price £3,195, tested before dispatch, UK delivery & 12-month warranty. Supercharged 340PS.",
+  "canonical": "https://engined.co.uk/engines/306ps/jaguar-f-type-x152-aj126-340-convertible-2014/"
+ },
+ "hero": {
+  "title": "Used AJ126 3.0 SC V6 Engine — Jaguar F-Type Convertible (340PS) 2014–2020",
+  "subtitle": "Used AJ126 engine for Jaguar F-Type X152 Convertible — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 306PS-USED-FTYPE-CONV-340",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £4,295",
+    "note": "12-month warranty",
+    "price": "£4,295.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used AJ126 3.0 SC V6 Engine — Jaguar F-Type Convertible (340PS) 2014–2020",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJ126",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2014–2020",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X152",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number in our checker above to confirm this AJ126 engine is the exact match for your vehicle.",
+  "list": [
+   "Jaguar F-Type X152 (3.0 AJ126 340PS) 2014–2020"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Verified working condition",
+   "OEM-spec internal components"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this AJ126 engine now, or view the full 306PS engine range for other applications.",
+  "crossLink": "← Back to all 306PS engines"
+ }
+}

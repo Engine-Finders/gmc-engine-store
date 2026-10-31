@@ -1,0 +1,83 @@
+{
+ "brand": "peugeot",
+ "brandName": "Peugeot",
+ "engineSlug": "dv6",
+ "applicationSlug": "peugeot-208-1-6-hdi-hatch-2012-recon",
+ "engineCode": "PSA DV6",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned PSA DV6 Engine — Peugeot 208 MK1 (1.6 HDi) Hatchback 2012-2019 | Engined",
+  "description": "Used PSA DV6 engine for Peugeot 208 MK1 1.6 HDi (75-115 PS) 2012-2019. £1,125. Tested before dispatch, 12-month warranty, UK delivery. Recon £1,980.",
+  "canonical": "https://engined.co.uk/engines/dv6/peugeot-208-1-6-hdi-hatch-2012-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned PSA DV6 Engine — Peugeot 208 MK1 (1.6 HDi) Hatchback 2012-2019",
+  "subtitle": "Reconditioned PSA DV6 engine for Peugeot 208 MK1 1.6 HDi — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: DV6-RECON-208-HDI",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,125",
+    "note": "12-month warranty",
+    "price": "£1,125.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned PSA DV6 engine for Peugeot 208 MK1 1.6 HDi hatchback 2012-2019, tested and ready to ship.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "PSA DV6",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2012-2019",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "MK1",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our registration checker to confirm this reconditioned PSA DV6 engine fits your Peugeot 208 MK1 1.6 HDi before you buy.",
+  "list": [
+   "Peugeot 208 MK1 (1.6 HDi 75-115 PS, codes: 9HD/9HP/9HR, DV6FE, DV6FD) 2012-2019"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New oil and filter",
+   "Gaskets and seals"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this PSA DV6 engine now, or view the full PSA DV6 engine range for other applications.",
+  "crossLink": "← Back to all PSA DV6 engines"
+ }
+}

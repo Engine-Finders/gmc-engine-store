@@ -1,0 +1,96 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "m282",
+ "applicationSlug": "mercedes-cla-shooting-brake-c118-m282-136-estate-2019",
+ "engineCode": "M282",
+ "condition": "used",
+ "seo": {
+  "title": "Used M282 1.3T Engine — CLA C118 Shooting Brake (CLA200, 136 PS) 2019–2022",
+  "description": "Used M282 1.3T engine for Mercedes-Benz CLA C118 Shooting Brake CLA200 136 PS (2019–2022). £2,295, 12-month warranty, tested before dispatch. UK delivery.",
+  "canonical": "https://engined.co.uk/engines/m282/mercedes-cla-shooting-brake-c118-m282-136-estate-2019/"
+ },
+ "hero": {
+  "title": "emitted verbatim. 74 chars — within the ≤75 cap by 1.",
+  "subtitle": "Used M282 engine for Mercedes-Benz CLA C118 Shooting Brake CLA200 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M282-USED-MB-CLA200-SB-1922",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,295",
+    "note": "12-month warranty",
+    "price": "£2,295.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,895",
+    "note": "12-month warranty",
+    "price": "£2,895.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used M282 1.3T turbo engine for Mercedes CLA C118 Shooting Brake CLA200 136 PS estate, 2019–2022.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M282",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2019–2022",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "C118",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-mercedes-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your registration with our reg checker before ordering — this M282 fits the pre-facelift C118 CLA Shooting Brake CLA200 built 2019–2022.",
+  "list": [
+   "Mercedes-Benz CLA C118 Shooting Brake (CLA200 136 PS Estate) 2019–2022"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Delivery to a UK mainland address",
+   "Unit supplied to the exact C118 Shooting Brake CLA200 136 PS specification"
+  ],
+  "excluded": [
+   "Turbocharger (reusable unit, condition-dependent)",
+   "Injectors and fuel system components",
+   "Ancillaries (starter, alternator, pumps)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M282 engine now, or view the full M282 engine range for other applications.",
+  "crossLink": "← Back to all M282 engines"
+ }
+}

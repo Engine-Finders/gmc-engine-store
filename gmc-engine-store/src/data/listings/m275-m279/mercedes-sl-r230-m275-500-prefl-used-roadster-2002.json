@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "m275-m279",
+ "applicationSlug": "mercedes-sl-r230-m275-500-prefl-used-roadster-2002",
+ "engineCode": "M275",
+ "condition": "used",
+ "seo": {
+  "title": "Used M275 5.5 V12 Engine — SL R230 (SL55 AMG, 500 PS) Pre-FL 2002–2006",
+  "description": "Used M275 5.5 V12 Biturbo engine for Mercedes SL R230 SL55 AMG (2002–2006) — £6,495, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/m275-m279/mercedes-sl-r230-m275-500-prefl-used-roadster-2002/"
+ },
+ "hero": {
+  "title": "Used M275 5.5 V12 Engine — SL R230 (SL55 AMG, 500 PS) Pre-FL 2002–2006",
+  "subtitle": "Used M275 engine for Mercedes SL R230 SL55 AMG — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M275-USED-R230-SL55-PREFL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £6,495",
+    "note": "12-month warranty",
+    "price": "£6,495.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Mercedes M275 5.5 V12 Biturbo engine, pre-facelift R230 SL55 AMG 500 PS roadster 2002–2006",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M275",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2002–2006",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "R230",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-mercedes-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your registration with our reg checker before ordering — this used M275 fits the pre-facelift R230 SL55 AMG roadster only.",
+  "list": [
+   "Mercedes-Benz SL R230 (Roadster — SL55 AMG 500 PS — M275 — V12 Biturbo) 2002–2006"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly, as removed",
+   "Tested before dispatch — compression and oil pressure verified",
+   "12-month warranty as standard",
+   "Engine code checked against your chassis before release",
+   "UK delivery, crated and palletised"
+  ],
+  "excluded": [
+   "Turbochargers (reused only if serviceable, subject to condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter, pumps, sensors)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M275 engine now, or view the full M275 engine range.",
+  "crossLink": "← Back to all M275 engines"
+ }
+}

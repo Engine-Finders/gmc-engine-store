@@ -1,0 +1,95 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "b58",
+ "applicationSlug": "bmw-x3-g01-x3-m40i-suv-2018-recon",
+ "engineCode": "B58",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned BMW B58 Engine — X3 G01 (X3 M40i) 2018-present",
+  "description": "B58 · Reconditioned · X3 M40i, X4 M40i, X5 xDrive40i, X6 xDrive40i, X7 xDrive40i · £7,820 · 12-month warranty · UK delivery.",
+  "canonical": "https://engined.co.uk/engines/b58/bmw-x3-g01-x3-m40i-suv-2018-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW B58 Engine — X3 G01 (X3 M40i) SUV 2018-present",
+  "subtitle": "Reconditioned B58 engine for X3 M40i, X4 M40i, X5 xDrive40i and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: B58-RECON-G01-X3M40I",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £7,820",
+    "note": "12-month warranty",
+    "price": "£7,820.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned BMW B58 Engine — X3 G01 (X3 M40i) SUV 2018-present",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "B58",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2018-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "G01, G02, G05, G06, G07",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-b58-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your vehicle's registration number to confirm compatibility before ordering.",
+  "list": [
+   "X3 SUV (G01) 2018-present — X3 M40i (382 hp)",
+   "X4 SUV (G02) 2018-present — X4 M40i (382 hp)",
+   "X5 SUV (G05) 2018-present — X5 xDrive40i (382 hp)",
+   "X6 SUV (G06) 2019-present — X6 xDrive40i (382 hp)",
+   "X7 SUV (G07) 2019-present — X7 xDrive40i (382 hp)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Compression and leak-down tested",
+   "Oil and filter service completed",
+   "Fully inspected and validated"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter, air con compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this B58 engine now, or view the full B58 engine range for other applications.",
+  "crossLink": "← Back to all B58 engines"
+ }
+}

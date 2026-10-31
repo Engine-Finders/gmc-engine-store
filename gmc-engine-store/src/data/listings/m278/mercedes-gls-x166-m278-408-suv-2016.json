@@ -1,0 +1,96 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "m278",
+ "applicationSlug": "mercedes-gls-x166-m278-408-suv-2016",
+ "engineCode": "M278",
+ "condition": "used",
+ "seo": {
+  "title": "Used M278 4.7 V8 Engine — GLS X166 (GLS500, 408 PS) 2016–2019",
+  "description": "Used M278 4.7 V8 engine for the Mercedes-Benz GLS X166 GLS500 408 PS (2016–2019). £4,515, 12-month warranty, tested before dispatch. UK delivery.",
+  "canonical": "https://engined.co.uk/engines/m278/mercedes-gls-x166-m278-408-suv-2016/"
+ },
+ "hero": {
+  "title": "Used M278 4.7 V8 Engine — GLS X166 (GLS500, 408 PS) 2016–2019",
+  "subtitle": "Used M278 engine for Mercedes-Benz GLS X166 GLS500 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M278-USED-X166-GLS500",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £4,515",
+    "note": "12-month warranty",
+    "price": "£4,515.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £7,245",
+    "note": "12-month warranty",
+    "price": "£7,245.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used M278 4.7 V8 biturbo engine for Mercedes-Benz GLS X166 GLS500 408 PS large SUV, 2016–2019.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M278",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2016–2019",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X166",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-m278-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your registration with our reg checker before ordering — this M278 fits the X166 GLS500 large SUV built 2016–2019.",
+  "list": [
+   "Mercedes-Benz GLS X166 (GLS500 408 PS SUV) 2016–2019"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Delivery to a UK mainland address",
+   "Unit supplied to the exact X166 GLS500 408 PS specification"
+  ],
+  "excluded": [
+   "Turbocharger (reusable unit, condition-dependent)",
+   "Injectors and fuel system components",
+   "Ancillaries (starter, alternator, pumps)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M278 engine now, or view the full M278 engine range for other applications.",
+  "crossLink": "← Back to all M278 engines"
+ }
+}

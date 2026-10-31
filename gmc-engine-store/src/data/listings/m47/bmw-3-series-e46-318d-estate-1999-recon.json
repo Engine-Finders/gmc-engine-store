@@ -1,0 +1,92 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "m47",
+ "applicationSlug": "bmw-3-series-e46-318d-estate-1999-recon",
+ "engineCode": "M47",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned BMW M47 — 3 Series E46 (318d) Estate | Engined _(58 chars)",
+  "description": "Reconditioned M47 engine for BMW 3 Series E46 (318d) Estate 1999-2005. Tested before dispatch, 12-month warranty included, UK delivery. £1,215. _(155 chars)",
+  "canonical": "https://engined.co.uk/engines/m47/bmw-3-series-e46-318d-estate-1999-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW M47 — 3 Series E46 (318d) Estate 1999-05",
+  "subtitle": "<p><strong>Reconditioned M47 engine for BMW 3 Series E46 318d Estate — fixed price, tested before dispatch, UK delivery.</strong></p>",
+  "sku": "SKU: M47-RECON-E46-318D-ESTATE",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,215",
+    "note": "12-month warranty",
+    "price": "£1,215.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned BMW M47 — 3 Series E46 (318d) Estate 1999-05",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M47",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "1999-2005",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E46 (saloon, touring, coupé, compact)",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "<p>Enter your registration for instant compatibility confirmation, or check the list below.</p>",
+  "list": [
+   "3 Series Saloon (E46) — 318d (115 PS) 1999-2005",
+   "3 Series Touring (E46) — 318d (115 PS) 1999-2005",
+   "3 Series Coupé (E46) — 318d (115 PS) 1999-2005",
+   "3 Series Compact (E46) — 318d (115 PS) 1999-2005"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch",
+   "12-month warranty as standard",
+   "Full inspection and compression testing",
+   "All necessary gaskets and seals",
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, etc.)",
+   "Fitting and installation services"
+  ],
+  "excluded": []
+ },
+ "cta": {
+  "line": "<p><strong>Buy this M47 engine now, or <a href=\"https://engined.co.uk/engines/m47\">view the full M47 engine range</a> for other applications.</strong></p>",
+  "crossLink": "← Back to all M47 engines</a></p>"
+ }
+}

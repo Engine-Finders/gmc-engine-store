@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "td5",
+ "applicationSlug": "defender-90-hard-top-10p-1998-recon",
+ "engineCode": "TD5",
+ "condition": "recon",
+ "seo": {
+  "title": "Recon Td5 Engine — Defender 90 Hard Top (10P) 1998-2002",
+  "description": "Reconditioned Td5 engine for Defender 90 Hard Top 10P. Fixed price £6,093, tested before dispatch, 12-month warranty and UK delivery included.",
+  "canonical": "https://engined.co.uk/engines/td5/defender-90-hard-top-10p-1998-recon/"
+ },
+ "hero": {
+  "title": "Recon Td5 Engine — Defender 90 Hard Top (10P) 1998-2002",
+  "subtitle": "Reconditioned Td5 engine for Defender 90 Hard Top 10P and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: TD5-RECON-DEF90-HARDTOP-10P",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £6,093",
+    "note": "12-month warranty",
+    "price": "£6,093.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Td5 reconditioned engine for Defender 90 Hard Top 10P, 2.5L 5-cylinder turbo diesel long-block assembly.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "Td5",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "1998-2002",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L316",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Turbo diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm exact fitment for your vehicle by entering your registration into our checker below.",
+  "list": [
+   "Defender 90 (L316) Hard Top (10P) 1998-2002"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "UK delivery included",
+   "Full technical support"
+  ],
+  "excluded": [
+   "Turbocharger",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this Td5 engine now, or view the full Td5 engine range for other applications.",
+  "crossLink": "← Back to all Td5 engines"
+ }
+}

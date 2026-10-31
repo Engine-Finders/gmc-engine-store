@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "ajd200",
+ "applicationSlug": "jaguar-xj-x351-aj20d6-300-saloon-2017",
+ "engineCode": "AJ20D6",
+ "condition": "used",
+ "seo": {
+  "title": "PENDING — AJ20D6 3.0 Diesel Engine — Jaguar XJ X351 (300 PS, Longitudinal) 2017–2019",
+  "description": "Used AJ20D6 3.0 Diesel engine for Jaguar XJ X351 (300 PS, Longitudinal). Fixed price £3,495. Tested before dispatch, 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/ajd200/jaguar-xj-x351-aj20d6-300-saloon-2017/"
+ },
+ "hero": {
+  "title": "PENDING — AJ20D6 3.0 Diesel Engine — Jaguar XJ X351 (300 PS, Longitudinal) 2017–2019",
+  "subtitle": "Used and reconditioned AJ20D6 engine for Jaguar XJ X351 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: AJD200-PEND-XJ-300-1719",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £3,495",
+    "note": "12-month warranty",
+    "price": "£3,495.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "AJ20D6 3.0 Diesel engine for Jaguar XJ X351 300 PS, complete unit, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJ20D6",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2017–2019",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X351",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number in our checker above to confirm exact fitment for your Jaguar XJ X351 chassis before purchasing.",
+  "list": [
+   "Jaguar XJ X351 (300 PS, Longitudinal) 2017–2019"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "All internal seals and gaskets replaced",
+   "Professionally cleaned and degreased"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "External ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this AJ20D6 engine now, or view the full AJ20D6 engine range for other applications.",
+  "crossLink": "← Back to all AJ20D6 engines"
+ }
+}

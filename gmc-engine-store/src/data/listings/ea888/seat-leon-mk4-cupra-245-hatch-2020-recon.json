@@ -1,0 +1,83 @@
+{
+ "brand": "seat",
+ "brandName": "Seat",
+ "engineSlug": "ea888",
+ "applicationSlug": "seat-leon-mk4-cupra-245-hatch-2020-recon",
+ "engineCode": "EA888",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned VW EA888 Engine — SEAT Leon MK4 (Cupra 245) Hatchback 2020-Present | Engined",
+  "description": "Reconditioned EA888 engine for SEAT Leon MK4 Cupra 245 (2.0 TSI, 245 PS), 2020-present. Used £3,445, reconditioned £4,595. 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/ea888/seat-leon-mk4-cupra-245-hatch-2020-recon/ — collides with the preceding row; do not deploy unresolved."
+ },
+ "hero": {
+  "title": "Reconditioned VW EA888 Engine — SEAT Leon MK4 (Cupra 245) Hatchback 2020-Present",
+  "subtitle": "Reconditioned EA888 engine for SEAT Leon MK4 Cupra 245 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA888-RECON-LEONMK4-245",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £3,445",
+    "note": "12-month warranty",
+    "price": "£3,445.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "EA888 2.0 TSI 245 PS reconditioned engine for SEAT Leon MK4 Cupra, transverse-mounted turbo petrol",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA888",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2020-Present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "MK4",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration to confirm this EA888 fits your SEAT Leon MK4 — every application listed is matched by chassis and engine code.",
+  "list": [
+   "SEAT Leon MK4 (Cupra 245, 2.0 TSI, 245 PS) 2020-present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Engine code and chassis match confirmed before dispatch",
+   "Delivery across the UK"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA888 engine now, or view the full EA888 range for other applications.",
+  "crossLink": "← Back to all EA888 engines"
+ }
+}

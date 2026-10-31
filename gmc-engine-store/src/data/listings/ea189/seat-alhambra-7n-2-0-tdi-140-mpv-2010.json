@@ -1,0 +1,89 @@
+{
+ "brand": "seat",
+ "brandName": "Seat",
+ "engineSlug": "ea189",
+ "applicationSlug": "seat-alhambra-7n-2-0-tdi-140-mpv-2010",
+ "engineCode": "EA189",
+ "condition": "used",
+ "seo": {
+  "title": "Used VW EA189 Engine — SEAT Alhambra 7N (2.0 TDI 140 PS) MPV 2010-2015",
+  "description": "Used VW EA189 2.0 TDI diesel engine for the SEAT Alhambra 7N MPV 140 PS (2010–2015). Now from £1,255 with a 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/ea189/seat-alhambra-7n-2-0-tdi-140-mpv-2010/"
+ },
+ "hero": {
+  "title": "Used VW EA189 Engine — SEAT Alhambra 7N (2.0 TDI 140 PS) MPV 2010-2015",
+  "subtitle": "Used EA189 engine for SEAT Alhambra 7N 140 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA189-USED-ALHAMBRA-140",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,255",
+    "note": "12-month warranty",
+    "price": "£1,255.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,025",
+    "note": "12-month warranty",
+    "price": "£2,025.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used VW EA189 2.0 TDI diesel engine for SEAT Alhambra 7N MPV 140 PS, transverse mount.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA189",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2010–2015",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "7N",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "The EA189 fits the SEAT Alhambra 7N 2010–2015 with 2.0 TDI 140 PS — confirm your Alhambra's reg through our checker before ordering.",
+  "list": [
+   "SEAT Alhambra 7N (2.0 TDI 140 PS) 2010–2015"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (block, head, sump and covers)",
+   "Fully stripped, inspected and rebuilt to OE specification",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New gaskets, seals and timing components"
+  ],
+  "excluded": [
+   "Turbocharger (reused where reusable, per condition)",
+   "Injectors / fuel system components",
+   "Ancillaries (alternator, starter, pumps, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA189 engine now, or view the full EA189 range for other applications.",
+  "crossLink": "← Back to all EA189 engines"
+ }
+}

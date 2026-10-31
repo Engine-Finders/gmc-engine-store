@@ -1,0 +1,91 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n20",
+ "applicationSlug": "f10-520i-saloon-2013",
+ "engineCode": "N20",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW N20 Engine — 5 Series F10 (520i) Saloon 2013‑2016",
+  "description": "N20 engine for BMW 520i F10 Saloon 2013-2016 (184PS). Used, tested, 12‑month warranty, UK delivery. £1,895. Also available reconditioned.",
+  "canonical": "https://engined.co.uk/engines/bmw-n20/f10-520i-saloon-2013/"
+ },
+ "hero": {
+  "title": "Used BMW N20 Engine — 5 Series F10 (520i) Saloon 2013‑2016",
+  "subtitle": "Used N20 engine for BMW 520i F10 Saloon 2013-2016 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N20-USED-F10-520I-FL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,895",
+    "note": "12-month warranty",
+    "price": "£1,895.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used N20 engine for BMW 520i F10 Saloon 2013-2016 (184PS) facelift unit",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N20",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2013-2016",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F10",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-n20-n47-engine.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration or check the fitment guide below to confirm this N20 engine matches your F10 520i Saloon.",
+  "list": [
+   "BMW 5 Series (F10) 2013‑2016 — 520i (184 PS) Saloon"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12‑month warranty as standard",
+   "Compression and leak‑down tested",
+   "Oil and filter service completed",
+   "Full inspection report supplied"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter, A/C compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N20 engine now, or view the full N20 engine range for other applications.",
+  "crossLink": "← Back to all BMW N20 engines"
+ }
+}

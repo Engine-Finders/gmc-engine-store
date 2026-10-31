@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "m52b28",
+ "applicationSlug": "bmw-e36-328i-m52b28-193-auto-coupe-1995",
+ "engineCode": "M52B28",
+ "condition": "used",
+ "seo": {
+  "title": "PENDING — M52B28 2.8 Engine E36 328i Cpe Auto | Engined",
+  "description": "Used M52B28 2.8 engine for BMW E36 328i Coupe (Auto, 193 PS, 1995-1997). Fixed price £1,095. Tested before dispatch, 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/m52b28/bmw-e36-328i-m52b28-193-auto-coupe-1995/"
+ },
+ "hero": {
+  "title": "PENDING — M52B28 2.8 Engine — BMW E36 328i Coupe (Auto, 193 PS) 1995–1997",
+  "subtitle": "Used M52B28 engine for BMW E36 328i Coupe (Auto, 193 PS) — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M52B28-PEND-E36-328I-CPE-AUTO-9517",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,095",
+    "note": "12-month warranty",
+    "price": "£1,095.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "M52B28 2.8 engine for BMW E36 328i Coupe Auto 193 PS, complete unit, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M52B28",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "1995–1997",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E36",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number in our checker above to confirm exact fitment for your BMW E36 328i chassis before purchasing.",
+  "list": [
+   "BMW E36 328i 1995–1997 — Coupe — M52B28 193 PS — Auto — 286S1 code"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "All internal seals and gaskets replaced",
+   "Professionally cleaned and degreased"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "External ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M52B28 engine now, or view the full M52B28 range for other applications.",
+  "crossLink": "← Back to all M52B28 engines"
+ }
+}

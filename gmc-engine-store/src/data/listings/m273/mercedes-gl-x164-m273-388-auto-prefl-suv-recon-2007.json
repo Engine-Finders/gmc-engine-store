@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "m273",
+ "applicationSlug": "mercedes-gl-x164-m273-388-auto-prefl-suv-recon-2007",
+ "engineCode": "M273",
+ "condition": "recon",
+ "seo": {
+  "title": "Recon M273 GL500 X164 388 | Engined",
+  "description": "Reconditioned M273 5.5 V8 engine for Mercedes GL500 X164 2007–2009. Fixed £3,400, tested before dispatch, 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/m273/mercedes-gl-x164-m273-388-auto-prefl-suv-recon-2007/"
+ },
+ "hero": {
+  "title": "Reconditioned M273 5.5 V8 Engine — GL X164 (GL500, 388 PS, Auto) Pre-FL 2007–2009",
+  "subtitle": "Reconditioned M273 engine for GL500 X164 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M273-RECON-X164-GL500-PREFL",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £3,400",
+    "note": "12-month warranty",
+    "price": "£3,400.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "M273 reconditioned 5.5 V8 engine for Mercedes GL500 X164 pre-facelift 2007–2009, auto, 388 PS.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M273",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2007–2009",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X164",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-m273-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with your registration before ordering — this reconditioned M273 engine is listed for the applications below.",
+  "list": [
+   "GL X164 (SUV — GL500 388 PS — Auto — M273.963) 2007–2009"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Renewed timing chains",
+   "New gaskets and seals"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M273 engine now, or view the full M273 engine range for other applications.",
+  "crossLink": "← Back to all M273 engines"
+ }
+}

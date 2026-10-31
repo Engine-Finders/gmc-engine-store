@@ -1,0 +1,91 @@
+{
+ "brand": "audi",
+ "brandName": "Audi",
+ "engineSlug": "ea288",
+ "applicationSlug": "audi-q3-f3-40-tdi-suv-recon",
+ "engineCode": "EA288",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned Audi EA288 2.0 TDI Engine — Q3 F3 (40 TDI 184 PS) SUV 2018-present",
+  "description": "EA288 2.0 TDI · reconditioned engine · fits Audi Q3 SUV F3 (40 TDI) 2018-present · £2,415 · 12-month warranty · UK delivery",
+  "canonical": "https://engined.co.uk/engines/ea288/audi-q3-f3-40-tdi-suv-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned Audi EA288 2.0 TDI Engine — Q3 F3 (40 TDI 184 PS) SUV 2018-present",
+  "subtitle": "Reconditioned EA288 2.0 TDI engine for Audi Q3 SUV F3 (40 TDI) 2018-present — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA288-RECON-Q3-F3-40",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,415",
+    "note": "12-month warranty",
+    "price": "£2,415.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "EA288 2.0 TDI engine reconditioned for Audi Q3 SUV F3 40 TDI 184 PS transverse MQB",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA288",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2018-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F3",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/audi-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/audi-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/audi-audi-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "This EA288 2.0 TDI engine is confirmed to fit the following Audi Q3 applications — use our registration checker to verify compatibility with your specific vehicle.",
+  "list": [
+   "Audi Q3 SUV (F3) 2018-present — 40 TDI (184 PS)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Full diagnostic report",
+   "Compression test certificate",
+   "Oil and filter service completed"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA288 engine now, or view the full EA288 engine range for other applications.",
+  "crossLink": "← Back to all EA288 engines"
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "brand": "seat",
+ "brandName": "Seat",
+ "engineSlug": "ea288",
+ "applicationSlug": "seat-tarraco-k7-2-0-tdi-190-suv-2018-recon",
+ "engineCode": "EA288",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned EA288 Engine — SEAT Tarraco K7 (2.0 TDI 190 PS) SUV 2018-Present",
+  "description": "Reconditioned EA288 engine for SEAT Tarraco K7 2.0 TDI 190 PS (CRUA), 2018-present. Used £1,695, reconditioned £2,600. 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/ea288/seat-tarraco-k7-2-0-tdi-190-suv-2018-recon/ — collides with the preceding row; do not deploy unresolved."
+ },
+ "hero": {
+  "title": "Reconditioned EA288 Engine — SEAT Tarraco K7 (2.0 TDI 190 PS) SUV 2018-Present",
+  "subtitle": "Reconditioned EA288 engine for SEAT Tarraco K7 2.0 TDI 190 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA288-RECON-TARRACO-190",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,695",
+    "note": "12-month warranty",
+    "price": "£1,695.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "EA288 CRUA 2.0 TDI 190 PS reconditioned engine for SEAT Tarraco K7 SUV, transverse-mounted common-rail diesel",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA288",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2018-Present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "K7",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration to confirm this EA288 fits your SEAT Tarraco K7 — every application listed is matched by chassis and engine code.",
+  "list": [
+   "SEAT Tarraco K7 (2.0 TDI 190 PS, CRUA) 2018-present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Engine code and chassis match confirmed before dispatch",
+   "Delivery across the UK"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA288 engine now, or view the full EA288 range for other applications.",
+  "crossLink": "← Back to all EA288 engines"
+ }
+}

@@ -1,0 +1,82 @@
+{
+ "brand": "nissan",
+ "brandName": "Nissan",
+ "engineSlug": "vq35-37-v6",
+ "applicationSlug": "nissan-maxima-a34-se-saloon-2002",
+ "engineCode": "VQ35DE",
+ "condition": "used",
+ "seo": {
+  "title": "Used Nissan VQ35DE Engine — Maxima A34 SE Saloon | Engined",
+  "description": "Used VQ35DE engine for Nissan Maxima A34 SE 2002-2008. Fixed price £1,615, tested before dispatch, UK delivery & 12-month warranty included.",
+  "canonical": "https://engined.co.uk/engines/vq35-37-v6/nissan-maxima-a34-se-saloon-2002/"
+ },
+ "hero": {
+  "title": "Used Nissan VQ35DE Engine — Nissan Maxima A34 (SE) Saloon 2002-2008",
+  "subtitle": "Used VQ35DE engine for Nissan Maxima A34 SE — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: VQ35-USED-MAXIMA-A34",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,615",
+    "note": "12-month warranty",
+    "price": "£1,615.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "VQ35DE engine for Nissan Maxima A34 SE 2002-2008, 3.5L transverse-mounted V6 with CVTC, tested and ready for dispatch",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "VQ35DE",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2002-2008",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "A34",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/nissan-nissan-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number in our checker above to confirm this VQ35DE engine is the correct fit for your Nissan Maxima A34.",
+  "list": [
+   "Nissan Maxima A34 2002–2008 — SE (3.5L V6, 250 PS)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Fully stripped and cleaned",
+   "Compression tested"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this VQ35DE engine now, or view the full VQ35DE range for other applications.",
+  "crossLink": "← Back to all VQ35DE engines"
+ }
+}

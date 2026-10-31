@@ -1,0 +1,93 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "b48",
+ "applicationSlug": "bmw-1-series-f40-120i-hatchback-2019",
+ "engineCode": "B48",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW B48 Engine — 1 Series F40 (120i) Hatchback 2019-present",
+  "description": "B48 · Used · 1 Series F40 120i (184 hp) · Fits F20/F40 & 2 Series F22/F23/G42 · £2,200 · 12-month warranty · UK delivery",
+  "canonical": "https://engined.co.uk/engines/b48/bmw-1-series-f40-120i-hatchback-2019/"
+ },
+ "hero": {
+  "title": "Used BMW B48 Engine — 1 Series F40 (120i) Hatchback 2019-present",
+  "subtitle": "Used B48 engine for 1 Series F40 120i (184 hp) and compatible 1 Series F20/F40 and 2 Series F22/F23/G42 models — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: B48-USED-F40-120I",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,200",
+    "note": "12-month warranty",
+    "price": "£2,200.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "BMW B48 used engine for 1 Series F40 120i 184hp — complete assembly tested",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "B48",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2019-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F40, F20, F22, F23, G42",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-b48-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "This B48 engine fits the following BMW vehicles. Enter your registration for instant fitment confirmation.",
+  "list": [
+   "1 Series Hatchback (F40) 2019-present — 120i (184 hp)",
+   "1 Series (F20/F40) — compatible variants",
+   "2 Series (F22/F23/G42) — compatible variants"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Full diagnostic report",
+   "Delivery within UK",
+   "Installation guide"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries (alternator, starter motor, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this B48 engine now, or view the full B48 engine range for other applications.",
+  "crossLink": "← Back to all B48 engines"
+ }
+}

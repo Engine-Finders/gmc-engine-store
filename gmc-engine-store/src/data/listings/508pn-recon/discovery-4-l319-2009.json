@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "508pn-recon",
+ "applicationSlug": "discovery-4-l319-2009",
+ "engineCode": "508PN",
+ "condition": "recon",
+ "seo": {
+  "title": "Recon 5.0 V8 Engine — Discovery 4 L319 5.0 V8 (508PN) 2009-2013",
+  "description": "Recon Land Rover 5.0 V8 engine for Discovery 4 L319 (508PN) 2009-2013. Fixed price £4,500, 12-month warranty, tested before dispatch, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/508pn-recon/discovery-4-l319-2009/"
+ },
+ "hero": {
+  "title": "Recon 5.0 V8 Engine — Discovery 4 L319 5.0 V8 (508PN) 2009-2013",
+  "subtitle": "Reconditioned 508PN engine for Discovery 4 L319 5.0 V8 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 508PN-RECON-DISCO4-EARLY",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £4,500",
+    "note": "12-month warranty",
+    "price": "£4,500.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned Land Rover 5.0 V8 naturally aspirated engine for Discovery 4 L319 (508PN), 2009-2013",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "508PN",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2009-2013",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L319",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration to confirm fitment — this listing covers one specific Discovery 4 L319 5.0 V8 application.",
+  "list": [
+   "Discovery 4 L319 (5.0 V8 NA, 508PN, 375 PS) 2009-2013"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (block, head, sump, timing cover)",
+   "Tested before dispatch — compression and oil pressure verified",
+   "12-month warranty as standard",
+   "New gaskets and seals on reassembly",
+   "Crated and palletised for safe transit"
+  ],
+  "excluded": [
+   "Turbocharger (reusable if condition allows)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, power steering pump, A/C compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 508PN engine now, or view the full 508PN range for other applications.",
+  "crossLink": "← Back to all 508PN engines"
+ }
+}

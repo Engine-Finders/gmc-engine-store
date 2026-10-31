@@ -1,0 +1,92 @@
+{
+ "brand": "citroen",
+ "brandName": "Citroen",
+ "engineSlug": "dw10",
+ "applicationSlug": "citroen-berlingo-2-0-hdi-van-1999",
+ "engineCode": "DW10",
+ "condition": "used",
+ "seo": {
+  "title": "Used Citroën DW10 2.0 HDi Engine — Berlingo (M49/M59) Van/MPV 1999-2012",
+  "description": "DW10 · used · Citroën Berlingo M49/M59 Van/MPV 2.0 HDi · 90 PS · £1,166 · 12-month warranty · UK delivery",
+  "canonical": "https://engined.co.uk/engines/dw10/citroen-berlingo-2-0-hdi-van-1999/"
+ },
+ "hero": {
+  "title": "Used Citroën DW10 2.0 HDi Engine — Berlingo (M49/M59) Van/MPV 1999-2012",
+  "subtitle": "Used DW10 diesel engine for Citroën Berlingo M49/M59 Van and MPV 2.0 HDi — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: DW10-USED-CITROEN-BERLINGO-HDI-VAN",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,166",
+    "note": "12-month warranty",
+    "price": "£1,166.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,796",
+    "note": "12-month warranty",
+    "price": "£1,796.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Citroën DW10 2.0 HDi engine for Berlingo M49/M59 Van/MPV 1999-2012 — tested diesel unit",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "DW10",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "1999-2012",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Citroën Berlingo M49 Van (1999-2012), Citroën Berlingo M59 Van (1999-2012), Citroën Berlingo M49 MPV (1999-2012), Citroën Berlingo M59 MPV (1999-2012)",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/citroen-citroen-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your vehicle's compatibility below — use our reg-checker to confirm this DW10 engine matches your Citroën Berlingo exactly.",
+  "list": [
+   "Citroën Berlingo M49 Van (1999-2012) — 2.0 HDi",
+   "Citroën Berlingo M59 Van (1999-2012) — 2.0 HDi",
+   "Citroën Berlingo M49 MPV (1999-2012) — 2.0 HDi",
+   "Citroën Berlingo M59 MPV (1999-2012) — 2.0 HDi"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Comprehensive inspection report",
+   "Oil and filter service",
+   "UK mainland delivery"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this DW10 engine now, or view the full DW10 engine range for other applications.",
+  "crossLink": "← Back to all DW10 engines"
+ }
+}

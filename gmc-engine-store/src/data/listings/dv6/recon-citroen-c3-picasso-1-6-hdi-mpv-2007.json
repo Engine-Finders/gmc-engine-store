@@ -1,0 +1,86 @@
+{
+ "brand": "citroen",
+ "brandName": "Citroen",
+ "engineSlug": "dv6",
+ "applicationSlug": "recon-citroen-c3-picasso-1-6-hdi-mpv-2007",
+ "engineCode": "DV6",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned Citroën DV6 Engine — C3 Picasso (1.6 HDi) MPV 2007-2017",
+  "description": "DV6 · reconditioned · Citroën C3 Picasso MPV 1.6 HDi · 92 PS · £1,400 · 12-month warranty · UK delivery",
+  "canonical": "https://engined.co.uk/engines/dv6/recon-citroen-c3-picasso-1-6-hdi-mpv-2007/"
+ },
+ "hero": {
+  "title": "Reconditioned Citroën DV6 Engine — C3 Picasso (1.6 HDi) MPV 2007-2017",
+  "subtitle": "Reconditioned DV6 diesel engine for Citroën C3 Picasso MPV 1.6 HDi — fully rebuilt, tested before dispatch, UK delivery.",
+  "sku": "SKU: DV6-RECON-CITROEN-C3-PICASSO-HDI",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,400",
+    "note": "12-month warranty",
+    "price": "£1,400.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned Citroën DV6 1.6 HDi engine for C3 Picasso MPV 2007-2017 — fully rebuilt diesel unit",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "DV6",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2007-2017",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Citroën C3 Picasso MPV (2007-2017)",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/citroen-psa-dv6-1-6-hdi-diesel-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your vehicle's compatibility below — use our reg-checker to confirm this DV6 engine matches your Citroën C3 Picasso exactly.",
+  "list": [
+   "Citroën C3 Picasso MPV (2007-2017) — 1.6 HDi"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Rebuilt cylinder head with new valve stem seals",
+   "Injector seats inspected and reconditioned",
+   "New timing components",
+   "Comprehensive inspection report",
+   "Oil and filter service",
+   "UK mainland delivery"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this DV6 engine now, or view the full DV6 engine range for other applications.",
+  "crossLink": "← Back to all DV6 engines"
+ }
+}

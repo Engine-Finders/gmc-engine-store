@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "m275-m279",
+ "applicationSlug": "mercedes-cl-w216-m275-517-fl-coupe-recon-2010",
+ "engineCode": "M275",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned M275 5.5 V12 Biturbo Engine — CL W216 Coupe (CL600, 517 PS) FL 2010–2013",
+  "description": "Recon M275 V12 Biturbo engine for CL W216 CL600 517 PS facelift 2010–2013. £11,500 with 12-month warranty and UK delivery. Tested before dispatch.",
+  "canonical": "https://engined.co.uk/engines/m275-m279/mercedes-cl-w216-m275-517-fl-coupe-recon-2010/"
+ },
+ "hero": {
+  "title": "Reconditioned M275 5.5 V12 Biturbo Engine — CL W216 Coupe (CL600, 517 PS) FL 2010–2013",
+  "subtitle": "Reconditioned M275 engine for CL600 and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M275-RECON-W216-CL600-FL",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £11,500",
+    "note": "12-month warranty",
+    "price": "£11,500.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned Mercedes M275 5.5 V12 Biturbo engine for CL W216 CL600 517 PS facelift, renewed twin-turbo coolant lines",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M275",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2010–2013",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W216",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-mercedes-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your registration with our reg checker before ordering to guarantee correct fitment.",
+  "list": [
+   "Mercedes-Benz CL (W216) (CL600 517 PS) 2010–2013"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Renewed twin-turbo coolant lines",
+   "Reconditioned to OEM specification"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M275 engine now, or view the full M275 engine range for other applications.",
+  "crossLink": "← Back to all M275 engines"
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "brand": "peugeot",
+ "brandName": "Peugeot",
+ "engineSlug": "b20dth",
+ "applicationSlug": "vauxhall-astra-k-2-0-cdti-170ps-hatch-2015",
+ "engineCode": "B20DTH",
+ "condition": "used",
+ "seo": {
+  "title": "Used Vauxhall B20DTH Engine — Astra K (2.0 CDTi 170PS) Hatchback 2015-Present",
+  "description": "Used Vauxhall B20DTH 2.0 CDTi diesel engine for Astra K Hatchback 170PS — £1,495 fixed price, 12-month warranty, tested before dispatch, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/b20dth/vauxhall-astra-k-2-0-cdti-170ps-hatch-2015/"
+ },
+ "hero": {
+  "title": "Used Vauxhall B20DTH Engine — Astra K (2.0 CDTi 170PS) Hatchback 2015-Present",
+  "subtitle": "Used B20DTH engine for Astra K 2.0 CDTi 170PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: B20DTH-USED-ASTRA-K",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,495",
+    "note": "12-month warranty",
+    "price": "£1,495.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Vauxhall B20DTH 2.0 CDTi diesel engine for Astra K hatchback, Hot-V turbo layout, 170PS",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "B20DTH",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2015–present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Astra K",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with our registration checker before ordering — every B20DTH listed here is matched to the vehicle groups below.",
+  "list": [
+   "Vauxhall Astra K (2.0 CDTi 170PS, Hot-V turbo layout) 2015–present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly — block, cylinder head and sump",
+   "Timing chain and valvetrain fitted as standard",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "UK delivery"
+  ],
+  "excluded": [
+   "Turbocharger (reusable — supplied only where condition allows)",
+   "Injectors and fuel system components",
+   "Ancillaries — alternator, starter motor, air conditioning compressor",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this B20DTH engine now, or view the full B20DTH engine range.",
+  "crossLink": "← Back to all B20DTH engines"
+ }
+}

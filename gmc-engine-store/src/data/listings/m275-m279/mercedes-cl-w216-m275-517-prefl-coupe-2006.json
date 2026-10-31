@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "m275-m279",
+ "applicationSlug": "mercedes-cl-w216-m275-517-prefl-coupe-2006",
+ "engineCode": "M275",
+ "condition": "recon",
+ "seo": {
+  "title": "Recon M275 Engine CL W216 CL600 517PS Pre-FL | Engined",
+  "description": "Recon M275 5.5L V12 engine for Mercedes CL W216 Coupe CL600 517 PS Pre-FL. Fixed price £11,500, tested before dispatch, 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/m275-m279/mercedes-cl-w216-m275-517-prefl-coupe-2006/"
+ },
+ "hero": {
+  "title": "Reconditioned M275 5.5 V12 Engine — CL W216 CL600 517 PS Pre-FL 2006–2010",
+  "subtitle": "Reconditioned M275 engine for CL W216 Coupe CL600 517 PS and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M275-RECON-W216-CL600-PREFL",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £11,500",
+    "note": "12-month warranty",
+    "price": "£11,500.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned M275 5.5L V12 Biturbo engine for Mercedes CL W216 CL600 517 PS, tested.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M275",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2006–2010",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W216",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-mercedes-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number above to confirm this reconditioned M275 engine fits your Mercedes-Benz CL W216.",
+  "list": [
+   "Mercedes-Benz CL W216 2006–2010 (Coupe) CL600 517 PS M275 V12 Biturbo"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "V12 Biturbo configuration",
+   "Premium coupe specification"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M275 engine now, or view the full M275 engine range for other applications.",
+  "crossLink": "← Back to all M275 engines"
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "204dtd",
+ "applicationSlug": "land-rover-discovery-5-l462-204dta-d250-longitudinal-suv-recon-2017",
+ "engineCode": "204DTA",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned 204DTA 2.0 Diesel Engine — Discovery 5 L462 (D250, Longitudinal) 2017–2020",
+  "description": "Reconditioned Land Rover 204DTA 2.0 diesel engine for Discovery 5 L462 D250 (2017–2020), longitudinal. £4,600, tested, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/204dtd/land-rover-discovery-5-l462-204dta-d250-longitudinal-suv-recon-2017/"
+ },
+ "hero": {
+  "title": "Reconditioned 204DTA 2.0 Diesel Engine — Discovery 5 L462 (D250, Longitudinal) 2017–2020",
+  "subtitle": "Reconditioned 204DTA engine for Discovery 5 L462 D250 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 204DTA-RECON-DISCO5-D250-1720",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £4,600",
+    "note": "12-month warranty",
+    "price": "£4,600.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned Land Rover 204DTA 2.0 Ingenium diesel engine, longitudinal D250 fitment for Discovery 5 L462.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "204DTA",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2017–2020",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L462",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with our registration checker before you buy — this listing covers one application only.",
+  "list": [
+   "Discovery 5 L462 (D250) 2017–2020"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly, built and sealed",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Sump, rocker cover and timing covers fitted as standard",
+   "Oil filler cap and dipstick included as standard"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 204DTA engine now, or view the full 204DTA engine range for other applications.",
+  "crossLink": "← Back to all 204DTA engines → https://engined.co.uk/engines/204dtd"
+ }
+}

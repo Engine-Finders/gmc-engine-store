@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "prince-n14-n18",
+ "applicationSlug": "peugeot-207-t7-thp150-recon",
+ "engineCode": "PRINCE (EP6)",
+ "condition": "recon",
+ "seo": {
+  "title": "Recon EP6 Peugeot 207 THP150 | Engined",
+  "description": "Reconditioned EP6 engine for Peugeot 207 T7 THP150, 2006–2014. Fixed £1,895 with 12-month warranty and UK delivery. Check fitment by reg before you buy.",
+  "canonical": "https://engined.co.uk/engines/prince-n14-n18/peugeot-207-t7-thp150-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned Prince EP6 1.6 THP Engine — Peugeot 207 T7 THP150 2006–2014",
+  "subtitle": "SUB — Reconditioned EP6 engine for Peugeot 207 T7 THP150 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: PRINCE-RECON-T7-THP150",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,895",
+    "note": "12-month warranty",
+    "price": "£1,895.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned EP6 1.6 THP engine for Peugeot 207 T7 THP150, 150 PS, 2006–2014 — rebuilt unit",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "Prince (EP6)",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2006–2014",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "T7",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with your registration before ordering — this reconditioned EP6 engine is listed for Peugeot 207 T7 applications.",
+  "list": [
+   "Peugeot 207 T7 (THP 150 — 150 PS) 2006–2014"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block as supplied",
+   "Sump, covers and sensors as supplied"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EP6 engine now, or view the full EP6 engine range for other applications.",
+  "crossLink": "← Back to all EP6 engines — https://engined.co.uk/engines/prince-n14-n18/"
+ }
+}

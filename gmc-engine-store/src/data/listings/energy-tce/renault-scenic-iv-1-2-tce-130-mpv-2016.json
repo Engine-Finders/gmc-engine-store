@@ -1,0 +1,83 @@
+{
+ "brand": "renault",
+ "brandName": "Renault",
+ "engineSlug": "energy-tce",
+ "applicationSlug": "renault-scenic-iv-1-2-tce-130-mpv-2016",
+ "engineCode": "H5FT/H5BT",
+ "condition": "used",
+ "seo": {
+  "title": "Used Renault Energy TCe Engine — Scenic IV (1.2 TCe 130) MPV 2016-2017 | Engined",
+  "description": "Used Renault Energy TCe (H5Ft/H5Bt) engine for Scenic IV 1.2 TCe 130 MPV 2016-2017 — tested before dispatch. £695 with 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/energy-tce/renault-scenic-iv-1-2-tce-130-mpv-2016/"
+ },
+ "hero": {
+  "title": "Used Renault Energy TCe Engine — Scenic IV (1.2 TCe 130) MPV 2016-2017",
+  "subtitle": "Used H5Ft/H5Bt Energy TCe engine for Scenic IV — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: TCe-USED-SCENIC-12",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £695",
+    "note": "12-month warranty",
+    "price": "£695.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Renault Energy TCe H5Ft/H5Bt 1.2-litre turbo petrol engine for Scenic IV 1.2 TCe 130 MPV, 2016-2017.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "H5Ft/H5Bt",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2016-2017",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Scenic IV",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your registration with our reg checker below before ordering — this engine fits the applications listed.",
+  "list": [
+   "Renault Scenic IV (1.2 TCe 130, 130 PS, code H5Ft/H5Bt) 2016–2017"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil sump and timing cover included",
+   "Ready to fit using original mountings"
+  ],
+  "excluded": [
+   "Turbocharger (reusable from your existing unit if serviceable)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, air conditioning compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this Energy TCe engine now, or view the full range.",
+  "crossLink": "← Back to all Energy TCe engines"
+ }
+}

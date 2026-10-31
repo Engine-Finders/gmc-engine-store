@@ -1,0 +1,83 @@
+{
+ "brand": "vauxhall",
+ "brandName": "Vauxhall",
+ "engineSlug": "dv5",
+ "applicationSlug": "vauxhall-astra-k-130ps-hatchback-2018",
+ "engineCode": "DV5",
+ "condition": "used",
+ "seo": {
+  "title": "Used DV5 Engine — Vauxhall Astra K (130 PS) Hatchback 2018-2021 | Engined",
+  "description": "Used DV5 engine for Vauxhall Astra K 130 PS hatchback, 2018-2021. £1,695, in stock, tested before dispatch, 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/dv5/vauxhall-astra-k-130ps-hatchback-2018/"
+ },
+ "hero": {
+  "title": "Used DV5 Engine — Vauxhall Astra K (130 PS) Hatchback 2018-2021",
+  "subtitle": "Used DV5 engine for Vauxhall Astra K 130 PS Hatchback — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: DV5-USED-ASTRA-K-130-HATCH",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,695",
+    "note": "12-month warranty",
+    "price": "£1,695.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used PSA DV5 1.5 CDTI 130 PS engine for Vauxhall Astra K hatchback, transverse FWD, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "DV5",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2018-2021",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Astra K",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our reg checker to confirm this DV5 engine fits your Vauxhall Astra K before ordering.",
+  "list": [
+   "Vauxhall Astra K (1.5 CDTI 130 PS (DV5) Hatchback) 2018-2021"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil sump and timing cover",
+   "Engine block and cylinder head"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this DV5 engine now, or view the full DV5 engine range for other applications.",
+  "crossLink": "← Back to all DV5 engines"
+ }
+}

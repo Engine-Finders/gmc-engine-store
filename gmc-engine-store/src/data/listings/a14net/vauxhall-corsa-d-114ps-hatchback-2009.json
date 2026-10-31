@@ -1,0 +1,83 @@
+{
+ "brand": "vauxhall",
+ "brandName": "Vauxhall",
+ "engineSlug": "a14net",
+ "applicationSlug": "vauxhall-corsa-d-114ps-hatchback-2009",
+ "engineCode": "A14NET",
+ "condition": "used",
+ "seo": {
+  "title": "Used A14NET Engine — Vauxhall Corsa D (114 PS) Hatchback 2009-2014",
+  "description": "Used A14NET engine for Vauxhall Corsa D Hatchback 1.4i Turbo 114 PS 2009-2014. £1,435, 12-month warranty, UK delivery. Check fitment by reg.",
+  "canonical": "https://engined.co.uk/engines/a14net/vauxhall-corsa-d-114ps-hatchback-2009/"
+ },
+ "hero": {
+  "title": "Used A14NET Engine — Vauxhall Corsa D (114 PS) Hatchback 2009-2014",
+  "subtitle": "SUB — Used A14NET engine for Vauxhall Corsa D Hatchback 1.4i Turbo 114 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: A14NET-USED-CORSA-D-114-HATCH",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,435",
+    "note": "12-month warranty",
+    "price": "£1,435.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used A14NET engine for Vauxhall Corsa D Hatchback 1.4i Turbo 114 PS 2009-2014.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "A14NET",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2009-2014",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Corsa D",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with our reg checker before ordering — this used A14NET is listed for the following Corsa D application.",
+  "list": [
+   "Vauxhall Corsa D (1.4i Turbo 114 PS A14NET) 2009–2014 — Hatchback"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil and filter change",
+   "New gaskets and seals"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this A14NET engine now, or view the full A14NET engine range for other applications.",
+  "crossLink": "← Back to all A14NET engines"
+ }
+}

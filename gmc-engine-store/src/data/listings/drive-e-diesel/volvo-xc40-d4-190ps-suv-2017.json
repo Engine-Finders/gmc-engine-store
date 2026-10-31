@@ -1,0 +1,82 @@
+{
+ "brand": "volvo",
+ "brandName": "Volvo",
+ "engineSlug": "drive-e-diesel",
+ "applicationSlug": "volvo-xc40-d4-190ps-suv-2017",
+ "engineCode": "D4204T12",
+ "condition": "used",
+ "seo": {
+  "title": "D4 XC40 190PS SUV | Engined [27 chars]",
+  "description": "Used D4204T12 D4 engine for Volvo XC40 CMA 2017-present —",
+  "canonical": "https://engined.co.uk/engines/drive-e-diesel/volvo-xc40-d4-190ps-suv-2017/"
+ },
+ "hero": {
+  "title": "Used D4 Engine — Volvo XC40 (2.0 D4 190 PS) SUV 2017-present",
+  "subtitle": "Used D4204T12 engine for Volvo XC40 CMA 2017-present — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: DRIVEE-USED-XC40-D4-SUV",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,295",
+    "note": "12-month warranty",
+    "price": "£2,295.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used D4 Engine — Volvo XC40 (2.0 D4 190 PS) SUV 2017-present",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "D4204T12",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2017-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "CMA",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "<p>Confirm fitment with our registration checker before ordering — every XC40 CMA",
+  "list": [
+   "Volvo XC40 CMA (2.0 D4 190 PS) 2017-present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Core internals as built at the factory",
+   "Oil sump and cam cover",
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ],
+  "excluded": []
+ },
+ "cta": {
+  "line": "<p class=\"cta\">Buy this D4204T12 engine now, or",
+  "crossLink": "← Back to all Drive-E diesel engines</a>"
+ }
+}

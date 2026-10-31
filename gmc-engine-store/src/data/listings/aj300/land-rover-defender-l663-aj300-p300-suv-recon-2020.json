@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "aj300",
+ "applicationSlug": "land-rover-defender-l663-aj300-p300-suv-recon-2020",
+ "engineCode": "AJ300",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned AJ300 3.0 Petrol Engine — Defender L663 P300 (MHEV, Longitudinal) 2020–present | Engined",
+  "description": "Reconditioned AJ300 3.0 Petrol engine for Defender L663 P300 (MHEV) 2020–present. Fixed £6,000, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/aj300/land-rover-defender-l663-aj300-p300-suv-recon-2020/"
+ },
+ "hero": {
+  "title": "Reconditioned AJ300 3.0 Petrol Engine — Defender L663 P300 (MHEV, Longitudinal) 2020–present",
+  "subtitle": "Reconditioned AJ300 engine for Defender L663 P300 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: AJ300-RECON-DEFENDER-P300-2020",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £6,000",
+    "note": "12-month warranty",
+    "price": "£6,000.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned AJ300 3.0 Ingenium P300 engine for Defender L663, 2020–present, longitudinal MHEV",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJ300",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2020–present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L663",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration to confirm your Defender L663 is covered before ordering.",
+  "list": [
+   "Defender L663 (3.0 Ingenium P300) 2020–present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New gaskets and seals fitted during preparation",
+   "Oil sump and timing cover"
+  ],
+  "excluded": [
+   "Turbocharger / supercharger (if reusable, supplied per condition)",
+   "Injectors and fuel system",
+   "Ancillaries (alternator, starter, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this AJ300 engine now, or view the full AJ300 engine range for other applications.",
+  "crossLink": "← Back to all AJ300 engines"
+ }
+}

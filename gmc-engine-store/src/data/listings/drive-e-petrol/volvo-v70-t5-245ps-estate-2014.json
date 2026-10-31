@@ -1,0 +1,83 @@
+{
+ "brand": "volvo",
+ "brandName": "Volvo",
+ "engineSlug": "drive-e-petrol",
+ "applicationSlug": "volvo-v70-t5-245ps-estate-2014",
+ "engineCode": "B4204T11",
+ "condition": "used",
+ "seo": {
+  "title": "Drive-E V70 T5 245PS | Engined",
+  "description": "B4204T11 used engine for Volvo V70 T5 245 PS Estate. 2.0L petrol, 2014-2016. £1,995 with 12-month warranty. Tested before dispatch, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/drive-e-petrol/volvo-v70-t5-245ps-estate-2014/"
+ },
+ "hero": {
+  "title": "Drive-E V70 T5 245PS",
+  "subtitle": "Used B4204T11 engine for Volvo V70 T5 245 PS Estate — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: DRIVEE-USED-V70-T5-ESTATE",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,995",
+    "note": "12-month warranty",
+    "price": "£1,995.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "B4204T11 used Volvo V70 T5 2.0L 245 PS estate petrol engine, tested and ready to ship.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "B4204T11",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2014-2016",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "P3",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration with our reg checker to confirm this B4204T11 engine fits your Volvo V70 T5 estate.",
+  "list": [
+   "Volvo V70 P3 (2.0 T5 245 PS B4204T11 Estate) 2014-2016"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil sump and timing chain included",
+   "Cylinder head and block inspected"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this B4204T11 engine now, or view the full B4204T11 engine range for other applications.",
+  "crossLink": "← Back to all B4204T11 engines"
+ }
+}

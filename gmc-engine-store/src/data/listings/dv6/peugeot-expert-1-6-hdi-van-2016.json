@@ -1,0 +1,83 @@
+{
+ "brand": "peugeot",
+ "brandName": "Peugeot",
+ "engineSlug": "dv6",
+ "applicationSlug": "peugeot-expert-1-6-hdi-van-2016",
+ "engineCode": "PSA DV6",
+ "condition": "used",
+ "seo": {
+  "title": "Used PSA DV6 Engine — Peugeot Expert (1.6 HDi) Van 2016-2020",
+  "description": "Used PSA DV6 engine for Peugeot Expert 1.6 HDi van 2016-2020. Fixed Used price £1,350. 12-month warranty and UK delivery. Commercial van specification.",
+  "canonical": "https://engined.co.uk/engines/dv6/peugeot-expert-1-6-hdi-van-2016/"
+ },
+ "hero": {
+  "title": "Used PSA DV6 Engine — Peugeot Expert (1.6 HDi) Van 2016-2020",
+  "subtitle": "SUB — Used PSA DV6 engine for Peugeot Expert 1.6 HDi 2016-2020 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: DV6-USED-EXPERT-HDI",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,350",
+    "note": "12-month warranty",
+    "price": "£1,350.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used PSA DV6 1.6 HDi engine for Peugeot Expert 2016-2020 van, commercial spec with heavy-duty cooling.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "PSA DV6",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2016-2020",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Peugeot Expert",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our registration checker to confirm this PSA DV6 engine fits your Peugeot Expert before ordering.",
+  "list": [
+   "Peugeot Expert 2016-2020 — 1.6 HDi (115-120 PS), code: DV6"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil sump and timing cover",
+   "Cylinder head and block"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this PSA DV6 engine now, or view the full PSA DV6 engine range for other applications.",
+  "crossLink": "← Back to all PSA DV6 engines"
+ }
+}

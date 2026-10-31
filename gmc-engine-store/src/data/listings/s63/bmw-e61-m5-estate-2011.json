@@ -1,0 +1,96 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "s63",
+ "applicationSlug": "bmw-e61-m5-estate-2011",
+ "engineCode": "S63",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW S63 4.4 V8 Engine — E61 M5 Estate (555 PS) 2011–2013 | Engined",
+  "description": "Used BMW S63 4.4 V8 engine for the BMW E61 M5 Estate (555 PS) — fixed price £4,410, fully tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/s63/bmw-e61-m5-estate-2011/"
+ },
+ "hero": {
+  "title": "Used BMW S63 4.4 V8 Engine — E61 M5 Estate (555 PS) 2011–2013",
+  "subtitle": "Used S63 engine for the BMW M5 E61 Estate (555 PS) — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: S63-USED-E61-M5",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £4,410",
+    "note": "12-month warranty",
+    "price": "£4,410.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £7,350",
+    "note": "12-month warranty",
+    "price": "£7,350.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW S63 4.4 V8 engine for E61 M5 Estate, 555 PS — tested unit.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "S63",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2011–2013",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E61",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-n63-s63-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration in our checker to confirm this S63 fits your E61 M5 Estate before you buy.",
+  "list": [
+   "BMW M5 E61 (Estate, 555 PS) 2011–2013"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Timing components (belt/chain) where applicable",
+   "New gaskets and seals"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this S63 engine now, or view the full S63 engine range for other applications.",
+  "crossLink": "← Back to all S63 engines → https://engined.co.uk/engines/s63"
+ }
+}

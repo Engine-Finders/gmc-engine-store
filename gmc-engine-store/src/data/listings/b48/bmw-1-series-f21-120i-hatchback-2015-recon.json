@@ -1,0 +1,93 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "b48",
+ "applicationSlug": "bmw-1-series-f21-120i-hatchback-2015-recon",
+ "engineCode": "B48",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned BMW B48 Engine — 1 Series F21 120i Hatchback 2015-2019",
+  "description": "B48 · Reconditioned · 1 Series F21 120i (184 hp) · Fits F20/F40 & 2 Series F22/F23/G42 · £2,600 · 12-month warranty · UK delivery",
+  "canonical": "https://engined.co.uk/engines/b48/bmw-1-series-f21-120i-hatchback-2015-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW B48 Engine — 1 Series F21 120i Hatchback 2015-2019",
+  "subtitle": "Reconditioned B48 engine for 1 Series Hatchback F21 (120i, 184 hp) and compatible 1 Series F20/F40 and 2 Series F22/F23/G42 models — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: B48-RECON-F21-120I",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,600",
+    "note": "12-month warranty",
+    "price": "£2,600.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "BMW B48 reconditioned engine for 1 Series F21 120i 184hp — complete assembly tested",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "B48",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2015-2019",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F21, F20, F40, F22, F23, G42",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-b48-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "This B48 engine fits the following BMW vehicles. Enter your registration for instant fitment confirmation.",
+  "list": [
+   "1 Series Hatchback (F21) 2015-2019 — 120i (184 hp)",
+   "1 Series Hatchback (F20/F40) — compatible variants",
+   "2 Series Coupe (F22/F23/G42) — compatible variants"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Full diagnostic report",
+   "Delivery within UK",
+   "Installation guide"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries (alternator, starter motor, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this B48 engine now, or view the full B48 engine range for other applications.",
+  "crossLink": "← Back to all B48 engines"
+ }
+}

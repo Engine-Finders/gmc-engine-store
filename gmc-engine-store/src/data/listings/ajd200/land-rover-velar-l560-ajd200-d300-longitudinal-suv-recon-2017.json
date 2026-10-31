@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "ajd200",
+ "applicationSlug": "land-rover-velar-l560-ajd200-d300-longitudinal-suv-recon-2017",
+ "engineCode": "AJD200",
+ "condition": "recon",
+ "seo": {
+  "title": "Recon AJD200 Range Rover Velar L560 D300 2017–2020 | Engined",
+  "description": "Reconditioned AJD200 3.0 diesel engine for Range Rover Velar L560 D300 Longitudinal 2017–2020. £5,430, 12-month warranty, tested before dispatch, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/ajd200/land-rover-velar-l560-ajd200-d300-longitudinal-suv-recon-2017/"
+ },
+ "hero": {
+  "title": "Reconditioned AJD200 3.0 Diesel Engine — Range Rover Velar L560 (D300, Longitudinal) 2017–2020",
+  "subtitle": "Reconditioned AJD200 engine for Range Rover Velar L560 D300 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: AJD200-RECON-VELAR-D300-1720",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £5,430",
+    "note": "12-month warranty",
+    "price": "£5,430.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned AJD200 3.0 diesel engine for Range Rover Velar L560 D300 longitudinal 2017–2020",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJD200",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2017–2020",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L560",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our reg checker to confirm fitment before ordering — this reconditioned AJD200 listing covers Range Rover Velar L560 applications below.",
+  "list": [
+   "Range Rover Velar L560 (SUV, 3.0 Ingenium D300, Longitudinal, AJD200 engine code) 2017–2020"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Reconditioned to high-output premium specification",
+   "Renewed timing chains"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this AJD200 engine now, or view the full AJD200 engine range for other applications.",
+  "crossLink": "← Back to all AJD200 engines — https://engined.co.uk/engines/ajd200/"
+ }
+}

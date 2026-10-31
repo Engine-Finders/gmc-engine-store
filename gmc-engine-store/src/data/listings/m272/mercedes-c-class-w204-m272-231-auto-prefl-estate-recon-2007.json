@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "m272",
+ "applicationSlug": "mercedes-c-class-w204-m272-231-auto-prefl-estate-recon-2007",
+ "engineCode": "M272",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned M272 3.0 V6 Engine — C-Class W204 Estate (C280/C300, 231 PS, Auto) Pre-FL 2007–2010 | Engined",
+  "description": "Reconditioned M272 3.0 V6 engine for Mercedes C-Class W204 C280/C300 Estate (231 PS, Auto, 2007–2010). £2,200, tested before dispatch, 12-month warranty.",
+  "canonical": "https://engined.co.uk/engines/m272/mercedes-c-class-w204-m272-231-auto-prefl-estate-recon-2007/"
+ },
+ "hero": {
+  "title": "Reconditioned M272 3.0 V6 Engine — C-Class W204 Estate (C280/C300, 231 PS, Auto) Pre-FL 2007–2010",
+  "subtitle": "Reconditioned M272 engine for C-Class W204 C280/C300 Estate — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M272-RECON-W204-C280-AUTO-PREFL-EST",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,200",
+    "note": "12-month warranty",
+    "price": "£2,200.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned M272 3.0 V6 engine, Mercedes C-Class W204 C280/C300 Estate 231 PS Auto pre-facelift 2007–2010",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M272",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2007–2010",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W204",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-m272-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with our reg checker before you buy — this M272 engine fits the applications listed below.",
+  "list": [
+   "C-Class W204 (C280/C300 231 PS, Auto, Estate, M272 E30) 2007–2010"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Engine code verified against the application",
+   "Dispatch documentation and warranty registration"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M272 engine now, or view the full M272 range for other applications.",
+  "crossLink": "← Back to all M272 engines"
+ }
+}

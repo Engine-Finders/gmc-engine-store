@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n57",
+ "applicationSlug": "e90-330d-saloon-2008",
+ "engineCode": "N57",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW N57 Engine — 3 Series E90 (330d) Saloon 2008‑2011",
+  "description": "Used BMW N57 engine for 3 Series E90 330d Saloon 2008‑2011. Pre-LCI N57D30O1 3.0 diesel, 245PS. £2,695, 12-month warranty, UK delivery. Tested before dispatch.",
+  "canonical": "https://engined.co.uk/engines/bmw-n57/e90-330d-saloon-2008/"
+ },
+ "hero": {
+  "title": "Used BMW N57 Engine — 3 Series E90 (330d) Saloon 2008‑2011",
+  "subtitle": "Used N57 engine for 3 Series E90 330d Saloon — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N57-USED-E90-330D-PREFL",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,695",
+    "note": "12-month warranty",
+    "price": "£2,695.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW N57 Engine — 3 Series E90 (330d) Saloon 2008‑2011",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N57",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2008‑2011",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E90",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-n57-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration to confirm fitment before buying — this listing covers the BMW 3 Series E90 330d Saloon.",
+  "list": [
+   "BMW 3 Series (E90) 2008‑2011 — 330d (245 PS) Saloon"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Mileage verified",
+   "Compression tested"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N57 engine now, or view the full N57 engine range for other applications.",
+  "crossLink": "← Back to all N57 engines — links to https://engined.co.uk/engines/bmw-n57/"
+ }
+}

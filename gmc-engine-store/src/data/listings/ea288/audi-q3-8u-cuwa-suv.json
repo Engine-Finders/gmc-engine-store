@@ -1,0 +1,91 @@
+{
+ "brand": "audi",
+ "brandName": "Audi",
+ "engineSlug": "ea288",
+ "applicationSlug": "audi-q3-8u-cuwa-suv",
+ "engineCode": "EA288",
+ "condition": "used",
+ "seo": {
+  "title": "Used Audi EA288 2.0 TDI Engine — Q3 8U (CUWA 184 PS) SUV 2015-2018",
+  "description": "EA288 2.0 TDI · used tested engine · fits Audi Q3 SUV 8U (CUWA 184 PS) 2015-2018 · £1,375 · 12-month warranty · UK delivery",
+  "canonical": "https://engined.co.uk/engines/ea288/audi-q3-8u-cuwa-suv/"
+ },
+ "hero": {
+  "title": "Used Audi EA288 2.0 TDI Engine — Q3 8U (CUWA 184 PS) SUV 2015-2018",
+  "subtitle": "Used EA288 2.0 TDI engine for Audi Q3 SUV 8U (CUWA 184 PS) 2015-2018 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA288-USED-Q3-8U-CUWA",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,375",
+    "note": "12-month warranty",
+    "price": "£1,375.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "EA288 2.0 TDI engine for Audi Q3 SUV 8U CUWA 184 PS transverse SUV mounting",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA288",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2015-2018",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "8U",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/audi-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/audi-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/audi-audi-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "This EA288 2.0 TDI engine is confirmed to fit the following Audi Q3 applications — use our registration checker to verify compatibility with your specific vehicle.",
+  "list": [
+   "Audi Q3 SUV (8U) 2015-2018 — 2.0 TDI CUWA (184 PS)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Full diagnostic report",
+   "Compression test certificate",
+   "Oil and filter service completed"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA288 engine now, or view the full EA288 engine range for other applications.",
+  "crossLink": "← Back to all EA288 engines"
+ }
+}

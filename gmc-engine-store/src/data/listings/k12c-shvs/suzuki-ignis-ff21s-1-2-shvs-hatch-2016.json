@@ -1,0 +1,83 @@
+{
+ "brand": "suzuki",
+ "brandName": "Suzuki",
+ "engineSlug": "k12c-shvs",
+ "applicationSlug": "suzuki-ignis-ff21s-1-2-shvs-hatch-2016",
+ "engineCode": "K12C SHVS",
+ "condition": "used",
+ "seo": {
+  "title": "Used Suzuki K12C SHVS Engine — Ignis FF21S | Engined",
+  "description": "Used K12C SHVS engine for Suzuki Ignis FF21S 1.2 DualJet SHVS 2016-2020. £495, 12-month warranty, tested before dispatch, UK delivery. In stock, ready to ship.",
+  "canonical": "https://engined.co.uk/engines/k12c-shvs/suzuki-ignis-ff21s-1-2-shvs-hatch-2016/"
+ },
+ "hero": {
+  "title": "Used Suzuki K12C SHVS Engine — Ignis FF21S (1.2 DualJet SHVS) Hatchback 2016-2020",
+  "subtitle": "SUB — Used K12C SHVS engine for Suzuki Ignis FF21S — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: K12C-USED-IGNIS-FF21S-SHVS",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £495",
+    "note": "12-month warranty",
+    "price": "£495.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Suzuki K12C SHVS engine for Suzuki Ignis FF21S 1.2 DualJet SHVS, tested before dispatch",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "K12C SHVS",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2016-2020",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "FF21S",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our reg checker to confirm your Suzuki Ignis FF21S 1.2 DualJet SHVS before ordering — this K12C SHVS engine fits the application below.",
+  "list": [
+   "Suzuki Ignis FF21S (1.2 DualJet SHVS 90 PS, FWD) 2016-2020"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New gaskets and seals",
+   "Oil and filter service components"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this K12C SHVS engine now, or view full K12C SHVS range.",
+  "crossLink": "← Back to all K12C SHVS engines"
+ }
+}

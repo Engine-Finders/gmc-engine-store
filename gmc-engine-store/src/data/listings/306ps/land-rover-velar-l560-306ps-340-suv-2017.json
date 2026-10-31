@@ -1,0 +1,91 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "306ps",
+ "applicationSlug": "land-rover-velar-l560-306ps-340-suv-2017",
+ "engineCode": "306PS",
+ "condition": "used",
+ "seo": {
+  "title": "Used 306PS 3.0 SC V6 Engine — Range Rover Velar L560 (340PS) 2017–2020",
+  "description": "Used 306PS engine for Range Rover Velar L560. Fixed price £3,145. Tested before dispatch, includes a 12-month warranty and free UK delivery.",
+  "canonical": "https://engined.co.uk/engines/306ps/land-rover-velar-l560-306ps-340-suv-2017/"
+ },
+ "hero": {
+  "title": "Used 306PS 3.0 SC V6 Engine — Range Rover Velar L560 (340PS) 2017–2020",
+  "subtitle": "Used 306PS engine for Range Rover Velar L560 and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 306PS-USED-VELAR-L560-340",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £3,145",
+    "note": "12-month warranty",
+    "price": "£3,145.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Land Rover 306PS SC V6 engine for Range Rover Velar L560 340PS, tested and ready for UK delivery.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "306PS",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2017–2020",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L560",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number in our checker above to confirm this 306PS engine fits your Land Rover Range Rover Velar L560.",
+  "list": [
+   "Range Rover Velar L560 (3.0 SCV6 340PS SUV) 2017–2020"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "OEM-spec gaskets and seals",
+   "Cleaned and degreased block",
+   "Full compression test report"
+  ],
+  "excluded": [
+   "Supercharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 306PS engine now, or view the full 306PS range for other applications.",
+  "crossLink": "← Back to all 306PS engines"
+ }
+}

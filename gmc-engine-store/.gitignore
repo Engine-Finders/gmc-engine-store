@@ -38,3 +38,6 @@ coverage/
 # os / editor
 .DS_Store
 Thumbs.db
+
+# extractor input (listing markdown) - kept locally, not in the repo
+/listing-md/

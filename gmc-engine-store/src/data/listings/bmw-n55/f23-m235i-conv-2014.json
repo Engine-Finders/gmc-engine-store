@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n55",
+ "applicationSlug": "f23-m235i-conv-2014",
+ "engineCode": "N55",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW N55 Engine — 2 Series F23 (M235i) Convertible 2014‑2016",
+  "description": "Used BMW N55 engine for 2 Series F23 M235i Convertible 2014‑2016. N55B30M0 M Performance 326 PS, tested. £3,445 with 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/bmw-n55/f23-m235i-conv-2014/"
+ },
+ "hero": {
+  "title": "Used BMW N55 Engine — 2 Series F23 (M235i) Convertible 2014‑2016",
+  "subtitle": "Used N55 engine for 2 Series F23 M235i Convertible — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N55-USED-F23-M235I",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £3,445",
+    "note": "12-month warranty",
+    "price": "£3,445.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW N55B30M0 engine for 2 Series F23 M235i Convertible, M Performance 326 PS.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N55",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2014-2016",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F23",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration below to confirm this used N55 engine fits your BMW before you buy.",
+  "list": [
+   "BMW 2 Series F23 (M235i 326 PS Convertible) 2014‑2016"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Renewed timing components",
+   "Gaskets and seals required for fitting"
+  ],
+  "excluded": [
+   "Turbocharger (reusable only, subject to condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N55 engine now, or view the full N55 engine range for other applications.",
+  "crossLink": "← Back to all N55 engines"
+ }
+}

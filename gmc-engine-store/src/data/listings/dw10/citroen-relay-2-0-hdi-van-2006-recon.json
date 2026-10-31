@@ -1,0 +1,83 @@
+{
+ "brand": "peugeot",
+ "brandName": "Peugeot",
+ "engineSlug": "dw10",
+ "applicationSlug": "citroen-relay-2-0-hdi-van-2006-recon",
+ "engineCode": "DW10",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned DW10 Engine — Citroën Relay (2.0 HDi) Van 2006-2016",
+  "description": "Reconditioned DW10 engine for Citroën Relay 2.0 HDi Van 2006-2016. Used price £1,495, fully tested before dispatch, 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/dw10/citroen-relay-2-0-hdi-van-2006-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned DW10 Engine — Citroën Relay (2.0 HDi) Van 2006-2016",
+  "subtitle": "SUB — Reconditioned DW10 engine for Citroën Relay 2.0 HDi Van — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: DW10-RECON-RELAY-HDI",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,495",
+    "note": "12-month warranty",
+    "price": "£1,495.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned DW10 engine for Citroën Relay 2.0 HDi Van 2006-2016, longitudinal mount, tested.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "DW10",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2006-2016",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Relay",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration with our reg checker to confirm this Reconditioned DW10 engine fits your Citroën Relay before ordering.",
+  "list": [
+   "Citroën Relay (2.0 HDi, 120-163 PS, commercial spec, longitudinal) 2006-2016"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Sump and rocker cover"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this DW10 engine now, or view the full DW10 engine range for other applications.",
+  "crossLink": "← Back to all DW10 engines"
+ }
+}

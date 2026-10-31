@@ -1,0 +1,84 @@
+{
+ "brand": "suzuki",
+ "brandName": "Suzuki",
+ "engineSlug": "k12c-dualjet",
+ "applicationSlug": "suzuki-swift-1-2-dualjet-hatch-2015",
+ "engineCode": "K12C",
+ "condition": "used",
+ "seo": {
+  "title": "Used Suzuki K12C Engine — Swift 1.2 Dualjet 2015-2023",
+  "description": "Used K12C engine for Suzuki Swift 1.2 Dualjet ZC/AZ 2015-2023. £450, 12-month warranty, tested before dispatch, UK delivery. In stock, ready to ship.",
+  "canonical": "https://engined.co.uk/engines/k12c-dualjet/suzuki-swift-1-2-dualjet-hatch-2015/"
+ },
+ "hero": {
+  "title": "Used Suzuki K12C Engine — Suzuki Swift (1.2 Dualjet) Hatchback 2015-2023",
+  "subtitle": "SUB — Used K12C engine for Suzuki Swift 1.2 Dualjet Hatchback — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: K12C-USED-SWIFT",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £450",
+    "note": "12-month warranty",
+    "price": "£450.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Suzuki K12C engine for Suzuki Swift 1.2 Dualjet hatchback, 4-cylinder petrol, tested before dispatch",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "K12C",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2015-2023",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "ZC, AZ",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our reg checker to confirm your Suzuki Swift 1.2 Dualjet before ordering — this K12C engine fits the applications listed below.",
+  "list": [
+   "Suzuki Swift ZC (2015-2017) — 1.2 Dualjet (88-91 PS)",
+   "Suzuki Swift AZ (2017-2023) — 1.2 Dualjet (88-91 PS)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New gaskets and seals",
+   "Oil and filter service components"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this K12C engine now, or view the full K12C range for other fits.",
+  "crossLink": "← Back to all K12C engines"
+ }
+}

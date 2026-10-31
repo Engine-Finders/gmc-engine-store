@@ -1,0 +1,83 @@
+{
+ "brand": "volvo",
+ "brandName": "Volvo",
+ "engineSlug": "drive-e-petrol",
+ "applicationSlug": "volvo-xc90-t6-306ps-suv-2015",
+ "engineCode": "B4204T9",
+ "condition": "used",
+ "seo": {
+  "title": "Drive-E XC90 T6 306PS | Engined",
+  "description": "B4204T9 used engine for Volvo XC90 T6 306 PS SUV, 2015-present. Twin-charged 2.0L petrol. £2,755 with 12-month warranty. Tested before dispatch, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/drive-e-petrol/volvo-xc90-t6-306ps-suv-2015/"
+ },
+ "hero": {
+  "title": "Drive-E XC90 T6 306PS",
+  "subtitle": "Used B4204T9 engine for Volvo XC90 T6 SUV — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: DRIVEE-USED-XC90-T6-SUV",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,755",
+    "note": "12-month warranty",
+    "price": "£2,755.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "B4204T9 used Volvo XC90 T6 2.0L 306 PS twin-charged petrol engine, tested and ready to ship.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "B4204T9",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2015-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "SPA",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration with our reg checker to confirm this B4204T9 engine fits your Volvo XC90 T6 SUV.",
+  "list": [
+   "Volvo XC90 SPA (2.0 T6 306 PS B4204T9 SUV) 2015-present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil sump and timing chain included",
+   "Cylinder head and block inspected"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this B4204T9 engine now, or view the full B4204T9 engine range for other applications.",
+  "crossLink": "← Back to all B4204T9 engines"
+ }
+}

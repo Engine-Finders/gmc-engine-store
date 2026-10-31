@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "306dt",
+ "applicationSlug": "land-rover-discovery-4-l319-306dt-211-suv-2009",
+ "engineCode": "306DT",
+ "condition": "used",
+ "seo": {
+  "title": "306DT Discovery 4 211 PS | Engined",
+  "description": "Used 306DT TDV6 diesel engine for Discovery 4 L319 211 PS single-turbo 2009–2017. Fits Discovery 4. £2,495 with 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/306dt/land-rover-discovery-4-l319-306dt-211-suv-2009/"
+ },
+ "hero": {
+  "title": "306DT Discovery 4 211 PS",
+  "subtitle": "SUB — Used 306DT engine for Discovery 4 L319 211 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 306DT-USED-DISCO4-L319-211",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,495",
+    "note": "12-month warranty",
+    "price": "£2,495.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used 306DT TDV6 diesel engine for Discovery 4 L319 211 PS single-turbo, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "306DT",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2009–2017",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L319",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with our UK reg checker before ordering — this listing covers the following Discovery 4 application.",
+  "list": [
+   "Discovery 4 L319 (3.0 TDV6 211 PS) 2009–2017"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Engine block and cylinder head",
+   "Sump and timing covers"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 306DT engine now, or view the 306DT engine range for other applications.",
+  "crossLink": "← Back to all 306DT engines"
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "brand": "peugeot",
+ "brandName": "Peugeot",
+ "engineSlug": "dw10",
+ "applicationSlug": "citroen-c5-2-0-hdi-163-saloon-2001",
+ "engineCode": "DW10",
+ "condition": "used",
+ "seo": {
+  "title": "Used DW10 Engine — Citroën C5 (2.0 HDi 163) Saloon 2001-2016",
+  "description": "Used DW10 engine for Citroën C5 2.0 HDi 163 Saloon 2001-2016, code RHE/RHH. Fixed price £1,295, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/dw10/citroen-c5-2-0-hdi-163-saloon-2001/"
+ },
+ "hero": {
+  "title": "Used DW10 Engine — Citroën C5 (2.0 HDi 163) Saloon 2001-2016",
+  "subtitle": "SUB — Used DW10 engine for Citroën C5 2.0 HDi 163 Saloon — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: DW10-USED-C5-HDI163",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,295",
+    "note": "12-month warranty",
+    "price": "£1,295.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used DW10 engine for Citroën C5 2.0 HDi 163 Saloon 2001-2016, code RHE/RHH, later 16-valve, tested.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "DW10",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2001-2016",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "C5",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration with our reg checker to confirm this DW10 engine fits your Citroën C5 before ordering.",
+  "list": [
+   "Citroën C5 (2.0 HDi 163 PS, code RHE/RHH (DW10CTED4)) 2001-2016"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Sump and rocker cover"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this DW10 engine now, or view the full DW10 range for other applications.",
+  "crossLink": "← Back to all DW10 engines"
+ }
+}

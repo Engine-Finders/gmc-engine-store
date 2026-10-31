@@ -1,0 +1,86 @@
+{
+ "brand": "citroen",
+ "brandName": "Citroen",
+ "engineSlug": "puretech-eb2",
+ "applicationSlug": "recon-citroen-c3-puretech-110-hatchback-2012",
+ "engineCode": "EB2",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned Citroën PureTech EB2 1.2 Engine — C3 PureTech 110 Hatchback 2012-present",
+  "description": "EB2 · reconditioned · Citroën C3 PureTech 110 Hatchback · 110 hp · £1,500 · 12-month warranty · UK delivery",
+  "canonical": "https://engined.co.uk/engines/puretech-eb2/recon-citroen-c3-puretech-110-hatchback-2012/"
+ },
+ "hero": {
+  "title": "Reconditioned Citroën PureTech EB2 1.2 Engine — C3 PureTech 110 Hatchback 2012-present",
+  "subtitle": "Reconditioned EB2 petrol engine for Citroën C3 PureTech 110 Hatchback — fully rebuilt, tested before dispatch, UK delivery.",
+  "sku": "SKU: EB2-RECON-CITROEN-C3-PURETECH-HATCH",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,500",
+    "note": "12-month warranty",
+    "price": "£1,500.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned Citroën PureTech EB2 1.2 engine for C3 PureTech 110 Hatchback 2012-present — fully rebuilt petrol unit",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EB2",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2012-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Citroën C3 Hatchback (2012-present) — PureTech 110",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/citroen-citroen-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your vehicle's compatibility below — use our reg-checker to confirm this EB2 engine matches your Citroën C3 exactly.",
+  "list": [
+   "Citroën C3 Hatchback (2012-present) — PureTech 110"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Rebuilt cylinder head",
+   "Timing belt (Gen1/2) or chain (Gen3) replaced",
+   "New tensioners and water pump",
+   "Comprehensive inspection report",
+   "Oil and filter service",
+   "UK mainland delivery"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EB2 engine now, or view the full PureTech EB2 engine range for other applications.",
+  "crossLink": "← Back to all PureTech EB2 engines"
+ }
+}

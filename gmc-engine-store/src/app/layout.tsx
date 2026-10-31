@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import QuoteModalProvider from "@/components/quote/QuoteModal";
 
 export const metadata: Metadata = {
   title: "Buy Used & Reconditioned Engines Online | GMC",
@@ -30,7 +31,9 @@ export default function RootLayout({
           rel="stylesheet"
         />
       </head>
-      <body className="bg-white text-ink-900 antialiased">{children}</body>
+      <body className="bg-white text-ink-900 antialiased">
+        <QuoteModalProvider>{children}</QuoteModalProvider>
+      </body>
     </html>
   );
 }

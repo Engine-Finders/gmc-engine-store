@@ -1,0 +1,82 @@
+{
+ "brand": "volvo",
+ "brandName": "Volvo",
+ "engineSlug": "drive-e-diesel",
+ "applicationSlug": "volvo-xc60-d3-150ps-suv-2014",
+ "engineCode": "D4204T4",
+ "condition": "used",
+ "seo": {
+  "title": "D3 XC60 150PS SUV | Engined [28 chars]",
+  "description": "Used D4204T4 D3 engine for Volvo XC60 P3 2014-2017 — 2.0 D3",
+  "canonical": "https://engined.co.uk/engines/drive-e-diesel/volvo-xc60-d3-150ps-suv-2014/"
+ },
+ "hero": {
+  "title": "Used D3 Engine — Volvo XC60 (2.0 D3 150 PS) SUV 2014-2017",
+  "subtitle": "Used D4204T4 engine for Volvo XC60 P3 2014-2017 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: DRIVEE-USED-XC60-D3-SUV",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,795",
+    "note": "12-month warranty",
+    "price": "£1,795.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used D3 Engine — Volvo XC60 (2.0 D3 150 PS) SUV 2014-2017",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "D4204T4",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2014-2017",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "P3",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "<p>Confirm fitment with our registration checker before ordering — every XC60 P3",
+  "list": [
+   "Volvo XC60 P3 (2.0 D3 150 PS) 2014-2017"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Core internals as built at the factory",
+   "Oil sump and cam cover",
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ],
+  "excluded": []
+ },
+ "cta": {
+  "line": "<p class=\"cta\">Buy this D4204T4 engine now, or",
+  "crossLink": "← Back to all Drive-E diesel engines</a>"
+ }
+}

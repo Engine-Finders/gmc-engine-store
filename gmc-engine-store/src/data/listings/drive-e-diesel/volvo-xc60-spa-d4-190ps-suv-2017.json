@@ -1,0 +1,82 @@
+{
+ "brand": "volvo",
+ "brandName": "Volvo",
+ "engineSlug": "drive-e-diesel",
+ "applicationSlug": "volvo-xc60-spa-d4-190ps-suv-2017",
+ "engineCode": "D4204T14",
+ "condition": "used",
+ "seo": {
+  "title": "D4 XC60 SPA 190PS SUV | Engined [32 chars]",
+  "description": "Used D4204T14 D4 engine for Volvo XC60 SPA 2017-present —",
+  "canonical": "https://engined.co.uk/engines/drive-e-diesel/volvo-xc60-spa-d4-190ps-suv-2017/"
+ },
+ "hero": {
+  "title": "Used D4 Engine — Volvo XC60 (2.0 D4 190 PS) SUV 2017-present",
+  "subtitle": "Used D4204T14 engine for Volvo XC60 SPA 2017-present — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: DRIVEE-USED-XC60-SPA-D4-SUV",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,295",
+    "note": "12-month warranty",
+    "price": "£2,295.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used D4 Engine — Volvo XC60 (2.0 D4 190 PS) SUV 2017-present",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "D4204T14",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2017-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "SPA",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "<p>Confirm fitment with our registration checker before ordering — every XC60 SPA",
+  "list": [
+   "Volvo XC60 SPA (2.0 D4 190 PS) 2017-present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Core internals as built at the factory",
+   "Oil sump and cam cover",
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ],
+  "excluded": []
+ },
+ "cta": {
+  "line": "<p class=\"cta\">Buy this D4204T14 engine now, or",
+  "crossLink": "← Back to all Drive-E diesel engines</a>"
+ }
+}

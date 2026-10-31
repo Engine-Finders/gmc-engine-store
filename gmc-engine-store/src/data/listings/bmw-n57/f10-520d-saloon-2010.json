@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n57",
+ "applicationSlug": "f10-520d-saloon-2010",
+ "engineCode": "N57",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW N57 Engine — 5 Series F10 (520d) Saloon 2010‑2013",
+  "description": "Used BMW N57 engine for the 5 Series F10 520d Saloon 2010‑2013. Fixed £2,695, fully tested before dispatch, 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/bmw-n57/f10-520d-saloon-2010/"
+ },
+ "hero": {
+  "title": "Used BMW N57 Engine — 5 Series F10 (520d) Saloon 2010‑2013",
+  "subtitle": "Used N57 engine for 5 Series F10 520d Saloon 2010‑2013 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N57-USED-F10-520D-PREFL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,695",
+    "note": "12-month warranty",
+    "price": "£2,695.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW N57 engine for F10 520d Saloon 2010‑2013, N57D30O0 pre-LCI 204PS, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N57",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2010‑2013",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F10",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-n57-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with our registration checker before ordering, then check your BMW 5 Series F10 520d Saloon matches the application below.",
+  "list": [
+   "BMW 5 Series (F10) 2010‑2013 — 520d (204 PS) Saloon"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil sump, timing cover and rocker cover as fitted",
+   "Gaskets and seals required for fitment"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N57 engine now, or view the full N57 engine range.",
+  "crossLink": "← Back to all N57 engines"
+ }
+}

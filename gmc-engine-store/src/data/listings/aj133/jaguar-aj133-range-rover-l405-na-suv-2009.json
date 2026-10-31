@@ -1,0 +1,97 @@
+{
+ "brand": "jaguar",
+ "brandName": "Jaguar",
+ "engineSlug": "aj133",
+ "applicationSlug": "jaguar-aj133-range-rover-l405-na-suv-2009",
+ "engineCode": "AJ133",
+ "condition": "used",
+ "seo": {
+  "title": "Used Jaguar AJ133 5.0 V8 Engine — Range Rover (L405) 5.0 V8 NA SUV 2009-Present | Engined",
+  "description": "Used AJ133 engine for Range Rover L405 5.0 V8 NA SUV. Fixed price £3,590, tested before dispatch, 12-month warranty included. UK delivery available.",
+  "canonical": "https://engined.co.uk/engines/aj133/jaguar-aj133-range-rover-l405-na-suv-2009/"
+ },
+ "hero": {
+  "title": "Used Jaguar AJ133 5.0 V8 Engine — Range Rover (L405) 5.0 V8 NA SUV 2009-Present",
+  "subtitle": "Used AJ133 engine for Range Rover L405 5.0 V8 NA SUV and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: AJ133-USED-RANGEROVER-L405-NA-SUV",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £3,590",
+    "note": "12-month warranty",
+    "price": "£3,590.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £5,480",
+    "note": "12-month warranty",
+    "price": "£5,480.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used AJ133 5.0L V8 naturally aspirated engine for Range Rover L405 SUV, complete assembly with warranty.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJ133",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2009-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L405",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/jaguar-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/jaguar-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jlr-aj133-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number above to confirm this AJ133 engine fits your Range Rover before you buy.",
+  "list": [
+   "Range Rover (L405) 5.0 V8 NA (385 PS) SUV (2009-present)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete used engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Full compression test report",
+   "Cleaned and degreased exterior",
+   "New seals and gaskets fitted"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this AJ133 engine now, or view the full AJ133 engine range for other applications.",
+  "crossLink": "← Back to all AJ133 engines"
+ }
+}

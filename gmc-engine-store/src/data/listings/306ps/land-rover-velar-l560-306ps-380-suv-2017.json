@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "306ps",
+ "applicationSlug": "land-rover-velar-l560-306ps-380-suv-2017",
+ "engineCode": "306PS",
+ "condition": "used",
+ "seo": {
+  "title": "Used 306PS Engine — Range Rover Velar L560 (380PS) | Engined",
+  "description": "Used 306PS engine for Range Rover Velar L560. Fixed price £3,615, tested before dispatch, UK delivery & 12-month warranty. Supercharged 380PS.",
+  "canonical": "https://engined.co.uk/engines/306ps/land-rover-velar-l560-306ps-380-suv-2017/"
+ },
+ "hero": {
+  "title": "Used 306PS 3.0 SC V6 Engine — Range Rover Velar L560 (380PS) 2017–2020",
+  "subtitle": "Used 306PS engine for Range Rover Velar L560 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 306PS-USED-VELAR-L560-380",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £5,425",
+    "note": "12-month warranty",
+    "price": "£5,425.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used 306PS 3.0 SC V6 Engine — Range Rover Velar L560 (380PS) 2017–2020",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "306PS",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2017–2020",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L560",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number in our checker above to confirm this 306PS engine is the exact match for your vehicle.",
+  "list": [
+   "Range Rover Velar L560 (3.0 SCV6 380PS) 2017–2020"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Verified working condition",
+   "OEM-spec internal components"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 306PS engine now, or view the full 306PS engine range for other applications.",
+  "crossLink": "← Back to all 306PS engines"
+ }
+}

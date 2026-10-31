@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "300tdi",
+ "applicationSlug": "land-rover-defender-300tdi-111-station-wagon-1994",
+ "engineCode": "300TDI",
+ "condition": "used",
+ "seo": {
+  "title": "300Tdi Defender 90 SW 111 PS | Engined",
+  "description": "Used 300Tdi 2.5 Diesel Engine for Defender 90 Station Wagon 111 PS 1994–1998. £2,370 with 12-month warranty and UK delivery. Defender-spec rotary injection pump.",
+  "canonical": "https://engined.co.uk/engines/300tdi/land-rover-defender-300tdi-111-station-wagon-1994/"
+ },
+ "hero": {
+  "title": "300Tdi Defender 90 SW 111 PS",
+  "subtitle": "SUB — Used 300Tdi engine for Defender 90 Station Wagon 111 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 300TDI-USED-DEF-90-SW-111",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,370",
+    "note": "12-month warranty",
+    "price": "£2,370.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used 300Tdi 2.5 diesel engine for Defender 90 Station Wagon 111 PS, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "300Tdi",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "1994–1998",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Defender 90",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with our UK reg checker before ordering — this listing covers the following Defender 90 application.",
+  "list": [
+   "Defender 90 (Station Wagon — 300Tdi 111 PS — 23L engine code) 1994–1998"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Engine block and cylinder head",
+   "Sump and timing covers"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 300Tdi engine now, or view the 300Tdi engine range for other applications.",
+  "crossLink": "← Back to all 300Tdi engines"
+ }
+}

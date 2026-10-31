@@ -1,0 +1,97 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "b48",
+ "applicationSlug": "bmw-x1-f48-xdrive25e-phev-suv-2015",
+ "engineCode": "B48",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW B48 Engine — X1 F48 xDrive25e PHEV 2015-2022",
+  "description": "B48 · used · X1 F48 xDrive25e PHEV (136 hp) — £1,980. Tested before dispatch. 12-month warranty & UK delivery included.",
+  "canonical": "https://engined.co.uk/engines/b48/bmw-x1-f48-xdrive25e-phev-suv-2015/"
+ },
+ "hero": {
+  "title": "Used BMW B48 Engine — X1 F48 (xDrive25e) PHEV SUV 2015-2022",
+  "subtitle": "Used B48 engine for BMW X1 F48 xDrive25e PHEV — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: B48-USED-F48-XDRIVE25E",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,980",
+    "note": "12-month warranty",
+    "price": "£1,980.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,430",
+    "note": "12-month warranty",
+    "price": "£2,430.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW B48 engine for X1 F48 xDrive25e PHEV SUV, transverse-mounted hybrid configuration.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "B48",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2015-2022",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F48",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-b48-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our registration checker for exact fitment confirmation on your specific vehicle.",
+  "list": [
+   "BMW X1 SUV (F48) 2015-2022 — xDrive25e PHEV (136 hp engine)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch",
+   "12-month warranty as standard",
+   "Comprehensive inspection report",
+   "UK mainland delivery",
+   "14-day return policy"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this B48 engine now, or view the full B48 engine range for other applications.",
+  "crossLink": "← Back to all B48 engines"
+ }
+}

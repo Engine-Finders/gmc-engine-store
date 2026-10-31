@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "om656",
+ "applicationSlug": "mercedes-e-class-w213-om656-340-estate-2018",
+ "engineCode": "OM656",
+ "condition": "used",
+ "seo": {
+  "title": "Used OM656 3.0 Diesel Engine — E-Class W213 E400d | Engined",
+  "description": "Used OM656 3.0 diesel engine for the Mercedes-Benz E-Class W213 Estate E400d 340 PS. In stock, tested before dispatch, 12-month warranty, UK delivery. £3,790.",
+  "canonical": "https://engined.co.uk/engines/om656/mercedes-e-class-w213-om656-340-estate-2018/"
+ },
+ "hero": {
+  "title": "Used OM656 3.0 Diesel Engine — E-Class W213 Estate (E400d, 340 PS) 2018–present",
+  "subtitle": "Used OM656 engine for E-Class W213 Estate E400d 340 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: OM656-USED-W213-E400D-EST",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £3,790",
+    "note": "12-month warranty",
+    "price": "£3,790.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used OM656 3.0 diesel engine for Mercedes E-Class W213 Estate E400d 340 PS, twin-turbo, tested.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "OM656",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2018–present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W213",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-om656-engine.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment by entering your registration in our reg checker — this OM656 fits the applications listed below.",
+  "list": [
+   "E-Class W213 (E400d 340 PS, Estate) 2018–present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (block, head, sump and timing cover)",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Engine code verified against your vehicle",
+   "Free UK delivery"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system components",
+   "Ancillaries (alternator, starter motor, air conditioning compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this OM656 engine now, or view the full OM656 engine range for other applications.",
+  "crossLink": "← Back to all OM656 engines"
+ }
+}

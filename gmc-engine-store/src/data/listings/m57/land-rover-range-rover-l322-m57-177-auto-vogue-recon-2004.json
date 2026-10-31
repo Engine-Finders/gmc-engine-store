@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "m57",
+ "applicationSlug": "land-rover-range-rover-l322-m57-177-auto-vogue-recon-2004",
+ "engineCode": "M57",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned M57 3.0 TD6 Engine — Range Rover L322 Vogue (177 PS, Auto) 2004–2006",
+  "description": "Reconditioned M57 engine for Range Rover L322 Vogue, 3.0 TD6 177 PS Auto. Fixed price £2,495, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/m57/land-rover-range-rover-l322-m57-177-auto-vogue-recon-2004/"
+ },
+ "hero": {
+  "title": "Reconditioned M57 3.0 TD6 Engine — Range Rover L322 Vogue (177 PS, Auto) 2004–2006",
+  "subtitle": "Reconditioned M57 engine for Range Rover L322 Vogue, 3.0 TD6 177 PS Auto and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M57-RECON-L322-VOGUE-AUTO-0406",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,495",
+    "note": "12-month warranty",
+    "price": "£2,495.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned M57 3.0 TD6 engine for Range Rover L322 Vogue 177 PS Auto, tested unit with renewed chains.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M57",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2004–2006",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L322",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm exact fitment for your vehicle by entering your registration into our checker below before purchasing this M57 engine.",
+  "list": [
+   "Range Rover L322 Vogue (SUV) 2004–2006"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Renewed timing chains",
+   "UK delivery"
+  ],
+  "excluded": [
+   "Turbocharger",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M57 engine now, or view the full M57 engine range for other applications.",
+  "crossLink": "← Back to all M57 engines"
+ }
+}

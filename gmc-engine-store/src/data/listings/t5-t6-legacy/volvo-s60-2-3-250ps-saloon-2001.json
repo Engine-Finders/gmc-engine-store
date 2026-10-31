@@ -1,0 +1,83 @@
+{
+ "brand": "volvo",
+ "brandName": "Volvo",
+ "engineSlug": "t5-t6-legacy",
+ "applicationSlug": "volvo-s60-2-3-250ps-saloon-2001",
+ "engineCode": "B5234T3",
+ "condition": "used",
+ "seo": {
+  "title": "Used T5 Engine — Volvo S60 (2.3 T5 250 PS) Saloon 2001-2004",
+  "description": "Used B5234T3 engine for Volvo S60 P24 2001–2004. 2.3 T5 250 PS petrol. £995 with 12-month warranty, tested before dispatch and fast UK delivery.",
+  "canonical": "https://engined.co.uk/engines/t5-t6-legacy/volvo-s60-2-3-250ps-saloon-2001/"
+ },
+ "hero": {
+  "title": "Used T5 Engine — Volvo S60 (2.3 T5 250 PS) Saloon 2001-2004",
+  "subtitle": "Used B5234T3 engine for Volvo S60 2.3 T5 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: T5-P2-USED-S60-23-T5",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £995",
+    "note": "12-month warranty",
+    "price": "£995.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used B5234T3 2.3 T5 petrol engine for Volvo S60 P24 Saloon 2001-2004, 250 PS, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "B5234T3",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2001-2004",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "P24",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with our reg checker before ordering — this B5234T3 listing covers the following Volvo S60 application.",
+  "list": [
+   "Volvo S60 P24 (2.3 T5 250 PS (B5234T3) — Saloon) 2001-2004"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil sump and oil pickup",
+   "Timing cover and rocker cover"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this B5234T3 engine now, or view the full B5234T3 engine range",
+  "crossLink": "← Back to all B5234T3 engines"
+ }
+}

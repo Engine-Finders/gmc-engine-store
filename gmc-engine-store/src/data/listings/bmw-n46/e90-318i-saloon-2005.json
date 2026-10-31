@@ -1,0 +1,91 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n46",
+ "applicationSlug": "e90-318i-saloon-2005",
+ "engineCode": "N46B20",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW N46 Engine — 3 Series E90 (318i) Saloon 2005‑2008",
+  "description": "Used BMW N46B20 engine for 3 Series E90 318i Saloon (2005‑2008). Pre‑LCI, 129 PS. £805 with 12‑month warranty & UK delivery.",
+  "canonical": "https://engined.co.uk/engines/bmw-n46/e90-318i-saloon-2005/"
+ },
+ "hero": {
+  "title": "Used BMW N46 Engine — 3 Series E90 (318i) Saloon 2005‑2008",
+  "subtitle": "Used N46B20 engine for BMW 3 Series E90 318i Saloon (2005‑2008) — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N46-USED-E90-318I-PREFL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £805",
+    "note": "12-month warranty",
+    "price": "£805.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW N46B20 engine for E90 318i Saloon, pre‑LCI, 129 PS, 3‑Series ancillaries",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N46B20",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2005-2008",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E90",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your vehicle's compatibility by checking your registration or chassis number against the list below.",
+  "list": [
+   "BMW 3 Series (E90) 2005‑2008 — 318i (129 PS) Saloon"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch on our dyno",
+   "12-month unlimited mileage warranty as standard",
+   "Full gasket set and seals",
+   "Engine oil and filter change",
+   "Comprehensive inspection report"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system components",
+   "Ancillaries (alternator, starter, AC compressor, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N46 engine now, or view the full BMW N46 engine range for other applications.",
+  "crossLink": "← Back to all BMW N46 engines"
+ }
+}

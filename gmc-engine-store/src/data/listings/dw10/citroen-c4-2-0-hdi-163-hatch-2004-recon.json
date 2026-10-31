@@ -1,0 +1,83 @@
+{
+ "brand": "peugeot",
+ "brandName": "Peugeot",
+ "engineSlug": "dw10",
+ "applicationSlug": "citroen-c4-2-0-hdi-163-hatch-2004-recon",
+ "engineCode": "DW10",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned DW10 Engine — Citroën C4 (2.0 HDi 163) Hatchback 2004-2018",
+  "description": "Reconditioned DW10 engine for Citroën C4 2.0 HDi 163 Hatchback 2004-2018. Used price £1,295, fully tested, 12-month warranty and fast UK delivery.",
+  "canonical": "https://engined.co.uk/engines/dw10/citroen-c4-2-0-hdi-163-hatch-2004-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned DW10 Engine — Citroën C4 (2.0 HDi 163) Hatchback 2004-2018",
+  "subtitle": "SUB — Reconditioned DW10 engine for Citroën C4 2.0 HDi 163 Hatchback — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: DW10-RECON-C4-HDI163",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,295",
+    "note": "12-month warranty",
+    "price": "£1,295.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned DW10 engine for Citroën C4 2.0 HDi 163 Hatchback, code RHE/RHH, transverse mount, tested.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "DW10",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2004-2018",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "C4",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration with our reg checker to confirm this Reconditioned DW10 engine fits your Citroën C4 before ordering.",
+  "list": [
+   "Citroën C4 (2.0 HDi 163 PS, code RHE/RHH (DW10CTED4)) 2004-2018"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Sump and rocker cover"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this DW10 engine now, or view the full DW10 range for other applications.",
+  "crossLink": "← Back to all DW10 engines"
+ }
+}

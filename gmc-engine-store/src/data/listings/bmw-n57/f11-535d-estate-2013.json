@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n57",
+ "applicationSlug": "f11-535d-estate-2013",
+ "engineCode": "N57",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW N57 Engine — 5 Series F11 (535d) Estate 2013‑2017",
+  "description": "Used BMW N57 engine for BMW 5 Series F11 535d Estate 2013‑2017. LCI 313PS, fixed £3,100, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/bmw-n57/f11-535d-estate-2013/"
+ },
+ "hero": {
+  "title": "Used BMW N57 Engine — 5 Series F11 (535d) Estate 2013‑2017",
+  "subtitle": "SUB — Used N57 engine for BMW 5 Series F11 535d Estate 2013‑2017 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N57-USED-F11-535D-FL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £3,100",
+    "note": "12-month warranty",
+    "price": "£3,100.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW N57 engine for F11 535d Estate 2013‑2017, LCI twin-turbo 313PS, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N57",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2013‑2017",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F11",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-n57-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment by entering your registration in our reg checker before ordering for BMW 5 Series (F11) 2013‑2017 — 535d (313 PS) Estate.",
+  "list": [
+   "BMW 5 Series F11 (535d 313 PS Estate) 2013‑2017"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Sump and rocker cover"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N57 engine now, or view the full N57 engine range.",
+  "crossLink": "← Back to all N57 engines — links to https://engined.co.uk/engines/bmw-n57/"
+ }
+}

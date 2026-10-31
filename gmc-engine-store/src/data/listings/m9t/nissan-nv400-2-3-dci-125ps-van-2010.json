@@ -1,0 +1,83 @@
+{
+ "brand": "renault",
+ "brandName": "Renault",
+ "engineSlug": "m9t",
+ "applicationSlug": "nissan-nv400-2-3-dci-125ps-van-2010",
+ "engineCode": "M9T",
+ "condition": "used",
+ "seo": {
+  "title": "Used Renault M9T Engine — Nissan NV400 (2.3 dCi 125 PS) Van 2010-Present | Engined",
+  "description": "In stock used M9T engine for Nissan NV400 2.3 dCi 125 PS (2010-present) — £1,995, fully tested before dispatch, 12-month warranty, fast UK delivery.",
+  "canonical": "https://engined.co.uk/engines/m9t/nissan-nv400-2-3-dci-125ps-van-2010/"
+ },
+ "hero": {
+  "title": "Used Renault M9T Engine — Nissan NV400 (2.3 dCi 125 PS) Van 2010-Present",
+  "subtitle": "Used M9T engine for Nissan NV400 (2.3 dCi 125 PS) — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M9T-USED-NV400-125",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,995",
+    "note": "12-month warranty",
+    "price": "£1,995.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used M9T engine for Nissan NV400 2.3 dCi 125 PS, heavy-duty sump, commercial van.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M9T",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2010-Present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "NV400",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our registration checker to confirm this M9T engine fits your Nissan NV400 2010-present.",
+  "list": [
+   "Nissan NV400 (2.3 dCi 125 PS, code M9T 680/702) 2010–present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil sump",
+   "Valve cover"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M9T engine now, or view the full M9T engine range for other applications.",
+  "crossLink": "← Back to all M9T engines"
+ }
+}

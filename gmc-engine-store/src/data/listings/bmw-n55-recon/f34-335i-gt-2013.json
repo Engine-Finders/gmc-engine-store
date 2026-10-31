@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n55-recon",
+ "applicationSlug": "f34-335i-gt-2013",
+ "engineCode": "N55",
+ "condition": "recon",
+ "seo": {
+  "title": "Recond N55 F34 335i GT 2013‑2016 | Engined",
+  "description": "Reconditioned BMW N55 engine for BMW 3 Series F34 335i Gran Turismo 2013‑2016. £4,370, fully reconditioned, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/bmw-n55-recon/f34-335i-gt-2013/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW N55 Engine — 3 Series F34 (335i) Gran Turismo 2013‑2016",
+  "subtitle": "SUB — Reconditioned N55 engine for BMW 3 Series F34 335i Gran Turismo — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N55-RECON-F34-335I",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £4,370",
+    "note": "12-month warranty",
+    "price": "£4,370.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned BMW N55 engine for 3 Series F34 335i Gran Turismo 2013‑2016, renewed timing",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N55",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2013‑2016",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F34",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with your registration before ordering — our reg checker verifies this N55 application against your BMW.",
+  "list": [
+   "BMW 3 Series F34 (335i 302 PS Gran Turismo) 2013‑2016"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Fully reconditioned N55B30O0",
+   "Renewed timing"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N55 engine now, or view the full N55 engine range for other applications.",
+  "crossLink": "← Back to all N55 engines"
+ }
+}

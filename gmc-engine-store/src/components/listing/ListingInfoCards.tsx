@@ -34,6 +34,7 @@ export default function ListingInfoCards({ data }: { data: Data }) {
           </Card>
 
           {/* Other applications */}
+          {otherApplications && (
           <Card>
             <div className="flex items-center gap-3">
               <span className="shrink-0 text-primary-600 dark:text-primary-400">
@@ -54,13 +55,16 @@ export default function ListingInfoCards({ data }: { data: Data }) {
               ))}
             </ul>
 
-            <div className="mt-3 border-t border-line dark:border-white/10 pt-4">
-              <Link href={otherApplications.footerLinkHref} className="flex items-start gap-2.5 text-[13.5px] font-medium text-primary-600 dark:text-primary-400 hover:underline">
-                <span className="mt-[2px] shrink-0 rotate-180"><Icon name="arrow-right" className="h-4 w-4" /></span>
-                {otherApplications.footerLinkText}
-              </Link>
-            </div>
+            {otherApplications.footerLinkHref && (
+              <div className="mt-3 border-t border-line dark:border-white/10 pt-4">
+                <Link href={otherApplications.footerLinkHref} className="flex items-start gap-2.5 text-[13.5px] font-medium text-primary-600 dark:text-primary-400 hover:underline">
+                  <span className="mt-[2px] shrink-0 rotate-180"><Icon name="arrow-right" className="h-4 w-4" /></span>
+                  {otherApplications.footerLinkText}
+                </Link>
+              </div>
+            )}
           </Card>
+          )}
 
           {/* Why buy */}
           <Card>

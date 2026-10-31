@@ -1,0 +1,91 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n26",
+ "applicationSlug": "f36-428i-gc-2014",
+ "engineCode": "N26",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW N26 Engine — 4 Series F36 (428i) Gran Coupe 2014–2016",
+  "description": "N26 SULEV · used · US-market F36 428i Gran Coupe · not for UK sale · 12-month warranty.",
+  "canonical": "https://engined.co.uk/engines/bmw-n26/f36-428i-gc-2014/"
+ },
+ "hero": {
+  "title": "Used BMW N26 Engine — 4 Series F36 (428i) Gran Coupe 2014–2016",
+  "subtitle": "Used N26 SULEV engine for US-market BMW 4 Series F36 428i Gran Coupe (5-door) — US-market only, not for UK sale.",
+  "sku": "SKU: N26-USED-F36-428I",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £0",
+    "note": "12-month warranty",
+    "price": "£0.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Not available in UK — US-market only",
+  "imgAlt": "Used BMW N26 engine for 4 Series F36 428i Gran Coupe 2014-2016 US-market SULEV",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N26",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2014-2016",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F36",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "This engine is for US-market vehicles only. Enter your registration for a guaranteed fitment check.",
+  "list": [
+   "BMW 4 Series (F36) 2014–2016 — 428i SULEV (245 PS) Gran Coupe (US-market only)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch",
+   "12-month warranty as standard",
+   "OEM-spec gaskets and seals",
+   "Oil and filter service",
+   "Full inspection report"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries (e.g., alternator, starter motor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "View the full BMW N20 engine range for UK-spec alternatives.",
+  "crossLink": "← Back to all BMW N20 engines"
+ }
+}

@@ -1,0 +1,82 @@
+{
+ "brand": "mini",
+ "brandName": "Mini",
+ "engineSlug": "prince",
+ "applicationSlug": "mini-coupe-r58-jcw-coupe-2011-recon",
+ "engineCode": "PRINCE N18",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned Prince Engine — MINI Coupe R58 (JCW) Coupe 2011-2014 | Engined",
+  "description": "Reconditioned Prince N18 engine for MINI Coupe R58 JCW 2011–2014. Used price £1,898, tested before dispatch, 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/prince/mini-coupe-r58-jcw-coupe-2011-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned Prince Engine — MINI Coupe R58 (JCW) Coupe 2011-2014",
+  "subtitle": "Reconditioned Prince N18 engine for MINI Coupe R58 JCW 2011–2014 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: PRINCE-RECON-R58-JCW-COUPE",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,875",
+    "note": "12-month warranty",
+    "price": "£2,875.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned Prince N18 engine for MINI Coupe R58 JCW, 1.6 turbo 211 PS, transverse mount",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "Prince N18",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2011–2014",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "R58",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/mini-mini-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration below to confirm this Prince N18 engine fits your MINI Coupe R58 before you order.",
+  "list": [
+   "MINI Coupe R58 (JCW, 1.6 turbo, 211 PS, N18 generation) 2011–2014"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly, ready to fit",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block fully assembled",
+   "Sump and rocker cover included"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this Prince N18 engine now, or view the full Prince N18 engine range for other applications.",
+  "crossLink": "← Back to all Prince N18 engines"
+ }
+}

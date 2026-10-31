@@ -1,0 +1,90 @@
+{
+ "brand": "jaguar",
+ "brandName": "Jaguar",
+ "engineSlug": "ingenium-2-0-diesel",
+ "applicationSlug": "jaguar-xf-x260-20d-diesel-saloon-2015",
+ "engineCode": "AJ200D",
+ "condition": "used",
+ "seo": {
+  "title": "Used AJ200D 2.0 Ingenium Diesel Engine — XF (X260) 20d Saloon 2015-Present",
+  "description": "Used AJ200D 2.0 Ingenium Diesel engine for Jaguar XF (X260) 20d Saloon. Fixed price £2,495. Tested before dispatch, 12-month warranty & UK delivery.",
+  "canonical": "https://engined.co.uk/engines/ingenium-2-0-diesel/jaguar-xf-x260-20d-diesel-saloon-2015/"
+ },
+ "hero": {
+  "title": "Used AJ200D 2.0 Ingenium Diesel Engine — XF (X260) 20d Saloon 2015-Present",
+  "subtitle": "Used AJ200D engine for Jaguar XF (X260) 20d Saloon — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: AJ200D-USED-XF-X260-20D-SALOON",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,495",
+    "note": "12-month warranty",
+    "price": "£2,495.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used AJ200D 2.0 Diesel engine for Jaguar XF X260 20d Saloon, single-turbo, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJ200D",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2015-Present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X260",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/jaguar-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/jaguar-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/jaguar-jaguar-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our reg-checker above to confirm this AJ200D engine is the exact match for your Jaguar XF before you buy.",
+  "list": [
+   "XF X260 (20d 180 PS Diesel Saloon) 2015–Present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Verified compression and oil pressure",
+   "Full quality assurance sign-off"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this AJ200D engine now, or view the full AJ200D engine range for other applications.",
+  "crossLink": "← Back to all AJ200D engines"
+ }
+}

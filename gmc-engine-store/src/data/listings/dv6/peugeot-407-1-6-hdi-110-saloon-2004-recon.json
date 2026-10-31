@@ -1,0 +1,83 @@
+{
+ "brand": "peugeot",
+ "brandName": "Peugeot",
+ "engineSlug": "dv6",
+ "applicationSlug": "peugeot-407-1-6-hdi-110-saloon-2004-recon",
+ "engineCode": "PSA DV6",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned PSA DV6 Engine — Peugeot 407 (1.6 HDi 110) Saloon 2004-2010",
+  "description": "Reconditioned PSA DV6 engine for Peugeot 407 1.6 HDi 110 Saloon (2004-2010). Used from £1,150 or recon £2,100. Tested, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/dv6/peugeot-407-1-6-hdi-110-saloon-2004-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned PSA DV6 Engine — Peugeot 407 (1.6 HDi 110) Saloon 2004-2010",
+  "subtitle": "Reconditioned PSA DV6 engine for Peugeot 407 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: DV6-RECON-407-HDI110",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,150",
+    "note": "12-month warranty",
+    "price": "£1,150.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "PSA DV6 engine for Peugeot 407 1.6 HDi 110 Saloon 2004-2010, reconditioned diesel unit, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "PSA DV6",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2004-2010",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "407",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration to confirm this PSA DV6 engine fits your Peugeot 407 1.6 HDi 110 before buying.",
+  "list": [
+   "Peugeot 407 (1.6 HDi 110, 110 PS, code: 9HZ (DV6TED4)) 2004–2010"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New oil and filter",
+   "Gaskets and seals"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this DV6 engine now, or view the full DV6 engine range for other applications.",
+  "crossLink": "← Back to all DV6 engines"
+ }
+}

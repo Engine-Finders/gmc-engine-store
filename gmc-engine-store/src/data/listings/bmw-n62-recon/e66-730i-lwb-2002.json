@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n62-recon",
+ "applicationSlug": "e66-730i-lwb-2002",
+ "engineCode": "N62",
+ "condition": "recon",
+ "seo": {
+  "title": "Recond N62 E66 730i LWB 2002‑2005 | Engined",
+  "description": "Fully reconditioned BMW N62B36 engine for 7 Series E66 730i LWB 2002‑2005. £5,315, 12-month warranty, prepared to order, and fast UK delivery.",
+  "canonical": "https://engined.co.uk/engines/bmw-n62-recon/e66-730i-lwb-2002/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW N62 Engine — 7 Series E66 (730i) LWB 2002‑2005",
+  "subtitle": "Reconditioned N62 engine for BMW 7 Series E66 730i LWB 2002‑2005 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N62-RECON-E66-730I-PREFL",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £5,315",
+    "note": "12-month warranty",
+    "price": "£5,315.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "N62 reconditioned engine for BMW 7 Series E66 730i LWB 2002‑2005, 272 PS, premium rebuild.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "BMW N62",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2002‑2005",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E66",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration to confirm fitment before ordering — this listing covers the E66 730i LWB only.",
+  "list": [
+   "BMW 7 Series (E66) (730i LWB 272 PS) 2002‑2005"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New seals and gaskets where required",
+   "Cylinder head and block reconditioned to specification"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N62 engine now, or view full N62 engine range for other fits.",
+  "crossLink": "← Back to all N62 engines"
+ }
+}

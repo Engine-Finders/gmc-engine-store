@@ -1,0 +1,91 @@
+{
+ "brand": "audi",
+ "brandName": "Audi",
+ "engineSlug": "ea113",
+ "applicationSlug": "audi-a3-8p-bwa-saloon",
+ "engineCode": "EA113",
+ "condition": "used",
+ "seo": {
+  "title": "Used EA113 2.0 TFSI Engine — Audi A3 8P (BWA) Saloon 2004-2009",
+  "description": "EA113 · Used · Audi A3 Saloon 8P, 2.0 TFSI BWA 200 PS · £1,145 · 12-month warranty · UK delivery. Same block as BPY with different ECU mapping.",
+  "canonical": "https://engined.co.uk/engines/ea113/audi-a3-8p-bwa-saloon/"
+ },
+ "hero": {
+  "title": "Used EA113 2.0 TFSI Engine — Audi A3 8P (BWA) Saloon 2004-2009",
+  "subtitle": "Used EA113 2.0 TFSI engine for Audi A3 Saloon 8P — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA113-USED-A3-8P-BWA-SAL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,145",
+    "note": "12-month warranty",
+    "price": "£1,145.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "EA113 2.0 TFSI BWA engine for Audi A3 Saloon 8P, transverse K03 turbo, 200 PS.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA113",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2004-2009",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "8P",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/audi-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/audi-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/audi-audi-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Verify this engine fits your Audi A3 using our free registration checker — input your reg for instant confirmation.",
+  "list": [
+   "Audi A3 Saloon (8P) 2004-2009 — 2.0 TFSI BWA (200 PS)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Comprehensive inspection report",
+   "Oil and filter service",
+   "UK delivery included"
+  ],
+  "excluded": [
+   "Turbocharger (reusable if in good condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA113 engine now, or view the full EA113 engine range for other applications.",
+  "crossLink": "← Back to all EA113 engines"
+ }
+}

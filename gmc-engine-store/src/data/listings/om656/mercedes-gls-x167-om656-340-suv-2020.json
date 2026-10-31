@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "om656",
+ "applicationSlug": "mercedes-gls-x167-om656-340-suv-2020",
+ "engineCode": "OM656",
+ "condition": "used",
+ "seo": {
+  "title": "OM656 GLS400d X167 340 | Engined",
+  "description": "Used OM656 engine for Mercedes-Benz GLS X167 GLS 400d 340 PS — £4,365, 12-month warranty, tested before dispatch and UK delivery. Check registration.",
+  "canonical": "https://engined.co.uk/engines/om656/mercedes-gls-x167-om656-340-suv-2020/"
+ },
+ "hero": {
+  "title": "OM656 GLS400d X167 340",
+  "subtitle": "SUB — Used Mercedes-Benz OM656 engine for GLS 400d — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: OM656-USED-X167-GLS400D",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £4,365",
+    "note": "12-month warranty",
+    "price": "£4,365.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Mercedes-Benz OM656 3.0 diesel engine for GLS X167 GLS 400d 340 PS SUV, twin-turbo.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "OM656",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2020–present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X167",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-om656-engine.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration before ordering — this used OM656 is listed for the GLS X167 applications below.",
+  "list": [
+   "GLS X167 (SUV, GLS 400d 340 PS, OM656, Longitudinal) 2020–present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Renewed timing chain",
+   "New gaskets and seals"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this OM656 engine now, or view the full OM656 engine range for other applications.",
+  "crossLink": "← Back to all OM656 engines — https://engined.co.uk/engines/om656/"
+ }
+}

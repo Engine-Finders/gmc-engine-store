@@ -1,0 +1,97 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-m57",
+ "applicationSlug": "e60-530d-saloon-2004",
+ "engineCode": "M57",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW M57 Engine — 5 Series E60 (530d) Saloon 2004-2007",
+  "description": "Used BMW M57 E60 530d Saloon (218 PS) — from £2,295, reconditioned option £3,625. Tested, 12-month warranty, UK delivery. Fits 5 Series E60 2004-2007.",
+  "canonical": "https://engined.co.uk/engines/bmw-m57/e60-530d-saloon-2004/"
+ },
+ "hero": {
+  "title": "Used BMW M57 Engine — 5 Series E60 (530d) Saloon 2004-2007",
+  "subtitle": "Used M57 engine for 5 Series E60 530d Saloon — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M57-USED-E60-530D",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,295",
+    "note": "12-month warranty",
+    "price": "£2,295.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £3,625",
+    "note": "12-month warranty",
+    "price": "£3,625.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "BMW M57 engine for E60 530d Saloon 2004-2007 — used 218 PS 6-cylinder diesel unit",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M57",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2004-2007",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E60",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-m57-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration for a guaranteed fit check — these vehicles are confirmed compatible with this BMW M57 engine.",
+  "list": [
+   "BMW 5 Series (E60) 2004-2007 — 530d (218 PS) Saloon"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Full pressure and leak testing",
+   "All gaskets and seals replaced",
+   "Timing components inspected"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries (alternator, starter, AC compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M57 engine now, or view the full M57 engine range for other applications.",
+  "crossLink": "← Back to all M57 engines"
+ }
+}

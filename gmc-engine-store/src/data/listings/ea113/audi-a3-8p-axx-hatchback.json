@@ -1,0 +1,91 @@
+{
+ "brand": "audi",
+ "brandName": "Audi",
+ "engineSlug": "ea113",
+ "applicationSlug": "audi-a3-8p-axx-hatchback",
+ "engineCode": "EA113",
+ "condition": "used",
+ "seo": {
+  "title": "Used EA113 2.0 TFSI Engine — Audi A3 8P (AXX) Hatchback 2004-2009",
+  "description": "EA113 · used · Audi A3 8P (AXX) 2.0 TFSI 200 PS · £1,145 · 12-month warranty · UK delivery.",
+  "canonical": "https://engined.co.uk/engines/ea113/audi-a3-8p-axx-hatchback/"
+ },
+ "hero": {
+  "title": "Used EA113 2.0 TFSI Engine — Audi A3 8P (AXX) Hatchback 2004-2009",
+  "subtitle": "Used EA113 engine for Audi A3 8P (AXX) 2.0 TFSI — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA113-USED-A3-8P-AXX",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,145",
+    "note": "12-month warranty",
+    "price": "£1,145.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "EA113 2.0 TFSI AXX engine for Audi A3 8P hatchback 2004-2009 — transverse turbo configuration",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA113",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2004-2009",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "8P",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/audi-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/audi-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/audi-audi-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "This EA113 engine is confirmed to fit the vehicles listed below — use our reg checker to confirm exact compatibility for your specific vehicle.",
+  "list": [
+   "Audi A3 Hatchback (8P) 2004-2009 — 2.0 TFSI AXX (200 PS)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Full diagnostic report",
+   "Oil and filter service completed",
+   "Pressure and compression tested"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA113 engine now, or view the full EA113 engine range for other applications.",
+  "crossLink": "← Back to all EA113 engines"
+ }
+}

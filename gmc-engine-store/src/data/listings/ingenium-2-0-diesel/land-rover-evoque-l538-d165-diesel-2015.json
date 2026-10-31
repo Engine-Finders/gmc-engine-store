@@ -1,0 +1,90 @@
+{
+ "brand": "jaguar",
+ "brandName": "Jaguar",
+ "engineSlug": "ingenium-2-0-diesel",
+ "applicationSlug": "land-rover-evoque-l538-d165-diesel-2015",
+ "engineCode": "204DTD",
+ "condition": "used",
+ "seo": {
+  "title": "Used 204DTD 2.0 Ingenium Diesel Engine — Range Rover Evoque (L538) D165 SUV 2015-Present",
+  "description": "Used 204DTD engine for Range Rover Evoque (L538) D165 SUV 2015-present. Fixed price £2,395, tested before dispatch, 12-month warranty & UK delivery.",
+  "canonical": "https://engined.co.uk/engines/ingenium-2-0-diesel/land-rover-evoque-l538-d165-diesel-2015/"
+ },
+ "hero": {
+  "title": "Used 204DTD 2.0 Ingenium Diesel Engine — Range Rover Evoque (L538) D165 SUV 2015-Present",
+  "subtitle": "Used 204DTD engine for Range Rover Evoque (L538) D165 SUV — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 204DTD-USED-EVOQUE-L538-D165",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,395",
+    "note": "12-month warranty",
+    "price": "£2,395.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used 204DTD 2.0L transverse single-turbo Ingenium diesel engine for Range Rover Evoque (L538) D165 SUV.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "204DTD",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2015-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L538",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/jaguar-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/jaguar-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/jaguar-jaguar-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment instantly by entering your registration number below to match your chassis code.",
+  "list": [
+   "Range Rover Evoque (L538) 2015-present — D165 2.0 Diesel (165 PS) SUV"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Transverse single-turbo Ingenium unit",
+   "Compact SUV-specific mounting"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries not specified above",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 204DTD engine now, or view the full 204DTD engine range for other applications.",
+  "crossLink": "← Back to all 204DTD engines"
+ }
+}

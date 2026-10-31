@@ -1,0 +1,83 @@
+{
+ "brand": "seat",
+ "brandName": "Seat",
+ "engineSlug": "ea211",
+ "applicationSlug": "seat-alhambra-7n-1-4-tsi-150-mpv-2010-recon",
+ "engineCode": "EA211",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned EA211 Engine — SEAT Alhambra 7N (1.4 TSI 150 PS) MPV 2010-2020",
+  "description": "Reconditioned EA211 engine for SEAT Alhambra 7N 1.4 TSI 150 PS. Used £1,195, reconditioned £1,800. 12-month warranty, UK delivery, tested before dispatch.",
+  "canonical": "https://engined.co.uk/engines/ea211/seat-alhambra-7n-1-4-tsi-150-mpv-2010-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned EA211 Engine — SEAT Alhambra 7N (1.4 TSI 150 PS) MPV 2010-2020",
+  "subtitle": "Reconditioned EA211 engine for SEAT Alhambra 7N 1.4 TSI 150 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA211-RECON-G2-14TSI-ALHAMBRA",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,195",
+    "note": "12-month warranty",
+    "price": "£1,195.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "EA211 1.4 TSI 150 PS reconditioned engine for SEAT Alhambra 7N MPV, transverse-mounted, Alhambra ancillaries",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA211",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2010-2020",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "7N",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration to confirm this EA211 fits your SEAT Alhambra 7N — every application listed is matched by chassis and engine code.",
+  "list": [
+   "SEAT Alhambra 7N (1.4 TSI 150 PS, CZEA/CMBA) 2010-2020"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Engine code and chassis match confirmed before dispatch",
+   "Delivery across the UK"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA211 engine now, or view the full EA211 range for other applications.",
+  "crossLink": "← Back to all EA211 engines"
+ }
+}

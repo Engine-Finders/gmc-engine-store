@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "aj300",
+ "applicationSlug": "land-rover-range-rover-sport-l494-aj300-p400-suv-2022",
+ "engineCode": "AJ300",
+ "condition": "used",
+ "seo": {
+  "title": "Used AJ300 3.0 Petrol Engine — Range Rover Sport L494 P400 (MHEV, Longitudinal) 2022–present",
+  "description": "Used AJ300 3.0L engine for Range Rover Sport L494 P400. Fixed £5,175 price, tested before dispatch. Includes 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/aj300/land-rover-range-rover-sport-l494-aj300-p400-suv-2022/"
+ },
+ "hero": {
+  "title": "Used AJ300 3.0 Petrol Engine — Range Rover Sport L494 P400 (MHEV, Longitudinal) 2022–present",
+  "subtitle": "Used AJ300 engine for Range Rover Sport L494 P400 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: AJ300-USED-RRS-L494-P400-2022-2",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £5,175",
+    "note": "12-month warranty",
+    "price": "£5,175.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used AJ300 3.0 Petrol Engine — Range Rover Sport L494 P400 (MHEV, Longitudinal) 2022–present",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJ300",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2022–present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L494",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm exact fitment for your SUV using our free registration checker before ordering your AJ300 engine.",
+  "list": [
+   "Range Rover Sport L494 (3.0 Ingenium P400) 2022–present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch",
+   "12-month warranty as standard",
+   "Sump and oil pickup tube",
+   "Rocker cover and base gaskets"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this AJ300 engine now, or view the full AJ300 engine range for other applications.",
+  "crossLink": "← Back to all AJ300 engines"
+ }
+}

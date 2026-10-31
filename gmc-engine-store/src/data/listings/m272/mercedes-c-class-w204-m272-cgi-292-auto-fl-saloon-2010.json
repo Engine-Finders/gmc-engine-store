@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "m272",
+ "applicationSlug": "mercedes-c-class-w204-m272-cgi-292-auto-fl-saloon-2010",
+ "engineCode": "M272",
+ "condition": "used",
+ "seo": {
+  "title": "Used M272 3.5 CGI Engine — C-Class W204 Saloon (C350 CGI, 292 PS, Auto) FL 2010–2011 | Engined",
+  "description": "Used M272 3.5 CGI engine for Mercedes C-Class W204 C350 CGI (292 PS, Auto, 2010–2011). £1,489, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/m272/mercedes-c-class-w204-m272-cgi-292-auto-fl-saloon-2010/"
+ },
+ "hero": {
+  "title": "Used M272 3.5 CGI Engine — C-Class W204 Saloon (C350 CGI, 292 PS, Auto) FL 2010–2011",
+  "subtitle": "Used M272 engine for C-Class W204 C350 CGI — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M272-USED-W204-C350CGI-AUTO-FL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,489",
+    "note": "12-month warranty",
+    "price": "£1,489.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Used M272 3.5 CGI engine, Mercedes C-Class W204 C350 CGI 292 PS Auto facelift 2010–2011",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M272",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2010–2011",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W204",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-m272-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with our reg checker before you buy — this M272 CGI engine fits the applications listed below.",
+  "list": [
+   "C-Class W204 (C350 CGI 292 PS, Auto, Saloon, M272 DE35) 2010–2011"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Engine code verified against the application",
+   "Dispatch documentation and warranty registration"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M272 engine now, or view the full M272 range for other applications.",
+  "crossLink": "← Back to all M272 engines"
+ }
+}

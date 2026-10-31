@@ -1,0 +1,91 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "b37",
+ "applicationSlug": "bmw-1-series-f21-114d-hatchback-2015",
+ "engineCode": "B37",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW B37 Engine — 1 Series F21 (114d) Hatchback 2015-2019",
+  "description": "B37 · Used · 1 Series F21 114d Hatchback · £1,530 · 12-month warranty · UK delivery. Tested before dispatch with full 12-month warranty.",
+  "canonical": "https://engined.co.uk/engines/b37/bmw-1-series-f21-114d-hatchback-2015/"
+ },
+ "hero": {
+  "title": "Used BMW B37 Engine — 1 Series F21 (114d) Hatchback 2015-2019",
+  "subtitle": "Used B37D15 engine for 1 Series F21 114d Hatchback and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: B37-USED-F21-114D-HATCH",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,530",
+    "note": "12-month warranty",
+    "price": "£1,530.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "BMW B37D15 longitudinal engine for F20/F21 1 Series 114d — complete used unit",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "B37",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2015-2019",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F21",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration or check the list below to confirm this B37 engine fits your BMW 1 Series. For accurate fitment verification, use our reg checker tool.",
+  "list": [
+   "BMW 1 Series Hatchback (F21) 2015-2019 — 114d (95 hp)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "All gaskets and seals fitted",
+   "Oil and filter service completed",
+   "Cam belt / timing chain checked"
+  ],
+  "excluded": [
+   "Turbocharger (reusable from your existing unit)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter, AC compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this B37 engine now, or view the full B37 engine range for other applications.",
+  "crossLink": "← Back to all B37 engines"
+ }
+}

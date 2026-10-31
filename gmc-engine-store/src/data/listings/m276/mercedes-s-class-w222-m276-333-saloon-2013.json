@@ -1,0 +1,96 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "m276",
+ "applicationSlug": "mercedes-s-class-w222-m276-333-saloon-2013",
+ "engineCode": "M276",
+ "condition": "used",
+ "seo": {
+  "title": "Used M276 3.0 TT Engine — S-Class W222 (S400, 333 PS) 2013–2017 | Engined",
+  "description": "Used M276 3.0 TT engine for S-Class W222 S400 333 PS (2013–2017). Twin-turbo 3.0 V6, premium S-Class spec. 12-month warranty, UK delivery. £3,360.",
+  "canonical": "https://engined.co.uk/engines/m276/mercedes-s-class-w222-m276-333-saloon-2013/"
+ },
+ "hero": {
+  "title": "Used M276 3.0 TT Engine — S-Class W222 (S400, 333 PS) 2013–2017",
+  "subtitle": "Used M276 engine for S-Class W222 S400 333 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M276-USED-G5-W222-S400",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £3,360",
+    "note": "12-month warranty",
+    "price": "£3,360.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £5,040",
+    "note": "12-month warranty",
+    "price": "£5,040.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Mercedes-Benz M276 3.0 twin-turbo V6 engine for S-Class W222 S400 saloon, 2013–2017",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M276",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2013–2017",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W222",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-m276-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration against the list below before ordering — every application this M276 engine fits is confirmed for the S-Class W222.",
+  "list": [
+   "S-Class W222 Saloon (S400 333 PS — M276 DE30 AL, 3.0 TT) 2013–2017"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly, ready to fit",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil and filter",
+   "Gaskets and seals"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries — alternator, starter, air-con compressor, sensors",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M276 engine now, or view the full M276 range.",
+  "crossLink": "← Back to all M276 engines"
+ }
+}

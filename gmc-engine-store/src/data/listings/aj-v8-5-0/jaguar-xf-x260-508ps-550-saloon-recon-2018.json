@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "aj-v8-5-0",
+ "applicationSlug": "jaguar-xf-x260-508ps-550-saloon-recon-2018",
+ "engineCode": "508PS",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned 508PS 5.0 V8 Engine — Jaguar XF X260 (SC, 550hp) 2018–2020",
+  "description": "Reconditioned 508PS engine for Jaguar XF X260 2018-2020. Fixed price £7,475, tested before dispatch, 12-month warranty & UK delivery. 5.0 V8 SC 550hp.",
+  "canonical": "https://engined.co.uk/engines/aj-v8-5-0/jaguar-xf-x260-508ps-550-saloon-recon-2018/"
+ },
+ "hero": {
+  "title": "Reconditioned 508PS 5.0 V8 Engine — Jaguar XF X260 (SC, 550hp) 2018–2020",
+  "subtitle": "Reconditioned 508PS engine for Jaguar XF X260 2018–2020 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 508PS-RECON-XF260-550-1820",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £7,475",
+    "note": "12-month warranty",
+    "price": "£7,475.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "508PS engine for Jaguar XF X260, 5.0 V8 SC 550hp, supercharged, tested before dispatch",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "508PS",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2018-2020",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X260",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Will a 508PN NA engine fit my XFR? X260 uses 508PS only; use the reg checker above to confirm fitment.",
+  "list": [
+   "Jaguar XF X260 (5.0 V8 SC 550hp) 2018–2020"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Fully cleaned and inspected",
+   "Ready for direct fitment"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 508PS engine now, or view the full 508PS range for other applications.",
+  "crossLink": "← Back to all 508PS engines"
+ }
+}

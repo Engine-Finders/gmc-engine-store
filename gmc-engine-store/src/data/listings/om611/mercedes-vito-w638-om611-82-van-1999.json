@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "om611",
+ "applicationSlug": "mercedes-vito-w638-om611-82-van-1999",
+ "engineCode": "OM611",
+ "condition": "used",
+ "seo": {
+  "title": "Used OM611 2.2 CDI Engine — Vito W638 Van (108 CDI, 82 PS) 1999–2003",
+  "description": "Used OM611 2.2 CDI diesel engine for Mercedes-Benz Vito W638 Van 108 CDI 82 PS, 1999–2003. £1,166 fixed price, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/om611/mercedes-vito-w638-om611-82-van-1999/"
+ },
+ "hero": {
+  "title": "Used OM611 2.2 CDI Engine — Vito W638 Van (108 CDI, 82 PS) 1999–2003",
+  "subtitle": "SUB — Used OM611 engine for Mercedes-Benz Vito W638 Van 108 CDI — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: OM611-USED-G3-VITO108-82",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,166",
+    "note": "12-month warranty",
+    "price": "£1,166.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Mercedes-Benz OM611 2.2 CDI engine for Vito W638 Van 108 CDI 82 PS, transverse, 1999–2003.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "OM611",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "1999–2003",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W638",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-mercedes-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our reg checker to confirm your Vito W638 is the 108 CDI 82 PS van variant before ordering.",
+  "list": [
+   "Vito W638 (Van — 108 CDI 82 PS — OM611 — Transverse) 1999–2003"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil sump and rocker cover",
+   "Timing cover and front covers"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this OM611 engine now, or view the full OM611 engine range for other applications.",
+  "crossLink": "← Back to all OM611 engines"
+ }
+}

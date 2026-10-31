@@ -1,0 +1,103 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "b38",
+ "applicationSlug": "bmw-x1-u11-sdrive18i-suv-2022",
+ "engineCode": "B38",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW B38 — X1 U11 (sDrive18i) SUV 2022-present",
+  "description": "B38 used engine for X1 U11 sDrive18i SUV, X2, 1 Series — fixed price £1,795, 12-month warranty, UK delivery. Fully tested before dispatch.",
+  "canonical": "https://engined.co.uk/engines/b38/bmw-x1-u11-sdrive18i-suv-2022/"
+ },
+ "hero": {
+  "title": "Used BMW B38 Engine — X1 U11 (sDrive18i) SUV 2022-present",
+  "subtitle": "Used B38 engine for X1 U11 SUV (sDrive18i), X2, 1 Series — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: B38-USED-U11-SDRIVE18I-SUV",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,795",
+    "note": "12-month warranty",
+    "price": "£1,795.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,430",
+    "note": "12-month warranty",
+    "price": "£2,430.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW B38 engine for X1 U11 sDrive18i SUV 2022-present — complete assembly ready for dispatch",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "B38",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2022-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "U11, U12, F48, F39, U10, F20, F21, F22, F23, F44, F30 LCI",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-b38-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number to confirm compatibility, or check the list below for your specific model.",
+  "list": [
+   "X1 SUV (U11) 2022-present — sDrive18i (136 hp)",
+   "X1 SUV (U12) 2022-present — sDrive18i (136 hp)",
+   "X1 SUV (F48) 2015-2022 — sDrive18i (136 hp)",
+   "X2 SUV (F39) 2018-2023 — sDrive18i (136 hp)",
+   "X2 SUV (U10) from 2023 — sDrive18i (136 hp)",
+   "1 Series (F20/F21) from 2015 — 118i (136 hp)",
+   "2 Series (F22/F23/F44) from 2015 — 218i (136 hp)",
+   "3 Series (F30 LCI) 2015-2019 — 318i (136 hp)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (long block)",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil and filters pre-filled",
+   "Timing components checked and adjusted"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter, AC compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this B38 engine now, or view the full B38 engine range for other applications.",
+  "crossLink": "← Back to all B38 engines"
+ }
+}

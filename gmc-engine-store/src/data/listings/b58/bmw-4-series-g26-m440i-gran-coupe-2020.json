@@ -1,0 +1,96 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "b58",
+ "applicationSlug": "bmw-4-series-g26-m440i-gran-coupe-2020",
+ "engineCode": "B58",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW B58 Engine — 4 Series G26 (M440i) 2020+ | Engined",
+  "description": "BMW B58 · Used · Fits 4 Series G26 M440i, 1 Series M140i, 2 Series M240i, 3 Series M340i, Z4 — £6,325. 12-month warranty, UK delivery. Reconditioned option available.",
+  "canonical": "https://engined.co.uk/engines/b58/bmw-4-series-g26-m440i-gran-coupe-2020/"
+ },
+ "hero": {
+  "title": "Used BMW B58 Engine — 4 Series G26 (M440i) Gran Coupé 2020-present",
+  "subtitle": "Used B58 engine for 4 Series G26 M440i, 1 Series M140i, 2 Series M240i and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: B58-USED-G26-M440I",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £6,325",
+    "note": "12-month warranty",
+    "price": "£6,325.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "BMW B58 engine for 4 Series G26 M440i Gran Coupé — used 3.0-litre M Performance unit",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "B58",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2020-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "G26",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-b58-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "This used BMW B58 engine is confirmed to fit the applications listed below. Use our registration checker to confirm compatibility with your specific vehicle.",
+  "list": [
+   "4 Series Gran Coupé (G26) 2020-present — M440i (374 hp)",
+   "1 Series M140i",
+   "2 Series M240i",
+   "3 Series 340i/M340i",
+   "4 Series 440i/M440i",
+   "Z4"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Full inspection and compression test",
+   "Drained and flushed",
+   "UK delivery included"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries (alternator, starter, AC compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this B58 engine now, or view the full B58 engine range for other applications.",
+  "crossLink": "← Back to all B58 engines"
+ }
+}

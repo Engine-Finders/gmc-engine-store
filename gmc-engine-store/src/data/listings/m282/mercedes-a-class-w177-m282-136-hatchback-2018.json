@@ -1,0 +1,96 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "m282",
+ "applicationSlug": "mercedes-a-class-w177-m282-136-hatchback-2018",
+ "engineCode": "M282",
+ "condition": "used",
+ "seo": {
+  "title": "Used M282 1.3T Engine — A-Class W177 Hatchback (A200, 136 PS) 2018–2022",
+  "description": "Used M282 1.3T engine for Mercedes-Benz A-Class W177 A200 136 PS (2018–2022). £2,295, 12-month warranty, tested before dispatch. UK delivery.",
+  "canonical": "https://engined.co.uk/engines/m282/mercedes-a-class-w177-m282-136-hatchback-2018/"
+ },
+ "hero": {
+  "title": "Used M282 1.3T Engine — A-Class W177 Hatchback (A200, 136 PS) 2018–2022",
+  "subtitle": "Used M282 engine for Mercedes-Benz A-Class W177 A200 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M282-USED-MB-A200-1822",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,295",
+    "note": "12-month warranty",
+    "price": "£2,295.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,895",
+    "note": "12-month warranty",
+    "price": "£2,895.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used M282 1.3T turbo engine for Mercedes-Benz A-Class W177 A200 136 PS hatchback, 2018–2022.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M282",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2018–2022",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W177",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-mercedes-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your registration with our reg checker before ordering — this M282 fits the pre-facelift W177 A200 hatchback built 2018–2022.",
+  "list": [
+   "Mercedes-Benz A-Class W177 (A200 136 PS Hatchback) 2018–2022"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Delivery to a UK mainland address",
+   "Unit supplied to the exact W177 A200 136 PS specification"
+  ],
+  "excluded": [
+   "Turbocharger (reusable unit, condition-dependent)",
+   "Injectors and fuel system components",
+   "Ancillaries (starter, alternator, pumps)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M282 engine now, or view the full M282 engine range for other applications.",
+  "crossLink": "← Back to all M282 engines"
+ }
+}

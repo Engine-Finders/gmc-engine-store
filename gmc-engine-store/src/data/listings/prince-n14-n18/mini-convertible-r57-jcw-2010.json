@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "prince-n14-n18",
+ "applicationSlug": "mini-convertible-r57-jcw-2010",
+ "engineCode": "N18",
+ "condition": "used",
+ "seo": {
+  "title": "Used Prince N18 1.6 Turbo Engine — MINI Convertible R57 JCW 2010–2014 | Engined",
+  "description": "Used N18 engine for MINI Convertible R57 JCW (211 PS) 2010–2014. Fixed £1,375 with 12-month warranty, tested before dispatch and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/prince-n14-n18/mini-convertible-r57-jcw-2010/"
+ },
+ "hero": {
+  "title": "Used Prince N18 1.6 Turbo Engine — MINI Convertible R57 JCW 2010–2014",
+  "subtitle": "Used N18 engine for MINI Convertible R57 JCW — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: PRINCE-USED-R57-JCW-N18",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,375",
+    "note": "12-month warranty",
+    "price": "£1,375.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used N18 1.6 turbo engine for MINI Convertible R57 JCW, with N18 Valvetronic for convertible.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N18",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2010–2014",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "R57",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment by entering your registration in the reg checker before ordering; this listing covers the following MINI application.",
+  "list": [
+   "MINI Convertible R57 — JCW (211 PS) 2010–2014 (N18)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Sump and timing covers"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N18 engine now, or view the full N18 engine range for other applications.",
+  "crossLink": "← Back to all N18 engines"
+ }
+}

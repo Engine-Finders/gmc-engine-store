@@ -1,0 +1,90 @@
+{
+ "brand": "jaguar",
+ "brandName": "Jaguar",
+ "engineSlug": "duratorq-x-type",
+ "applicationSlug": "recon-jaguar-x-type-x400-2-0-tdci-diesel-fwd-2003",
+ "engineCode": "DURATORQ 2.0 TDCI",
+ "condition": "recon",
+ "seo": {
+  "title": "Recon Duratorq 2.0 TDCi Diesel Engine X-Type X400 | Engined",
+  "description": "Reconditioned Duratorq 2.0 TDCi Diesel Engine for Jaguar X-Type (X400) FWD Saloon. Fixed price £1,500. Tested before dispatch, UK delivery, 12-month warranty.",
+  "canonical": "https://engined.co.uk/engines/duratorq-x-type/recon-jaguar-x-type-x400-2-0-tdci-diesel-fwd-2003/"
+ },
+ "hero": {
+  "title": "Reconditioned Ford Duratorq 2.0 TDCi Diesel Engine — Jaguar X-Type (X400) FWD Saloon 2003-2007",
+  "subtitle": "Reconditioned Duratorq 2.0 TDCi engine for Jaguar X-Type (X400) FWD Saloon — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: DURATORQ-20-RECON-XTYPE-SALOON",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,500",
+    "note": "12-month warranty",
+    "price": "£1,500.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned Ford Duratorq 2.0 TDCi Diesel Engine — Jaguar X-Type (X400) FWD Saloon 2003-2007",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "Duratorq 2.0 TDCi",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2003-2007",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X400",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/jaguar-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/jaguar-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/jaguar-jaguar-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number above to confirm fitment for your Jaguar X-Type (X400) FWD Saloon before purchasing this Duratorq engine.",
+  "list": [
+   "Jaguar X-Type X400 (2.0 TDCi Duratorq 130 PS FWD Saloon) 2003-2007"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "OEM-spec gaskets and seals",
+   "Cleaned and inspected engine block"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this Duratorq engine now, or view the full Duratorq engine range for other applications.",
+  "crossLink": "← Back to all Duratorq engines"
+ }
+}

@@ -1,0 +1,82 @@
+{
+ "brand": "nissan",
+ "brandName": "Nissan",
+ "engineSlug": "vq35-37-v6",
+ "applicationSlug": "nissan-skyline-v35-350gt-saloon-2003",
+ "engineCode": "VQ35DE",
+ "condition": "used",
+ "seo": {
+  "title": "Used Nissan VQ35DE Engine — Nissan Skyline V35 (350GT) Saloon 2003-2006",
+  "description": "Used VQ35DE engine for Nissan Skyline V35 350GT Saloon 2003-2006. Fixed price £2,525, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/vq35-37-v6/nissan-skyline-v35-350gt-saloon-2003/"
+ },
+ "hero": {
+  "title": "Used Nissan VQ35DE Engine — Nissan Skyline V35 (350GT) Saloon 2003-2006",
+  "subtitle": "Used VQ35DE engine for Nissan Skyline V35 350GT and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: VQ35-USED-SKYLINE-V35",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,525",
+    "note": "12-month warranty",
+    "price": "£2,525.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Nissan VQ35DE Engine — Nissan Skyline V35 (350GT) Saloon 2003-2006",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "VQ35DE",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2003-2006",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "V35",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/nissan-nissan-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your exact fitment with our free reg-checker before ordering this VQ35DE engine for your Nissan Skyline V35.",
+  "list": [
+   "Nissan Skyline V35 (350GT) 2003-2006"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch",
+   "12-month warranty as standard",
+   "Full technical support",
+   "Secure UK delivery"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this VQ35DE engine now, or view the full VQ35/37 V6 engine range for other applications.",
+  "crossLink": "← Back to all VQ35/37 V6 engines"
+ }
+}

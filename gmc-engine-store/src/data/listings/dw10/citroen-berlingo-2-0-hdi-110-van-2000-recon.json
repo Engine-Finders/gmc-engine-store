@@ -1,0 +1,83 @@
+{
+ "brand": "peugeot",
+ "brandName": "Peugeot",
+ "engineSlug": "dw10",
+ "applicationSlug": "citroen-berlingo-2-0-hdi-110-van-2000-recon",
+ "engineCode": "DW10",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned DW10 Engine — Citroën Berlingo (2.0 HDi 110) Van 2000-2010",
+  "description": "Reconditioned DW10 engine for Citroën Berlingo 2.0 HDi 110 Van 2000-2010. Used price £715, fully tested before dispatch, 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/dw10/citroen-berlingo-2-0-hdi-110-van-2000-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned DW10 Engine — Citroën Berlingo (2.0 HDi 110) Van 2000-2010",
+  "subtitle": "SUB — Reconditioned DW10 engine for Citroën Berlingo 2.0 HDi 110 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: DW10-RECON-BERLINGO-HDI110",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £715",
+    "note": "12-month warranty",
+    "price": "£715.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned DW10 engine for Citroën Berlingo 2.0 HDi 110 Van, 16-valve DW10ATED4, transverse mount.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "DW10",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2000-2010",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Berlingo",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration with our reg checker to confirm this Reconditioned DW10 engine fits your Citroën Berlingo before ordering.",
+  "list": [
+   "Citroën Berlingo (2.0 HDi 110 PS, early 16-valve DW10ATED4) 2000-2010"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Sump and rocker cover"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this DW10 engine now, or view the full DW10 engine range for other applications.",
+  "crossLink": "← Back to all DW10 engines"
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "aj-v8-5-0",
+ "applicationSlug": "land-rover-discovery-4-l319-508pn-375-suv-2009",
+ "engineCode": "508PN",
+ "condition": "used",
+ "seo": {
+  "title": "Used 508PN 5.0 V8 Engine — Discovery 4 L319 (NA, 375hp) 2009–2012 | Engined",
+  "description": "Used 508PN 5.0 V8 engine for Discovery 4 L319 2009–2012, 375hp NA. Fixed price £2,965, tested before dispatch, 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/aj-v8-5-0/land-rover-discovery-4-l319-508pn-375-suv-2009/"
+ },
+ "hero": {
+  "title": "Used 508PN 5.0 V8 Engine — Discovery 4 L319 (NA, 375hp) 2009–2012",
+  "subtitle": "SUB — Used 508PN engine for Discovery 4 L319 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 508PN-USED-DISCO4-375-0912",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,965",
+    "note": "12-month warranty",
+    "price": "£2,965.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used 508PN 5.0 V8 engine for Discovery 4 L319 2009–2012, 375hp NA — tested before dispatch",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "508PN",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2009–2012",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L319",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration to confirm this 508PN engine fits your Discovery 4 L319 2009–2012.",
+  "list": [
+   "Discovery 4 L319 (SUV, 5.0 V8 NA 375hp, 508PN code) 2009–2012"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New gaskets and seals",
+   "Ready for fitting"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 508PN engine now, or view the full 508PN engine range for other applications.",
+  "crossLink": "← Back to all 508PN engines"
+ }
+}

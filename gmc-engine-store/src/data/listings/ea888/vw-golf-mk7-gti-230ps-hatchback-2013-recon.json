@@ -1,0 +1,90 @@
+{
+ "brand": "volkswagen",
+ "brandName": "Volkswagen",
+ "engineSlug": "ea888",
+ "applicationSlug": "vw-golf-mk7-gti-230ps-hatchback-2013-recon",
+ "engineCode": "EA888 GEN 3",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned EA888 Engine — VW Golf Mk7 GTI (2.0 TSI 230 PS) Hatchback 2013-2016 | Engined",
+  "description": "",
+  "canonical": "https://engined.co.uk/engines/ea888/vw-golf-mk7-gti-230ps-hatchback-2013-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned EA888 Engine — VW Golf Mk7 GTI (2.0 TSI 230 PS) Hatchback 2013-2016",
+  "subtitle": "Reconditioned EA888 Gen 3 engine for VW Golf Mk7 GTI 230 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA888-RECON-GOLF-MK7-GTI-230-HATCH-12M",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,025",
+    "note": "12-month warranty",
+    "price": "£2,025.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned EA888 Gen 3 2.0 TSI 230 PS transverse MQB turbo petrol engine, VW Golf Mk7 GTI spec, rebuilt head",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA888 Gen 3",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2013-2016",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "5G",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/volkswagen-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/volkswagen-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/volkswagen-vw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration against the list below to confirm this Gen 3 EA888 engine matches your Golf before ordering.",
+  "list": [
+   "VW Golf Mk7 5G (2.0 TSI GTI 230 PS — CULC) Hatchback 2013-2016"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Fully drained and sealed for transport",
+   "New gaskets and seals where applicable"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA888 engine now, or view the full EA888 engine range for other applications.",
+  "crossLink": "← Back to all EA888 engines"
+ }
+}

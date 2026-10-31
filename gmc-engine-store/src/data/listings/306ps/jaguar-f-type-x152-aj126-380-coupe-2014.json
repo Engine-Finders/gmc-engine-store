@@ -1,0 +1,91 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "306ps",
+ "applicationSlug": "jaguar-f-type-x152-aj126-380-coupe-2014",
+ "engineCode": "AJ126",
+ "condition": "used",
+ "seo": {
+  "title": "Used AJ126 3.0 SC V6 Engine — Jaguar F-Type Coupe (380PS) 2014–2020",
+  "description": "Used AJ126 engine for Jaguar F-Type X152 Coupe. Fixed price £3,675. Tested before dispatch, includes a 12-month warranty and free UK delivery.",
+  "canonical": "https://engined.co.uk/engines/306ps/jaguar-f-type-x152-aj126-380-coupe-2014/"
+ },
+ "hero": {
+  "title": "Used AJ126 3.0 SC V6 Engine — Jaguar F-Type Coupe (380PS) 2014–2020",
+  "subtitle": "Used AJ126 engine for Jaguar F-Type X152 and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 306PS-USED-FTYPE-COUPE-380",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £3,675",
+    "note": "12-month warranty",
+    "price": "£3,675.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Jaguar AJ126 3.0 SC V6 engine for F-Type X152 Coupe 380PS, tested and ready for UK delivery.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJ126",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2014–2020",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X152",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number in our checker above to confirm this AJ126 engine fits your Jaguar F-Type X152.",
+  "list": [
+   "Jaguar F-Type X152 (3.0 AJ126 380PS Coupe) 2014–2020"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "OEM-spec gaskets and seals",
+   "Cleaned and degreased block",
+   "Full compression test report"
+  ],
+  "excluded": [
+   "Supercharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this AJ126 engine now, or view the full 306PS range for other applications.",
+  "crossLink": "← Back to all 306PS engines"
+ }
+}

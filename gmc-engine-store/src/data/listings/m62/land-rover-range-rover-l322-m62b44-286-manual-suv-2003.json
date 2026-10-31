@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "m62",
+ "applicationSlug": "land-rover-range-rover-l322-m62b44-286-manual-suv-2003",
+ "engineCode": "M62B44",
+ "condition": "used",
+ "seo": {
+  "title": "Used M62B44 4.4 V8 Engine — Range Rover L322 (286 PS, Manual) 2003–2004 | Engined",
+  "description": "Used M62B44 4.4 V8 engine for Range Rover L322, L322 V8, 286 PS Manual 2003–2004. Fixed £1,895, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/m62/land-rover-range-rover-l322-m62b44-286-manual-suv-2003/"
+ },
+ "hero": {
+  "title": "Used M62B44 4.4 V8 Engine — Range Rover L322 (286 PS, Manual) 2003–2004",
+  "subtitle": "Used M62B44 engine for Range Rover L322, L322 V8, 286 PS Manual and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M62-USED-L322-286-MAN-0304",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,895",
+    "note": "12-month warranty",
+    "price": "£1,895.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used M62B44 4.4 V8 engine for Range Rover L322 2003–2004, 286 PS manual, BMW-sourced M62TU variant.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M62B44",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2003–2004",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L322",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use the reg checker to confirm your Range Rover L322 fitment before ordering; this M62B44 listing covers the applications below.",
+  "list": [
+   "Range Rover L322 (SUV — 4.4 V8 286 PS — Manual — M62B44) 2003–2004"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Sump and timing cover"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M62B44 engine now, or view the full M62B44 range for other applications.",
+  "crossLink": "← Back to all M62B44 engines"
+ }
+}

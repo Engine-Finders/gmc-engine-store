@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "om611",
+ "applicationSlug": "mercedes-sprinter-w901-om611-109-van-2000",
+ "engineCode": "OM611",
+ "condition": "used",
+ "seo": {
+  "title": "Used OM611 2.2 CDI Engine — Sprinter W901 (212 CDI, 109 PS) 2000–2006",
+  "description": "Used OM611 2.2 CDI engine for Mercedes Sprinter W901 van (212 CDI, 109 PS) 2000–2006. Tested before dispatch, 12-month warranty, UK delivery. £1,495.",
+  "canonical": "https://engined.co.uk/engines/om611/mercedes-sprinter-w901-om611-109-van-2000/"
+ },
+ "hero": {
+  "title": "Used OM611 2.2 CDI Engine — Sprinter W901 (212 CDI, 109 PS) 2000–2006",
+  "subtitle": "Used OM611 engine for Mercedes Sprinter W901 (212 CDI, 109 PS) — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: OM611-USED-G4-W901-212-109",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,495",
+    "note": "12-month warranty",
+    "price": "£1,495.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used OM611 2.2 CDI diesel engine for Mercedes Sprinter W901 van, 212 CDI 109 PS, longitudinal",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "OM611",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2000–2006",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W901",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-mercedes-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with our reg checker before ordering — this used OM611 fits the following Mercedes Sprinter W901 applications.",
+  "list": [
+   "Sprinter W901 (212 CDI, 109 PS, Van) 2000–2006"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (block, head, sump, timing cover)",
+   "Fully tested before dispatch",
+   "12-month warranty as standard",
+   "New gaskets and seals fitted",
+   "Oil and filter service kit"
+  ],
+  "excluded": [
+   "Turbocharger (reused where condition allows)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter, pumps)",
+   "Fitting and installation labour"
+  ]
+ },
+ "cta": {
+  "line": "Buy this OM611 engine now, or view the full OM611 engine range for other applications.",
+  "crossLink": "← Back to all OM611 engines"
+ }
+}

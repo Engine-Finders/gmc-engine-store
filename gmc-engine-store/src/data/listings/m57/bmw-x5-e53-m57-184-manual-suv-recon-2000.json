@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "m57",
+ "applicationSlug": "bmw-x5-e53-m57-184-manual-suv-recon-2000",
+ "engineCode": "M57",
+ "condition": "recon",
+ "seo": {
+  "title": "Recon M57 3.0 Engine BMW X5 E53 3.0d | Engined",
+  "description": "Recon M57 3.0 engine for BMW X5 E53 3.0d (Manual, 184 PS, 2000-2003). Fixed price £2,700. Tested before dispatch, 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/m57/bmw-x5-e53-m57-184-manual-suv-recon-2000/"
+ },
+ "hero": {
+  "title": "Reconditioned M57 3.0 Engine — BMW E53 X5 3.0d (Manual, 184 PS) 2000–2003",
+  "subtitle": "Reconditioned M57 engine for BMW X5 E53 3.0d — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M57-PEND-RECON-X5-3.0D-0003",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,700",
+    "note": "12-month warranty",
+    "price": "£2,700.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned M57 3.0 engine for BMW X5 E53 3.0d Manual 184 PS, complete unit, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M57",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2000–2003",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E53",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number in our checker above to confirm exact fitment for your BMW X5 E53 chassis before purchasing.",
+  "list": [
+   "BMW X5 E53 2000–2003 — SUV — M57 184 PS — Manual — M57D30"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "All internal seals and gaskets replaced",
+   "Professionally cleaned and degreased"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "External ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M57 engine now, or view the full M57 engine range for other applications.",
+  "crossLink": "← Back to all M57 engines"
+ }
+}

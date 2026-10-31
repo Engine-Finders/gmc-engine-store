@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "r9m",
+ "applicationSlug": "mercedes-vito-w447-om622-114-traveliner-van-2014",
+ "engineCode": "OM622",
+ "condition": "used",
+ "seo": {
+  "title": "OM622 Vito Traveliner 114 | Engined",
+  "description": "Used OM622 1.6 dCi engine for Mercedes Vito W447 Traveliner 114 CDI 136 PS 2014–2018. £1,695, 12-month warranty, UK delivery. Tested before dispatch.",
+  "canonical": "https://engined.co.uk/engines/r9m/mercedes-vito-w447-om622-114-traveliner-van-2014/"
+ },
+ "hero": {
+  "title": "Used OM622 1.6 dCi Engine — Vito W447 Traveliner (114 CDI, 136 PS) 2014–2018",
+  "subtitle": "Used OM622 engine for Vito W447 Traveliner 114 CDI 136 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: R9M-USED-OM622-VITO-TRAV-114",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,695",
+    "note": "12-month warranty",
+    "price": "£1,695.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used OM622 1.6 dCi engine for Mercedes Vito W447 Traveliner 114 CDI 136 PS 2014–2018.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "OM622",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2014–2018",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W447",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-mercedes-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration with our reg checker to confirm this OM622 engine fits your Vito W447 Traveliner before ordering.",
+  "list": [
+   "Vito W447 (Traveliner — 114 CDI 136 PS — OM622 — Transverse) 2014–2018"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Sump and timing cover"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this OM622 engine now, or view the full OM622 engine range for other applications.",
+  "crossLink": "← Back to all OM622 engines"
+ }
+}

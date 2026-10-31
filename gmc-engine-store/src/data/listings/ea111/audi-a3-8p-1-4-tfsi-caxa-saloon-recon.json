@@ -1,0 +1,91 @@
+{
+ "brand": "audi",
+ "brandName": "Audi",
+ "engineSlug": "ea111",
+ "applicationSlug": "audi-a3-8p-1-4-tfsi-caxa-saloon-recon",
+ "engineCode": "EA111",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned EA111 Engine — Audi A3 8P (1.4 TFSI CAXA) Saloon 2007-2012",
+  "description": "Reconditioned EA111 · Audi A3 8P Saloon (1.4 TFSI CAXA) 2007-2012 — £1,650 with 12‑month warranty & UK delivery. Fully rebuilt & tested.",
+  "canonical": "https://engined.co.uk/engines/ea111/audi-a3-8p-1-4-tfsi-caxa-saloon-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned EA111 Engine — Audi A3 8P (1.4 TFSI CAXA) Saloon 2007-2012",
+  "subtitle": "Reconditioned EA111 engine for Audi A3 8P Saloon (1.4 TFSI CAXA) — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA111-RECON-A3-8P-CAXA-SAL",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,650",
+    "note": "12-month warranty",
+    "price": "£1,650.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned EA111 1.4 TFSI CAXA engine for Audi A3 8P Saloon — transverse configuration",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA111",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2007-2012",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "8P",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/audi-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/audi-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/audi-audi-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "This EA111 engine is confirmed to fit the vehicles listed below — use our reg checker to confirm exact compatibility for your specific vehicle.",
+  "list": [
+   "Audi A3 Saloon (8P) — 1.4 TFSI CAXA (122 PS) — 2007-2012"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Full diagnostic report",
+   "Oil and filter service completed",
+   "Pressure and compression tested"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA111 engine now, or view the full EA111 engine range for other applications.",
+  "crossLink": "← Back to all EA111 engines"
+ }
+}

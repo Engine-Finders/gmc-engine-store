@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "om654",
+ "applicationSlug": "mercedes-c-class-w206-c200d-saloon-recon",
+ "engineCode": "OM654",
+ "condition": "recon",
+ "seo": {
+  "title": "Recon OM654 C-Class W206 C200d | Engined",
+  "description": "Reconditioned OM654 engine for Mercedes C-Class Saloon W206 C200d. Recon £3,400 with 12-month warranty, tested before dispatch and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/om654/mercedes-c-class-w206-c200d-saloon-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned OM654 Engine — Mercedes C-Class W206 (C200d) Saloon 2021+",
+  "subtitle": "Reconditioned OM654 engine for C-Class Saloon W206 C200d — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: OM654-RECON-W206-C200D-SAL",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £3,400",
+    "note": "12-month warranty",
+    "price": "£3,400.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned OM654 engine for Mercedes C-Class W206 C200d Saloon, W206 only, 2021 onwards.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "OM654",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2021+",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W206",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-om654-engine.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration to confirm fitment before buying — this listing covers the following C-Class saloon application.",
+  "list": [
+   "C-Class Saloon W206 (C200d) 2021+"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and valvetrain",
+   "Sump and timing cover"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this OM654 engine now, or view the OM654 engine range for other applications",
+  "crossLink": "← Back to all OM654 engines"
+ }
+}

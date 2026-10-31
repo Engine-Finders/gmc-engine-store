@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "td5-recon",
+ "applicationSlug": "defender-90-county-station-wagon-56d-2006",
+ "engineCode": "TD5",
+ "condition": "recon",
+ "seo": {
+  "title": "Recon Td5 Engine — Defender 90 County Station Wagon (56D) 2006-2008",
+  "description": "Buy a Reconditioned Td5 engine for Defender 90 County. Fixed price £6,093, fully tested before dispatch, backed by a 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/td5-recon/defender-90-county-station-wagon-56d-2006/"
+ },
+ "hero": {
+  "title": "Recon Td5 Engine — Defender 90 County Station Wagon (56D) 2006-2008",
+  "subtitle": "Reconditioned Td5 engine for Defender 90 County Station Wagon — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: TD5-RECON-DEF90-COUNTY-56D",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £6,093",
+    "note": "12-month warranty",
+    "price": "£6,093.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Recon Td5 Engine — Defender 90 County Station Wagon (56D) 2006-2008",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "Td5",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2006-2008",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L316",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your exact fitment using our free reg-checker below, or check the compatible models listed for this Td5 engine.",
+  "list": [
+   "Defender 90 (L316) County Station Wagon 2006-2008 — 56D (122 PS)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch",
+   "12-month warranty as standard",
+   "UK delivery",
+   "VAT included"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this Td5 engine now, or view the full Td5 range for other applications.",
+  "crossLink": "← Back to all Td5 engines"
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "om651",
+ "applicationSlug": "mercedes-c-class-w205-om651-136-auto-estate-2014",
+ "engineCode": "OM651",
+ "condition": "used",
+ "seo": {
+  "title": "Used OM651 2.1 CDI Engine — C-Class W205 Estate (C200d, 136 PS, Auto) 2014–2018 | Engined",
+  "description": "Used OM651 2.1 CDI engine for Mercedes C-Class W205 Estate C200d 136 PS Auto 2014–2018. Fixed £1,800, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/om651/mercedes-c-class-w205-om651-136-auto-estate-2014/"
+ },
+ "hero": {
+  "title": "Used OM651 2.1 CDI Engine — C-Class W205 Estate (C200d, 136 PS, Auto) 2014–2018",
+  "subtitle": "Used OM651 engine for C-Class W205 Estate C200d 136 PS Auto — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: OM651-USED-W205-C200d-AUTO-EST",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,800",
+    "note": "12-month warranty",
+    "price": "£1,800.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used OM651 2.1 CDI engine for Mercedes C-Class W205 Estate C200d 136 PS Auto 2014–2018, tested.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "OM651",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2014–2018",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W205",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-om651-engine.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration before buying — confirm your Mercedes C-Class W205 Estate C200d 136 PS Auto matches this OM651 fitment.",
+  "list": [
+   "C-Class W205 (Estate — C200d 136 PS — Auto — OM651.913) 2014–2018"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New timing belt/chain where applicable",
+   "New gaskets and seals"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this OM651 engine now, or view the full OM651 range for other applications.",
+  "crossLink": "← Back to all OM651 engines"
+ }
+}

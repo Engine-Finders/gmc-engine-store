@@ -4,7 +4,7 @@ import { useState } from "react";
 import Icon from "../Icon";
 import type { ListingPageData } from "@/lib/listing";
 
-type Data = ListingPageData["faqs"];
+type Data = NonNullable<ListingPageData["faqs"]>;
 
 export default function ListingFaqs({ data }: { data: Data }) {
   // reference shows the first answer expanded, the rest collapsed

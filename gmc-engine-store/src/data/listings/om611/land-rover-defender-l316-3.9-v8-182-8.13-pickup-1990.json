@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "om611",
+ "applicationSlug": "land-rover-defender-l316-3.9-v8-182-8.13-pickup-1990",
+ "engineCode": "37L 3.9 V8",
+ "condition": "used",
+ "seo": {
+  "title": "Used 37L 3.9 V8 Engine — Defender L316 Pick Up (182 PS, 8.13:1) 1990–2000 | Engined",
+  "description": "Used 37L 3.9 V8 engine for the Land Rover Defender 90/110/130 L316 Pick Up, 182 PS, 8.13:1 compression. £1,076 with 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/om611/land-rover-defender-l316-3.9-v8-182-8.13-pickup-1990/"
+ },
+ "hero": {
+  "title": "Used 37L 3.9 V8 Engine — Defender L316 Pick Up (182 PS, 8.13:1) 1990–2000",
+  "subtitle": "Used 37L 3.9 V8 engine for the Defender 90/110/130 Pick Up — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 37L-USED-DEFENDER-L316-PICKUP-182-LC",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,076",
+    "note": "12-month warranty",
+    "price": "£1,076.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used 37L 3.9 V8 engine for Land Rover Defender L316 Pick Up, 182 PS, 1990–2000",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "37L 3.9 V8",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "1990–2000",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L316",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration below to confirm this used 37L 3.9 V8 engine fits your Land Rover Defender L316 before you buy.",
+  "list": [
+   "Defender 90/110/130 L316 (Pick Up — 3.9 V8 182 PS 8.13:1) 1990–2000"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New gaskets and seals fitted",
+   "Engine oil and filter"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 37L 3.9 V8 engine now, or view the full 37L 3.9 V8 engine range for other applications.",
+  "crossLink": "← Back to all 37L engines"
+ }
+}

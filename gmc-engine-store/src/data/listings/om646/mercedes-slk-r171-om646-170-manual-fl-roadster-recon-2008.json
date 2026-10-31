@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "om646",
+ "applicationSlug": "mercedes-slk-r171-om646-170-manual-fl-roadster-recon-2008",
+ "engineCode": "OM646",
+ "condition": "recon",
+ "seo": {
+  "title": "Recon OM646 Engine SLK R171 SLK 220 CDI 170PS | Engined",
+  "description": "Recon OM646 2.2 CDI engine for Mercedes SLK R171 Roadster SLK 220 CDI 170 PS. Fixed price £2,415, tested before dispatch, 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/om646/mercedes-slk-r171-om646-170-manual-fl-roadster-recon-2008/"
+ },
+ "hero": {
+  "title": "Reconditioned OM646 2.2 CDI Engine — SLK R171 (SLK 220 CDI, 170 PS) FL",
+  "subtitle": "Reconditioned OM646 engine for SLK R171 Roadster SLK 220 CDI and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: OM646-RECON-R171-SLK220-MAN-FL",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,415",
+    "note": "12-month warranty",
+    "price": "£2,415.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned OM646 2.2 CDI engine for Mercedes SLK R171 Roadster SLK 220 CDI 170 PS Manual, tested.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "OM646",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2008–2011",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "R171",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-mercedes-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number above to confirm this reconditioned OM646 engine fits your Mercedes-Benz SLK R171.",
+  "list": [
+   "Mercedes-Benz SLK R171 2008–2011 (Roadster) SLK 220 CDI 170 PS Manual OM646.981 EVO"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Renewed timing chain",
+   "Higher output specification"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this OM646 engine now, or view the full OM646 engine range for other applications.",
+  "crossLink": "← Back to all OM646 engines"
+ }
+}

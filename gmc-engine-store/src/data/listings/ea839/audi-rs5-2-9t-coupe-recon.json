@@ -1,0 +1,93 @@
+{
+ "brand": "audi",
+ "brandName": "Audi",
+ "engineSlug": "ea839",
+ "applicationSlug": "audi-rs5-2-9t-coupe-recon",
+ "engineCode": "EA839",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned Audi EA839 2.9T Engine — RS5 B9 2.9 TFSI Coupe 2017-present",
+  "description": "EA839 · Reconditioned · Audi RS5 Coupe (B9) 2017-present, 2.9 TFSI twin-turbo 450 PS — £7,500 · 12-month warranty · UK delivery.",
+  "canonical": "https://engined.co.uk/engines/ea839/audi-rs5-2-9t-coupe-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned Audi EA839 2.9T Engine — RS5 B9 2.9 TFSI Coupe 2017-present",
+  "subtitle": "Reconditioned EA839 2.9T twin-turbo engine for Audi RS5 Coupe (B9) — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA839-RECON-RS5-CPE",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £7,500",
+    "note": "12-month warranty",
+    "price": "£7,500.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned EA839 2.9T twin-turbo engine for Audi RS5 B9 Coupe – 450 PS, rebuilt with renewed timing components and turbo inspection",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA839",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2017-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "B9",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/audi-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/audi-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/audi-audi-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration for instant compatibility confirmation, or check the list below to see if this EA839 2.9T engine fits your vehicle.",
+  "list": [
+   "Audi RS5 Coupe (B9) 2017-present — 2.9 TFSI twin-turbo (450 PS)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch with compression and leak-down checks",
+   "12-month warranty as standard",
+   "Full technical inspection report",
+   "Timing chains, tensioners, and guides replaced (as part of recon)",
+   "Cylinder head rebuild (as part of recon)",
+   "Twin-turbo inspection (reusable if sound)",
+   "Oil and filter service completed"
+  ],
+  "excluded": [
+   "Turbochargers (reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, air conditioning compressor, power steering pump)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA839 engine now, or view the full EA839 engine range for other applications.",
+  "crossLink": "← Back to all EA839 engines (links to https://engined.co.uk/engines/ea839/)"
+ }
+}

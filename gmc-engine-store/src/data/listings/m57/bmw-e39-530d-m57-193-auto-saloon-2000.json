@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "m57",
+ "applicationSlug": "bmw-e39-530d-m57-193-auto-saloon-2000",
+ "engineCode": "M57",
+ "condition": "used",
+ "seo": {
+  "title": "PENDING — M57 3.0 Engine — BMW E39 530d (Auto, 193 PS) 2000–2003",
+  "description": "M57 · PENDING Used · BMW E39 530d Auto · £1,400 · 12-month warranty included as standard. Fast UK delivery on all reconditioned and used engines.",
+  "canonical": "https://engined.co.uk/engines/m57/bmw-e39-530d-m57-193-auto-saloon-2000/"
+ },
+ "hero": {
+  "title": "PENDING — M57 3.0 Engine — BMW E39 530d (Auto, 193 PS) 2000–2003",
+  "subtitle": "PENDING Used M57 engine for BMW E39 530d Auto and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M57-PEND-E39-530D-AUTO-193-0003",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,400",
+    "note": "12-month warranty",
+    "price": "£1,400.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "M57 3.0 Diesel Engine for BMW E39 530d Auto 193 PS, tested and ready for fast UK delivery.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M57",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2000–2003",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E39",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your exact registration with our free checker to ensure this M57 engine perfectly matches your BMW E39 chassis.",
+  "list": [
+   "BMW E39 530d (Auto, 193 PS) 2000–2003"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Full technical support",
+   "UK delivery included"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M57 engine now, or view the M57 range for other applications.",
+  "crossLink": "← Back to all M57 engines"
+ }
+}

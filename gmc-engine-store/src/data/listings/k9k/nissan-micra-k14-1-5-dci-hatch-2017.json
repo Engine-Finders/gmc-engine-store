@@ -1,0 +1,82 @@
+{
+ "brand": "nissan",
+ "brandName": "Nissan",
+ "engineSlug": "k9k",
+ "applicationSlug": "nissan-micra-k14-1-5-dci-hatch-2017",
+ "engineCode": "K9K",
+ "condition": "used",
+ "seo": {
+  "title": "Used K9K Engine — Nissan Micra K14 (1.5 dCi) Hatchback 2017-2019 | Engined",
+  "description": "Used K9K engine for Nissan Micra K14 1.5 dCi. Fixed price £805 (Used) or £1,755 (Recon). Tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/k9k/nissan-micra-k14-1-5-dci-hatch-2017/"
+ },
+ "hero": {
+  "title": "Used K9K Engine — Nissan Micra K14 (1.5 dCi) Hatchback 2017-2019",
+  "subtitle": "Used K9K engine for Nissan Micra K14 1.5 dCi and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: K9K-USED-G2-MICRAK14",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £805",
+    "note": "12-month warranty",
+    "price": "£805.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "K9K used engine for Nissan Micra K14 1.5 dCi, transverse diesel unit, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "K9K",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2017-2019",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "K14",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/renault-k9k-dci-diesel-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number above to confirm this K9K engine fits your vehicle before ordering.",
+  "list": [
+   "Nissan Micra K14 (1.5 dCi) 2017-2019"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "VAT included",
+   "Free UK delivery"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this K9K engine now, or view the full K9K engine range for other applications.",
+  "crossLink": "← Back to all K9K engines"
+ }
+}

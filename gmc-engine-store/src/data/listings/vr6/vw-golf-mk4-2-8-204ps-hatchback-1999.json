@@ -1,0 +1,90 @@
+{
+ "brand": "volkswagen",
+ "brandName": "Volkswagen",
+ "engineSlug": "vr6",
+ "applicationSlug": "vw-golf-mk4-2-8-204ps-hatchback-1999",
+ "engineCode": "VR6",
+ "condition": "used",
+ "seo": {
+  "title": "Used VR6 Engine — VW Golf Mk4 2.8 V6 204 PS Hatchback",
+  "description": "Used VR6 petrol engine for VW Golf Mk4 2.8 V6 204 PS (AMY/AQP/AUE). In stock now, tested before dispatch, £1,950, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/vr6/vw-golf-mk4-2-8-204ps-hatchback-1999/"
+ },
+ "hero": {
+  "title": "Used VR6 Engine — VW Golf Mk4 (2.8 V6 204 PS) Hatchback 1999-2004",
+  "subtitle": "Used VR6 engine for VW Golf Mk4 2.8 V6 204 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: VR6-USED-GOLF-MK4-28-HATCH",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,950",
+    "note": "12-month warranty",
+    "price": "£1,950.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used VR6 engine for VW Golf Mk4 2.8 V6 204 PS, AMY/AQP/AUE, 1999-2004, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "VR6",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "1999-2004",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "1J",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/volkswagen-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/volkswagen-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/volkswagen-vw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our registration checker to confirm this used VR6 engine fits your VW Golf Mk4 before you buy.",
+  "list": [
+   "VW Golf Mk4 1J (2.8 VR6 24v 204 PS AMY/AQP/AUE — Hatchback) 1999-2004"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block included",
+   "Oil sump and timing cover included"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this VR6 engine now, or view the full VR6 engine range for other applications.",
+  "crossLink": "← Back to all VR6 engines"
+ }
+}

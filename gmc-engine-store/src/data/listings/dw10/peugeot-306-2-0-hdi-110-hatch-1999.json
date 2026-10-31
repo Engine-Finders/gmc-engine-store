@@ -1,0 +1,83 @@
+{
+ "brand": "peugeot",
+ "brandName": "Peugeot",
+ "engineSlug": "dw10",
+ "applicationSlug": "peugeot-306-2-0-hdi-110-hatch-1999",
+ "engineCode": "PSA DW10",
+ "condition": "used",
+ "seo": {
+  "title": "Used DW10 Engine — Peugeot 306 (2.0 HDi 110) Hatchback 1999-2002",
+  "description": "In stock. Used PSA DW10 engine for Peugeot 306 2.0 HDi 110 (1999-2002). Fixed price £715, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/dw10/peugeot-306-2-0-hdi-110-hatch-1999/"
+ },
+ "hero": {
+  "title": "Used DW10 Engine — Peugeot 306 (2.0 HDi 110) Hatchback 1999-2002",
+  "subtitle": "Used DW10 engine for Peugeot 306 2.0 HDi 110 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: DW10-USED-306-HDI110",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £715",
+    "note": "12-month warranty",
+    "price": "£715.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used PSA DW10 2.0 HDi 110 diesel engine for Peugeot 306 1999-2002, early 16-valve, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "PSA DW10",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "1999-2002",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Peugeot 306 1999-2002",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration to confirm this DW10 engine fits your Peugeot 306 2.0 HDi 110 before ordering.",
+  "list": [
+   "Peugeot 306 (2.0 HDi 110 PS, early 16-valve DW10ATED4) 1999-2002"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Engine block and cylinder head",
+   "Sump and timing covers"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this DW10 engine now, or view the full DW10 engine range for other applications.",
+  "crossLink": "← Back to all DW10 engines"
+ }
+}

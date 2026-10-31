@@ -1,0 +1,83 @@
+{
+ "brand": "renault",
+ "brandName": "Renault",
+ "engineSlug": "m9t",
+ "applicationSlug": "renault-trafic-iii-2-3-dci-145ps-van-2018",
+ "engineCode": "M9T",
+ "condition": "used",
+ "seo": {
+  "title": "Used Renault M9T Engine — Renault Trafic III | Engined",
+  "description": "Used Renault M9T engine for Renault Trafic III (2.3 dCi 145 PS). £1,895 with 12-month warranty and UK delivery. Tested before dispatch. Code M9T 706/880.",
+  "canonical": "https://engined.co.uk/engines/m9t/renault-trafic-iii-2-3-dci-145ps-van-2018/"
+ },
+ "hero": {
+  "title": "Used Renault M9T Engine — Renault Trafic III (2.3 dCi 145 PS) Van 2018-Present",
+  "subtitle": "Used M9T engine for Renault Trafic III van — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M9T-USED-TRAFIC-145",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,895",
+    "note": "12-month warranty",
+    "price": "£1,895.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Renault M9T 2.3 dCi 145 PS engine for Renault Trafic III, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M9T",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2018–present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "N/A",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration to confirm this used M9T engine fits your Renault Trafic III before you buy.",
+  "list": [
+   "Renault Trafic III (2.3 dCi 145 PS, code M9T 706/880) 2018–present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Sump and timing cover"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M9T engine now, or view the full M9T engine range for other applications.",
+  "crossLink": "← Back to all M9T engines — https://engined.co.uk/engines/m9t/"
+ }
+}

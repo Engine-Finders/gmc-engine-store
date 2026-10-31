@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "m272",
+ "applicationSlug": "mercedes-c-class-w204-m272-231-manual-prefl-saloon-2007",
+ "engineCode": "M272",
+ "condition": "used",
+ "seo": {
+  "title": "Used M272 3.0 V6 Engine — C-Class W204 Saloon (C280/C300, 231 PS, Manual) Pre-FL 2007–2010 | Engined",
+  "description": "Used M272 3.0 V6 engine for Mercedes-Benz C-Class W204 C280/C300 231 PS manual saloon. £1,295, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/m272/mercedes-c-class-w204-m272-231-manual-prefl-saloon-2007/"
+ },
+ "hero": {
+  "title": "Used M272 3.0 V6 Engine — C-Class W204 Saloon (C280/C300, 231 PS, Manual) Pre-FL 2007–2010",
+  "subtitle": "Used M272 engine for C-Class W204 C280/C300 231 PS manual saloon, 2007–2010 — fixed price, tested before dispatch, UK delivery. *(127 chars)",
+  "sku": "SKU: M272-USED-W204-C280-MAN-PREFL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,295",
+    "note": "12-month warranty",
+    "price": "£1,295.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "M272 3.0 V6 used engine for Mercedes C-Class W204 C280/C300 231 PS manual pre-facelift saloon",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M272",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2007–2010",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W204",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-m272-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration below to confirm this used M272 engine matches your C-Class W204 C280 or C300 before you buy. *(123 chars)",
+  "list": [
+   "C-Class W204 (C280/C300 231 PS — Manual — Saloon — M272 E30) 2007–2010"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Balance shaft inspected and verified",
+   "Sump, rocker cover and timing covers supplied"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, air conditioning compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M272 engine now, or view the full M272 engine range for other applications. *(118 chars)",
+  "crossLink": "← Back to all M272 engines"
+ }
+}

@@ -1,0 +1,96 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "om654",
+ "applicationSlug": "mercedes-e-class-s213-e300d-estate",
+ "engineCode": "OM654",
+ "condition": "used",
+ "seo": {
+  "title": "Used OM654 Engine — Mercedes E-Class S213 (E300d) Estate 2016-2020",
+  "description": "Used OM654 engine for Mercedes E-Class S213 E300d Estate 2016-2020. £2,869 with 12-month warranty and UK delivery. Tested before dispatch. Buy now.",
+  "canonical": "https://engined.co.uk/engines/om654/mercedes-e-class-s213-e300d-estate/"
+ },
+ "hero": {
+  "title": "Used OM654 Engine — Mercedes E-Class S213 (E300d) Estate 2016-2020",
+  "subtitle": "Used OM654 engine for Mercedes E-Class S213 E300d Estate — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: OM654-USED-S213-E300D-EST",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,869",
+    "note": "12-month warranty",
+    "price": "£2,869.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £4,140",
+    "note": "12-month warranty",
+    "price": "£4,140.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used OM654 engine for Mercedes E-Class S213 E300d Estate 2016-2020, twin-turbo diesel.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "OM654",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2016-2020",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "S213",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-om654-engine.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment for your Mercedes E-Class S213 E300d Estate 2016-2020 using our reg checker before ordering.",
+  "list": [
+   "E-Class Estate S213 (E300d) 2016-2020"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil sump and timing cover",
+   "All gaskets and seals"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this OM654 engine now, or view the full OM654 engine range for other applications.",
+  "crossLink": "← Back to all OM654 engines"
+ }
+}

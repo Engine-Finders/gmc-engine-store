@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n52",
+ "applicationSlug": "e63-630i-coupe-2004",
+ "engineCode": "N52",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW N52 Engine — 6 Series E63 (630i) Coupe 2004‑2007",
+  "description": "Used BMW N52 engine for 6 Series E63 630i Coupe 2004‑2007. 258 PS Pre‑LCI N52B30, premium coupé. £1,605, 12-month warranty, UK delivery available.",
+  "canonical": "https://engined.co.uk/engines/bmw-n52/e63-630i-coupe-2004/"
+ },
+ "hero": {
+  "title": "Used BMW N52 Engine — 6 Series E63 (630i) Coupe 2004‑2007",
+  "subtitle": "Used N52 engine for 630i Coupe, 258 PS, Pre‑LCI N52B30 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N52-USED-E63-630I-PREFL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,605",
+    "note": "12-month warranty",
+    "price": "£1,605.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW N52 engine for 6 Series E63 630i Coupe, 258 PS Pre‑LCI N52B30, tested and ready to fit.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N52",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2004‑2007",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E63",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration before ordering to confirm fitment for your BMW 6 Series E63 630i Coupe.",
+  "list": [
+   "BMW 6 Series E63 (630i 258 PS Coupe) 2004‑2007"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Internal components matched to engine code"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N52 engine now, or view the full N52 engine range for other applications.",
+  "crossLink": "← Back to all N52 engines"
+ }
+}

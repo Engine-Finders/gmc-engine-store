@@ -1,0 +1,83 @@
+{
+ "brand": "vauxhall",
+ "brandName": "Vauxhall",
+ "engineSlug": "b20dth",
+ "applicationSlug": "vauxhall-astra-k-170ps-estate-2015",
+ "engineCode": "B20DTH",
+ "condition": "used",
+ "seo": {
+  "title": "Used B20DTH Engine — Vauxhall Astra K (170 PS) Sports Tourer Estate 2015-present | Engined",
+  "description": "Used B20DTH engine for Vauxhall Astra K Sports Tourer Estate 2.0 CDTi 170 PS 2015-present. £1,495, 12-month warranty, UK delivery available. Check fitment by reg.",
+  "canonical": "https://engined.co.uk/engines/b20dth/vauxhall-astra-k-170ps-estate-2015/"
+ },
+ "hero": {
+  "title": "Used B20DTH Engine — Vauxhall Astra K (170 PS) Sports Tourer Estate 2015-present",
+  "subtitle": "SUB — Used B20DTH engine for Vauxhall Astra K Sports Tourer Estate — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: B20DTH-USED-ASTRA-K-ESTATE",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,495",
+    "note": "12-month warranty",
+    "price": "£1,495.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used B20DTH engine for Vauxhall Astra K Sports Tourer Estate 2.0 CDTi 170 PS 2015-present.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "B20DTH",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2015-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Astra K Sports Tourer",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with our reg checker before ordering — this used B20DTH is listed for the following Astra K application.",
+  "list": [
+   "Vauxhall Astra K Sports Tourer 2015-present — 2.0 CDTi 170 PS (B20DTH) — Estate"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil and filter change",
+   "New gaskets and seals"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this B20DTH engine now, or view the full B20DTH engine range for other applications.",
+  "crossLink": "← Back to all B20DTH engines"
+ }
+}

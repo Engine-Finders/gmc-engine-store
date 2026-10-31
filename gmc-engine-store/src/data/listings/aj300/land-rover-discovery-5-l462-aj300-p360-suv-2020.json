@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "aj300",
+ "applicationSlug": "land-rover-discovery-5-l462-aj300-p360-suv-2020",
+ "engineCode": "AJ300",
+ "condition": "used",
+ "seo": {
+  "title": "Used AJ300 3.0 Petrol Engine — Discovery 5 L462 P360 (MHEV, Longitudinal) 2020–2022",
+  "description": "Used AJ300 3.0 petrol engine for Discovery 5 L462 P360. Fixed price £4,500, tested before dispatch, 12-month warranty & UK delivery included.",
+  "canonical": "https://engined.co.uk/engines/aj300/land-rover-discovery-5-l462-aj300-p360-suv-2020/"
+ },
+ "hero": {
+  "title": "Used AJ300 3.0 Petrol Engine — Discovery 5 L462 P360 2020–2022",
+  "subtitle": "Used AJ300 engine for Discovery 5 L462 P360 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: AJ300-USED-DISCO5-P360-2022",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £4,500",
+    "note": "12-month warranty",
+    "price": "£4,500.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used AJ300 3.0 petrol engine for Discovery 5 L462 P360 longitudinal mount 2020 to 2022",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJ300",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2020–2022",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L462",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your exact fitment with our free reg-checker below, then review the compatible models for this AJ300 engine.",
+  "list": [
+   "Discovery 5 L462 (P360 MHEV) 2020–2022"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch",
+   "12-month warranty as standard",
+   "Full technical support",
+   "UK delivery included"
+  ],
+  "excluded": [
+   "Turbocharger",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this AJ300 engine now, or view the full AJ300 engine range for other applications.",
+  "crossLink": "← Back to all AJ300 engines"
+ }
+}

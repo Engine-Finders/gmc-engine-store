@@ -1,0 +1,91 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "b47",
+ "applicationSlug": "bmw-3-series-f30-316d-saloon-2015-recon",
+ "engineCode": "B47",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned BMW B47 Engine — 3 Series F30 (316d) Saloon 2015-2019",
+  "description": "B47 · Reconditioned · 3 Series F30 (316d) Saloon · £2,245 · 12-month warranty · UK delivery. Tested before dispatch. Fully reconditioned to factory specifications.",
+  "canonical": "https://engined.co.uk/engines/b47/bmw-3-series-f30-316d-saloon-2015-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW B47 Engine — 3 Series F30 (316d) Saloon 2015-2019",
+  "subtitle": "Reconditioned B47 engine for 3 Series Saloon (F30) — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: B47-RECON-COMPACT-F30-316D",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,245",
+    "note": "12-month warranty",
+    "price": "£2,245.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned BMW B47 engine for 3 Series F30 316d saloon 2015-2019, diesel, 116 hp",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "B47",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2015-2019",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F30",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-b47-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration for instant fitment confirmation, or check the compatible models listed below for this B47 diesel engine.",
+  "list": [
+   "3 Series Saloon (F30) 2015-2019 — 316d (116 hp)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Full inspection and compression test",
+   "Oil and filter change service",
+   "UK mainland delivery"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this B47 engine now, or view the full B47 engine range for other applications.",
+  "crossLink": "← Back to all B47 engines"
+ }
+}

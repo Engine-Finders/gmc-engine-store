@@ -1,0 +1,83 @@
+{
+ "brand": "peugeot",
+ "brandName": "Peugeot",
+ "engineSlug": "dw10",
+ "applicationSlug": "peugeot-308-2-0-hdi-163-hatch-2007",
+ "engineCode": "PSA DW10",
+ "condition": "used",
+ "seo": {
+  "title": "DW10 308 HDi163 Used | Engined",
+  "description": "Used DW10 engine for Peugeot 308 2.0 HDi 163 Hatchback, 2007-2015. Fixed price £1,295, 12-month warranty, tested before dispatch, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/dw10/peugeot-308-2-0-hdi-163-hatch-2007/"
+ },
+ "hero": {
+  "title": "Used DW10 Engine — Peugeot 308 (2.0 HDi 163) Hatchback 2007-2015",
+  "subtitle": "SUB — Used DW10 engine for Peugeot 308 2.0 HDi 163 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: DW10-USED-308-HDI163",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,295",
+    "note": "12-month warranty",
+    "price": "£1,295.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used DW10 engine for Peugeot 308 2.0 HDi 163 Hatchback 2007-2015, RHE/RHH, transverse mount, DPF/BlueHDi",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "PSA DW10",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2007-2015",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "308",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration to confirm fitment before ordering — this listing covers the Peugeot 308 2.0 HDi 163 applications below.",
+  "list": [
+   "Peugeot 308 (2.0 HDi 163 PS, RHE/RHH, DW10CTED4) 2007-2015"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New timing belt where applicable",
+   "New gaskets and seals"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this DW10 engine, or view the full DW10 engine range for other applications.",
+  "crossLink": "← Back to all DW10 engines — links to https://engined.co.uk/engines/dw10"
+ }
+}

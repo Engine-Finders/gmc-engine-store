@@ -1,0 +1,84 @@
+{
+ "brand": "peugeot",
+ "brandName": "Peugeot",
+ "engineSlug": "ecotec-family-0",
+ "applicationSlug": "vauxhall-corsa-d-1-4-hatch-2006-recon",
+ "engineCode": "ECOTEC FAMILY 0",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned Vauxhall Ecotec Engine — Corsa D (1.4) Hatchback 2006-2014",
+  "description": "In stock: Reconditioned Vauxhall Ecotec Family 0 engine for Corsa D 1.4 — £805 used, 12-month warranty included, UK delivery. Recon also available from £1,345.",
+  "canonical": "https://engined.co.uk/engines/ecotec-family-0/vauxhall-corsa-d-1-4-hatch-2006-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned Vauxhall Ecotec Engine — Corsa D (1.4) Hatchback 2006-2014",
+  "subtitle": "SUB — Reconditioned Ecotec Family 0 engine for Corsa D 1.4 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: ECOFAM0-RECON-CORSA-D-14",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,345",
+    "note": "12-month warranty",
+    "price": "£1,345.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned Vauxhall Ecotec Family 0 1.4 engine for Corsa D, transverse mount, chain-driven, 2006-2014",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "Ecotec Family 0",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2006–2014",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Corsa D",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your registration with our reg-checker to guarantee fitment before ordering this engine.",
+  "list": [
+   "Vauxhall Corsa D (1.4, 90-100 PS, A14XEL/A14XER) 2006–2014"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (block, head, sump, timing cover)",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New gaskets and seals fitted",
+   "Oil pump and water pump checked and replaced if needed",
+   "Compression and leak-down test results supplied"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, air conditioning compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this Ecotec engine now, or view the full Ecotec Family 0 engine range for other applications.",
+  "crossLink": "← Back to all Ecotec Family 0 engines"
+ }
+}

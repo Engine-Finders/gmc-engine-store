@@ -1,0 +1,91 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n26",
+ "applicationSlug": "f22-228ix-coupe-2012",
+ "engineCode": "N26",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW N26 Engine — 2 Series F22 (228iX) Coupe 2012–2016",
+  "description": "N26 SULEV · used · US-market F22 228iX AWD Coupe · not for UK sale · 12-month warranty.",
+  "canonical": "https://engined.co.uk/engines/bmw-n26/f22-228ix-coupe-2012/"
+ },
+ "hero": {
+  "title": "Used BMW N26 Engine — 2 Series F22 (228iX) Coupe 2012–2016",
+  "subtitle": "Used N26 SULEV engine for US-market BMW 2 Series F22 228iX AWD Coupe — US-market only, not for UK sale.",
+  "sku": "SKU: N26-USED-F22-228IX",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £0",
+    "note": "12-month warranty",
+    "price": "£0.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Not available in UK — US-market only",
+  "imgAlt": "Used BMW N26 engine for 2 Series F22 228iX Coupe 2012-2016 US-market SULEV AWD",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N26",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2012-2016",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F22",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "This engine is for US-market vehicles only. Enter your registration for a guaranteed fitment check.",
+  "list": [
+   "BMW 2 Series (F22) 2012–2016 — 228iX SULEV (245 PS) Coupe (US-market only)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch",
+   "12-month warranty as standard",
+   "OEM-spec gaskets and seals",
+   "Oil and filter service",
+   "Full inspection report"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries (e.g., alternator, starter motor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "View the full BMW N20 engine range for UK-spec alternatives.",
+  "crossLink": "← Back to all BMW N20 engines"
+ }
+}

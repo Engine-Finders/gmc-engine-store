@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n57",
+ "applicationSlug": "e92-335d-coupe-2011",
+ "engineCode": "N57",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW N57 Engine — 3 Series E92 (335d) Coupe 2011‑2013",
+  "description": "Used BMW N57 engine for 3 Series E92 335d Coupe 2011‑2013. Fixed £3,100, tested before dispatch, 12-month warranty, UK delivery. Ready to ship.",
+  "canonical": "https://engined.co.uk/engines/bmw-n57/e92-335d-coupe-2011/"
+ },
+ "hero": {
+  "title": "Used BMW N57 Engine — 3 Series E92 (335d) Coupe 2011‑2013",
+  "subtitle": "Used N57 engine for BMW 3 Series E92 335d Coupe — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N57-USED-E92-335D-FL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £3,100",
+    "note": "12-month warranty",
+    "price": "£3,100.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW N57 diesel engine for 3 Series E92 335d Coupe 2011‑2013, LCI, 286 PS.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N57",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2011‑2013",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E92",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-n57-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration to confirm this N57 engine fits your BMW 3 Series E92 335d Coupe before you buy.",
+  "list": [
+   "BMW 3 Series E92 (335d 286 PS Coupe) 2011‑2013"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Sump and timing covers"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N57 engine now, or view the full N57 engine range for other applications.",
+  "crossLink": "← Back to all N57 engines"
+ }
+}

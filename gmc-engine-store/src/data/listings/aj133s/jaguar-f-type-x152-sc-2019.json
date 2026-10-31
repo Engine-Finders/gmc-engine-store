@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "aj133s",
+ "applicationSlug": "jaguar-f-type-x152-sc-2019",
+ "engineCode": "AJ133S",
+ "condition": "used",
+ "seo": {
+  "title": "Used 5.0 V8 Engine — Jaguar F-Type X152 5.0 SC (AJ133S) 2019-present | Engined",
+  "description": "Used AJ133S 5.0 supercharged V8 engine for the Jaguar F-Type X152 (2019-present), 510 PS. £6,325, tested before dispatch, 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/aj133s/jaguar-f-type-x152-sc-2019/"
+ },
+ "hero": {
+  "title": "Used 5.0 V8 Engine — Jaguar F-Type X152 5.0 SC (AJ133S) 2019-present",
+  "subtitle": "Used AJ133S engine for the Jaguar F-Type X152 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: AJ133S-USED-FTYPE-LATE",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £6,325",
+    "note": "12-month warranty",
+    "price": "£6,325.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used AJ133S 5.0 supercharged V8 engine for Jaguar F-Type X152, 510 PS, 2019-present",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJ133S",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2019-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X152",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration below to confirm this used AJ133S engine fits your Jaguar F-Type X152 before you buy.",
+  "list": [
+   "Jaguar F-Type X152 (5.0 Supercharged AJ133S, 510 PS) 2019–present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New gaskets and seals fitted",
+   "Engine oil and filter"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this AJ133S engine now, or view the AJ133S range for other applications.",
+  "crossLink": "← Back to all AJ133S engines"
+ }
+}

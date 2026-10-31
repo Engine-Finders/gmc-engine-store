@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "306dt",
+ "applicationSlug": "jaguar-xj-x351-ajv6d-275-saloon-recon-2009",
+ "engineCode": "306DT",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned AJV6D Engine — Jaguar XJ X351 (275 PS, Twin-Turbo) 2009–2024",
+  "description": "Reconditioned 306DT AJV6D engine for Jaguar XJ X351 (275 PS, 2009–2024). Fixed price £3,145, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/306dt/jaguar-xj-x351-ajv6d-275-saloon-recon-2009/"
+ },
+ "hero": {
+  "title": "Reconditioned AJV6D Engine — Jaguar XJ X351 (275 PS, Twin-Turbo) 2009–2024",
+  "subtitle": "Reconditioned 306DT engine for Jaguar XJ X351 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 306DT-RECON-XJ-X351-275",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £3,145",
+    "note": "12-month warranty",
+    "price": "£3,145.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned 306DT AJV6D diesel engine for Jaguar XJ X351, 275 PS, Twin-Turbo, 2009–2024.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "306DT",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2009–2024",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X351",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your registration with our reg checker to ensure this 306DT engine fits your Jaguar XJ X351.",
+  "list": [
+   "Jaguar XJ X351 (Saloon — 3.0 AJV6D 275 PS — 306DT engine code) 2009–2024"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil sump and pickup",
+   "Timing covers and pulleys"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 306DT engine now, or view the full 306DT engine range for other applications.",
+  "crossLink": "← Back to all 306DT engines"
+ }
+}

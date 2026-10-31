@@ -1,0 +1,98 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "n47",
+ "applicationSlug": "bmw-1-series-f20-125d-hatchback-2011",
+ "engineCode": "N47",
+ "condition": "used",
+ "seo": {
+  "title": "Used N47 Engine — BMW 1 Series F20 125d Hatchback 2011-2014 | Engined",
+  "description": "N47 · used · BMW 1 Series F20 125d Hatchback · £1,259 · 12-month warranty · UK delivery. Tested before dispatch. Ready to ship.",
+  "canonical": "https://engined.co.uk/engines/n47/bmw-1-series-f20-125d-hatchback-2011/"
+ },
+ "hero": {
+  "title": "Used N47 Engine — BMW 1 Series F20 125d Hatchback 2011-2014",
+  "subtitle": "Used N47 engine for BMW 1 Series Hatchback (F20) 125d 2011-2014 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N47-USED-G1-F20-125D",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,259",
+    "note": "12-month warranty",
+    "price": "£1,259.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,243",
+    "note": "12-month warranty",
+    "price": "£2,243.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "BMW N47 engine for 1 Series F20 125d Hatchback 2011-2014 — tested used unit with ancillaries",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N47",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2011-2014",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F20",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-n47-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number above to confirm compatibility, or check the list below for exact vehicle fitment.",
+  "list": [
+   "BMW 1 Series Hatchback (F20) 125d 2011-2014"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (long block)",
+   "Tested before dispatch — compression, leak-down, and running checks",
+   "12-month warranty as standard",
+   "Timing chain and tensioner inspection",
+   "Oil and filter service completed",
+   "Full gasket and seal replacement",
+   "Compatible ECU mapping data provided"
+  ],
+  "excluded": [
+   "Turbocharger (reusable from your existing unit if serviceable)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, air conditioning compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N47 engine now, or view the full N47 engine range for other applications.",
+  "crossLink": "← Back to all N47 engines"
+ }
+}

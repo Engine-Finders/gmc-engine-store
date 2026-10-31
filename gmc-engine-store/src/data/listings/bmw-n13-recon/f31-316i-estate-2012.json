@@ -1,0 +1,91 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n13-recon",
+ "applicationSlug": "f31-316i-estate-2012",
+ "engineCode": "N13",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned BMW N13 Engine — 3 Series F31 (316i) Estate 2012‑2015",
+  "description": "Reconditioned BMW N13B16A engine for 3 Series F31 316i Estate (2012-2015). 136 PS, renewed timing. £2,245 with 12-month warranty & UK delivery.",
+  "canonical": "https://engined.co.uk/engines/bmw-n13-recon/f31-316i-estate-2012/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW N13 Engine — 3 Series F31 (316i) Estate 2012‑2015",
+  "subtitle": "Reconditioned N13B16A engine for BMW 3 Series F31 316i Estate (2012‑2015) — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N13-RECON-F31-316I-PREFL",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,245",
+    "note": "12-month warranty",
+    "price": "£2,245.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned BMW N13B16A engine for F31 316i Estate, 2012-2015, 136 PS",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N13",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2012‑2015",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F31",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration or confirm compatibility — this reconditioned N13 engine is designed for the following models.",
+  "list": [
+   "BMW 3 Series (F31) 2012‑2015 — 316i (136 PS) Estate"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (N13B16A)",
+   "Tested before dispatch on running rig",
+   "12-month warranty as standard",
+   "New timing chain & guides",
+   "Full gasket set replaced",
+   "Oil and filter service completed"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system components",
+   "Ancillaries (alternator, starter, AC compressor, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N13 engine now, or view the full N13 engine range for other applications.",
+  "crossLink": "← Back to all BMW N13 engines"
+ }
+}

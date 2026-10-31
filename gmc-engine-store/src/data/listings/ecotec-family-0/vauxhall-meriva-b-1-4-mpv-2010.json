@@ -1,0 +1,83 @@
+{
+ "brand": "peugeot",
+ "brandName": "Peugeot",
+ "engineSlug": "ecotec-family-0",
+ "applicationSlug": "vauxhall-meriva-b-1-4-mpv-2010",
+ "engineCode": "ECOTEC FAMILY 0",
+ "condition": "used",
+ "seo": {
+  "title": "Used Vauxhall Ecotec Engine — Meriva B (1.4) MPV 2010-2017",
+  "description": "Used Ecotec Family 0 engine for Vauxhall Meriva B 1.4 (A14XEL/A14XER), also fits Corsa D/E and Astra H/J. Used from £805, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/ecotec-family-0/vauxhall-meriva-b-1-4-mpv-2010/"
+ },
+ "hero": {
+  "title": "Used Vauxhall Ecotec Engine — Meriva B (1.4) MPV 2010-2017",
+  "subtitle": "Used Ecotec Family 0 engine for Meriva B 1.4 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: ECOFAM0-USED-MERIVA-B-14",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £805",
+    "note": "12-month warranty",
+    "price": "£805.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Vauxhall Ecotec Engine — Meriva B (1.4) MPV 2010-2017",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "Ecotec Family 0",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2010-2017",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Meriva B",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration in our reg checker to confirm this Ecotec Family 0 engine matches your Meriva B before ordering.",
+  "list": [
+   "Vauxhall Meriva B (1.4 — 100 PS, A14XEL/A14XER) 2010-2017"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "UK delivery",
+   "VAT invoice and full documentation"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this Ecotec Family 0 engine now, or view the full Ecotec Family 0 engine range for other applications.",
+  "crossLink": "← Back to all Ecotec Family 0 engines → https://engined.co.uk/engines/ecotec-family-0/"
+ }
+}

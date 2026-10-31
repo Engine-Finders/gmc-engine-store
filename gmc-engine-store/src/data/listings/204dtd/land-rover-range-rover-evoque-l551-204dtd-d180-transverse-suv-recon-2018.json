@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "204dtd",
+ "applicationSlug": "land-rover-range-rover-evoque-l551-204dtd-d180-transverse-suv-recon-2018",
+ "engineCode": "204DTD",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned 204DTD 2.0 Diesel Engine — Range Rover Evoque L551 (D180, Transverse) 2018–present | Engined",
+  "description": "Reconditioned 204DTD engine for Range Rover Evoque L551 (D180) 2018–present. Fixed £3,200, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/204dtd/land-rover-range-rover-evoque-l551-204dtd-d180-transverse-suv-recon-2018/"
+ },
+ "hero": {
+  "title": "Reconditioned 204DTD 2.0 Diesel Engine — Range Rover Evoque L551 (D180, Transverse) 2018–present",
+  "subtitle": "Reconditioned 204DTD engine for Range Rover Evoque L551 (D180, Transverse) 2018–present — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 204DTD-RECON-EVOQUE-D180-2018",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £3,200",
+    "note": "12-month warranty",
+    "price": "£3,200.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned 204DTD 2.0 diesel engine for Range Rover Evoque L551, transverse mount, 2018–present",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "204DTD",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2018–present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L551",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration to confirm your Range Rover Evoque L551 (D180) is covered before ordering.",
+  "list": [
+   "Range Rover Evoque L551 (2.0 Ingenium D180, Transverse) 2018–present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New gaskets and seals fitted during preparation",
+   "Oil sump and timing cover"
+  ],
+  "excluded": [
+   "Turbocharger / supercharger (if reusable, supplied per condition)",
+   "Injectors and fuel system",
+   "Ancillaries (alternator, starter, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 204DTD engine now, or view the full 204DTD engine range for other applications.",
+  "crossLink": "← Back to all 204DTD engines"
+ }
+}

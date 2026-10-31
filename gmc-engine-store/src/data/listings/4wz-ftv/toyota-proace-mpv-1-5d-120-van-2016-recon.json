@@ -1,0 +1,83 @@
+{
+ "brand": "toyota",
+ "brandName": "Toyota",
+ "engineSlug": "4wz-ftv",
+ "applicationSlug": "toyota-proace-mpv-1-5d-120-van-2016-recon",
+ "engineCode": "4WZ-FTV",
+ "condition": "recon",
+ "seo": {
+  "title": "Recon 4WZ-FTV Proace 1.5D 120 | Engined",
+  "description": "Reconditioned 4WZ-FTV engine for Toyota Proace MPV 1.5D 120 Van, 2016-present. Renewed timing chain, rebuilt head, £2,995, 12-month warranty.",
+  "canonical": "https://engined.co.uk/engines/4wz-ftv/toyota-proace-mpv-1-5d-120-van-2016-recon/"
+ },
+ "hero": {
+  "title": "Recon 4WZ-FTV Proace 1.5D 120",
+  "subtitle": "Reconditioned 4WZ-FTV engine for Toyota Proace MPV 1.5D 120 Van — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 4WZ-FTV-RECON-PROACE-15D120-VAN-12M",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,995",
+    "note": "12-month warranty",
+    "price": "£2,995.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned 4WZ-FTV 1.5-litre BlueHDi diesel engine, Toyota Proace 1.5D 120 van, rebuilt head, 2016-present",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "4WZ-FTV",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2016-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "MPV/MD",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration below to confirm this reconditioned 4WZ-FTV engine matches your Toyota Proace before you buy.",
+  "list": [
+   "Toyota Proace MPV/MD (1.5D 120 — 5WZ-HV) Van, 2016-present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Fixed price — no hidden extras",
+   "UK delivery"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 4WZ-FTV engine now, or view the full 4WZ-FTV engine range for other applications.",
+  "crossLink": "← Back to all 4WZ-FTV engines"
+ }
+}

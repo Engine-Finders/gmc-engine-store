@@ -1,0 +1,83 @@
+{
+ "brand": "renault",
+ "brandName": "Renault",
+ "engineSlug": "m9t",
+ "applicationSlug": "renault-master-iii-2-3-dci-125ps-van-2010-recon",
+ "engineCode": "M9T",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned Renault M9T Engine — Master III (2.3 dCi 125 PS) Van 2010-Present | Engined",
+  "description": "Reconditioned M9T engine for Renault Master III 2.3 dCi 125 PS (2010-present). Used from £1,995, fully tested, 12-month warranty, fast UK delivery.",
+  "canonical": "https://engined.co.uk/engines/m9t/renault-master-iii-2-3-dci-125ps-van-2010-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned Renault M9T Engine — Master III (2.3 dCi 125 PS) Van 2010-Present",
+  "subtitle": "Reconditioned M9T engine for Master III 125 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M9T-RECON-MASTER-125",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,995",
+    "note": "12-month warranty",
+    "price": "£1,995.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used M9T engine for Renault Master III 2.3 dCi 125 PS, heavy-duty sump, commercial van.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M9T",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2010-Present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Master III",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our registration checker to confirm this M9T engine fits your Renault Master III 2010-present.",
+  "list": [
+   "Renault Master III (2.3 dCi 125 PS, code M9T 680/702) 2010–present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil sump",
+   "Valve cover"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M9T engine now, or view the full M9T engine range for other applications.",
+  "crossLink": "← Back to all M9T engines"
+ }
+}

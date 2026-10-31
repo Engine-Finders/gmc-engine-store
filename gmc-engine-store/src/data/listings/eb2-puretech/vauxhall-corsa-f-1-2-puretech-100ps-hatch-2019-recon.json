@@ -1,0 +1,84 @@
+{
+ "brand": "peugeot",
+ "brandName": "Peugeot",
+ "engineSlug": "eb2-puretech",
+ "applicationSlug": "vauxhall-corsa-f-1-2-puretech-100ps-hatch-2019-recon",
+ "engineCode": "PSA EB2",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned PSA EB2 Engine — Vauxhall Corsa F (1.2 PureTech 100 PS) Hatchback 2019-Present",
+  "description": "Reconditioned PSA EB2 engine for Vauxhall Corsa F 1.2 PureTech 100 PS. Used £1,305, reconditioned £2,250 with 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/eb2-puretech/vauxhall-corsa-f-1-2-puretech-100ps-hatch-2019-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned PSA EB2 Engine — Vauxhall Corsa F (1.2 PureTech 100 PS) Hatchback 2019-Present",
+  "subtitle": "Reconditioned PSA EB2 engine for Vauxhall Corsa F 1.2 PureTech 100 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EB2-RECON-CORSAF-100PS",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,250",
+    "note": "12-month warranty",
+    "price": "£2,250.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "PSA EB2 1.2 PureTech engine to fit Vauxhall Corsa F 100 PS — used and reconditioned options, transverse mount",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "PSA EB2",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2019–present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Corsa F",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your registration below before ordering — this PSA EB2 engine fits the Vauxhall Corsa F 1.2 PureTech 100 PS listed here.",
+  "list": [
+   "Vauxhall Corsa F (1.2 PureTech 100 PS) 2019–present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block included",
+   "Sump, rocker cover and timing cover included",
+   "Compression tested and oil pressure checked"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EB2 engine now, or view the full EB2 engine range for other applications.",
+  "crossLink": "← Back to all EB2 engines"
+ }
+}

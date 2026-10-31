@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "200tdi",
+ "applicationSlug": "land-rover-defender-l316-200tdi-11l-111-pickup-1990",
+ "engineCode": "200TDI",
+ "condition": "used",
+ "seo": {
+  "title": "Used 200Tdi 2.5 Diesel Engine — Defender 90 Pick Up (11L, 111 PS) 1990–1994 | Engined",
+  "description": "Used 200Tdi 2.5 Diesel engine for Defender 90 Pick Up (11L, 111 PS) 1990–1994. £1,188 with 12-month warranty and UK delivery. Tested before dispatch.",
+  "canonical": "https://engined.co.uk/engines/200tdi/land-rover-defender-l316-200tdi-11l-111-pickup-1990/"
+ },
+ "hero": {
+  "title": "Used 200Tdi 2.5 Diesel Engine — Defender 90 Pick Up (11L, 111 PS) 1990–1994",
+  "subtitle": "Used 200Tdi engine for Defender 90 Pick Up — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 200TDI-USED-DEF-11L-PU-111",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,188",
+    "note": "12-month warranty",
+    "price": "£1,188.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used 200Tdi 2.5 Diesel engine for Defender 90 Pick Up, 11L, 111 PS, 1990–1994.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "200Tdi",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "1990–1994",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Defender 90 L316",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration to confirm fitment for the Defender 90 Pick Up — this 200Tdi engine matches the applications listed below.",
+  "list": [
+   "Defender 90 (L316) Pick Up (200Tdi 111 PS, 11L engine code) 1990–1994"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty",
+   "New timing belt",
+   "New gaskets and seals"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 200Tdi engine now, or view the full 200Tdi engine range for other applications.",
+  "crossLink": "← Back to all 200Tdi engines (links to https://engined.co.uk/engines/200tdi/)"
+ }
+}

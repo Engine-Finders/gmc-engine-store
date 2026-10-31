@@ -1,0 +1,89 @@
+{
+ "brand": "citroen",
+ "brandName": "Citroen",
+ "engineSlug": "dv6",
+ "applicationSlug": "ds3-1-6-hdi-bluehdi-hatchback-2010",
+ "engineCode": "DV6",
+ "condition": "used",
+ "seo": {
+  "title": "Used Citroën DV6 Engine — DS3 (1.6 HDi/BlueHDi) Hatchback 2010-present",
+  "description": "DV6 · used · Citroën DS3 Hatchback 1.6 HDi/BlueHDi · 92-110 PS · £788 · 12-month warranty · UK delivery",
+  "canonical": "https://engined.co.uk/engines/dv6/ds3-1-6-hdi-bluehdi-hatchback-2010/"
+ },
+ "hero": {
+  "title": "Used Citroën DV6 Engine — DS3 (1.6 HDi/BlueHDi) Hatchback 2010-present",
+  "subtitle": "Used DV6 diesel engine for Citroën DS3 Hatchback 1.6 HDi and BlueHDi — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: DV6-USED-DS3-HDI-HATCH",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £788",
+    "note": "12-month warranty",
+    "price": "£788.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,470",
+    "note": "12-month warranty",
+    "price": "£1,470.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Citroën DV6 1.6 HDi/BlueHDi engine for DS3 Hatchback 2010-present — tested diesel unit",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "DV6",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2010-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Citroën DS3 Hatchback (2010-present)",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/citroen-psa-dv6-1-6-hdi-diesel-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your vehicle's compatibility below — use our reg-checker to confirm this DV6 engine matches your Citroën DS3 exactly.",
+  "list": [
+   "Citroën DS3 Hatchback (2010-present) — 1.6 HDi / BlueHDi"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Comprehensive inspection report",
+   "Oil and filter service",
+   "UK mainland delivery"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this DV6 engine now, or view the full DV6 engine range for other applications.",
+  "crossLink": "← Back to all DV6 engines"
+ }
+}

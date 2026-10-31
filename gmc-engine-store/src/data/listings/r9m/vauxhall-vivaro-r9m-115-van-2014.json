@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "r9m",
+ "applicationSlug": "vauxhall-vivaro-r9m-115-van-2014",
+ "engineCode": "R9M",
+ "condition": "used",
+ "seo": {
+  "title": "Used R9M 1.6 dCi Engine — Vauxhall Vivaro B Panel Van (1.6 CDTI 115, 115 PS) 2014–2018 | Engined",
+  "description": "Used R9M 1.6 dCi engine for Vauxhall Vivaro B Panel Van 2014–2018, 115 PS. Fixed price £1,195, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/r9m/vauxhall-vivaro-r9m-115-van-2014/"
+ },
+ "hero": {
+  "title": "Used R9M 1.6 dCi Engine — Vauxhall Vivaro B Panel Van (1.6 CDTI 115, 115 PS) 2014–2018",
+  "subtitle": "Used R9M engine for Vauxhall Vivaro B Panel Van — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: R9M-USED-VIVARO-115",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,195",
+    "note": "12-month warranty",
+    "price": "£1,195.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used R9M 1.6 dCi engine for Vauxhall Vivaro B Panel Van 2014–2018, 115 PS, transverse.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "R9M",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2014–2018",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "B",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-mercedes-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration to confirm fitment before ordering — this listing covers the applications below.",
+  "list": [
+   "Vauxhall Vivaro B (Panel Van — 1.6 CDTI 115 PS — R9M — Transverse) 2014–2018"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil sump and rocker cover",
+   "Timing cover and pulleys"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this R9M engine now, or view the full R9M engine range for other applications.",
+  "crossLink": "← Back to all R9M engines"
+ }
+}

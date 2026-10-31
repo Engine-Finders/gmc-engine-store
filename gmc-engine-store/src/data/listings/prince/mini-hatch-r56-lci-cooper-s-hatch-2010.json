@@ -1,0 +1,82 @@
+{
+ "brand": "mini",
+ "brandName": "Mini",
+ "engineSlug": "prince",
+ "applicationSlug": "mini-hatch-r56-lci-cooper-s-hatch-2010",
+ "engineCode": "PRINCE N14/N18",
+ "condition": "used",
+ "seo": {
+  "title": "Used Prince Engine — MINI Hatch R56 LCI Cooper S | Engined",
+  "description": "Used Prince N14/N18 engine for MINI Hatch R56 LCI Cooper S. Fixed price £1,650 with 12-month warranty, tested before dispatch and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/prince/mini-hatch-r56-lci-cooper-s-hatch-2010/"
+ },
+ "hero": {
+  "title": "Used Prince Engine — MINI Hatch R56 LCI (Cooper S) Hatchback 2010-2013",
+  "subtitle": "SUB — Used Prince N14/N18 engine for MINI Hatch R56 LCI Cooper S — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: PRINCE-USED-R56LCI-COOPERS-HATCH",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,650",
+    "note": "12-month warranty",
+    "price": "£1,650.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Prince N14/N18 engine for MINI Hatch R56 LCI Cooper S 1.6 turbo 2010–2013, tested.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "Prince N14/N18",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2010–2013",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "R56 LCI",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/mini-mini-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use the registration checker to confirm fitment, then check your MINI Hatch R56 LCI Cooper S against the application below.",
+  "list": [
+   "MINI Hatch 3dr (R56 LCI) 2010–2013 — Cooper S (1.6 turbo, 184 PS) — LCI, N18 generation"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Sump and timing covers"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this Prince N14/N18 engine now, or view the full Prince range for other applications.",
+  "crossLink": "← Back to all Prince N14/N18 engines"
+ }
+}

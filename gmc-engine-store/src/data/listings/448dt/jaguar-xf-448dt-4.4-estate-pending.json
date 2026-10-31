@@ -1,0 +1,91 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "448dt",
+ "applicationSlug": "jaguar-xf-448dt-4.4-estate-pending",
+ "engineCode": "448DT",
+ "condition": "used",
+ "seo": {
+  "title": "PENDING — Jaguar XF 4.4 V8 Diesel Sportbrake (PENDING)",
+  "description": "PENDING 448DT engine for Jaguar XF Sportbrake. Fixed price £2,995, tested before dispatch, includes 12-month warranty and UK delivery. Buy now.",
+  "canonical": "https://engined.co.uk/engines/448dt/jaguar-xf-448dt-4.4-estate-pending/"
+ },
+ "hero": {
+  "title": "PENDING — Jaguar XF 4.4 V8 Diesel Sportbrake (PENDING)",
+  "subtitle": "PENDING 448DT engine for Jaguar XF Sportbrake — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 448DT-PEND-XF-ESTATE",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,995",
+    "note": "12-month warranty",
+    "price": "£2,995.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Jaguar 448DT 4.4 V8 Diesel engine for Jaguar XF Sportbrake. PENDING estate body style, fully tested.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "448DT",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "PENDING",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "XF Sportbrake",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Will this fit my Jaguar XF Sportbrake? Yes, for XF 4.4 V8 Diesel. Use our reg checker above to confirm your exact vehicle compatibility.",
+  "list": [
+   "Jaguar XF Sportbrake (4.4 V8 Diesel) PENDING"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Fully cleaned and inspected",
+   "Securely packaged for UK delivery",
+   "Ready for direct fitment"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Engine ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 448DT engine now, or view the full 448DT range for other applications.",
+  "crossLink": "← Back to all 448DT engines"
+ }
+}

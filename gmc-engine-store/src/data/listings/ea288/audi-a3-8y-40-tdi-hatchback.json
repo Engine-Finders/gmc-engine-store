@@ -1,0 +1,91 @@
+{
+ "brand": "audi",
+ "brandName": "Audi",
+ "engineSlug": "ea288",
+ "applicationSlug": "audi-a3-8y-40-tdi-hatchback",
+ "engineCode": "EA288",
+ "condition": "used",
+ "seo": {
+  "title": "Used Audi EA288 2.0 TDI Engine — A3 8Y (40 TDI 184 PS) Hatchback 2020-present",
+  "description": "EA288 2.0 TDI · used tested engine · fits A3 Hatchback 8Y (40 TDI) 2020-present · £1,145 · 12-month warranty · UK delivery",
+  "canonical": "https://engined.co.uk/engines/ea288/audi-a3-8y-40-tdi-hatchback/"
+ },
+ "hero": {
+  "title": "Used Audi EA288 2.0 TDI Engine — A3 8Y (40 TDI 184 PS) Hatchback 2020-present",
+  "subtitle": "Used EA288 2.0 TDI engine for Audi A3 Hatchback 8Y (40 TDI) 2020-present — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA288-USED-A3-8Y-40",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,145",
+    "note": "12-month warranty",
+    "price": "£1,145.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "EA288 2.0 TDI engine for Audi A3 Hatchback 8Y 40 TDI 184 PS transverse MQB",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA288",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2020-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "8Y",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/audi-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/audi-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/audi-audi-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "This EA288 2.0 TDI engine is confirmed to fit the following Audi A3 Hatchback applications — use our registration checker to verify compatibility with your specific vehicle.",
+  "list": [
+   "Audi A3 Hatchback (8Y) 2020-present — 40 TDI (184 PS)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Full diagnostic report",
+   "Compression test certificate",
+   "Oil and filter service completed"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA288 engine now, or view the full EA288 engine range for other applications.",
+  "crossLink": "← Back to all EA288 engines"
+ }
+}

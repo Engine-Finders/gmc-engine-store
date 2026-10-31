@@ -1,0 +1,91 @@
+{
+ "brand": "jaguar",
+ "brandName": "Jaguar",
+ "engineSlug": "aj126",
+ "applicationSlug": "recon-jaguar-f-pace-s-x761-340-ps-suv-2016",
+ "engineCode": "AJ126",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned Jaguar AJ126 3.0 V6 Engine — F-Pace S (X761) 340 PS SUV 2016-2018 | Engined",
+  "description": "Recon AJ126 engine for Jaguar F-Pace S X761 340 PS SUV. Fixed price £4,500, tested before dispatch, 12-month warranty included. UK delivery available.",
+  "canonical": "https://engined.co.uk/engines/aj126/recon-jaguar-f-pace-s-x761-340-ps-suv-2016/"
+ },
+ "hero": {
+  "title": "Reconditioned Jaguar AJ126 3.0 V6 Engine — F-Pace S (X761) 340 PS SUV 2016-2018",
+  "subtitle": "Reconditioned AJ126 engine for Jaguar F-Pace S X761 340 PS SUV and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: AJ126-RECON-FPACE-X761-340-SUV",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £4,500",
+    "note": "12-month warranty",
+    "price": "£4,500.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned AJ126 3.0L V6 supercharged engine for Jaguar F-Pace S X761 SUV, complete assembly with warranty.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJ126",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2016-2018",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X761",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/jaguar-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/jaguar-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jlr-aj126-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number above to confirm this AJ126 engine fits your Jaguar F-Pace before you buy.",
+  "list": [
+   "F-Pace S (X761) 3.0 V6 SC (340 PS) SUV (2016-2018)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete reconditioned engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Full compression test report",
+   "Cleaned and degreased exterior",
+   "New seals and gaskets fitted"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this AJ126 engine now, or view the full AJ126 engine range for other applications.",
+  "crossLink": "← Back to all AJ126 engines"
+ }
+}

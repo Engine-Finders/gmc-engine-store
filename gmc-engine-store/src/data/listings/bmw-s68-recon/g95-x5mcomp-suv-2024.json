@@ -1,0 +1,95 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-s68-recon",
+ "applicationSlug": "g95-x5mcomp-suv-2024",
+ "engineCode": "S68",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned BMW S68 Engine — X5 M G95 (X5 M Competition) SUV 2024–present",
+  "description": "Reconditioned BMW S68 engine for X5 M G95 and X5 M Competition SUV, 625 PS hybrid. Fixed £17,520, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/bmw-s68-recon/g95-x5mcomp-suv-2024/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW S68 Engine — X5 M G95 (X5 M Competition) SUV 2024–present",
+  "subtitle": "Reconditioned S68 engine for the X5 M G95 and X5 M Competition SUV — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: S68-RECON-G95-X5MCOMP",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £17,520",
+    "note": "12-month warranty",
+    "price": "£17,520.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "BMW S68B44 reconditioned 4.4 hot-vee twin-turbo V8 for G95 X5 M Competition SUV, 625 PS hybrid — rebuilt unit",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "S68",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2024–present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "G95",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol hybrid",
+    "label": "Fuel Type"
+   },
+   {
+    "icon": "config",
+    "value": "S68B44",
+    "label": "Variant"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration in our fitment checker to confirm this S68 engine matches your X5 M G95, then review the applications below.",
+  "list": [
+   "BMW X5 M G95 (X5 M Competition 625 PS SUV) 2024–present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (cylinder head, block, sump and covers as fitted)",
+   "Fully tested before dispatch",
+   "12-month warranty as standard",
+   "New gaskets and seals where required",
+   "Oil and filter service kit"
+  ],
+  "excluded": [
+   "Turbocharger (reused where serviceable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter, A/C compressor, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this S68 engine now, or view the full S68 reconditioned range for other applications.",
+  "crossLink": "← Back to all S68 reconditioned engines"
+ }
+}

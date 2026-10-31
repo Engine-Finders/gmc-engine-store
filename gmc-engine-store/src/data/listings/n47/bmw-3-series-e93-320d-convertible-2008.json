@@ -1,0 +1,91 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "n47",
+ "applicationSlug": "bmw-3-series-e93-320d-convertible-2008",
+ "engineCode": "N47",
+ "condition": "used",
+ "seo": {
+  "title": "Used N47 Engine — BMW 3 Series E93 320d Convertible 2008-2011",
+  "description": "N47 used engine for BMW 3 Series Convertible E93 320d (177 PS) — fully tested, comes with 12-month warranty, free UK delivery, fixed price £1,295.",
+  "canonical": "https://engined.co.uk/engines/n47/bmw-3-series-e93-320d-convertible-2008/"
+ },
+ "hero": {
+  "title": "Used N47 Engine — BMW 3 Series E93 320d Convertible 2008-2011",
+  "subtitle": "Used N47 engine for 3 Series Convertible E93 320d — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N47-USED-G2-E93-320D",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,295",
+    "note": "12-month warranty",
+    "price": "£1,295.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "BMW N47 engine for E93 320d Convertible — complete assembly with ancillaries",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N47",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2008-2011",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E93",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-n47-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration for instant fitment confirmation, or check the compatible models listed below.",
+  "list": [
+   "3 Series Convertible (E93) 2008-2011 — 320d (177 PS)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil and filter service completed",
+   "Pressure and compression tested",
+   "Full inspection report supplied"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, aircon compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N47 engine now, or view the full N47 engine range for other applications.",
+  "crossLink": "← Back to all N47 engines"
+ }
+}

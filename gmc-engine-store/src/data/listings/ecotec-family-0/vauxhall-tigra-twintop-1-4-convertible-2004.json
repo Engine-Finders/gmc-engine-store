@@ -1,0 +1,83 @@
+{
+ "brand": "peugeot",
+ "brandName": "Peugeot",
+ "engineSlug": "ecotec-family-0",
+ "applicationSlug": "vauxhall-tigra-twintop-1-4-convertible-2004",
+ "engineCode": "A14XEL/A14XER",
+ "condition": "used",
+ "seo": {
+  "title": "Ecotec Tigra 1.4 Used | Engined",
+  "description": "Ecotec Family 0 A14XEL/A14XER used engine for Vauxhall Tigra TwinTop 1.4 2004-2009. Used price £805, 12-month warranty, tested before dispatch, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/ecotec-family-0/vauxhall-tigra-twintop-1-4-convertible-2004/"
+ },
+ "hero": {
+  "title": "Used Vauxhall Ecotec Engine — Tigra TwinTop (1.4) Convertible 2004-2009",
+  "subtitle": "Used Ecotec Family 0 engine for Tigra TwinTop (1.4) Convertible 2004-2009 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: ECOFAM0-USED-TIGRA-14",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £805",
+    "note": "12-month warranty",
+    "price": "£805.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Ecotec Family 0 A14XEL/A14XER 1.4 petrol engine for Vauxhall Tigra TwinTop 2004-2009, transverse DOHC.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "A14XEL/A14XER",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2004-2009",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Tigra TwinTop",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with our registration checker before ordering — this listing covers the applications below.",
+  "list": [
+   "Vauxhall Tigra TwinTop (1.4 90‑100 PS, codes A14XEL/A14XER) 2004‑2009"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block matched as a complete unit",
+   "Timing cover and sump fitted as standard"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this Ecotec Family 0 engine now, or view the full Ecotec Family 0 engine range for other applications.",
+  "crossLink": "← Back to all Ecotec Family 0 engines"
+ }
+}

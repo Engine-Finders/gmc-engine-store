@@ -1,0 +1,97 @@
+{
+ "brand": "audi",
+ "brandName": "Audi",
+ "engineSlug": "ea839",
+ "applicationSlug": "audi-rs4-2-9t-avant",
+ "engineCode": "EA839",
+ "condition": "used",
+ "seo": {
+  "title": "Used Audi EA839 2.9T Engine — RS4 B9 2.9 TFSI Avant 2017-present",
+  "description": "EA839 · Used · Audi RS4 Avant B9 2017-present, 2.9 TFSI twin-turbo 450 PS — £5,995 · 12-month warranty · UK delivery.",
+  "canonical": "https://engined.co.uk/engines/ea839/audi-rs4-2-9t-avant/"
+ },
+ "hero": {
+  "title": "Used Audi EA839 2.9T Engine — RS4 B9 2.9 TFSI Avant 2017-present",
+  "subtitle": "Used EA839 2.9T twin-turbo engine for Audi RS4 Avant (B9) 450 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA839-USED-RS4",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £5,995",
+    "note": "12-month warranty",
+    "price": "£5,995.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £7,500",
+    "note": "12-month warranty",
+    "price": "£7,500.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used EA839 2.9T twin-turbo engine for Audi RS4 B9 Avant – 450 PS, de-stroked 3.0T with RS-specific internals",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA839",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2017-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "B9",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/audi-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/audi-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/audi-audi-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration for instant compatibility confirmation, or check the list below to see if this EA839 2.9T engine fits your vehicle.",
+  "list": [
+   "Audi RS4 Avant (B9) 2017-present — 2.9 TFSI twin-turbo (450 PS)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch with compression and leak-down checks",
+   "12-month warranty as standard",
+   "Full technical inspection report",
+   "Cam belt and water pump replaced where applicable",
+   "Oil and filter service completed"
+  ],
+  "excluded": [
+   "Turbochargers (reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, air conditioning compressor, power steering pump)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA839 engine now, or view the full EA839 engine range for other applications.",
+  "crossLink": "← Back to all EA839 engines (links to https://engined.co.uk/engines/ea839/)"
+ }
+}

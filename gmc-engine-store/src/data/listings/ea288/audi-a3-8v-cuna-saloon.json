@@ -1,0 +1,91 @@
+{
+ "brand": "audi",
+ "brandName": "Audi",
+ "engineSlug": "ea288",
+ "applicationSlug": "audi-a3-8v-cuna-saloon",
+ "engineCode": "EA288",
+ "condition": "used",
+ "seo": {
+  "title": "Used Audi EA288 2.0 TDI Engine — A3 8V (CUNA 184 PS) Saloon 2013-2020",
+  "description": "EA288 2.0 TDI · used tested engine · fits Audi A3 Saloon 8V (CUNA 184 PS) 2013-2020 · only £1,145 · includes 12-month warranty and UK delivery",
+  "canonical": "https://engined.co.uk/engines/ea288/audi-a3-8v-cuna-saloon/"
+ },
+ "hero": {
+  "title": "Used Audi EA288 2.0 TDI Engine — A3 8V (CUNA 184 PS) Saloon 2013-2020",
+  "subtitle": "Used EA288 2.0 TDI engine for Audi A3 Saloon 8V (CUNA 184 PS) 2013-2020 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA288-USED-A3-8V-CUNA-SAL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,145",
+    "note": "12-month warranty",
+    "price": "£1,145.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "EA288 2.0 TDI engine for Audi A3 Saloon 8V CUNA 184 PS transverse MQB mounting",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA288",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2013-2020",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "8V",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/audi-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/audi-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/audi-audi-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "This EA288 2.0 TDI engine is confirmed to fit the following Audi A3 Saloon applications — use our registration checker to verify compatibility with your specific vehicle.",
+  "list": [
+   "Audi A3 Saloon (8V) 2013-2020 — 2.0 TDI CUNA (184 PS)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Full diagnostic report",
+   "Compression test certificate",
+   "Oil and filter service completed"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA288 engine now, or view the full EA288 engine range for other applications.",
+  "crossLink": "← Back to all EA288 engines"
+ }
+}

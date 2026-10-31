@@ -1,0 +1,84 @@
+{
+ "brand": "peugeot",
+ "brandName": "Peugeot",
+ "engineSlug": "ecotec-family-0",
+ "applicationSlug": "vauxhall-corsa-c-1-2-hatch-2000",
+ "engineCode": "ECOTEC FAMILY 0",
+ "condition": "used",
+ "seo": {
+  "title": "Used Vauxhall Ecotec Engine — Corsa C (1.2) Hatchback 2000-2006 | Engined",
+  "description": "In stock: Used Vauxhall Ecotec Family 0 engine for Corsa C 1.2 — £805, 12-month warranty included, UK delivery. Recon also available from £1,345.",
+  "canonical": "https://engined.co.uk/engines/ecotec-family-0/vauxhall-corsa-c-1-2-hatch-2000/"
+ },
+ "hero": {
+  "title": "Used Vauxhall Ecotec Engine — Corsa C (1.2) Hatchback 2000-2006",
+  "subtitle": "SUB — Used Ecotec Family 0 engine for Vauxhall Corsa C 1.2 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: ECOFAM0-USED-CORSA-C-12",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £805",
+    "note": "12-month warranty",
+    "price": "£805.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Vauxhall Ecotec Family 0 1.2 engine for Corsa C, transverse mount, chain-driven, 2000-2006",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "Ecotec Family 0",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2000–2006",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Corsa C",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your registration with our reg-checker to guarantee fitment before ordering this engine.",
+  "list": [
+   "Vauxhall Corsa C (1.2, 80-85 PS, Z12XEP) 2000–2006"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (block, head, sump, timing cover)",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New gaskets and seals fitted",
+   "Oil pump and water pump checked and replaced if needed",
+   "Compression and leak-down test results supplied"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, air conditioning compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this Ecotec engine now, or view the full Ecotec engine range for other applications.",
+  "crossLink": "← Back to all Ecotec engines"
+ }
+}

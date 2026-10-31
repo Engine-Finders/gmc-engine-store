@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "m274",
+ "applicationSlug": "mercedes-gla-x156-m270-156-fl-suv-recon-2017",
+ "engineCode": "M270",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned M270 Engine — GLA X156 | Engined",
+  "description": "Reconditioned M270 engine for GLA X156 GLA200 SUV (156 PS) FL. Fixed price £2,350, tested before dispatch, includes 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/m274/mercedes-gla-x156-m270-156-fl-suv-recon-2017/"
+ },
+ "hero": {
+  "title": "Reconditioned M270 2.0T Engine — GLA X156 (GLA200, 156 PS, Transverse) FL 2017–2019",
+  "subtitle": "Reconditioned M270 engine for GLA X156 GLA200 SUV and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M270-RECON-X156-GLA200-FL",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,350",
+    "note": "12-month warranty",
+    "price": "£2,350.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned M270 transverse engine for Mercedes GLA X156 GLA200 SUV Facelift, complete assembly with renewed timing chain.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M270",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2017–2019",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X156",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-m274-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number in our checker above to confirm this reconditioned M270 engine is an exact match for your vehicle.",
+  "list": [
+   "GLA X156 (GLA200 156 PS SUV) 2017–2019"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Fully cleaned and inspected",
+   "VAT included"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M270 engine now, or view the full M270 engine range for other applications.",
+  "crossLink": "← Back to all M270 engines"
+ }
+}

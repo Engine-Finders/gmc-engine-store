@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "m275-m279",
+ "applicationSlug": "mercedes-s-class-w220-m275-493-prefl-saloon-amg-2002",
+ "engineCode": "M275",
+ "condition": "used",
+ "seo": {
+  "title": "M275 S55 W220 Pre-FL 493 | Engined",
+  "description": "Used M275 5.5 V12 Biturbo engine for Mercedes S-Class W220 S55 AMG 493 PS pre-facelift saloon 2002–2003. £5,995, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/m275-m279/mercedes-s-class-w220-m275-493-prefl-saloon-amg-2002/"
+ },
+ "hero": {
+  "title": "M275 S55 W220 Pre-FL 493",
+  "subtitle": "SUB — Used M275 engine for S-Class W220 S55 AMG — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M275-USED-W220-S55-PREFL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £5,995",
+    "note": "12-month warranty",
+    "price": "£5,995.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Mercedes M275 5.5 V12 Biturbo engine for S-Class W220 S55 AMG 493 PS pre-facelift saloon",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M275",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2002–2003",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W220",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-mercedes-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration to confirm fitment before ordering — this M275 unit is listed for the following S-Class W220 applications.",
+  "list": [
+   "Mercedes-Benz S-Class W220 (S55 AMG 493 PS, Saloon, V12 Biturbo) 2002–2003"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Renewed timing chain",
+   "Reconditioned to standard output"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M275 engine now, or view the full M275 range for other applications.",
+  "crossLink": "← Back to all M275 engines — https://engined.co.uk/engines/m275-m279/"
+ }
+}

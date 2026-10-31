@@ -1,0 +1,96 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "b37",
+ "applicationSlug": "bmw-1-series-f20-114d-hatchback-2015",
+ "engineCode": "B37",
+ "condition": "used",
+ "seo": {
+  "title": "Used B37 Engine — BMW 1 Series F20 114d 2015",
+  "description": "B37 · used · BMW 1 Series F20 114d Hatchback 2015-2019 — £1,530 · 12-month warranty · UK delivery. Tested before dispatch.",
+  "canonical": "https://engined.co.uk/engines/b37/bmw-1-series-f20-114d-hatchback-2015/"
+ },
+ "hero": {
+  "title": "Used BMW B37 Engine — 1 Series F20 (114d) Hatchback 2015-2019",
+  "subtitle": "Used B37 engine for BMW 1 Series F20 114d Hatchback 2015-2019 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: B37-USED-F20-114D-HATCH",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,530",
+    "note": "12-month warranty",
+    "price": "£1,530.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,250",
+    "note": "12-month warranty",
+    "price": "£2,250.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used B37 1.5-litre diesel engine for BMW 1 Series F20 114d Hatchback 2015-2019 – tested complete unit",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "B37",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2015-2019",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F20",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "This used B37 engine is compatible with the following BMW 1 Series models — use our reg checker to confirm fitment for your specific vehicle.",
+  "list": [
+   "1 Series Hatchback (F20) 2015-2019 — 114d (95 hp)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Full inspection and quality check",
+   "UK delivery included"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, subject to condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this B37 engine now, or view the full B37 engine range for other applications.",
+  "crossLink": "← Back to all B37 engines"
+ }
+}

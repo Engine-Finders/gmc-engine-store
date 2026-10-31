@@ -1,0 +1,82 @@
+{
+ "brand": "nissan",
+ "brandName": "Nissan",
+ "engineSlug": "hr16de",
+ "applicationSlug": "nissan-micra-k12-1-6-sr-hatch-2005",
+ "engineCode": "HR16DE",
+ "condition": "used",
+ "seo": {
+  "title": "Used Nissan HR16DE Engine — Nissan Micra K12 (1.6 SR) Hatchback 2005-2010 | Engined",
+  "description": "Used HR16DE engine for Nissan Micra K12 1.6 SR & C+C. Fixed price £550 (Used) or £1,250 (Recon). Tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/hr16de/nissan-micra-k12-1-6-sr-hatch-2005/"
+ },
+ "hero": {
+  "title": "Used Nissan HR16DE Engine — Nissan Micra K12 (1.6 SR) Hatchback 2005-2010",
+  "subtitle": "Used HR16DE engine for Nissan Micra K12 1.6 SR, Micra C+C and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: HR16DE-USED-G4-MICRA",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £550",
+    "note": "12-month warranty",
+    "price": "£550.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "HR16DE used engine for Nissan Micra K12 1.6 SR and C+C, transverse-mounted petrol unit, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "HR16DE",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2005-2010",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "K12",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/nissan-nissan-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number above to confirm this HR16DE engine fits your vehicle before ordering.",
+  "list": [
+   "Nissan Micra K12 (1.6 SR, Micra C+C) 2005-2010"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "VAT included",
+   "Free UK delivery"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this HR16DE engine now, or view the full HR16DE engine range for other applications.",
+  "crossLink": "← Back to all HR16DE engines"
+ }
+}

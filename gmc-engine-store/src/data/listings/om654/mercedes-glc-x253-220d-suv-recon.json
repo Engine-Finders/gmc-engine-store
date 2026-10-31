@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "om654",
+ "applicationSlug": "mercedes-glc-x253-220d-suv-recon",
+ "engineCode": "OM654",
+ "condition": "recon",
+ "seo": {
+  "title": "Recon OM654 GLC X253 220d SUV | Engined",
+  "description": "Reconditioned OM654 engine for Mercedes GLC X253 220d SUV. Recon £3,700 with 12-month warranty, tested before dispatch and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/om654/mercedes-glc-x253-220d-suv-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned OM654 Engine — Mercedes GLC X253 (220d) SUV 2019-2022",
+  "subtitle": "Reconditioned OM654 engine for GLC X253 220d SUV — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: OM654-RECON-X253-220D-SUV",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £3,700",
+    "note": "12-month warranty",
+    "price": "£3,700.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned OM654 engine for Mercedes GLC X253 220d SUV, cooling pack, 2019-2022.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "OM654",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2019-2022",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X253 FL",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-om654-engine.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration to confirm fitment before buying — this listing covers the following GLC SUV application.",
+  "list": [
+   "GLC SUV X253 FL (220d) 2019-2022"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and valvetrain",
+   "Sump and timing cover"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this OM654 engine now, or view the full OM654 range for other applications.",
+  "crossLink": "← Back to all OM654 engines"
+ }
+}

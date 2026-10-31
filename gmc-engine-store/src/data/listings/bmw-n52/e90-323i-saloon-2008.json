@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n52",
+ "applicationSlug": "e90-323i-saloon-2008",
+ "engineCode": "N52",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW N52 Engine — 3 Series E90 (323i) Saloon 2008‑2011",
+  "description": "Used BMW N52 engine for 3 Series E90 323i Saloon (2008-2011) — tested before dispatch, fixed £1,395, 12-month warranty and UK delivery included.",
+  "canonical": "https://engined.co.uk/engines/bmw-n52/e90-323i-saloon-2008/"
+ },
+ "hero": {
+  "title": "Used BMW N52 Engine — 3 Series E90 (323i) Saloon 2008‑2011",
+  "subtitle": "Used N52 engine for BMW 3 Series E90 323i Saloon — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N52-USED-E90-323I-FL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,395",
+    "note": "12-month warranty",
+    "price": "£1,395.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "BMW N52B25 2.5L straight-six petrol engine for E90 323i Saloon LCI, 177 PS, used unit",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N52",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2008-2011",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E90",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration in our reg checker to confirm this N52 fits your BMW before you buy.",
+  "list": [
+   "BMW 3 Series E90 (323i 177 PS) 2008-2011"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (block, head, sump and timing assembly as applicable)",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Compression and oil-pressure checked",
+   "Cylinder head and gasket surfaces inspected"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, air-con compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N52 engine now, or view the full N52 engine range for other applications.",
+  "crossLink": "← Back to all N52 engines"
+ }
+}

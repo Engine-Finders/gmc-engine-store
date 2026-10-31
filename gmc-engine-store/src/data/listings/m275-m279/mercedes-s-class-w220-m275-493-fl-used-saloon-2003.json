@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "m275-m279",
+ "applicationSlug": "mercedes-s-class-w220-m275-493-fl-used-saloon-2003",
+ "engineCode": "M275",
+ "condition": "used",
+ "seo": {
+  "title": "Used M275 5.5 V12 Engine — S-Class W220 (S600, 493 PS) FL 2003–2005",
+  "description": "Used M275 engine for Mercedes S-Class W220 Saloon S600 (493 PS). Fixed price £5,995, tested before dispatch, UK delivery, 12-month warranty.",
+  "canonical": "https://engined.co.uk/engines/m275-m279/mercedes-s-class-w220-m275-493-fl-used-saloon-2003/"
+ },
+ "hero": {
+  "title": "Used M275 5.5 V12 Engine — S-Class W220 (S600, 493 PS) FL 2003–2005",
+  "subtitle": "Used M275 engine for S-Class W220 Saloon S600 493 PS and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M275-USED-W220-S600-FL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £5,995",
+    "note": "12-month warranty",
+    "price": "£5,995.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Used Mercedes M275 5.5L V12 engine for S-Class W220 S600, complete assembly, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M275",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2003–2005",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W220",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-mercedes-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number in our checker above to confirm this M275 engine fits your Mercedes S-Class W220.",
+  "list": [
+   "Mercedes-Benz S-Class W220 Saloon (S600 493 PS) 2003–2005"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Renewed timing chain",
+   "OEM-spec gaskets and seals"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M275 engine now, or view the full M275 range for other applications.",
+  "crossLink": "← Back to all M275 engines"
+ }
+}

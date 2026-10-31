@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "om646",
+ "applicationSlug": "mercedes-vito-w639-om646-109-cdi-van-2003",
+ "engineCode": "OM646",
+ "condition": "used",
+ "seo": {
+  "title": "Used OM646 Engine Vito W639 109 CDI 88PS | Engined",
+  "description": "Used OM646 2.2 CDI engine for Mercedes Vito W639 Van 109 CDI 88 PS. Fixed price £1,295, tested before dispatch, 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/om646/mercedes-vito-w639-om646-109-cdi-van-2003/"
+ },
+ "hero": {
+  "title": "Used OM646 2.2 CDI Engine — Vito W639 (109 CDI, 88 PS) 2003–2010",
+  "subtitle": "Used OM646 engine for Vito W639 Van 109 CDI and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: OM646-USED-W639-VITO-109",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,200",
+    "note": "12-month warranty",
+    "price": "£2,200.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used OM646 2.2 CDI engine for Mercedes Vito W639 Van 109 CDI 88 PS manual, commercial van spec, tested.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "OM646",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2003–2010",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W639",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-mercedes-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number above to confirm this used OM646 engine fits your Mercedes-Benz Vito W639.",
+  "list": [
+   "Mercedes-Benz Vito W639 2003–2010 (Van) 109 CDI 88 PS Manual OM646.982"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Standard output specification",
+   "Manual transmission specification"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this OM646 engine now, or view the full OM646 range for other applications.",
+  "crossLink": "← Back to all OM646 engines"
+ }
+}

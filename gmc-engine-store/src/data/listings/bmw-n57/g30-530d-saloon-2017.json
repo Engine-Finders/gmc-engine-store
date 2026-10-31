@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n57",
+ "applicationSlug": "g30-530d-saloon-2017",
+ "engineCode": "N57",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW N57 Engine — 5 Series G30 (530d) Saloon 2017‑2020",
+  "description": "Used BMW N57 engine for BMW 5 Series G30 530d Saloon 2017‑2020. 258PS, fixed £2,695, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/bmw-n57/g30-530d-saloon-2017/"
+ },
+ "hero": {
+  "title": "Used BMW N57 Engine — 5 Series G30 (530d) Saloon 2017‑2020",
+  "subtitle": "SUB — Used N57 engine for BMW 5 Series G30 530d Saloon — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N57-USED-G30-530D",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,695",
+    "note": "12-month warranty",
+    "price": "£2,695.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW N57 engine for G30 530d Saloon 2017‑2020, 258PS, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N57",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2017‑2020",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "G30",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-n57-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment by entering your registration in our reg checker before ordering for BMW 5 Series (G30) 2017‑2020 — 530d (258 PS) Saloon.",
+  "list": [
+   "BMW 5 Series G30 (530d 258 PS Saloon) 2017‑2020"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Sump and rocker cover"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N57 engine now, or view the full N57 engine range.",
+  "crossLink": "← Back to all N57 engines — links to https://engined.co.uk/engines/bmw-n57/"
+ }
+}

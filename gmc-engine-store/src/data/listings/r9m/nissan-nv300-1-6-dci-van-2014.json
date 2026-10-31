@@ -1,0 +1,82 @@
+{
+ "brand": "nissan",
+ "brandName": "Nissan",
+ "engineSlug": "r9m",
+ "applicationSlug": "nissan-nv300-1-6-dci-van-2014",
+ "engineCode": "R9M",
+ "condition": "used",
+ "seo": {
+  "title": "Used Nissan R9M Engine — Nissan NV300 (1.6 dCi) Van 2014-Present",
+  "description": "Used R9M engine for Nissan NV300 1.6 dCi Van. Fixed price £1,615 used or £2,245 recon, 12-month warranty & UK delivery. 95-145 PS outputs.",
+  "canonical": "https://engined.co.uk/engines/r9m/nissan-nv300-1-6-dci-van-2014/"
+ },
+ "hero": {
+  "title": "Used Nissan R9M Engine — Nissan NV300 (1.6 dCi) Van 2014-Present",
+  "subtitle": "Used R9M engine for Nissan NV300 1.6 dCi Van and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: R9M-USED-NV300",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,615",
+    "note": "12-month warranty",
+    "price": "£1,615.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "R9M transverse-mounted 1.6-litre dCi diesel engine for Nissan NV300 Van 2014-present",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "R9M",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2014-Present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "NV300",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/nissan-nissan-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number above to confirm this R9M engine fits your vehicle before ordering.",
+  "list": [
+   "Nissan NV300 (1.6 dCi Van 95-145 PS) 2014-Present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Fully inspected and cleaned",
+   "Ready for direct fitment"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this R9M engine now, or view the full R9M engine range for other applications.",
+  "crossLink": "← Back to all R9M engines"
+ }
+}

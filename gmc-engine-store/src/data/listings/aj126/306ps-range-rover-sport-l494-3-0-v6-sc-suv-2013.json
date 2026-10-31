@@ -1,0 +1,91 @@
+{
+ "brand": "jaguar",
+ "brandName": "Jaguar",
+ "engineSlug": "aj126",
+ "applicationSlug": "306ps-range-rover-sport-l494-3-0-v6-sc-suv-2013",
+ "engineCode": "AJ126/306PS",
+ "condition": "used",
+ "seo": {
+  "title": "Used AJ126/306PS V6 Engine – Range Rover Sport | Engined",
+  "description": "Used AJ126/306PS engine for Range Rover Sport L494 SUV. 3.0L Supercharged V6, 340-380 PS. Fixed price £3,995. 12-month warranty. UK delivery available.",
+  "canonical": "https://engined.co.uk/engines/aj126/306ps-range-rover-sport-l494-3-0-v6-sc-suv-2013/"
+ },
+ "hero": {
+  "title": "Used AJ126/306PS 3.0 V6 Engine — Range Rover Sport (L494) 3.0 V6 SC SUV 2013-2019",
+  "subtitle": "Used AJ126/306PS engine for Range Rover Sport L494 SUV and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: AJ126-USED-RANGEROVERSPORT-L494-SC-SUV",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £3,995",
+    "note": "12-month warranty",
+    "price": "£3,995.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used AJ126/306PS 3.0L Supercharged V6 engine for Range Rover Sport L494 SUV, complete assembly.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJ126/306PS",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2013-2019",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L494",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/jaguar-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/jaguar-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jlr-aj126-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration above to confirm this AJ126/306PS engine fits your Range Rover Sport L494 SUV.",
+  "list": [
+   "Range Rover Sport (L494) 3.0 V6 SC SUV (2013–2019)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (AJ126/306PS 3.0L V6 Supercharged)",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Supercharger unit included",
+   "ECU and wiring loom compatibility verified",
+   "Oil filter and sump plug included"
+  ],
+  "excluded": [
+   "Turbocharger (N/A - Supercharged)",
+   "Injectors/fuel system (unless specified as reusable)",
+   "Ancillaries (alternator, starter motor, AC compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this AJ126/306PS engine now, or view the full AJ126 range for other applications.",
+  "crossLink": "← Back to all AJ126 engines"
+ }
+}

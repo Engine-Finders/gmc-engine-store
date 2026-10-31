@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n46-recon",
+ "applicationSlug": "e84-2.0i-suv-2012",
+ "engineCode": "N46",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned BMW N46 Engine — X1 E84 (2.0i) SUV 2012‑2015",
+  "description": "Reconditioned N46 engine for BMW X1 E84 2.0i SUV · £1,885 · 12-month warranty · UK delivery · Fully rebuilt N46B20 with LCI ECU, renewed timing, SUV ancillaries",
+  "canonical": "https://engined.co.uk/engines/bmw-n46-recon/e84-2.0i-suv-2012/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW N46 Engine — X1 E84 (2.0i) SUV 2012‑2015",
+  "subtitle": "Reconditioned N46 engine for BMW X1 E84 2.0i SUV — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N46-RECON-E84-2.0I-FL",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,885",
+    "note": "12-month warranty",
+    "price": "£1,885.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned BMW N46B20 engine for X1 E84 2.0i SUV 2012‑2015, LCI ECU, renewed timing",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N46",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2012‑2015",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E84",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration to confirm fitment before ordering. This engine is a direct fit for the applications listed below.",
+  "list": [
+   "BMW X1 E84 (2.0i 150 PS SUV) 2012‑2015"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12‑month warranty as standard",
+   "Renewed timing chain and tensioner",
+   "Rebuilt Valvetronic system"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N46 engine now, or view the full N46 engine range for other applications.",
+  "crossLink": "← Back to all N46 engines"
+ }
+}

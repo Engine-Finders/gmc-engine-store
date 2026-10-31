@@ -1,0 +1,83 @@
+{
+ "brand": "volvo",
+ "brandName": "Volvo",
+ "engineSlug": "d5244t",
+ "applicationSlug": "volvo-xc90-163ps-suv-2002",
+ "engineCode": "D5244T",
+ "condition": "used",
+ "seo": {
+  "title": "Used D5 Engine — Volvo XC90 (2.4 D5 163 PS) SUV 2002-2005",
+  "description": "Used D5244T engine for Volvo XC90 I 275 SUV 2002–2005. 2.4 D5 163 PS diesel. £1,195 with 12-month warranty, tested before dispatch and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/d5244t/volvo-xc90-163ps-suv-2002/"
+ },
+ "hero": {
+  "title": "Used D5 Engine — Volvo XC90 (2.4 D5 163 PS) SUV 2002-2005",
+  "subtitle": "Used D5244T engine for Volvo XC90 I 275 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: D5244T-USED-XC90-163-SUV",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,195",
+    "note": "12-month warranty",
+    "price": "£1,195.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used D5244T diesel engine for Volvo XC90 I 275 SUV 2002-2005, 2.4 D5 163 PS, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "D5244T",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2002-2005",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "275",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with our reg checker before ordering — this D5244T listing covers the following Volvo XC90 application.",
+  "list": [
+   "Volvo XC90 I 275 (2.4 D5 163 PS (D5244T) — SUV) 2002-2005"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil sump and oil pickup",
+   "Timing cover and rocker cover"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this D5244T engine now, or view the full D5244T engine range",
+  "crossLink": "← Back to all D5244T engines"
+ }
+}

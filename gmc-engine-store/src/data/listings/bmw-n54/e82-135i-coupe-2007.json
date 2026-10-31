@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n54",
+ "applicationSlug": "e82-135i-coupe-2007",
+ "engineCode": "N54",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW N54 Engine — 1 Series E82 (135i) Coupe 2007‑2010",
+  "description": "Used BMW N54 engine for 1 Series E82 135i Coupe (302 PS) 2007-2010. Fixed £2,200, tested before dispatch, 12-month warranty and UK delivery. In stock.",
+  "canonical": "https://engined.co.uk/engines/bmw-n54/e82-135i-coupe-2007/"
+ },
+ "hero": {
+  "title": "Used BMW N54 Engine — 1 Series E82 (135i) Coupe 2007‑2010",
+  "subtitle": "Used BMW N54 engine for 1 Series E82 135i Coupe (302 PS) — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N54-USED-E82-135I",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,200",
+    "note": "12-month warranty",
+    "price": "£2,200.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "BMW N54 used engine for 1 Series E82 135i Coupe, twin-turbo 302 PS, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "BMW N54",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2007‑2010",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E82",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-n54-n55-n20-family-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our reg checker to confirm your registration fits this BMW 1 Series E82 135i application before buying.",
+  "list": [
+   "BMW 1 Series E82 (135i (302 PS) Coupe) 2007‑2010"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil sump and rocker cover",
+   "Timing cover and inlet manifold"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this BMW N54 engine now, or view the full BMW N54 engine range for other applications.",
+  "crossLink": "← Back to all BMW N54 engines"
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "368dt",
+ "applicationSlug": "land-rover-range-rover-l322-368dt-3.6-suv-2006",
+ "engineCode": "368DT",
+ "condition": "used",
+ "seo": {
+  "title": "Used 368DT 3.6 TDV8 Engine — Range Rover L322 (2006–2010)",
+  "description": "Used 368DT engine for Range Rover L322 (2006–2010). Fixed price £2,515. Fully tested before dispatch, includes 12-month warranty & UK delivery.",
+  "canonical": "https://engined.co.uk/engines/368dt/land-rover-range-rover-l322-368dt-3.6-suv-2006/"
+ },
+ "hero": {
+  "title": "Used 368DT 3.6 TDV8 Engine — Range Rover L322 (2006–2010)",
+  "subtitle": "Used 368DT engine for Range Rover L322 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 368DT-USED-L322",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,515",
+    "note": "12-month warranty",
+    "price": "£2,515.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used 368DT engine for Range Rover L322, 3.6 TDV8 272 hp, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "368DT",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2006–2010",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L322",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration above to confirm this 368DT engine fits your Range Rover L322 before you buy.",
+  "list": [
+   "Range Rover L322 (Mk III) (3.6 TDV8 272 hp) 2006–2010"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Fully inspected to high specifications",
+   "Secure UK delivery"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 368DT engine now, or view the full 368DT engine range for other applications.",
+  "crossLink": "← Back to all 368DT engines"
+ }
+}

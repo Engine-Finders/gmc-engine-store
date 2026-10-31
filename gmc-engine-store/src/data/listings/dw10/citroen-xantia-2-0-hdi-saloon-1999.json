@@ -1,0 +1,90 @@
+{
+ "brand": "citroen",
+ "brandName": "Citroen",
+ "engineSlug": "dw10",
+ "applicationSlug": "citroen-xantia-2-0-hdi-saloon-1999",
+ "engineCode": "DW10",
+ "condition": "used",
+ "seo": {
+  "title": "Used Citroën DW10 2.0 HDi Engine — Xantia (X1/X2) Saloon 1999-2001",
+  "description": "DW10 · used · Citroën Xantia X1/X2 Saloon 2.0 HDi · 90 PS · £1,166 · 12-month warranty · UK delivery",
+  "canonical": "https://engined.co.uk/engines/dw10/citroen-xantia-2-0-hdi-saloon-1999/"
+ },
+ "hero": {
+  "title": "Used Citroën DW10 2.0 HDi Engine — Xantia (X1/X2) Saloon 1999-2001",
+  "subtitle": "Used DW10 diesel engine for Citroën Xantia X1/X2 Saloon 2.0 HDi — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: DW10-USED-CITROEN-XANTIA-HDI-SALOON",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,166",
+    "note": "12-month warranty",
+    "price": "£1,166.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,796",
+    "note": "12-month warranty",
+    "price": "£1,796.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Citroën DW10 2.0 HDi engine for Xantia X1/X2 Saloon 1999-2001 — tested diesel unit",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "DW10",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "1999-2001",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Citroën Xantia X1 Saloon (1999-2001), Citroën Xantia X2 Saloon (1999-2001)",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/citroen-citroen-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your vehicle's compatibility below — use our reg-checker to confirm this DW10 engine matches your Citroën Xantia exactly.",
+  "list": [
+   "Citroën Xantia X1 Saloon (1999-2001) — 2.0 HDi",
+   "Citroën Xantia X2 Saloon (1999-2001) — 2.0 HDi"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Comprehensive inspection report",
+   "Oil and filter service",
+   "UK mainland delivery"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this DW10 engine now, or view the full DW10 engine range for other applications.",
+  "crossLink": "← Back to all DW10 engines"
+ }
+}

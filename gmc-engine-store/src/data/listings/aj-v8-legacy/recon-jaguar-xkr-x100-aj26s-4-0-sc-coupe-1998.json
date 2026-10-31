@@ -1,0 +1,90 @@
+{
+ "brand": "jaguar",
+ "brandName": "Jaguar",
+ "engineSlug": "aj-v8-legacy",
+ "applicationSlug": "recon-jaguar-xkr-x100-aj26s-4-0-sc-coupe-1998",
+ "engineCode": "AJ26S",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned Jaguar AJ26S Engine — XKR (X100) 4.0 Supercharged Coupe 1998-1999 | Engined",
+  "description": "Reconditioned AJ26S engine for XKR (X100) 4.0 Supercharged Coupe 1998-1999. Fixed £4,025, prepared to order, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/aj-v8-legacy/recon-jaguar-xkr-x100-aj26s-4-0-sc-coupe-1998/"
+ },
+ "hero": {
+  "title": "Reconditioned Jaguar AJ26S Engine — XKR (X100) 4.0 Supercharged Coupe 1998-1999",
+  "subtitle": "SUB — Reconditioned AJ26S engine for XKR (X100) 4.0 Supercharged Coupe — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: AJV8-RECON-X100-40-SC-COUPE-AJ26S-12M",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £4,025",
+    "note": "12-month warranty",
+    "price": "£4,025.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned Jaguar AJ26S 4.0 V8 supercharged engine for XKR X100 Coupe 1998-1999, Eaton M112.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJ26S",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "1998-1999",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X100",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/jaguar-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/jaguar-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/jaguar-jaguar-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration to confirm fitment before ordering — this listing covers the XKR (X100) 1998-1999 4.0 V8 Supercharged (AJ26S) Coupe.",
+  "list": [
+   "XKR (X100) (4.0 V8 Supercharged (AJ26S) Coupe) 1998-1999"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Sump and timing cover"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this AJ26S engine now, or view the full AJ26S engine range for other applications.",
+  "crossLink": "← Back to all AJ26S engines"
+ }
+}

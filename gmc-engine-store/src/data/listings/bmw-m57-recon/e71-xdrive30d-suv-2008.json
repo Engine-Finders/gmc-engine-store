@@ -1,0 +1,91 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-m57-recon",
+ "applicationSlug": "e71-xdrive30d-suv-2008",
+ "engineCode": "M57TU2",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned BMW M57TU2 Engine — X6 E71 (xDrive30d) SUV 2008-2012",
+  "description": "Reconditioned BMW M57TU2 · X6 E71 xDrive30d SUV · 235 PS twin-turbo · £4,410 · 12‑month warranty · UK delivery.",
+  "canonical": "https://engined.co.uk/engines/bmw-m57-recon/e71-xdrive30d-suv-2008/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW M57TU2 Engine — X6 E71 (xDrive30d) SUV 2008-2012",
+  "subtitle": "Reconditioned M57TU2 engine for X6 E71 xDrive30d SUV — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M57-RECON-E71-XDRIVE30D-PREFL",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £4,410",
+    "note": "12-month warranty",
+    "price": "£4,410.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned BMW M57TU2 twin‑turbo diesel engine for X6 E71 xDrive30d SUV (2008‑2012) — complete unit",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M57TU2",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2008-2012",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E71",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration or confirm these fitments — this reconditioned M57TU2 engine is verified for the following BMW X6 applications.",
+  "list": [
+   "BMW X6 (E71) 2008-2012 — xDrive30d (235 PS) SUV"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12‑month warranty as standard",
+   "Full inspection report",
+   "Compression and leak‑down test results",
+   "Oil and filter service completed"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter, AC compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M57TU2 engine now, or view the full M57TU2 engine range for other applications.",
+  "crossLink": "← Back to all M57TU2 engines"
+ }
+}

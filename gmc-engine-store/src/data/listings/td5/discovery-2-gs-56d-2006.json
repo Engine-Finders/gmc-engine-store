@@ -1,0 +1,96 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "td5",
+ "applicationSlug": "discovery-2-gs-56d-2006",
+ "engineCode": "TD5",
+ "condition": "used",
+ "seo": {
+  "title": "Used Td5 Engine — Discovery 2 GS (56D) 2006-2008 | Engined",
+  "description": "Used Land Rover Td5 engine for Discovery 2 GS (56D) 2006-2008. Fixed price £1,706, 12-month warranty, tested before dispatch, fast UK delivery.",
+  "canonical": "https://engined.co.uk/engines/td5/discovery-2-gs-56d-2006/"
+ },
+ "hero": {
+  "title": "Used Td5 Engine — Discovery 2 GS (56D) 2006-2008",
+  "subtitle": "Used Td5 engine for Discovery 2 GS (56D) — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: TD5-USED-DISCO2-GS-56D",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,706",
+    "note": "12-month warranty",
+    "price": "£1,706.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £6,093",
+    "note": "12-month warranty",
+    "price": "£6,093.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Land Rover Td5 2.5 I5 diesel engine for Discovery 2 GS (56D), 2006-2008",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "Td5",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2006-2008",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L318",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration to confirm fitment — this listing covers one specific Discovery 2 GS (56D) application.",
+  "list": [
+   "Discovery 2 L318 (GS, 56D, 136 PS) 2006-2008"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (block, head, sump, timing cover)",
+   "Tested before dispatch — compression and oil pressure verified",
+   "12-month warranty as standard",
+   "New gaskets and seals on reassembly",
+   "Crated and palletised for safe transit"
+  ],
+  "excluded": [
+   "Turbocharger (reusable if condition allows)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, power steering pump, A/C compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this Td5 engine now, or view the full Td5 range.",
+  "crossLink": "← Back to all Td5 engines"
+ }
+}

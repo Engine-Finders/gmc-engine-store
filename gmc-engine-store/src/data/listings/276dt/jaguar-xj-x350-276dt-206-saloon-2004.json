@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "276dt",
+ "applicationSlug": "jaguar-xj-x350-276dt-206-saloon-2004",
+ "engineCode": "276DT",
+ "condition": "used",
+ "seo": {
+  "title": "Used 276DT (AJD-V6) Engine — Jaguar XJ X350/X358 | Engined",
+  "description": "Used 276DT (AJD-V6) engine for Jaguar XJ X350/X358 2.7 Twin-Turbo. Fixed price £1,570, tested before dispatch, 12-month warranty & UK delivery.",
+  "canonical": "https://engined.co.uk/engines/276dt/jaguar-xj-x350-276dt-206-saloon-2004/"
+ },
+ "hero": {
+  "title": "Used 276DT (AJD-V6) Engine — Jaguar XJ X350/X358 (206 PS, Twin-Turbo) 2004–2009",
+  "subtitle": "Used 276DT engine for Jaguar XJ X350/X358 2.7 AJD-V6 206 PS Twin-Turbo — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 276DT-USED-XJ-X350-206",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,570",
+    "note": "12-month warranty",
+    "price": "£1,570.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used 276DT AJD-V6 engine for Jaguar XJ X350/X358 2.7 Twin-Turbo, complete assembly tested and ready to ship.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "276DT",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2004–2009",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X350, X358",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your registration number in our checker above to ensure this 276DT engine is an exact match for your Jaguar XJ X350/X358.",
+  "list": [
+   "Jaguar XJ X350/X358 (2.7 AJD-V6 206 PS Twin-Turbo Saloon) 2004–2009"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "ECU and wiring loom (where applicable)",
+   "Sump and oil pump"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 276DT engine now, or view the full 276DT engine range for other applications.",
+  "crossLink": "← Back to all 276DT engines"
+ }
+}

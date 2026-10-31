@@ -1,0 +1,83 @@
+{
+ "brand": "seat",
+ "brandName": "Seat",
+ "engineSlug": "ea211",
+ "applicationSlug": "seat-arona-kj7-1-0-tsi-95-suv-2017",
+ "engineCode": "EA211",
+ "condition": "used",
+ "seo": {
+  "title": "EA211 Arona KJ7 95 Used | Engined",
+  "description": "Used EA211 engine for SEAT Arona KJ7 1.0 TSI 95 PS, code CHYA/CHYB — fixed price £805, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/ea211/seat-arona-kj7-1-0-tsi-95-suv-2017/"
+ },
+ "hero": {
+  "title": "EA211 Arona KJ7 95 Used",
+  "subtitle": "Used EA211 engine for SEAT Arona KJ7 1.0 TSI 95 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA211-USED-G1-10TSI-ARONA",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £805",
+    "note": "12-month warranty",
+    "price": "£805.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "EA211 Arona KJ7 95 Used",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA211",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2017–present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "KJ7",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your registration or engine code before ordering — this listing covers the applications listed below.",
+  "list": [
+   "SEAT Arona KJ7 (1.0 TSI 95 PS, code CHYA/CHYB) 2017–present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block as supplied",
+   "Sump, timing cover and oil pump where fitted"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA211 engine now, or view the full EA211 engine range for other applications.",
+  "crossLink": "← Back to all EA211 engines"
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "brand": "vauxhall",
+ "brandName": "Vauxhall",
+ "engineSlug": "dv5",
+ "applicationSlug": "vauxhall-corsa-f-130ps-hatchback-2019",
+ "engineCode": "PSA DV5",
+ "condition": "used",
+ "seo": {
+  "title": "Used DV5 Engine — Vauxhall Corsa F (130 PS) Hatchback 2019-2023",
+  "description": "Used PSA DV5 1.5 diesel engine for Vauxhall Corsa F hatchback 2019-2023. £1,695 with 12-month warranty, tested before dispatch and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/dv5/vauxhall-corsa-f-130ps-hatchback-2019/"
+ },
+ "hero": {
+  "title": "Used DV5 Engine — Vauxhall Corsa F (130 PS) Hatchback 2019-2023",
+  "subtitle": "Used PSA DV5 engine for Vauxhall Corsa F 1.5 CDTI hatchback — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: DV5-USED-CORSA-F-130-HATCH",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,695",
+    "note": "12-month warranty",
+    "price": "£1,695.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,395",
+    "note": "12-month warranty",
+    "price": "£2,395.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used PSA DV5 1.5 turbo-diesel 130 PS engine for Vauxhall Corsa F hatchback, transverse FWD, 2019-2023",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "PSA DV5",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2019-2023",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Vauxhall Corsa F",
+    "label": "Compatible"
+   },
+   {
+    "icon": "gauge",
+    "value": "130 PS",
+    "label": "Max Output"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your registration with our reg checker before ordering — this engine fits the Vauxhall Corsa F with the DV5 code on the block.",
+  "list": [
+   "Vauxhall Corsa F (1.5 CDTI 130 PS, DV5, Hatchback) 2019-2023"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block inspected",
+   "Sump and timing components fitted",
+   "Compression-tested with documentation supplied"
+  ],
+  "excluded": [
+   "Turbocharger (reused only if condition allows)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this DV5 engine now, or view the full DV5 engine range for other applications.",
+  "crossLink": "← Back to all DV5 engines"
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "om646",
+ "applicationSlug": "mercedes-viano-w639-om646-2.2-cdi-mpv-2003",
+ "engineCode": "OM646",
+ "condition": "used",
+ "seo": {
+  "title": "Used OM646 2.2 CDI Engine — Viano W639 MPV (2.2 CDI, 150 PS, Manual) 2003–2010 | Engined",
+  "description": "Used OM646 2.2 CDI engine for Mercedes Viano W639 MPV (150 PS). Used price £1,295. Tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/om646/mercedes-viano-w639-om646-2.2-cdi-mpv-2003/"
+ },
+ "hero": {
+  "title": "Used OM646 2.2 CDI Engine — Viano W639 MPV (2.2 CDI, 150 PS, Manual) 2003–2010",
+  "subtitle": "Used OM646 engine for Viano W639 MPV — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: OM646-USED-W639-VIANO-2.2",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,295",
+    "note": "12-month warranty",
+    "price": "£1,295.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used OM646 2.2 CDI engine for Mercedes Viano W639 MPV, tested and ready for dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "OM646",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2003–2010",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W639",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-mercedes-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number above to confirm this OM646 engine is an exact match for your Mercedes-Benz.",
+  "list": [
+   "Mercedes-Benz Viano W639 (2.2 CDI) (2.2L CDI, 150 PS, Manual) 2003–2010"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Valve covers and intake manifold",
+   "Full set of gaskets and seals"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries (alternator, starter motor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this OM646 engine now, or view the full OM646 engine range for other applications.",
+  "crossLink": "← Back to all OM646 engines"
+ }
+}

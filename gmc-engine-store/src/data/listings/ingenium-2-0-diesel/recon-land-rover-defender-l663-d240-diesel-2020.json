@@ -1,0 +1,90 @@
+{
+ "brand": "jaguar",
+ "brandName": "Jaguar",
+ "engineSlug": "ingenium-2-0-diesel",
+ "applicationSlug": "recon-land-rover-defender-l663-d240-diesel-2020",
+ "engineCode": "204DTA",
+ "condition": "recon",
+ "seo": {
+  "title": "Recon 204DTA Defender L663 D240 | Engined",
+  "description": "Reconditioned 204DTA 2.0L diesel engine for Land Rover Defender (L663) D240. Fixed price £4,600, tested before dispatch, 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/ingenium-2-0-diesel/recon-land-rover-defender-l663-d240-diesel-2020/"
+ },
+ "hero": {
+  "title": "Recon 204DTA Defender L663 D240",
+  "subtitle": "Reconditioned 204DTA engine for Defender (L663) D240 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 204DTA-RECON-DEFENDER-L663-D240",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £4,600",
+    "note": "12-month warranty",
+    "price": "£4,600.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned 204DTA engine for Land Rover Defender L663 D240, complete assembly ready for installation",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "204DTA",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2020-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L663",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/jaguar-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/jaguar-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/jaguar-jaguar-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number above to confirm exact fitment for your Land Rover Defender (L663) D240 2.0 Diesel.",
+  "list": [
+   "Defender L663 (D240 2.0 Diesel 240 PS SUV) 2020-present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Full gasket and seal kit",
+   "Detailed installation guide"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 204DTA engine now, or view the full 204DTA range for other applications.",
+  "crossLink": "← Back to all 204DTA engines"
+ }
+}

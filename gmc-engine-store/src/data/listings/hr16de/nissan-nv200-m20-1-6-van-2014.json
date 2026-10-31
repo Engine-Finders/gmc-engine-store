@@ -1,0 +1,83 @@
+{
+ "brand": "nissan",
+ "brandName": "Nissan",
+ "engineSlug": "hr16de",
+ "applicationSlug": "nissan-nv200-m20-1-6-van-2014",
+ "engineCode": "HR16DE",
+ "condition": "used",
+ "seo": {
+  "title": "Used Nissan HR16DE Engine — NV200 M20 1.6 Van | Engined",
+  "description": "Used HR16DE engine for Nissan NV200 M20 1.6 van. Fixed price £950, tested before dispatch, UK delivery & 12-month warranty included. In stock now.",
+  "canonical": "https://engined.co.uk/engines/hr16de/nissan-nv200-m20-1-6-van-2014/"
+ },
+ "hero": {
+  "title": "Used Nissan HR16DE Engine — Nissan NV200 M20 (1.6) Van 2014-2020",
+  "subtitle": "Used HR16DE engine for Nissan NV200 M20 1.6 van — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: HR16DE-USED-G5-NV200",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £950",
+    "note": "12-month warranty",
+    "price": "£950.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Nissan HR16DE Engine — Nissan NV200 M20 (1.6) Van 2014-2020",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "HR16DE",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2014-2020",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "M20",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/nissan-nissan-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number in our checker above to confirm this HR16DE engine is the exact match for your vehicle.",
+  "list": [
+   "Nissan NV200 M20 (1.6 petrol) 2014-2020"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "VAT inclusive pricing",
+   "Secure, palletised UK delivery"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system components",
+   "Ancillaries (alternator, starter motor, etc.)",
+   "Fitting and installation",
+   "ECU remapping or coding"
+  ]
+ },
+ "cta": {
+  "line": "Buy this HR16DE engine now, or view the full HR16DE engine range for other applications.",
+  "crossLink": "← Back to all HR16DE engines"
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "n74",
+ "applicationSlug": "bmw-7-series-f01-760i-saloon-2008",
+ "engineCode": "N74B60",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW N74B60 6.0 V12 Engine — 7 Series F01 760i Saloon 2008–2015",
+  "description": "Used BMW N74B60 V12 engine for 7 Series F01 760i Saloon (2008-2015). 536 hp, tested before dispatch, 12-month warranty. £12,595 with UK delivery.",
+  "canonical": "https://engined.co.uk/engines/n74/bmw-7-series-f01-760i-saloon-2008/"
+ },
+ "hero": {
+  "title": "Used BMW N74B60 6.0 V12 Engine — 7 Series F01 760i Saloon 2008–2015",
+  "subtitle": "Used N74B60 engine for 7 Series F01 760i Saloon — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N74-USED-F01-760i",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £12,595",
+    "note": "12-month warranty",
+    "price": "£12,595.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW N74B60 6.0L V12 engine for 7 Series F01 760i Saloon, 536 hp, 2008-2015, tested.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N74B60",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2008-2015",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F01",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment for your BMW by checking your registration. This N74B60 engine fits the following models:",
+  "list": [
+   "BMW 7 Series F01 (760i 536 hp) 2008–2015"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Free UK delivery",
+   "30-day return policy"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N74 engine now, or view the full N74 engine range for other applications.",
+  "crossLink": "← Back to all N74 engines"
+ }
+}

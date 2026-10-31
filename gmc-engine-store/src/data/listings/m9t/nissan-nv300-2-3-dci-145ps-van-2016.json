@@ -1,0 +1,83 @@
+{
+ "brand": "renault",
+ "brandName": "Renault",
+ "engineSlug": "m9t",
+ "applicationSlug": "nissan-nv300-2-3-dci-145ps-van-2016",
+ "engineCode": "M9T",
+ "condition": "used",
+ "seo": {
+  "title": "Used Renault M9T Engine — Nissan NV300 | Engined",
+  "description": "Used Renault M9T engine for Nissan NV300 and Renault Trafic III. 2.3 dCi 145 PS. £1,895 with 12-month warranty and UK delivery. Tested before dispatch.",
+  "canonical": "https://engined.co.uk/engines/m9t/nissan-nv300-2-3-dci-145ps-van-2016/"
+ },
+ "hero": {
+  "title": "Used Renault M9T Engine — Nissan NV300 (2.3 dCi 145 PS) Van 2016-Present",
+  "subtitle": "Used M9T engine for Nissan NV300, Renault Trafic III — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M9T-USED-NV300-145",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,895",
+    "note": "12-month warranty",
+    "price": "£1,895.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Renault M9T 2.3 dCi 145 PS engine for Nissan NV300 van, longitudinal mount, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M9T",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2016–present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "N/A",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration to confirm this used M9T engine fits your Nissan NV300 before you buy.",
+  "list": [
+   "Nissan NV300 (2.3 dCi 145 PS, code M9T 706/880) 2016–present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Sump and timing cover"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M9T engine now, or view the full M9T engine range for other applications.",
+  "crossLink": "← Back to all M9T engines — https://engined.co.uk/engines/m9t/"
+ }
+}

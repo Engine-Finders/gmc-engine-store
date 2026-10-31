@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "m275-m279",
+ "applicationSlug": "mercedes-cl-w216-m275-517-fl-used-coupe-2010",
+ "engineCode": "M275",
+ "condition": "used",
+ "seo": {
+  "title": "Used M275 5.5 V12 Engine — CL W216 (CL600, 517 PS) FL 2010–2013",
+  "description": "Used M275 5.5 V12 Biturbo engine for Mercedes CL W216 CL600 Coupe (2010–2013) — £5,995, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/m275-m279/mercedes-cl-w216-m275-517-fl-used-coupe-2010/"
+ },
+ "hero": {
+  "title": "Used M275 5.5 V12 Engine — CL W216 (CL600, 517 PS) FL 2010–2013",
+  "subtitle": "Used M275 engine for Mercedes CL W216 CL600 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M275-USED-W216-CL600-FL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £5,995",
+    "note": "12-month warranty",
+    "price": "£5,995.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Mercedes M275 5.5 V12 Biturbo engine, facelift W216 CL600 517 PS coupe 2010–2013",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M275",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2010–2013",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W216",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-mercedes-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your registration with our reg checker before ordering — this used M275 fits the facelift W216 CL600 coupe only.",
+  "list": [
+   "Mercedes-Benz CL W216 (Coupe — CL600 517 PS — M275 — V12 Biturbo) 2010–2013"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly, as removed",
+   "Tested before dispatch — compression and oil pressure verified",
+   "12-month warranty as standard",
+   "Engine code checked against your chassis before release",
+   "UK delivery, crated and palletised"
+  ],
+  "excluded": [
+   "Turbochargers (reused only if serviceable, subject to condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter, pumps, sensors)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M275 engine now, or view the full M275 engine range for other applications.",
+  "crossLink": "← Back to all M275 engines"
+ }
+}

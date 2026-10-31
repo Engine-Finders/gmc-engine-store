@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n52",
+ "applicationSlug": "e70-xdrive30i-suv-2006",
+ "engineCode": "N52",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW N52 Engine — X5 E70 (xDrive30i) SUV 2006‑2010",
+  "description": "Used BMW N52 engine for X5 E70 xDrive30i (258 PS) 2006-2010. Fixed £1,685, tested, 12-month warranty and UK delivery. In stock — ready to ship.",
+  "canonical": "https://engined.co.uk/engines/bmw-n52/e70-xdrive30i-suv-2006/"
+ },
+ "hero": {
+  "title": "Used BMW N52 Engine — X5 E70 (xDrive30i) SUV 2006‑2010",
+  "subtitle": "Used BMW N52 engine for X5 E70 xDrive30i (258 PS) SUV 2006-2010 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N52-USED-E70-XDRIVE30I",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,685",
+    "note": "12-month warranty",
+    "price": "£1,685.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "BMW N52 used engine for X5 E70 xDrive30i SUV 2006-2010, 258 PS, N52B30, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "BMW N52",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2006‑2010",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E70",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our reg checker to confirm your registration fits this BMW X5 E70 xDrive30i application before buying.",
+  "list": [
+   "BMW X5 E70 (xDrive30i (258 PS) SUV) 2006‑2010"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil sump and rocker cover",
+   "Timing cover and inlet manifold"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this BMW N52 engine now, or view the full BMW N52 engine range for other applications.",
+  "crossLink": "← Back to all BMW N52 engines"
+ }
+}

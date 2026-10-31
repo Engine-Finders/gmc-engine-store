@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "m62",
+ "applicationSlug": "land-rover-range-rover-l322-m62b44-286-auto-hse-2002",
+ "engineCode": "M62B44",
+ "condition": "used",
+ "seo": {
+  "title": "Used M62B44 4.4 V8 Engine — Range Rover L322 HSE (286 PS, Auto) 2002–2003 | Engined",
+  "description": "Used M62B44 4.4 V8 engine for Range Rover L322 HSE (286 PS, Auto) 2002–2003. £1,895, tested before dispatch, with 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/m62/land-rover-range-rover-l322-m62b44-286-auto-hse-2002/"
+ },
+ "hero": {
+  "title": "Used M62B44 4.4 V8 Engine — Range Rover L322 HSE (286 PS, Auto) 2002–2003",
+  "subtitle": "SUB — Used M62B44 engine for Range Rover L322 HSE — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M62-USED-L322-HSE-AUTO-0203",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,895",
+    "note": "12-month warranty",
+    "price": "£1,895.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used M62B44 4.4 V8 engine for Range Rover L322 HSE 2002–2003, 286 PS auto, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M62B44",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2002–2003",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L322",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with our reg checker before buying — this used M62B44 engine is listed for the following Range Rover L322 HSE application.",
+  "list": [
+   "Range Rover L322 HSE (SUV — 4.4 V8 286 PS — Auto — M62B44) 2002–2003"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New gaskets and seals",
+   "Oil pump and timing components"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M62B44 engine now, or view the full M62B44 range for other applications.",
+  "crossLink": "← Back to all M62B44 engines"
+ }
+}

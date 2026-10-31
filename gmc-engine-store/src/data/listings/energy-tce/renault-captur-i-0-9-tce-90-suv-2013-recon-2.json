@@ -1,0 +1,83 @@
+{
+ "brand": "renault",
+ "brandName": "Renault",
+ "engineSlug": "energy-tce",
+ "applicationSlug": "renault-captur-i-0-9-tce-90-suv-2013-recon-2",
+ "engineCode": "H4BT",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned Renault Energy TCe Engine — Captur I (0.9 TCe 90) SUV 2013-2018 | Engined",
+  "description": "Reconditioned Renault Energy TCe H4Bt engine for Captur I 0.9 TCe 90 SUV 2013-2018. £1,350 recon / £625 used, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/energy-tce/renault-captur-i-0-9-tce-90-suv-2013-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned Renault Energy TCe Engine — Captur I (0.9 TCe 90) SUV 2013-2018",
+  "subtitle": "Reconditioned H4Bt Energy TCe engine for Captur I — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: TCe-RECON-CAPTUR-09",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,350",
+    "note": "12-month warranty",
+    "price": "£1,350.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned Renault Energy TCe H4Bt 0.9-litre turbo petrol engine for Captur I 0.9 TCe 90 SUV, 2013-2018.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "H4Bt",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2013-2018",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Captur I",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your registration with our reg checker below before ordering — this engine fits the applications listed.",
+  "list": [
+   "Renault Captur I (0.9 TCe 90, 90 PS, code H4Bt) 2013–2018"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil sump and timing cover included",
+   "Ready to fit using original mountings"
+  ],
+  "excluded": [
+   "Turbocharger (reusable from your existing unit if serviceable)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, air conditioning compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this Energy TCe engine now, or view the full Energy TCe engine range for other applications.",
+  "crossLink": "← Back to all Energy TCe engines"
+ }
+}

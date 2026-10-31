@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n52",
+ "applicationSlug": "e92-330i-coupe-2005",
+ "engineCode": "N52",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW N52 Engine — 3 Series E92 (330i) Coupe 2005‑2009",
+  "description": "Used BMW N52 engine for 3 Series E92 330i Coupe 2005‑2009. Pre‑LCI N52B30, 258 PS. Fixed price £1,605 with 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/bmw-n52/e92-330i-coupe-2005/"
+ },
+ "hero": {
+  "title": "Used BMW N52 Engine — 3 Series E92 (330i) Coupe 2005‑2009",
+  "subtitle": "SUB — Used N52 engine for 330i (258 PS) Coupe — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N52-USED-E92-330I-PREFL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,605",
+    "note": "12-month warranty",
+    "price": "£1,605.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW N52 engine for 3 Series E92 330i Coupe 2005‑2009, Pre‑LCI N52B30 258 PS, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N52",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2005‑2009",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E92",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with our reg checker before purchase — this N52 engine fits the applications listed below.",
+  "list": [
+   "BMW 3 Series E92 (330i (258 PS) Coupe) 2005‑2009"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New gaskets and seals fitted where required",
+   "Oil sump and timing cover included"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N52 engine now, or view the N52 engine range for other applications.",
+  "crossLink": "← Back to all N52 engines — https://engined.co.uk/engines/bmw-n52/"
+ }
+}

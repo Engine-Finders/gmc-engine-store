@@ -1,0 +1,91 @@
+{
+ "brand": "audi",
+ "brandName": "Audi",
+ "engineSlug": "ea189",
+ "applicationSlug": "audi-a3-8p-140hp-saloon",
+ "engineCode": "EA189",
+ "condition": "used",
+ "seo": {
+  "title": "Used EA189 2.0 TDI Engine — Audi A3 8P (140 hp) Saloon 2008-2012",
+  "description": "EA189 · Used · Audi A3 Saloon 8P, 2.0 TDI 140 hp · £1,295 · 12-month warranty · UK delivery. Transverse single-turbo diesel, same as hatchback.",
+  "canonical": "https://engined.co.uk/engines/ea189/audi-a3-8p-140hp-saloon/"
+ },
+ "hero": {
+  "title": "Used EA189 2.0 TDI Engine — Audi A3 8P (140 hp) Saloon 2008-2012",
+  "subtitle": "Used EA189 2.0 TDI engine for Audi A3 Saloon 8P — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA189-USED-A3-8P-140-SAL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,295",
+    "note": "12-month warranty",
+    "price": "£1,295.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "EA189 2.0 TDI engine for Audi A3 Saloon 8P, transverse single-turbo diesel, 140 hp.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA189",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2008-2012",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "8P",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/audi-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/audi-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/audi-audi-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Verify this engine fits your Audi A3 using our free registration checker — input your reg for instant confirmation.",
+  "list": [
+   "Audi A3 Saloon (8P) 2008-2012 — 2.0 TDI (140 hp)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Comprehensive inspection report",
+   "Oil and filter service",
+   "UK delivery included"
+  ],
+  "excluded": [
+   "Turbocharger (reusable if in good condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA189 engine now, or view the full EA189 engine range for other applications.",
+  "crossLink": "← Back to all EA189 engines"
+ }
+}

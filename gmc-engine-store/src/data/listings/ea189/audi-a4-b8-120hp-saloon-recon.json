@@ -1,0 +1,90 @@
+{
+ "brand": "audi",
+ "brandName": "Audi",
+ "engineSlug": "ea189",
+ "applicationSlug": "audi-a4-b8-120hp-saloon-recon",
+ "engineCode": "EA189",
+ "condition": "recon",
+ "seo": {
+  "title": "Recon EA189 2.0 TDI Engine Audi A4 B8 120hp | Engined",
+  "description": "Reconditioned EA189 2.0 TDI engine for Audi A4 B8 (2008-2015). Fixed price £1,980, tested before dispatch, 12-month warranty and UK delivery included.",
+  "canonical": "https://engined.co.uk/engines/ea189/audi-a4-b8-120hp-saloon-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned EA189 2.0 TDI Engine Audi A4 B8 120hp",
+  "subtitle": "Reconditioned EA189 engine for Audi A4 Saloon (B8) 2008-2015 2.0 TDI — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA189-RECON-A4-B8-120",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,980",
+    "note": "12-month warranty",
+    "price": "£1,980.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned EA189 2.0 TDI Engine Audi A4 B8 120hp",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA189",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2008-2015",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "B8",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel (2.0 TDI)",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/audi-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/audi-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/audi-audi-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number in our checker above to confirm this EA189 engine is the exact match for your Audi A4 B8.",
+  "list": [
+   "Audi A4 Saloon (B8) 2008-2015 (2.0 TDI 120 hp)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete reconditioned engine assembly",
+   "Renewed timing belt, tensioner, and water pump",
+   "Cylinder head rebuild completed",
+   "Tested before dispatch",
+   "12-month warranty as standard"
+  ],
+  "excluded": [
+   "High-pressure (HP) fuel pump",
+   "Fuel injectors",
+   "Ancillaries not explicitly listed",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA189 engine now, or view the full EA189 range for other applications.",
+  "crossLink": "← Back to all EA189 engines"
+ }
+}

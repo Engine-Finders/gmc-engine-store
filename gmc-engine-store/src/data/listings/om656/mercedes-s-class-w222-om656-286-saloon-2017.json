@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "om656",
+ "applicationSlug": "mercedes-s-class-w222-om656-286-saloon-2017",
+ "engineCode": "OM656",
+ "condition": "used",
+ "seo": {
+  "title": "OM656 S350d W222 286 | Engined",
+  "description": "Mercedes-Benz OM656 used engine for S-Class W222 S350d 286 PS — £3,595, 12-month warranty, tested before dispatch and UK delivery. Check registration.",
+  "canonical": "https://engined.co.uk/engines/om656/mercedes-s-class-w222-om656-286-saloon-2017/"
+ },
+ "hero": {
+  "title": "OM656 S350d W222 286",
+  "subtitle": "SUB — Used OM656 engine for S-Class W222 S350d 286 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: OM656-USED-W222-350D",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £3,595",
+    "note": "12-month warranty",
+    "price": "£3,595.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Mercedes-Benz OM656 3.0 diesel engine for S-Class W222 S350d 286 PS saloon, longitudinal.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "OM656",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2017–2020",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W222",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-om656-engine.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration before ordering — this used OM656 is listed for the S-Class W222 applications below.",
+  "list": [
+   "S-Class W222 (Saloon, S350d 286 PS, OM656, Longitudinal) 2017–2020"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Renewed timing chain",
+   "New gaskets and seals"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this OM656 engine now, or view the full OM656 engine range for other applications.",
+  "crossLink": "← Back to all OM656 engines — https://engined.co.uk/engines/om656/"
+ }
+}

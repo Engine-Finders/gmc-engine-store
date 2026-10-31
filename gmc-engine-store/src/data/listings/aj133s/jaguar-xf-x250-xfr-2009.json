@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "aj133s",
+ "applicationSlug": "jaguar-xf-x250-xfr-2009",
+ "engineCode": "AJ133S",
+ "condition": "used",
+ "seo": {
+  "title": "Used 5.0 V8 Engine — Jaguar XF X250 XFR (AJ133S) 2009-2015",
+  "description": "Used AJ133S 5.0 V8 engine for Jaguar XF X250 XFR 2009-2015 — 510 PS. Fixed price £6,325 with 12-month warranty, tested before dispatch, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/aj133s/jaguar-xf-x250-xfr-2009/"
+ },
+ "hero": {
+  "title": "Used 5.0 V8 Engine — Jaguar XF X250 XFR (AJ133S) 2009-2015",
+  "subtitle": "SUB — Used AJ133S engine for Jaguar XF X250 XFR 2009-2015 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: AJ133S-USED-XFR",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £6,325",
+    "note": "12-month warranty",
+    "price": "£6,325.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Jaguar AJ133S 5.0 V8 supercharged engine for XF X250 XFR 2009-2015, 510 PS",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJ133S",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2009-2015",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X250",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with your registration before ordering — this listing covers the applications below.",
+  "list": [
+   "Jaguar XF X250 XFR (5.0 Supercharged AJ133S, 510 PS) 2009-2015"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Sump and timing covers"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this AJ133S engine now, or view the AJ133S range for other applications.",
+  "crossLink": "← Back to all AJ133S engines"
+ }
+}

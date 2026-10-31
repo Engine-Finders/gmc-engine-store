@@ -1,0 +1,90 @@
+{
+ "brand": "volkswagen",
+ "brandName": "Volkswagen",
+ "engineSlug": "ea888",
+ "applicationSlug": "vw-polo-gti-200ps-hatchback-2014",
+ "engineCode": "EA888 GEN 3",
+ "condition": "used",
+ "seo": {
+  "title": "Used EA888 Engine — VW Polo GTI Mk5 (2.0 TSI 200 PS) Hatchback 2014-2017 | Engined",
+  "description": "",
+  "canonical": "https://engined.co.uk/engines/ea888/vw-polo-gti-200ps-hatchback-2014/"
+ },
+ "hero": {
+  "title": "Used EA888 Engine — VW Polo GTI Mk5 (2.0 TSI 200 PS) Hatchback 2014-2017",
+  "subtitle": "Used EA888 Gen 3 engine for VW Polo GTI 200 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA888-USED-POLO-GTI-200-HATCH",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,345",
+    "note": "12-month warranty",
+    "price": "£1,345.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used EA888 Gen 3 2.0 TSI 200 PS transverse turbo petrol engine, VW Polo GTI spec, shown as removed",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA888 Gen 3",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2014-2017",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "6R",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/volkswagen-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/volkswagen-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/volkswagen-vw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration against the list below to confirm this EA888 engine matches your Polo GTI before ordering.",
+  "list": [
+   "VW Polo Mk5 GTI 6R (2.0 TSI 200 PS) Hatchback 2014-2017"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Fully drained and sealed for transport",
+   "New gaskets and seals where applicable"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA888 engine now, or view the full EA888 engine range for other applications.",
+  "crossLink": "← Back to all EA888 engines"
+ }
+}

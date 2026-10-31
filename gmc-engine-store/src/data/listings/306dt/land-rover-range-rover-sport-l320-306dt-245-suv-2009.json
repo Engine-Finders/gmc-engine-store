@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "306dt",
+ "applicationSlug": "land-rover-range-rover-sport-l320-306dt-245-suv-2009",
+ "engineCode": "306DT",
+ "condition": "used",
+ "seo": {
+  "title": "306DT RRS L320 245 PS | Engined",
+  "description": "Used 306DT TDV6 engine for Range Rover Sport L320 (245 PS, 2009–2013). Fixed price £2,870, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/306dt/land-rover-range-rover-sport-l320-306dt-245-suv-2009/"
+ },
+ "hero": {
+  "title": "Used 306DT TDV6 Engine — Range Rover Sport L320 (245 PS, Single-Turbo) 2009–2013",
+  "subtitle": "Used 306DT engine for Range Rover Sport L320 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 306DT-USED-RRS-L320-245",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,870",
+    "note": "12-month warranty",
+    "price": "£2,870.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Land Rover 306DT TDV6 diesel engine for Range Rover Sport L320, 245 PS, 2009–2013.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "306DT",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2009–2013",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L320",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your registration with our reg checker to ensure this 306DT engine fits your Range Rover Sport L320.",
+  "list": [
+   "Range Rover Sport L320 (SUV 3.0 TDV6 245 PS) 2009–2013"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil sump and pickup",
+   "Timing covers and pulleys"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 306DT engine now, or view the full 306DT range for other applications.",
+  "crossLink": "← Back to all 306DT engines"
+ }
+}

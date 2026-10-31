@@ -1,0 +1,91 @@
+{
+ "brand": "jaguar",
+ "brandName": "Jaguar",
+ "engineSlug": "aj-v8-legacy",
+ "applicationSlug": "jaguar-xj8-x308-aj27-4-0-saloon-1998",
+ "engineCode": "AJ27",
+ "condition": "used",
+ "seo": {
+  "title": "Used Jaguar AJ27 Engine — XJ8 X308 4.0 V8 Saloon | Engined",
+  "description": "Used AJ27 engine for Jaguar XJ8 (X308) 4.0 V8 Saloon. £2,065 fixed price, tested before dispatch, 12-month warranty & UK delivery.",
+  "canonical": "https://engined.co.uk/engines/aj-v8-legacy/jaguar-xj8-x308-aj27-4-0-saloon-1998/"
+ },
+ "hero": {
+  "title": "Used Jaguar AJ27 Engine — XJ8 (X308) 4.0 V8 Saloon 1998-2003",
+  "subtitle": "Used AJ27 engine for Jaguar XJ8 (X308) 4.0 V8 Saloon — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: AJV8-USED-X308-40-NA-SALOON-AJ27",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,880",
+    "note": "12-month warranty",
+    "price": "£2,880.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "AJ27 4.0 V8 naturally aspirated engine for Jaguar XJ8 X308 saloon, complete longitudinal assembly with CVVT.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJ27",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "1998-2003",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X308",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/jaguar-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/jaguar-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/jaguar-jaguar-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Verify fitment for your specific chassis using our registration checker before purchasing this AJ27 engine.",
+  "list": [
+   "Jaguar XJ8 (X308) 4.0 V8 (AJ27) Saloon (1998-2003)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch",
+   "Warranty as standard",
+   "Longitudinal saloon specification components",
+   "Continuous Variable Valve Timing (CVVT) system",
+   "Engine wiring harness"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this AJ27 engine now, or view the full AJ27 engine range for other applications.",
+  "crossLink": "← Back to all AJ27 engines"
+ }
+}

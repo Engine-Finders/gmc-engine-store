@@ -1,0 +1,91 @@
+{
+ "brand": "jaguar",
+ "brandName": "Jaguar",
+ "engineSlug": "aj126",
+ "applicationSlug": "recon-jaguar-f-type-x152-400-ps-convertible-2017",
+ "engineCode": "AJ126",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned Jaguar AJ126 3.0 V6 F-Type X152 400 | Engined",
+  "description": "Reconditioned AJ126 engine for Jaguar F-Type (X152) 400 Sport 3.0 SC 400 PS Convertible 2017-2019. Price £5,750, tested before dispatch, 12-month warranty.",
+  "canonical": "https://engined.co.uk/engines/aj126/recon-jaguar-f-type-x152-400-ps-convertible-2017/"
+ },
+ "hero": {
+  "title": "Reconditioned Jaguar AJ126 3.0 V6 Engine — F-Type (X152) 400 Sport Convertible 2017-2019",
+  "subtitle": "Reconditioned AJ126 engine for Jaguar F-Type (X152) 400 Sport 3.0 SC (400 PS) Convertible — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: AJ126-RECON-FTYPE-X152-400-CONV",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £5,750",
+    "note": "12-month warranty",
+    "price": "£5,750.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned AJ126 3.0 V6 supercharged engine for Jaguar F-Type X152 400 Sport Convertible, highest-output configuration, ready for installation.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJ126",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2017-2019",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X152",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/jaguar-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/jaguar-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jlr-aj126-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment by entering your registration number above to ensure this AJ126 engine matches your Jaguar F-Type (X152).",
+  "list": [
+   "Jaguar F-Type (X152) Convertible (400 Sport 3.0 SC 400 PS) 2017-2019"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (AJ126 3.0 V6 Supercharged)",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Longitudinal configuration specific to F-Type X152",
+   "Supercharger unit included",
+   "Sports car-specific ancillaries"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition) – *Note: This is a supercharged engine, so turbo is N/A, but standard list applies.",
+   "Injectors/fuel system (unless specified as included in specific lot)",
+   "Ancillaries (alternator, starter, AC compressor if not part of core assembly)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this AJ126 engine now, or view the full AJ126 engine range for other applications.",
+  "crossLink": "← Back to all AJ126 engines"
+ }
+}

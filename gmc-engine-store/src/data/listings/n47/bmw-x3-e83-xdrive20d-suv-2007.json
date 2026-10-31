@@ -1,0 +1,91 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "n47",
+ "applicationSlug": "bmw-x3-e83-xdrive20d-suv-2007",
+ "engineCode": "N47",
+ "condition": "used",
+ "seo": {
+  "title": "Used N47 Engine — BMW X3 E83 xDrive20d SUV 2007-2010",
+  "description": "N47 · used · X3 SUV E83 xDrive20d · 177 PS · £1,250 · fully tested before dispatch · 12-month warranty · UK delivery included",
+  "canonical": "https://engined.co.uk/engines/n47/bmw-x3-e83-xdrive20d-suv-2007/"
+ },
+ "hero": {
+  "title": "Used N47 Engine — BMW X3 E83 xDrive20d SUV 2007-2010",
+  "subtitle": "Used N47 engine for X3 SUV E83 xDrive20d — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N47-USED-G4-E83-XD20D",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,250",
+    "note": "12-month warranty",
+    "price": "£1,250.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "BMW N47 engine for E83 xDrive20d SUV — complete assembly with ancillaries",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N47",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2007-2010",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E83",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-n47-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration for instant fitment confirmation, or check the compatible models listed below.",
+  "list": [
+   "X3 SUV (E83) 2007-2010 — xDrive20d (177 PS)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil and filter service completed",
+   "Pressure and compression tested",
+   "Full inspection report supplied"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, aircon compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N47 engine now, or view the full N47 engine range for other applications.",
+  "crossLink": "← Back to all N47 engines"
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "brand": "seat",
+ "brandName": "Seat",
+ "engineSlug": "ea189",
+ "applicationSlug": "seat-alhambra-7n-2-0-tdi-170-mpv-2010",
+ "engineCode": "EA189",
+ "condition": "used",
+ "seo": {
+  "title": "Used VW EA189 Engine — SEAT Alhambra 7N (2.0 TDI 170 PS) MPV 2010-2015",
+  "description": "Used EA189 2.0 TDI engine for the SEAT Alhambra 7N 170 PS (2010-2015). £1,395 fixed price, tested before dispatch, 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/ea189/seat-alhambra-7n-2-0-tdi-170-mpv-2010/"
+ },
+ "hero": {
+  "title": "Used VW EA189 Engine — SEAT Alhambra 7N (2.0 TDI 170 PS) MPV 2010-2015",
+  "subtitle": "Used EA189 engine for the SEAT Alhambra 7N 2.0 TDI 170 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA189-USED-ALHAMBRA-170",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,395",
+    "note": "12-month warranty",
+    "price": "£1,395.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used EA189 2.0 TDI 170 PS engine for SEAT Alhambra 7N, transverse mount, 2010-2015",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA189",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2010-2015",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "7N",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration or engine code before ordering — every EA189 Alhambra 7N listed here is confirmed for the fitment below.",
+  "list": [
+   "SEAT Alhambra 7N (2.0 TDI 170 PS, transverse mount) 2010-2015"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly — cylinder block, cylinder head, sump and rocker cover",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Engine code verified against your registration before dispatch",
+   "Palletised and strapped for UK delivery"
+  ],
+  "excluded": [
+   "Turbocharger (reused from your unit where condition allows)",
+   "Injectors and fuel system components",
+   "Ancillaries — alternator, starter motor, air conditioning compressor",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA189 engine now, or view the full EA189 engine range for other applications.",
+  "crossLink": "← Back to all EA189 engines"
+ }
+}

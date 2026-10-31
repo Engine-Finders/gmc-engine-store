@@ -1,0 +1,83 @@
+{
+ "brand": "vauxhall",
+ "brandName": "Vauxhall",
+ "engineSlug": "dv5",
+ "applicationSlug": "vauxhall-astra-k-105ps-hatchback-2018-recon",
+ "engineCode": "DV5",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned DV5 Engine — Vauxhall Astra K (105 PS) Hatchback 2018-2021 | Engined",
+  "description": "Reconditioned DV5 engine for Vauxhall Astra K 105 PS hatchback, 2018-2021. £2,155, prepared to order, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/dv5/vauxhall-astra-k-105ps-hatchback-2018-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned DV5 Engine — Vauxhall Astra K (105 PS) Hatchback 2018-2021",
+  "subtitle": "Reconditioned DV5 engine for Vauxhall Astra K 105 PS Hatchback — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: DV5-RECON-ASTRA-K-105-HATCH-12M",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,155",
+    "note": "12-month warranty",
+    "price": "£2,155.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned PSA DV5 1.5 CDTI 105 PS engine for Vauxhall Astra K hatchback, transverse FWD, 2018-2021.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "DV5",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2018-2021",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Astra K",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our reg checker to confirm this reconditioned DV5 engine fits your Vauxhall Astra K before ordering.",
+  "list": [
+   "Vauxhall Astra K (1.5 CDTI 105 PS (DV5) Hatchback) 2018-2021"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil sump and timing cover",
+   "Engine block and cylinder head"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this DV5 engine now, or view the full DV5 engine range for other applications.",
+  "crossLink": "← Back to all DV5 engines"
+ }
+}

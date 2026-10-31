@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "om651",
+ "applicationSlug": "mercedes-sprinter-w906-om651-315-auto-cdi-van-2013",
+ "engineCode": "OM651",
+ "condition": "used",
+ "seo": {
+  "title": "Used OM651 2.1 CDI Engine — Sprinter W906 Van (315 CDI, 150 PS, Auto) 2013–2018",
+  "description": "In stock. Used OM651 2.1 CDI engine for Sprinter W906 315 CDI Auto 150 PS. £1,720 with 12-month warranty and UK delivery. Tested before dispatch.",
+  "canonical": "https://engined.co.uk/engines/om651/mercedes-sprinter-w906-om651-315-auto-cdi-van-2013/"
+ },
+ "hero": {
+  "title": "Used OM651 2.1 CDI Engine — Sprinter W906 Van (315 CDI, 150 PS, Auto) 2013–2018",
+  "subtitle": "Used OM651 engine for Sprinter W906 315 CDI Auto — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: OM651-USED-W906-315CDI-AUTO",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,720",
+    "note": "12-month warranty",
+    "price": "£1,720.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Mercedes-Benz OM651 2.1 CDI engine for Sprinter W906 315 CDI Auto 150 PS, 2013–2018.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "OM651",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2013–2018",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W906",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-om651-engine.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your registration with our reg checker before ordering to verify this OM651 fits your Sprinter W906.",
+  "list": [
+   "Sprinter W906 Van (315 CDI 150 PS Auto OM651.957) 2013–2018"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil sump and timing cover",
+   "Cylinder head and block"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this OM651 engine now, or view the full OM651 engine range for other applications.",
+  "crossLink": "← Back to all OM651 engines"
+ }
+}

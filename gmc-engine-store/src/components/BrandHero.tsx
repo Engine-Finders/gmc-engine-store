@@ -5,6 +5,7 @@ import Link from "next/link";
 import { motion } from "framer-motion";
 import Icon from "./Icon";
 import UkFlag from "./UkFlag";
+import { useRegCheck } from "./quote/QuoteModal";
 import type { BrandPageData } from "@/lib/brand";
 
 /* =========================================================
@@ -157,6 +158,7 @@ export default function BrandHero({
   const cards = data.cards;
   const total = cards.length;
 
+  const rc = useRegCheck();
   const [center, setCenter] = useState(0);
   const [paused, setPaused] = useState(false);
 
@@ -427,6 +429,7 @@ export default function BrandHero({
 
             <form
               id="reg-check"
+              onSubmit={rc.onSubmit}
               className="
                 relative
                 mt-5
@@ -494,6 +497,7 @@ export default function BrandHero({
                 <input
                   type="text"
                   placeholder={data.regCheck.placeholder}
+                  value={rc.reg} onChange={rc.onChange} name="reg" autoComplete="off" aria-label="Vehicle registration"
                   className="
                     min-w-0
                     flex-1

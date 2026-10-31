@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "om651",
+ "applicationSlug": "mercedes-c-class-w204-om651-204-auto-fl-estate-2011",
+ "engineCode": "OM651",
+ "condition": "used",
+ "seo": {
+  "title": "Used OM651 Engine C-Class W204 C250 CDI 204PS FL | Engined",
+  "description": "Used OM651 2.1 CDI engine for Mercedes C-Class W204 Estate C250 CDI 204 PS. Fixed price £2,070, tested before dispatch, 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/om651/mercedes-c-class-w204-om651-204-auto-fl-estate-2011/"
+ },
+ "hero": {
+  "title": "Used OM651 2.1 CDI Engine — C-Class W204 Estate (C250 CDI, 204 PS) FL",
+  "subtitle": "Used OM651 engine for C-Class W204 Estate C250 CDI and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: OM651-USED-W204-C250-AUTO-FL-EST",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,875",
+    "note": "12-month warranty",
+    "price": "£2,875.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used OM651 2.1 CDI engine for Mercedes C-Class W204 Estate C250 CDI 204 PS Auto twin-turbo, tested.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "OM651",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2011–2014",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W204",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-om651-engine.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number above to confirm this used OM651 engine fits your Mercedes-Benz C-Class W204.",
+  "list": [
+   "Mercedes-Benz C-Class W204 2011–2014 (Estate) C250 CDI 204 PS Auto OM651.913/957"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Highest output specification",
+   "Automatic transmission specification"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this OM651 engine now, or view the full OM651 engine range for other applications.",
+  "crossLink": "← Back to all OM651 engines"
+ }
+}

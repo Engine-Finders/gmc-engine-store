@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "306ps",
+ "applicationSlug": "jaguar-f-pace-x761-aj126-340-suv-2016",
+ "engineCode": "AJ126",
+ "condition": "used",
+ "seo": {
+  "title": "Used AJ126 3.0 SC V6 Engine — Jaguar F-Pace X761 | Engined",
+  "description": "Used AJ126 engine for Jaguar F-Pace X761. Fixed price £3,195, tested before dispatch, 12-month warranty, and UK delivery. Supercharged V6.",
+  "canonical": "https://engined.co.uk/engines/306ps/jaguar-f-pace-x761-aj126-340-suv-2016/"
+ },
+ "hero": {
+  "title": "Used AJ126 3.0 SC V6 Engine — Jaguar F-Pace X761 (340PS) 2016–2020",
+  "subtitle": "Used AJ126 engine for Jaguar F-Pace X761 and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 306PS-USED-FPACE-X761-340",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £3,195",
+    "note": "12-month warranty",
+    "price": "£3,195.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used AJ126 3.0 SC V6 Engine — Jaguar F-Pace X761 (340PS) 2016–2020",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJ126",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2016–2020",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X761",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your exact fitment by entering your registration below to ensure this AJ126 engine matches your Jaguar F-Pace X761.",
+  "list": [
+   "Jaguar F-Pace X761 (SUV) 2016–2020"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Full technical support",
+   "UK delivery available"
+  ],
+  "excluded": [
+   "Turbocharger / Supercharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this AJ126 engine now, or view the full 306PS range for other applications.",
+  "crossLink": "← Back to all 306PS engines"
+ }
+}

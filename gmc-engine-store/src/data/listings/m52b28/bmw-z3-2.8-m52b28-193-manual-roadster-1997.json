@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "m52b28",
+ "applicationSlug": "bmw-z3-2.8-m52b28-193-manual-roadster-1997",
+ "engineCode": "M52B28",
+ "condition": "used",
+ "seo": {
+  "title": "M52B28 2.8 Engine — BMW Z3 2.8 Roadster 1997–1999 | Engined",
+  "description": "M52B28 2.8 engine · Used & Reconditioned · Fits BMW Z3 2.8 Roadster (1997-1999) · £1,295 · 12-month warranty, tested before dispatch, free UK delivery.",
+  "canonical": "https://engined.co.uk/engines/m52b28/bmw-z3-2.8-m52b28-193-manual-roadster-1997/"
+ },
+ "hero": {
+  "title": "M52B28 2.8 Engine — BMW Z3 2.8 Roadster (Manual, 193 PS) 1997–1999",
+  "subtitle": "Used and reconditioned M52B28 engine for BMW Z3 2.8 Roadster and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M52B28-PEND-Z3-2.8-9799",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,295",
+    "note": "12-month warranty",
+    "price": "£1,295.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "M52B28 2.8 engine for BMW Z3 2.8 Roadster (Manual, 193 PS), tested and ready for dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M52B28",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "1997–1999",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E36/7",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your registration to verify exact fitment for your BMW Z3 2.8 Roadster before ordering this M52B28 engine.",
+  "list": [
+   "BMW Z3 E36/7 Roadster (Manual, 193 PS) 1997–1999"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Free UK mainland delivery",
+   "Core charge refund upon return of old unit"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M52B28 engine now, or view the full M52B28 range for other applications.",
+  "crossLink": "← Back to all M52B28 engines"
+ }
+}

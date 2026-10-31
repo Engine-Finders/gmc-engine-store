@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "306dt",
+ "applicationSlug": "land-rover-range-rover-sport-l494-30ddtx-306-suv-recon-prefl-2013",
+ "engineCode": "30DDTX",
+ "condition": "recon",
+ "seo": {
+  "title": "30DDTX SDV6 Engine — Range Rover Sport L494 Pre-FL (306 PS)",
+  "description": "Reconditioned 30DDTX engine for Range Rover Sport L494 Pre-FL. Fixed price £4,820, tested before dispatch, UK delivery & 12-month warranty. Twin-turbo 306 PS.",
+  "canonical": "https://engined.co.uk/engines/306dt/land-rover-range-rover-sport-l494-30ddtx-306-suv-recon-prefl-2013/"
+ },
+ "hero": {
+  "title": "Reconditioned 30DDTX SDV6 Engine — Range Rover Sport L494 Pre-FL (306 PS)",
+  "subtitle": "Reconditioned 30DDTX engine for Range Rover Sport L494 Pre-FL — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 306DT-RECON-RRS-L494-306-PRE",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £4,820",
+    "note": "12-month warranty",
+    "price": "£4,820.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned 30DDTX SDV6 Engine — Range Rover Sport L494 Pre-FL (306 PS)",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "30DDTX",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2013–2017",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L494",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number in our checker above to confirm this 30DDTX engine is the exact match for your vehicle.",
+  "list": [
+   "Range Rover Sport L494 (3.0 SDV6 306 PS) 2013–2017"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Fully rebuilt internal components",
+   "Twin-turbo highest output configuration"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 30DDTX engine now, or view the full 306DT engine range for other applications.",
+  "crossLink": "← Back to all 306DT engines"
+ }
+}

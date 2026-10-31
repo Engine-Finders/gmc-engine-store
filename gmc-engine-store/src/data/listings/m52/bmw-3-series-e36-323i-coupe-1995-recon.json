@@ -1,0 +1,91 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "m52",
+ "applicationSlug": "bmw-3-series-e36-323i-coupe-1995-recon",
+ "engineCode": "M52",
+ "condition": "recon",
+ "seo": {
+  "title": "Recon BMW M52 Engine — E36 323i Coupé 1995-99",
+  "description": "Reconditioned BMW M52 engine for 3 Series Coupé (E36) 1995-1999 - 170 PS, fully tested before dispatch, £1,095, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/m52/bmw-3-series-e36-323i-coupe-1995-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW M52 Engine — 3 Series E36 (323i) Coupé 1995-1999",
+  "subtitle": "Reconditioned M52 engine for 3 Series Coupé (E36) 1995-1999 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M52-RECON-E36-323I-COUPE",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,095",
+    "note": "12-month warranty",
+    "price": "£1,095.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned BMW M52 E36 323i Coupé 1995-1999 longitudinal-mounted petrol engine — tested",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M52",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "1995-1999",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E36",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our registration checker to confirm compatibility, or review the exact vehicle applications listed below.",
+  "list": [
+   "3 Series Coupé (E36) 1995-1999 — 323i (170 PS)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Fully inspected and pressure tested",
+   "Cam belt and timing components checked",
+   "Oil and filter changed prior to dispatch"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, air conditioning compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M52 engine now, or view the full BMW M52 engine range for other applications.",
+  "crossLink": "← Back to all BMW M52 engines"
+ }
+}

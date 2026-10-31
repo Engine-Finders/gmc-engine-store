@@ -1,0 +1,83 @@
+{
+ "brand": "peugeot",
+ "brandName": "Peugeot",
+ "engineSlug": "a14net",
+ "applicationSlug": "vauxhall-corsa-d-1-4i-turbo-hatch-2009",
+ "engineCode": "A14NET",
+ "condition": "used",
+ "seo": {
+  "title": "Used Vauxhall A14NET Engine — Corsa D (1.4i Turbo) Hatchback 2009-2014",
+  "description": "Used Vauxhall A14NET engine for Corsa D 1.4i Turbo (SRI, SE, Exclusiv) — £1,436 fixed price, 12-month warranty, tested before dispatch, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/a14net/vauxhall-corsa-d-1-4i-turbo-hatch-2009/"
+ },
+ "hero": {
+  "title": "Used Vauxhall A14NET Engine — Corsa D (1.4i Turbo) Hatchback 2009-2014",
+  "subtitle": "Used A14NET engine for Corsa D SRI, SE, Exclusiv — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: A14NET-USED-CORSA-D",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,436",
+    "note": "12-month warranty",
+    "price": "£1,436.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Vauxhall A14NET 1.4i turbo petrol engine for Corsa D hatchback 2009-2014, lower-output 114 PS tune.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "A14NET",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2009–2014",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Corsa D",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with our registration checker before ordering — every A14NET listed here is matched to the vehicle groups below.",
+  "list": [
+   "Vauxhall Corsa D (1.4i Turbo 114 PS — SRI, SE, Exclusiv) 2009–2014"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly — block, cylinder head and sump",
+   "Timing chain and valvetrain fitted as standard",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "UK delivery"
+  ],
+  "excluded": [
+   "Turbocharger (reusable — supplied only where condition allows)",
+   "Injectors and fuel system components",
+   "Ancillaries — alternator, starter motor, air conditioning compressor",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this A14NET engine now, or view the full A14NET engine range.",
+  "crossLink": "← Back to all A14NET engines"
+ }
+}

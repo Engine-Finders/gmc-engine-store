@@ -1,0 +1,83 @@
+{
+ "brand": "suzuki",
+ "brandName": "Suzuki",
+ "engineSlug": "k12c-shvs",
+ "applicationSlug": "suzuki-ignis-mf-1-2-shvs-hatch-2016",
+ "engineCode": "K12C SHVS",
+ "condition": "used",
+ "seo": {
+  "title": "Used Suzuki K12C SHVS Engine — Ignis MF (1.2 SHVS) Hatchback 2016-2020 | Engined",
+  "description": "Used K12C SHVS engine for Suzuki Ignis MF 1.2 SHVS 90 PS FWD 2016-2020 hatchback. Used price £495, reconditioned £650, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/k12c-shvs/suzuki-ignis-mf-1-2-shvs-hatch-2016/"
+ },
+ "hero": {
+  "title": "Used Suzuki K12C SHVS Engine — Ignis MF (1.2 SHVS) Hatchback 2016-2020",
+  "subtitle": "SUB — Used K12C SHVS engine for Suzuki Ignis MF, 1.2 SHVS 90 PS FWD — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: K12C-USED-IGNIS-MF-SHVS",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £495",
+    "note": "12-month warranty",
+    "price": "£495.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used K12C SHVS engine for Suzuki Ignis MF 1.2 SHVS 90 PS FWD 2016-2020 hatchback",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "K12C SHVS",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2016-2020",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "MF",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our reg checker to confirm this K12C SHVS engine fits your Suzuki Ignis MF before ordering.",
+  "list": [
+   "Suzuki Ignis MF (1.2 SHVS, 90 PS, FWD) 2016-2020"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Timing cover and sump"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this K12C SHVS engine now, or view the full K12C SHVS engine range for other applications.",
+  "crossLink": "← Back to all K12C SHVS engines"
+ }
+}

@@ -1,0 +1,96 @@
+{
+ "brand": "jaguar",
+ "brandName": "Jaguar",
+ "engineSlug": "aj133",
+ "applicationSlug": "jaguar-xj-x351-5-0-v8-saloon-2009",
+ "engineCode": "AJ133",
+ "condition": "used",
+ "seo": {
+  "title": "Used Jaguar AJ133 5.0 V8 Engine — XJ (X351) 5.0 V8 Saloon 2009-Present | Engined",
+  "description": "Used AJ133 Jaguar 5.0 V8 engine for XJ (X351) 5.0 V8 Saloon 385 PS. £3,305 used, £5,195 reconditioned, 12-month warranty, UK delivery. Buy now.",
+  "canonical": "https://engined.co.uk/engines/aj133/jaguar-xj-x351-5-0-v8-saloon-2009/"
+ },
+ "hero": {
+  "title": "Used Jaguar AJ133 5.0 V8 Engine — XJ (X351) 5.0 V8 Saloon 2009-Present",
+  "subtitle": "Used AJ133 engine for XJ (X351) 5.0 V8 (385 PS) Saloon — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: AJ133-USED-XJ-X351-5-0-V8-SALOON",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £3,305",
+    "note": "12-month warranty",
+    "price": "£3,305.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £5,195",
+    "note": "12-month warranty",
+    "price": "£5,195.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Jaguar AJ133 5.0 V8 used engine for XJ X351 Saloon 385 PS, naturally aspirated",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJ133",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2009-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X351",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/jaguar-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/jaguar-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jlr-aj133-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration in our reg checker to confirm this AJ133 engine fits your XJ (X351) 5.0 V8 Saloon.",
+  "list": [
+   "XJ X351 (5.0 V8 385 PS Saloon) 2009-present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Sump and timing cover"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this AJ133 engine now, or view the full AJ133 engine range for other applications.",
+  "crossLink": "← Back to all AJ133 engines"
+ }
+}

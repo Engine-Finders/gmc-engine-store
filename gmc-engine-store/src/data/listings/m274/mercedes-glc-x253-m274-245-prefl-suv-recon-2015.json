@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "m274",
+ "applicationSlug": "mercedes-glc-x253-m274-245-prefl-suv-recon-2015",
+ "engineCode": "M274",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned M274 2.0T Engine — GLC X253 (GLC300, 245 PS, 4MATIC) Pre-FL 2015–2019",
+  "description": "Reconditioned M274 engine for Mercedes GLC X253 SUV GLC300 (245 PS). Fixed price £3,100, tested before dispatch, UK delivery, 12-month warranty.",
+  "canonical": "https://engined.co.uk/engines/m274/mercedes-glc-x253-m274-245-prefl-suv-recon-2015/"
+ },
+ "hero": {
+  "title": "Reconditioned M274 2.0T Engine — GLC X253 (GLC300, 245 PS, 4MATIC) Pre-FL 2015–2019",
+  "subtitle": "Reconditioned M274 engine for GLC X253 SUV GLC300 245 PS and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M274-RECON-X253-GLC300-PREFL",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £3,100",
+    "note": "12-month warranty",
+    "price": "£3,100.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned Mercedes M274 engine for GLC X253 SUV GLC300 4MATIC, complete assembly, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M274",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2015–2019",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X253",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-m274-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number in our checker above to confirm this M274 engine fits your Mercedes GLC X253.",
+  "list": [
+   "Mercedes-Benz GLC X253 SUV (GLC300 245 PS, 4MATIC) 2015–2019"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Renewed timing chain",
+   "OEM-spec gaskets and seals"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M274 engine now, or view the full M274 range for other applications.",
+  "crossLink": "← Back to all M274 engines"
+ }
+}

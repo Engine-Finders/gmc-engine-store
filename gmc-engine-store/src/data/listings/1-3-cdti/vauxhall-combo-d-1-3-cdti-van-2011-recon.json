@@ -1,0 +1,84 @@
+{
+ "brand": "peugeot",
+ "brandName": "Peugeot",
+ "engineSlug": "1-3-cdti",
+ "applicationSlug": "vauxhall-combo-d-1-3-cdti-van-2011-recon",
+ "engineCode": "1.3 CDTI",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned Vauxhall 1.3 CDTI Engine — Combo D (1.3 CDTi) Van 2011‑2018 | Engined",
+  "description": "Reconditioned Vauxhall 1.3 CDTI engine for Combo D 2011–2018 (70–90 PS, A13FD/Z13DT/Y13DT). £985 used, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/1-3-cdti/vauxhall-combo-d-1-3-cdti-van-2011-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned Vauxhall 1.3 CDTI Engine — Combo D (1.3 CDTi) Van 2011‑2018",
+  "subtitle": "Reconditioned 1.3 CDTI engine for Vauxhall Combo D — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 13CDTI-RECON-COMBO-D",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,435",
+    "note": "12-month warranty",
+    "price": "£1,435.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned Vauxhall 1.3 CDTI diesel engine, transverse-mounted commercial configuration, for Combo D van 2011–2018",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "1.3 CDTI",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2011–2018",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Combo D",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration below to confirm fitment before ordering — every application listed here is verified for the 1.3 CDTI engine.",
+  "list": [
+   "Vauxhall Combo D (1.3 CDTi — 70–90 PS, codes A13FD / Z13DT / Y13DT / B13DTC / Z13DTJ) 2011–2018"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly — block, head, sump and timing components as removed",
+   "Fully tested before dispatch",
+   "12-month warranty as standard",
+   "Compression and oil-pressure verified on test",
+   "Engine code stamped and matched to your order before it leaves us",
+   "Securely palleted and crated for UK delivery"
+  ],
+  "excluded": [
+   "Turbocharger (reused only where condition allows)",
+   "Injectors and fuel system components",
+   "Ancillaries — alternator, starter motor, air-con compressor, pipework",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 1.3 CDTI engine now, or view the full 1.3 CDTI engine range for other applications.",
+  "crossLink": "← Back to all 1.3 CDTI engines"
+ }
+}

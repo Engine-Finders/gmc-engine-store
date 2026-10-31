@@ -1,0 +1,90 @@
+{
+ "brand": "jaguar",
+ "brandName": "Jaguar",
+ "engineSlug": "ingenium-2-0-diesel",
+ "applicationSlug": "jaguar-xe-x760-20d-diesel-saloon-2015-2",
+ "engineCode": "AJ200D",
+ "condition": "used",
+ "seo": {
+  "title": "Used AJ200D 2.0 Ingenium Diesel Engine XE X760 | Engined",
+  "description": "Used AJ200D 2.0 Ingenium Diesel Engine for Jaguar XE (X760) 2.0d Saloon. Fixed price £2,245. Tested before dispatch, UK delivery and 12-month warranty.",
+  "canonical": "https://engined.co.uk/engines/ingenium-2-0-diesel/jaguar-xe-x760-20d-diesel-saloon-2015/"
+ },
+ "hero": {
+  "title": "Used AJ200D 2.0 Ingenium Diesel Engine — XE (X760) 2.0d Saloon 2015-Present",
+  "subtitle": "Used AJ200D engine for Jaguar XE (X760) 2.0d Saloon — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: AJ200D-USED-XE-X760-20D-SALOON",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,245",
+    "note": "12-month warranty",
+    "price": "£2,245.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used AJ200D 2.0 Ingenium Diesel Engine — XE (X760) 2.0d Saloon 2015-Present",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJ200D",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2015-Present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X760",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/jaguar-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/jaguar-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/jaguar-jaguar-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number above to confirm fitment for your Jaguar XE (X760) 2.0d Saloon before purchasing this AJ200D engine.",
+  "list": [
+   "Jaguar XE X760 (2.0d 150-180 PS Diesel Saloon) 2015-Present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "OEM-spec gaskets and seals",
+   "Cleaned and inspected engine block"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this AJ200D engine now, or view the full AJ200D engine range for other applications.",
+  "crossLink": "← Back to all AJ200D engines"
+ }
+}

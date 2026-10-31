@@ -1,0 +1,96 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "508ps",
+ "applicationSlug": "range-rover-l405-sc-2014",
+ "engineCode": "508PS",
+ "condition": "used",
+ "seo": {
+  "title": "Used 5.0 V8 Engine — Range Rover L405 5.0 SC (508PS) 2014-2021",
+  "description": "Used Land Rover 5.0 V8 engine for Range Rover L405 Supercharged (508PS) 2014-2021. Fixed price £7,475, 12-month warranty, tested before dispatch, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/508ps/range-rover-l405-sc-2014/"
+ },
+ "hero": {
+  "title": "Used 5.0 V8 Engine — Range Rover L405 5.0 SC (508PS) 2014-2021",
+  "subtitle": "Used 508PS engine for Range Rover L405 Supercharged — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 508PS-USED-RR-L405-SC-LATE",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £7,475",
+    "note": "12-month warranty",
+    "price": "£7,475.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £8,625",
+    "note": "12-month warranty",
+    "price": "£8,625.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Land Rover 5.0 V8 supercharged engine for Range Rover L405 (508PS), 2014-2021",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "508PS",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2014-2021",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L405",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration to confirm fitment — this listing covers one specific Range Rover L405 Supercharged application.",
+  "list": [
+   "Range Rover L405 (5.0 Supercharged, 508PS, 510 PS) 2014-2021"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (block, head, sump, timing cover)",
+   "Tested before dispatch — compression and oil pressure verified",
+   "12-month warranty as standard",
+   "New gaskets and seals on reassembly",
+   "Crated and palletised for safe transit"
+  ],
+  "excluded": [
+   "Turbocharger (reusable if condition allows)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, power steering pump, A/C compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 508PS engine now, or view the full 508PS range for other applications.",
+  "crossLink": "← Back to all 508PS engines"
+ }
+}

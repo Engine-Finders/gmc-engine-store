@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "om611",
+ "applicationSlug": "mercedes-c-class-w203-om611-102-coupe-2000",
+ "engineCode": "OM611",
+ "condition": "used",
+ "seo": {
+  "title": "Used OM611 2.2 CDI Engine — C-Class W203 Coupe 2000–2003",
+  "description": "Used OM611 2.2 CDI diesel engine for Mercedes C-Class W203 Coupe C 200 CDI 102 PS, 2000–2003. £1,195 fixed price, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/om611/mercedes-c-class-w203-om611-102-coupe-2000/"
+ },
+ "hero": {
+  "title": "Used OM611 2.2 CDI Engine — C-Class W203 Coupe (C 200 CDI, 102 PS) 2000–2003",
+  "subtitle": "SUB — Used OM611 engine for Mercedes-Benz C-Class W203 Coupe C 200 CDI 102 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: OM611-USED-G1-W203-102-CPE",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,195",
+    "note": "12-month warranty",
+    "price": "£1,195.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Mercedes-Benz OM611 2.2 CDI engine for C-Class W203 Coupe C 200 CDI 102 PS, 2000–2003.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "OM611",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2000–2003",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W203",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-mercedes-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our reg checker to confirm your C-Class W203 is the C 200 CDI 102 PS coupe variant before ordering.",
+  "list": [
+   "C-Class W203 (Coupe — C 200 CDI 102 PS — OM611 — Longitudinal) 2000–2003"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil sump and rocker cover",
+   "Timing cover and front covers"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this OM611 engine now, or view the full OM611 range for other applications.",
+  "crossLink": "← Back to all OM611 engines"
+ }
+}

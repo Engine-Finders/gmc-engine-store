@@ -1,0 +1,90 @@
+{
+ "brand": "citroen",
+ "brandName": "Citroen",
+ "engineSlug": "dv6",
+ "applicationSlug": "peugeot-508-1-6-hdi-saloon-2004",
+ "engineCode": "DV6",
+ "condition": "used",
+ "seo": {
+  "title": "Used Peugeot DV6 Engine — 508 (1.6 HDi) Saloon/Estate 2004-present",
+  "description": "DV6 · used · Peugeot 508 Saloon/Estate 1.6 HDi · 110-120 PS · £850 · 12-month warranty · UK delivery",
+  "canonical": "https://engined.co.uk/engines/dv6/peugeot-508-1-6-hdi-saloon-2004/"
+ },
+ "hero": {
+  "title": "Used Peugeot DV6 Engine — 508 (1.6 HDi) Saloon/Estate 2004-present",
+  "subtitle": "Used DV6 diesel engine for Peugeot 508 Saloon and Estate 1.6 HDi — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: DV6-USED-PEUGEOT-508-HDI-SALOON",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £850",
+    "note": "12-month warranty",
+    "price": "£850.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,400",
+    "note": "12-month warranty",
+    "price": "£1,400.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Peugeot DV6 1.6 HDi engine for 508 Saloon/Estate 2004-present — tested diesel unit",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "DV6",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2004-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Peugeot 508 Saloon (2004-present), Peugeot 508 Estate (2004-present)",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/citroen-psa-dv6-1-6-hdi-diesel-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your vehicle's compatibility below — use our reg-checker to confirm this DV6 engine matches your Peugeot 508 exactly.",
+  "list": [
+   "Peugeot 508 Saloon (2004-present) — 1.6 HDi",
+   "Peugeot 508 Estate (2004-present) — 1.6 HDi"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Comprehensive inspection report",
+   "Oil and filter service",
+   "UK mainland delivery"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this DV6 engine now, or view the full DV6 engine range for other applications.",
+  "crossLink": "← Back to all DV6 engines"
+ }
+}

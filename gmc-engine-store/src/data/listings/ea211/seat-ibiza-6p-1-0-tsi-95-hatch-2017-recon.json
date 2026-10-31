@@ -1,0 +1,83 @@
+{
+ "brand": "seat",
+ "brandName": "Seat",
+ "engineSlug": "ea211",
+ "applicationSlug": "seat-ibiza-6p-1-0-tsi-95-hatch-2017-recon",
+ "engineCode": "EA211",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned EA211 Engine — SEAT Ibiza 6P (1.0 TSI 95 PS) Hatchback 2017-Present",
+  "description": "Reconditioned EA211 1.0 TSI engine for the SEAT Ibiza 6P 95 PS (2017-present). £1,305 fixed price, tested before dispatch, 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/ea211/seat-ibiza-6p-1-0-tsi-95-hatch-2017-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned EA211 Engine — SEAT Ibiza 6P (1.0 TSI 95 PS) Hatchback 2017-Present",
+  "subtitle": "Reconditioned EA211 engine for the SEAT Ibiza 6P 95 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA211-RECON-G1-10TSI-6P",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,305",
+    "note": "12-month warranty",
+    "price": "£1,305.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned EA211 1.0 TSI 95 PS engine for SEAT Ibiza 6P, transverse mount, 2017-present",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA211",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2017-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "6P",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration or engine code before ordering — every EA211 Ibiza listed here is confirmed for the fitment below.",
+  "list": [
+   "SEAT Ibiza 6P (1.0 TSI 95 PS, transverse mount) 2017-present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly — cylinder block, cylinder head, sump and rocker cover",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Engine code verified against your registration before dispatch",
+   "Palletised and strapped for UK delivery"
+  ],
+  "excluded": [
+   "Turbocharger (reused from your unit where condition allows)",
+   "Injectors and fuel system components",
+   "Ancillaries — alternator, starter motor, air conditioning compressor",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA211 engine now, or view the full EA211 engine range for other applications.",
+  "crossLink": "← Back to all EA211 engines"
+ }
+}

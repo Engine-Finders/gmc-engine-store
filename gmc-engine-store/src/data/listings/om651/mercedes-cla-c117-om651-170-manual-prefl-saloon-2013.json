@@ -1,0 +1,96 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "om651",
+ "applicationSlug": "mercedes-cla-c117-om651-170-manual-prefl-saloon-2013",
+ "engineCode": "OM651",
+ "condition": "used",
+ "seo": {
+  "title": "Used OM651 2.1 CDI Engine — CLA C117 Saloon (CLA 220 CDI, 170 PS, Manual) Pre-FL 2013–2016 | Engined",
+  "description": "Used OM651 2.1 CDI engine for Mercedes CLA C117 Saloon CLA 220 CDI 170 PS Manual Pre-FL 2013–2016. £2,070 with 12-month warranty and fast UK delivery.",
+  "canonical": "https://engined.co.uk/engines/om651/mercedes-cla-c117-om651-170-manual-prefl-saloon-2013/"
+ },
+ "hero": {
+  "title": "Used OM651 2.1 CDI Engine — CLA C117 Saloon (CLA 220 CDI, 170 PS, Manual) Pre-FL 2013–2016",
+  "subtitle": "Used OM651 engine for CLA C117, CLA 220 CDI, 170 PS and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: OM651-USED-C117-CLA220-MAN-PREFL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,070",
+    "note": "12-month warranty",
+    "price": "£2,070.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,875",
+    "note": "12-month warranty",
+    "price": "£2,875.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used OM651 2.1 CDI engine for Mercedes CLA C117 CLA 220 CDI 170 PS Manual Pre-FL 2013–2016, complete assembly.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "OM651",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2013–2016",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "C117",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-om651-engine.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment by entering your registration at checkout — we verify against your VIN before dispatch.",
+  "list": [
+   "CLA C117 (CLA 220 CDI 170 PS, Manual, Saloon) 2013–2016"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (block, head, sump, timing cover)",
+   "Tested before dispatch with compression and leak-down report",
+   "12-month warranty as standard",
+   "New gaskets and seals on reassembly",
+   "Oil pump and water pump checked and replaced if worn"
+  ],
+  "excluded": [
+   "Turbocharger (reusable if condition allows — sold separately if required)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, air conditioning compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this OM651 engine now, or view the OM651 range for other applications.",
+  "crossLink": "← Back to all OM651 engines"
+ }
+}

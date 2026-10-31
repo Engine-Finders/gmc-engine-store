@@ -1,0 +1,83 @@
+{
+ "brand": "nissan",
+ "brandName": "Nissan",
+ "engineSlug": "vq35-37-v6",
+ "applicationSlug": "nissan-skyline-v35-350gt-saloon-2003-recon",
+ "engineCode": "VQ35DE",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned VQ35DE Engine — Skyline V35 350GT | Engined",
+  "description": "Reconditioned VQ35DE engine for Nissan Skyline V35 350GT saloon. Fixed price £2,525 used, £3,445 reconditioned. Tested, UK delivery & 12-month warranty.",
+  "canonical": "https://engined.co.uk/engines/vq35-37-v6/nissan-skyline-v35-350gt-saloon-2003-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned Nissan VQ35DE Engine — Skyline V35 350GT Saloon 2003-2006",
+  "subtitle": "Reconditioned VQ35DE engine for Nissan Skyline V35 350GT and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: VQ35-RECON-SKYLINE-V35",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,525",
+    "note": "12-month warranty",
+    "price": "£2,525.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned Nissan VQ35DE Engine — Skyline V35 350GT Saloon 2003-2006",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "VQ35DE",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2003-2006",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "V35",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/nissan-nissan-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number in our checker above to confirm this VQ35DE engine is the exact match for your vehicle.",
+  "list": [
+   "Nissan Skyline V35 (350GT 3.5L V6, 250-280 PS) 2003-2006"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "VAT inclusive pricing",
+   "Secure, palletised UK delivery"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system components",
+   "Ancillaries (alternator, starter motor, etc.)",
+   "Fitting and installation",
+   "ECU remapping or coding"
+  ]
+ },
+ "cta": {
+  "line": "Buy this VQ35DE engine now, or view the full VQ35DE engine range for other applications.",
+  "crossLink": "← Back to all VQ35DE engines"
+ }
+}

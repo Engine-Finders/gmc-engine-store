@@ -1,0 +1,83 @@
+{
+ "brand": "vauxhall",
+ "brandName": "Vauxhall",
+ "engineSlug": "1-3-cdti",
+ "applicationSlug": "vauxhall-astra-j-70ps-hatchback-2009-recon",
+ "engineCode": "1.3 CDTI",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned 1.3 CDTI Engine — Vauxhall Astra J (70-75 PS) Hatchback 2009-2015 | Engined",
+  "description": "Reconditioned 1.3 CDTI engine for Vauxhall Astra J (70-75 PS) hatchback 2009-2015 — £1,345 with 12-month warranty and UK delivery. Confirm fitment with A13DTE.",
+  "canonical": "https://engined.co.uk/engines/1-3-cdti/vauxhall-astra-j-70ps-hatchback-2009-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned 1.3 CDTI Engine — Vauxhall Astra J (70-75 PS) Hatchback 2009-2015",
+  "subtitle": "Reconditioned 1.3 CDTI engine for Vauxhall Astra J 70-75 PS Hatchback — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 13CDTI-RECON-ASTRA-J-70-12M",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,345",
+    "note": "12-month warranty",
+    "price": "£1,345.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned 1.3 CDTI Fiat Multijet engine for Vauxhall Astra J 70-75 PS hatchback, renewed timing chain.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "1.3 CDTI",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2009-2015",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Astra J",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration above to confirm fitment — this reconditioned 1.3 CDTI is built for the Vauxhall Astra J hatchback.",
+  "list": [
+   "Vauxhall Astra J (1.3 CDTi 70-75 PS — A13DTE) 2009-2015 Hatchback"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Renewed timing chain, tensioners and guides",
+   "Rebuilt cylinder head with new valve stem seals"
+  ],
+  "excluded": [
+   "Turbocharger (reused if serviceable, confirmed per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (starter, alternator, pumps)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 1.3 CDTI engine now, or view the full range for other applications.",
+  "crossLink": "← Back to all 1.3 CDTI engines"
+ }
+}

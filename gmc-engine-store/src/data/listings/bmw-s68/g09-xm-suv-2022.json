@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-s68",
+ "applicationSlug": "g09-xm-suv-2022",
+ "engineCode": "S68",
+ "condition": "recon",
+ "seo": {
+  "title": "Used BMW S68 Engine — XM G09 (XM) SUV 2022–present | Engined",
+  "description": "Used BMW S68 engine for BMW XM G09 (XM) SUV 2022–present. £17,520, 12-month warranty, fast UK delivery. Tested before dispatch, fixed price.",
+  "canonical": "https://engined.co.uk/engines/bmw-s68/g09-xm-suv-2022/"
+ },
+ "hero": {
+  "title": "Used BMW S68 Engine — XM G09 (XM) SUV 2022–present",
+  "subtitle": "SUB — Used S68 engine for BMW XM (G09) SUV 2022–present — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: S68-RECON-G09-XM",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £17,520",
+    "note": "12-month warranty",
+    "price": "£17,520.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Used BMW S68 engine for XM G09 (XM) SUV 2022–present, 4.4L V8 twin-turbo hybrid",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "S68",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2022–present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "G09",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our registration checker to confirm this used S68 engine fits your BMW XM (G09) 2022–present before ordering.",
+  "list": [
+   "BMW XM G09 (XM (653 PS) SUV) 2022–present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New gaskets and seals where required",
+   "Sump and timing cover included"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this S68 engine now, or view the S68 engine range for other applications.",
+  "crossLink": "← Back to all S68 engines"
+ }
+}

@@ -1,0 +1,97 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-m57",
+ "applicationSlug": "e39-530d-saloon-2000",
+ "engineCode": "M57",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW M57 Engine — 5 Series E39 (530d) Saloon 2000-2004",
+  "description": "Used BMW M57 E39 530d Saloon (184 PS) — from £1,695, reconditioned option £2,850. Tested, 12-month warranty, UK delivery. Fits 5 Series E39 2000-2004.",
+  "canonical": "https://engined.co.uk/engines/bmw-m57/e39-530d-saloon-2000/"
+ },
+ "hero": {
+  "title": "Used BMW M57 Engine — 5 Series E39 (530d) Saloon 2000-2004",
+  "subtitle": "Used M57 engine for 5 Series E39 530d Saloon — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M57-USED-E39-530D-FL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,695",
+    "note": "12-month warranty",
+    "price": "£1,695.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,850",
+    "note": "12-month warranty",
+    "price": "£2,850.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "BMW M57 engine for E39 530d Saloon 2000-2004 — used 184 PS 6-cylinder diesel unit",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M57",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2000-2004",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E39",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-m57-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration for a guaranteed fit check — these vehicles are confirmed compatible with this BMW M57 engine.",
+  "list": [
+   "BMW 5 Series (E39) 2000-2004 — 530d (184 PS) Saloon"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Full pressure and leak testing",
+   "All gaskets and seals replaced",
+   "Timing components inspected"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries (alternator, starter, AC compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M57 engine now, or view the full M57 engine range for other applications.",
+  "crossLink": "← Back to all M57 engines"
+ }
+}

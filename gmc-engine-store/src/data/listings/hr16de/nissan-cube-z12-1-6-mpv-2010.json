@@ -1,0 +1,82 @@
+{
+ "brand": "nissan",
+ "brandName": "Nissan",
+ "engineSlug": "hr16de",
+ "applicationSlug": "nissan-cube-z12-1-6-mpv-2010",
+ "engineCode": "HR16DE",
+ "condition": "used",
+ "seo": {
+  "title": "Used Nissan HR16DE Engine — Nissan Cube Z12 (1.6) MPV 2010-Present",
+  "description": "Used HR16DE engine for Nissan Cube Z12 1.6 MPV. Fixed price £650, tested before dispatch, 12-month warranty & UK delivery. Various trims.",
+  "canonical": "https://engined.co.uk/engines/hr16de/nissan-cube-z12-1-6-mpv-2010/"
+ },
+ "hero": {
+  "title": "Used Nissan HR16DE Engine — Nissan Cube Z12 (1.6) MPV 2010-Present",
+  "subtitle": "Used HR16DE engine for Nissan Cube Z12 1.6 MPV and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: HR16DE-USED-G3-CUBE",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £650",
+    "note": "12-month warranty",
+    "price": "£650.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "HR16DE 81 kW transverse-mounted 1.6-litre petrol engine for Nissan Cube Z12 MPV 2010-present",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "HR16DE",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2010-Present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Z12",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/nissan-nissan-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number above to confirm this HR16DE engine fits your vehicle before ordering.",
+  "list": [
+   "Nissan Cube Z12 (1.6 petrol various trims) 2010-Present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Fully inspected and cleaned",
+   "Ready for direct fitment"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this HR16DE engine now, or view the full HR16DE engine range for other applications.",
+  "crossLink": "← Back to all HR16DE engines"
+ }
+}

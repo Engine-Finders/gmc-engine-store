@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "s63",
+ "applicationSlug": "bmw-f92-m8-competition-coupe-recon-2019",
+ "engineCode": "S63",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned BMW S63 4.4 V8 Engine — F92 M8 Competition Coupe (625 PS) 2019–present | Engined",
+  "description": "Reconditioned S63B44TÜ2 engine for BMW M8 F92 Competition Coupe (625 PS) 2019–present. £10,870 with 12-month warranty and UK delivery. Tested before dispatch.",
+  "canonical": "https://engined.co.uk/engines/s63/bmw-f92-m8-competition-coupe-recon-2019/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW S63 4.4 V8 Engine — F92 M8 Competition Coupe (625 PS) 2019–present",
+  "subtitle": "SUB — Reconditioned S63 engine for BMW M8 F92 Competition Coupe — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: S63-RECON-F92-M8C",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £10,870",
+    "note": "12-month warranty",
+    "price": "£10,870.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned BMW S63B44TÜ2 4.4 V8 engine for F92 M8 Competition Coupe, 2019–present, 625 PS",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "S63",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2019–present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F92",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-n63-s63-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with our reg-checker before ordering — this engine is built specifically for the applications listed below.",
+  "list": [
+   "BMW M8 F92 — Competition (625 PS) 2019–present (S63B44TÜ2)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block included",
+   "Crankshaft, pistons and connecting rods included"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this S63 engine now, or view the full S63 engine range for other applications.",
+  "crossLink": "← Back to all S63 engines"
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "brand": "audi",
+ "brandName": "Audi",
+ "engineSlug": "ea896",
+ "applicationSlug": "audi-a6-c8-3-0-tdi-avant-recon",
+ "engineCode": "EA896",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned Audi EA896 3.0 TDI V6 Engine — A6 C8 (3.0 TDI) Avant 2018-present",
+  "description": "EA896 3.0 V6 TDI · reconditioned engine · fits Audi A6 Avant C8 (3.0 TDI) 2018-present · £5,200 · 12-month warranty · UK delivery",
+  "canonical": "https://engined.co.uk/engines/ea896/audi-a6-c8-3-0-tdi-avant-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned Audi EA896 3.0 TDI V6 Engine — A6 C8 (3.0 TDI) Avant 2018-present",
+  "subtitle": "Reconditioned EA896 3.0 V6 TDI engine for Audi A6 Avant C8 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA896-RECON-A6-C8-AVANT",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £5,200",
+    "note": "12-month warranty",
+    "price": "£5,200.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "EA896 3.0 V6 TDI engine reconditioned for Audi A6 Avant C8 longitudinal MLB",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA896",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2018-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "C8",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/audi-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/audi-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/audi-audi-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "This EA896 3.0 V6 TDI engine is confirmed to fit the following Audi A6 Avant applications — use our registration checker to verify compatibility with your specific vehicle.",
+  "list": [
+   "Audi A6 Avant (C8) 2018-present — 3.0 TDI (286 PS)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Full diagnostic report",
+   "Compression test certificate",
+   "Oil and filter service completed"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA896 engine now, or view the full EA896 engine range for other applications.",
+  "crossLink": "← Back to all EA896 engines"
+ }
+}

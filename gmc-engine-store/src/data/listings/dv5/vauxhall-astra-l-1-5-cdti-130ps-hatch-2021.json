@@ -1,0 +1,83 @@
+{
+ "brand": "peugeot",
+ "brandName": "Peugeot",
+ "engineSlug": "dv5",
+ "applicationSlug": "vauxhall-astra-l-1-5-cdti-130ps-hatch-2021",
+ "engineCode": "DV5",
+ "condition": "used",
+ "seo": {
+  "title": "Used PSA DV5 Engine — Vauxhall Astra L (1.5 CDTI 130 PS) Hatchback 2021-Present | Engined",
+  "description": "Used PSA DV5 engine for Vauxhall Astra L 1.5 CDTI 130 PS, 2021–present. Fixed price £1,695 with 12-month warranty, tested before dispatch, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/dv5/vauxhall-astra-l-1-5-cdti-130ps-hatch-2021/"
+ },
+ "hero": {
+  "title": "Used PSA DV5 Engine — Vauxhall Astra L (1.5 CDTI 130 PS) Hatchback 2021-Present",
+  "subtitle": "Used DV5 engine for Vauxhall Astra L 1.5 CDTI 130 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: DV5-USED-ASTRAL-130",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,695",
+    "note": "12-month warranty",
+    "price": "£1,695.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used PSA DV5 1.5 CDTI engine for Vauxhall Astra L 2021–present, transverse mount, 130 PS.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "DV5",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2021–present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with our reg checker before ordering — this engine fits the following Vauxhall Astra L applications.",
+  "list": [
+   "Vauxhall Astra L (1.5 CDTI 130 PS) 2021–present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (cylinder head, block, sump and internals)",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New gaskets and seals where required",
+   "Securely crated for UK delivery"
+  ],
+  "excluded": [
+   "Turbocharger (reused if serviceable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter, air conditioning compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this DV5 engine now, or view the full DV5 engine range for other applications.",
+  "crossLink": "← Back to all DV5 engines"
+ }
+}

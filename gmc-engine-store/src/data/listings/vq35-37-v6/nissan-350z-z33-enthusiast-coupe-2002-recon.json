@@ -1,0 +1,83 @@
+{
+ "brand": "nissan",
+ "brandName": "Nissan",
+ "engineSlug": "vq35-37-v6",
+ "applicationSlug": "nissan-350z-z33-enthusiast-coupe-2002-recon",
+ "engineCode": "VQ35DE",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned Nissan VQ35DE Engine — 350Z Z33 | Engined",
+  "description": "Reconditioned VQ35DE engine for Nissan 350Z Z33 Enthusiast. Fixed price £2,525 used, £3,445 reconditioned. Tested, UK delivery & 12-month warranty.",
+  "canonical": "https://engined.co.uk/engines/vq35-37-v6/nissan-350z-z33-enthusiast-coupe-2002-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned Nissan VQ35DE Engine — 350Z Z33 Enthusiast",
+  "subtitle": "Reconditioned VQ35DE engine for Nissan 350Z Z33 Enthusiast and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: VQ35-RECON-350Z-Z33-ENTHUSIAST",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,525",
+    "note": "12-month warranty",
+    "price": "£2,525.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned Nissan VQ35DE Engine — 350Z Z33 Enthusiast",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "VQ35DE",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2002-2006",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Z33",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/nissan-nissan-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number in our checker above to confirm this VQ35DE engine is the exact match for your vehicle.",
+  "list": [
+   "Nissan 350Z Z33 (Enthusiast 3.5L V6, 250 PS) 2002-2006"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "VAT inclusive pricing",
+   "Secure, palletised UK delivery"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system components",
+   "Ancillaries (alternator, starter motor, etc.)",
+   "Fitting and installation",
+   "ECU remapping or coding"
+  ]
+ },
+ "cta": {
+  "line": "Buy this VQ35DE engine now, or view the full VQ35DE engine range for other applications.",
+  "crossLink": "← Back to all VQ35DE engines"
+ }
+}

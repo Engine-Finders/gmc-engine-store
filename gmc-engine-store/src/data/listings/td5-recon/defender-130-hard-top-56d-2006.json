@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "td5-recon",
+ "applicationSlug": "defender-130-hard-top-56d-2006",
+ "engineCode": "TD5",
+ "condition": "recon",
+ "seo": {
+  "title": "Recon Td5 Engine — Defender 130 Hard Top (56D) 2006-2008",
+  "description": "Recon Land Rover Td5 engine for Defender 130 Hard Top (56D) 2006-2008. Fixed price £6,093, 12-month warranty, tested before dispatch, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/td5-recon/defender-130-hard-top-56d-2006/"
+ },
+ "hero": {
+  "title": "Recon Td5 Engine — Defender 130 Hard Top (56D) 2006-2008",
+  "subtitle": "Reconditioned Td5 engine for Defender 130 Hard Top (56D) — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: TD5-RECON-DEF130-HARDTOP-56D",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £6,093",
+    "note": "12-month warranty",
+    "price": "£6,093.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned Land Rover Td5 2.5 I5 diesel engine for Defender 130 Hard Top (56D), 2006-2008",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "Td5",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2006-2008",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L316",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration to confirm fitment — this listing covers one specific Defender 130 Hard Top (56D) application.",
+  "list": [
+   "Defender 130 L316 (Hard Top, 56D, 122 PS) 2006-2008"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (block, head, sump, timing cover)",
+   "Tested before dispatch — compression and oil pressure verified",
+   "12-month warranty as standard",
+   "New gaskets and seals on reassembly",
+   "Crated and palletised for safe transit"
+  ],
+  "excluded": [
+   "Turbocharger (reusable if condition allows)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, power steering pump, A/C compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this Td5 engine now, or view the full Td5 range.",
+  "crossLink": "← Back to all Td5 engines"
+ }
+}

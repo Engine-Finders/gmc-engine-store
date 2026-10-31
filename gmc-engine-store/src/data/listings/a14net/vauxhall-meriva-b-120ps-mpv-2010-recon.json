@@ -1,0 +1,83 @@
+{
+ "brand": "vauxhall",
+ "brandName": "Vauxhall",
+ "engineSlug": "a14net",
+ "applicationSlug": "vauxhall-meriva-b-120ps-mpv-2010-recon",
+ "engineCode": "A14NET",
+ "condition": "recon",
+ "seo": {
+  "title": "Recon A14NET Meriva B 120PS | Engined",
+  "description": "Reconditioned A14NET engine for Vauxhall Meriva B (120 PS) MPV 2010-2017. £1,935, 12-month warranty, UK delivery. Check fitment by reg today.",
+  "canonical": "https://engined.co.uk/engines/a14net/vauxhall-meriva-b-120ps-mpv-2010-recon/"
+ },
+ "hero": {
+  "title": "Recon A14NET Meriva B 120PS",
+  "subtitle": "SUB — Reconditioned A14NET engine for Vauxhall Meriva B (120 PS) MPV — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: A14NET-RECON-MERIVA-B-120-MPV-12M",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,935",
+    "note": "12-month warranty",
+    "price": "£1,935.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned A14NET engine for Vauxhall Meriva B 120 PS MPV 2010-2017, 1.4i Turbo petrol.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "A14NET",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2010-2017",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Meriva B",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with our reg checker before ordering — this reconditioned A14NET is listed for the following Meriva B application.",
+  "list": [
+   "Vauxhall Meriva B (1.4i Turbo 120 PS A14NET) 2010–2017 — MPV"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Renewed timing chains, tensioners and guides",
+   "Rebuilt cylinder head with new valve stem seals"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this A14NET engine now, or view full A14NET range for other applications.",
+  "crossLink": "← Back to all A14NET engines"
+ }
+}

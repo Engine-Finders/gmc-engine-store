@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "m275-m279",
+ "applicationSlug": "mercedes-g-class-w463-m279-612-used-suv-2012",
+ "engineCode": "M279",
+ "condition": "used",
+ "seo": {
+  "title": "Used M279 6.0 V12 Engine — G-Class W463 (G65 AMG, 612 PS) Pre-FL 2012–2015 | Engined",
+  "description": "Used M279 6.0 V12 engine for G-Class W463 G65 AMG (612 PS). £11,995 with 12-month warranty and UK delivery. Pre-facelift 2012–2015 fitment. Order today.",
+  "canonical": "https://engined.co.uk/engines/m275-m279/mercedes-g-class-w463-m279-612-used-suv-2012/"
+ },
+ "hero": {
+  "title": "Used M279 6.0 V12 Engine — G-Class W463 (G65 AMG, 612 PS) Pre-FL 2012–2015",
+  "subtitle": "Used M279 engine for G-Class W463 G65 AMG — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M279-USED-W463-G65-PREFL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £11,995",
+    "note": "12-month warranty",
+    "price": "£11,995.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used M279 6.0 V12 Engine — G-Class W463 (G65 AMG, 612 PS) Pre-FL 2012–2015",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M279",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2012–2015",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W463",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-mercedes-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration to confirm fitment — this M279 engine fits the W463 G65 AMG listed below.",
+  "list": [
+   "G-Class W463 SUV (G65 AMG 612 PS, V12 Biturbo) 2012–2015"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Sump included",
+   "Timing cover included"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M279 engine now, or view the full M279 range for more.",
+  "crossLink": "← Back to all M279 engines → https://engined.co.uk/engines/m275-m279/"
+ }
+}

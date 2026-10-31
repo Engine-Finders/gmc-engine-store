@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "204dtd",
+ "applicationSlug": "jaguar-e-pace-x540-aj200d-d150-transverse-suv-2020",
+ "engineCode": "204DTD",
+ "condition": "used",
+ "seo": {
+  "title": "PENDING — AJ200D 2.0 Diesel Engine — Jaguar E-Pace X540 (D150, Transverse) 2020–present",
+  "description": "Used 204DTD 2.0L diesel engine for Jaguar E-Pace X540 D150. Fixed £2,495 price, tested before dispatch. Includes 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/204dtd/jaguar-e-pace-x540-aj200d-d150-transverse-suv-2020/"
+ },
+ "hero": {
+  "title": "PENDING — AJ200D 2.0 Diesel Engine — Jaguar E-Pace X540 (D150, Transverse) 2020–present",
+  "subtitle": "Used 204DTD engine for Jaguar E-Pace X540 D150 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 204DTD-PEND-EPACE-D150-2020",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,495",
+    "note": "12-month warranty",
+    "price": "£2,495.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "PENDING — AJ200D 2.0 Diesel Engine — Jaguar E-Pace X540 (D150, Transverse) 2020–present",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "204DTD",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2020–present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X540",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm exact fitment for your SUV using our free registration checker before ordering your 204DTD engine.",
+  "list": [
+   "Jaguar E-Pace X540 (2.0 Ingenium D150) 2020–present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch",
+   "12-month warranty as standard",
+   "Sump and oil pickup tube",
+   "Rocker cover and base gaskets"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 204DTD engine now, or view the full 204DTD engine range for other applications.",
+  "crossLink": "← Back to all 204DTD engines"
+ }
+}

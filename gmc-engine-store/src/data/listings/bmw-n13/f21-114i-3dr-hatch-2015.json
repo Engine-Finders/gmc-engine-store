@@ -1,0 +1,96 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n13",
+ "applicationSlug": "f21-114i-3dr-hatch-2015",
+ "engineCode": "N13B16",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW N13 Engine — F21 114i 3dr 2015‑2016 | Engined",
+  "description": "N13 · Used BMW N13 engine for F21 114i 3dr Hatch (102 PS) — £1,345 · 12-month warranty · UK delivery.",
+  "canonical": "https://engined.co.uk/engines/bmw-n13/f21-114i-3dr-hatch-2015/"
+ },
+ "hero": {
+  "title": "Used BMW N13 Engine — 1 Series F21 (114i) 3‑dr Hatch 2015‑2016",
+  "subtitle": "Used N13 engine for F21 114i 3dr Hatch — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N13-USED-F21-114I-FL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,345",
+    "note": "12-month warranty",
+    "price": "£1,345.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,245",
+    "note": "12-month warranty",
+    "price": "£2,245.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW N13B16 engine for F21 114i 3dr Hatch 2015-2016 with EU6 emissions and facelift configuration",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N13B16",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2015-2016",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F21",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "This used N13 engine is compatible with the following vehicles — use our reg checker to confirm your specific model before ordering.",
+  "list": [
+   "BMW 1 Series (F21) 2015‑2016 — 114i (102 PS) 3‑door Hatchback"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Facelift configuration with EU6 compliance",
+   "Fully tested and validated"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N13 engine now, or view the full BMW N13 engine range for other applications.",
+  "crossLink": "← Back to all BMW N13 engines"
+ }
+}

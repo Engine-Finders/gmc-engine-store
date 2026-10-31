@@ -1,0 +1,82 @@
+{
+ "brand": "volvo",
+ "brandName": "Volvo",
+ "engineSlug": "drive-e-diesel",
+ "applicationSlug": "volvo-s90-d4-190ps-saloon-2016-recon",
+ "engineCode": "D4204T14",
+ "condition": "recon",
+ "seo": {
+  "title": "Recon D4 S90 190PS | Engined [29 chars]",
+  "description": "Reconditioned D4204T14 D4 engine for Volvo S90 SPA 2016-present —",
+  "canonical": "https://engined.co.uk/engines/drive-e-diesel/volvo-s90-d4-190ps-saloon-2016-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned D4 Engine — Volvo S90 (2.0 D4 190 PS) Saloon 2016-present",
+  "subtitle": "Reconditioned D4204T14 engine for Volvo S90 SPA 2016-present — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: DRIVEE-RECON-S90-D4-SALOON-12M",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £3,195",
+    "note": "12-month warranty",
+    "price": "£3,195.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned D4 Engine — Volvo S90 (2.0 D4 190 PS) Saloon 2016-present",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "D4204T14",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2016-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "SPA",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "<p>Confirm fitment with our registration checker before ordering — every S90 SPA",
+  "list": [
+   "Volvo S90 SPA (2.0 D4 190 PS) 2016-present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete reconditioned engine assembly",
+   "Renewed timing belt and tensioners",
+   "Rebuilt cylinder head",
+   "Tested i-Art injectors",
+   "12-month warranty as standard",
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ],
+  "excluded": []
+ },
+ "cta": {
+  "line": "<p class=\"cta\">Buy this D4204T14 engine now, or",
+  "crossLink": "← Back to all Drive-E diesel engines</a>"
+ }
+}

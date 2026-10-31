@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "306dt",
+ "applicationSlug": "land-rover-range-rover-l322-306dt-211-suv-recon-2009",
+ "engineCode": "306DT",
+ "condition": "recon",
+ "seo": {
+  "title": "306DT RR L322 211 Recon | Engined",
+  "description": "Reconditioned 306DT TDV6 engine for Range Rover L322 211 PS single-turbo 2009–2012. £3,145 with 12-month warranty, UK delivery. Fully rebuilt.",
+  "canonical": "https://engined.co.uk/engines/306dt/land-rover-range-rover-l322-306dt-211-suv-recon-2009/"
+ },
+ "hero": {
+  "title": "306DT RR L322 211 Recon",
+  "subtitle": "SUB — Reconditioned 306DT engine for Range Rover L322, 3.0 TDV6 211 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 306DT-RECON-RR-L322-211",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £3,145",
+    "note": "12-month warranty",
+    "price": "£3,145.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned 306DT TDV6 diesel engine for Range Rover L322 211 PS single-turbo, fully rebuilt.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "306DT",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2009–2012",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L322",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with our UK reg checker before ordering — this listing covers the following Range Rover L322 application.",
+  "list": [
+   "Range Rover L322 (SUV — 3.0 TDV6 211 PS — 306DT engine code) 2009–2012"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Engine block and cylinder head",
+   "Sump and timing covers"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 306DT engine now, or view the full 306DT engine range for other applications.",
+  "crossLink": "← Back to all 306DT engines"
+ }
+}

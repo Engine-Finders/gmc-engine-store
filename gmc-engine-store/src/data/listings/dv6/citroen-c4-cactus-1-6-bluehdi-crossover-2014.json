@@ -1,0 +1,89 @@
+{
+ "brand": "citroen",
+ "brandName": "Citroen",
+ "engineSlug": "dv6",
+ "applicationSlug": "citroen-c4-cactus-1-6-bluehdi-crossover-2014",
+ "engineCode": "DV6",
+ "condition": "used",
+ "seo": {
+  "title": "Used Citroën DV6 Engine — C4 Cactus (1.6 BlueHDi) Crossover 2014-present",
+  "description": "DV6 · used · Citroën C4 Cactus Crossover 1.6 BlueHDi · 100 PS · £750 · 12-month warranty · UK delivery",
+  "canonical": "https://engined.co.uk/engines/dv6/citroen-c4-cactus-1-6-bluehdi-crossover-2014/"
+ },
+ "hero": {
+  "title": "Used Citroën DV6 Engine — C4 Cactus (1.6 BlueHDi) Crossover 2014-present",
+  "subtitle": "Used DV6 diesel engine for Citroën C4 Cactus Crossover 1.6 BlueHDi — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: DV6-USED-CITROEN-C4-CACTUS-BLUEHDI",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £750",
+    "note": "12-month warranty",
+    "price": "£750.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,400",
+    "note": "12-month warranty",
+    "price": "£1,400.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Citroën DV6 1.6 BlueHDi engine for C4 Cactus Crossover 2014-present — tested diesel unit",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "DV6",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2014-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Citroën C4 Cactus Crossover (2014-present)",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/citroen-psa-dv6-1-6-hdi-diesel-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your vehicle's compatibility below — use our reg-checker to confirm this DV6 engine matches your Citroën C4 Cactus exactly.",
+  "list": [
+   "Citroën C4 Cactus Crossover (2014-present) — 1.6 BlueHDi"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Comprehensive inspection report",
+   "Oil and filter service",
+   "UK mainland delivery"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this DV6 engine now, or view the full DV6 engine range for other applications.",
+  "crossLink": "← Back to all DV6 engines"
+ }
+}

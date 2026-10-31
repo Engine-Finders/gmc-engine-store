@@ -1,0 +1,91 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "b57",
+ "applicationSlug": "bmw-7-series-g12-740d-long-2015",
+ "engineCode": "B57",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW B57 Engine - 7 Series G12 740d Long",
+  "description": "Used BMW B57 3.0L diesel engine for 7 Series G12 740d Long Wheelbase (2015+). 340hp output. £4,220 with 12-month warranty. UK delivery.",
+  "canonical": "https://engined.co.uk/engines/b57/bmw-7-series-g12-740d-long-2015/"
+ },
+ "hero": {
+  "title": "Used BMW B57 Engine — 7 Series G12 (740d) Long Wheelbase 2015-present",
+  "subtitle": "Used BMW B57 3.0L diesel engine for 7 Series G12 740d Long Wheelbase (340hp) — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: B57-USED-7SERIES-G12-740D-SALOON",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £4,220",
+    "note": "12-month warranty",
+    "price": "£4,220.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW B57 3.0L diesel engine for 7 Series G12 740d Long Wheelbase, 340hp high-output premium variant",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "B57",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2015-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "G12",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-b57-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check compatibility by entering your registration for instant confirmation, or review the models this engine fits below.",
+  "list": [
+   "7 Series Long Wheelbase (G12) 2015-present — 740d (340 hp)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Full diagnostic report",
+   "Oil and filter service completed",
+   "Compression and leak-down test verified"
+  ],
+  "excluded": [
+   "Turbocharger (reusable from your original engine)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, air conditioning compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this BMW B57 3.0L diesel engine now, or view the full B57 engine range for other applications.",
+  "crossLink": "← Back to all B57 engines"
+ }
+}

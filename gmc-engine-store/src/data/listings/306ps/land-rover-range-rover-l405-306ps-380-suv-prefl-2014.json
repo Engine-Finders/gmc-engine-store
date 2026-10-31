@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "306ps",
+ "applicationSlug": "land-rover-range-rover-l405-306ps-380-suv-prefl-2014",
+ "engineCode": "306PS",
+ "condition": "used",
+ "seo": {
+  "title": "306PS RR L405 Pre-FL 380PS | Engined",
+  "description": "Used 306PS 3.0 SC V6 engine for Range Rover L405 Pre-FL 380PS 2014–2017. £3,615 with 12-month warranty and UK delivery. Premium fitment. Fits L405.",
+  "canonical": "https://engined.co.uk/engines/306ps/land-rover-range-rover-l405-306ps-380-suv-prefl-2014/"
+ },
+ "hero": {
+  "title": "306PS RR L405 Pre-FL 380PS",
+  "subtitle": "SUB — Used 306PS engine for Range Rover L405 Pre-FL 380PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 306PS-USED-RR-L405-380-PRE",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £3,615",
+    "note": "12-month warranty",
+    "price": "£3,615.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used 306PS 3.0 supercharged V6 engine for Range Rover L405 Pre-FL 380PS, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "306PS",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2014–2017",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L405",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with our UK reg checker before ordering — this listing covers the following Range Rover L405 application.",
+  "list": [
+   "Range Rover L405 (SUV — 3.0 SCV6 380PS — 306PS engine code) 2014–2017"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Engine block and cylinder head",
+   "Sump and timing covers"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 306PS engine now, or view the full 306PS engine range for other applications.",
+  "crossLink": "← Back to all 306PS engines"
+ }
+}

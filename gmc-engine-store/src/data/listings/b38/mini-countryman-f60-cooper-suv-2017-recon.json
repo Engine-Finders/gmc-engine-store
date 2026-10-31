@@ -1,0 +1,83 @@
+{
+ "brand": "mini",
+ "brandName": "Mini",
+ "engineSlug": "b38",
+ "applicationSlug": "mini-countryman-f60-cooper-suv-2017-recon",
+ "engineCode": "B38",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned BMW B38 Engine — MINI Countryman F60 (Cooper) SUV 2017-Present | Engined",
+  "description": "Reconditioned BMW B38 engine for MINI Countryman F60 Cooper SUV 2017-present. 1.5 petrol turbo, 136 PS. £2,200 with 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/b38/mini-countryman-f60-cooper-suv-2017-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW B38 Engine — MINI Countryman F60 (Cooper) SUV 2017-Present",
+  "subtitle": "Reconditioned B38 engine for MINI Countryman F60 Cooper SUV 2017-present — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: B38-RECON-F60-COOPER-SUV",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,200",
+    "note": "12-month warranty",
+    "price": "£2,200.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned BMW B38 1.5 petrol turbo engine for MINI Countryman F60 Cooper SUV, transverse mount, 136 PS tune",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "B38",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2017-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F60",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/mini-bmw-b38-b48-petrol-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration to confirm this B38 engine fits your MINI Countryman before ordering.",
+  "list": [
+   "MINI Countryman (F60) Cooper (1.5 petrol turbo, 136 PS) 2017–present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (block, head, sump, covers)",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New gaskets and seals fitted during reconditioning",
+   "Oil pump and water pump checked and replaced if worn",
+   "Timing chain and tensioner inspected and replaced if worn"
+  ],
+  "excluded": [
+   "Turbocharger (reusable — retained from your original engine unless otherwise agreed)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, air conditioning compressor, power steering pump)",
+   "Fitting and installation labour"
+  ]
+ },
+ "cta": {
+  "line": "Buy this B38 engine now, or view the full B38 engine range for other applications.",
+  "crossLink": "← Back to all B38 engines"
+ }
+}

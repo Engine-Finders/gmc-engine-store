@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "ajd200",
+ "applicationSlug": "land-rover-discovery-5-l462-ajd200-d300-longitudinal-suv-2017",
+ "engineCode": "AJD200",
+ "condition": "used",
+ "seo": {
+  "title": "Used AJD200 3.0 Diesel Engine — Discovery 5 L462 (D300, Longitudinal) 2017–2020",
+  "description": "AJD200 · Used · Discovery 5 L462 D300 · £3,738 · 12-month warranty included as standard. Fast UK delivery on all reconditioned and used engines.",
+  "canonical": "https://engined.co.uk/engines/ajd200/land-rover-discovery-5-l462-ajd200-d300-longitudinal-suv-2017/"
+ },
+ "hero": {
+  "title": "Used AJD200 3.0 Diesel Engine — Discovery 5 L462 (D300, Longitudinal) 2017–2020",
+  "subtitle": "Used AJD200 engine for Discovery 5 L462 D300 and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: AJD200-USED-DISCO5-D300-1720",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £3,738",
+    "note": "12-month warranty",
+    "price": "£3,738.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "AJD200 3.0 Diesel Engine for Discovery 5 L462 D300 Longitudinal, tested and ready for fast UK delivery.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJD200",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2017–2020",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L462",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your exact registration with our free checker to ensure this AJD200 engine perfectly matches your Discovery 5 L462 chassis.",
+  "list": [
+   "Discovery 5 L462 (D300) 2017–2020"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Full technical support",
+   "UK delivery included"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this AJD200 engine now, or view the AJD200 range for other applications.",
+  "crossLink": "← Back to all AJD200 engines"
+ }
+}

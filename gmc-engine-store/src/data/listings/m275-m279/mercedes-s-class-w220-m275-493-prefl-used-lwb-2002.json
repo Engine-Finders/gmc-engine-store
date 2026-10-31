@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "m275-m279",
+ "applicationSlug": "mercedes-s-class-w220-m275-493-prefl-used-lwb-2002",
+ "engineCode": "M275",
+ "condition": "used",
+ "seo": {
+  "title": "Used M275 5.5 V12 Engine — S-Class W220 (S600, 493 PS) Pre-FL 2002–2003 | Engined",
+  "description": "Used M275 5.5 V12 engine for S-Class W220 S600L (493 PS). £5,995 with 12-month warranty and UK delivery. Pre-facelift 2002–2003 fitment. Order today.",
+  "canonical": "https://engined.co.uk/engines/m275-m279/mercedes-s-class-w220-m275-493-prefl-used-lwb-2002/"
+ },
+ "hero": {
+  "title": "Used M275 5.5 V12 Engine — S-Class W220 (S600, 493 PS) Pre-FL 2002–2003",
+  "subtitle": "Used M275 engine for S-Class W220 S600L — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M275-USED-W220-S600L-PREFL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £5,995",
+    "note": "12-month warranty",
+    "price": "£5,995.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Used M275 5.5 V12 Engine — S-Class W220 (S600, 493 PS) Pre-FL 2002–2003",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M275",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2002–2003",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W220",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-mercedes-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Please enter your registration to confirm fitment — this M275 engine fits the W220 S600L listed below.",
+  "list": [
+   "S-Class W220 Saloon LWB (S600L 493 PS, V12 Biturbo) 2002–2003"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Sump included",
+   "Timing cover included"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M275 engine now, or view the full M275 engine range for other applications.",
+  "crossLink": "← Back to all M275 engines → https://engined.co.uk/engines/m275-m279/"
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "m282",
+ "applicationSlug": "mercedes-gla-h247-m282-163-suv-recon-2020",
+ "engineCode": "M282",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned M282 1.3T Engine — GLA H247 (GLA220, 163 PS) 2020–2022",
+  "description": "Reconditioned Mercedes-Benz M282 1.3T engine for GLA H247 GLA220 163 PS (2020–2022). £3,675 fixed, 12-month warranty, UK delivery, tested before dispatch.",
+  "canonical": "https://engined.co.uk/engines/m282/mercedes-gla-h247-m282-163-suv-recon-2020/"
+ },
+ "hero": {
+  "title": "Reconditioned M282 1.3T Engine — GLA H247 (GLA220, 163 PS) 2020–2022",
+  "subtitle": "Reconditioned M282 engine for GLA220 163 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M282-RECON-MB-GLA220-2022",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £3,675",
+    "note": "12-month warranty",
+    "price": "£3,675.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned Mercedes-Benz M282 1.3T petrol engine for GLA H247 GLA220 163 PS, renewed timing chain.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M282",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2020–2022",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "H247",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-mercedes-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration in our reg checker to confirm this M282 fits your GLA H247 GLA220 163 PS exactly before you buy.",
+  "list": [
+   "GLA H247 (GLA220 163 PS, 1.3T) 2020–2022 — SUV — transverse M282"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New gaskets and seals",
+   "New oil and filter"
+  ],
+  "excluded": [
+   "Turbocharger (reused from your unit where reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M282 engine now, or view the full M282 engine range for other applications.",
+  "crossLink": "← Back to all M282 engines → https://engined.co.uk/engines/m282"
+ }
+}

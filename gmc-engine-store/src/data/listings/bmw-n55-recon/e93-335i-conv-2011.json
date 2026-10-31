@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n55-recon",
+ "applicationSlug": "e93-335i-conv-2011",
+ "engineCode": "N55",
+ "condition": "recon",
+ "seo": {
+  "title": "Recond N55 E93 335i Conv 2011-2013 | Engined",
+  "description": "BMW N55 reconditioned engine for 3 Series E93 335i Convertible 2011-2013. £4,370, 12-month warranty, UK delivery. Tested before dispatch. Order today.",
+  "canonical": "https://engined.co.uk/engines/bmw-n55-recon/e93-335i-conv-2011/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW N55 Engine — 3 Series E93 (335i) Convertible 2011‑2013",
+  "subtitle": "Reconditioned N55 engine for 3 Series E93, 335i and Convertible — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N55-RECON-E93-335I-FL",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £4,370",
+    "note": "12-month warranty",
+    "price": "£4,370.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned BMW N55 engine for 3 Series E93 335i Convertible 2011-2013, LCI, 302 PS.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "BMW N55",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2011-2013",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E93",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration to confirm fitment before ordering — this listing covers the BMW 3 Series E93 335i Convertible from 2011 to 2013.",
+  "list": [
+   "BMW 3 Series E93 (335i 302 PS Convertible) 2011-2013"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Renewed timing components",
+   "New gaskets and seals"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N55 engine now, or view the full N55 engine range for other applications.",
+  "crossLink": "← Back to all N55 engines"
+ }
+}

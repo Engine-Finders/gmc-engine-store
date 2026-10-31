@@ -1,0 +1,83 @@
+{
+ "brand": "vauxhall",
+ "brandName": "Vauxhall",
+ "engineSlug": "a14net",
+ "applicationSlug": "vauxhall-mokka-a-140ps-suv-2012",
+ "engineCode": "A14NET",
+ "condition": "used",
+ "seo": {
+  "title": "Used A14NET Engine — Vauxhall Mokka A (140 PS) SUV 2012-2016 | Engined",
+  "description": "Used A14NET engine for Vauxhall Mokka A (140 PS) SUV 2012-2016. £1,595, 12-month warranty, UK delivery available. Check fitment by reg today.",
+  "canonical": "https://engined.co.uk/engines/a14net/vauxhall-mokka-a-140ps-suv-2012/"
+ },
+ "hero": {
+  "title": "Used A14NET Engine — Vauxhall Mokka A (140 PS) SUV 2012-2016",
+  "subtitle": "SUB — Used A14NET engine for Vauxhall Mokka A (140 PS) SUV 2012-2016 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: A14NET-USED-MOKKA-A-140-SUV",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,595",
+    "note": "12-month warranty",
+    "price": "£1,595.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used A14NET engine for Vauxhall Mokka A 140 PS SUV 2012-2016, 1.4i Turbo petrol.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "A14NET",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2012-2016",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Mokka A",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with our reg checker before ordering — this used A14NET is listed for the following Mokka A application.",
+  "list": [
+   "Vauxhall Mokka A (1.4i Turbo 140 PS A14NET) 2012–2016 — SUV"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil and filter change",
+   "New gaskets and seals"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this A14NET engine, or view the full A14NET range for other applications.",
+  "crossLink": "← Back to all A14NET engines"
+ }
+}

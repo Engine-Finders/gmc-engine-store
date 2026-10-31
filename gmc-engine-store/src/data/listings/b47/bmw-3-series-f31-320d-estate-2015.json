@@ -1,0 +1,97 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "b47",
+ "applicationSlug": "bmw-3-series-f31-320d-estate-2015",
+ "engineCode": "B47",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW B47 Engine — 3 Series F31 (320d) Estate 2015-2019",
+  "description": "BMW B47 · used · 3 Series Estate F31 320d 2015-2019 — £1,695 · 12-month warranty · UK delivery. Fully inspected, compression tested, ready to ship.",
+  "canonical": "https://engined.co.uk/engines/b47/bmw-3-series-f31-320d-estate-2015/"
+ },
+ "hero": {
+  "title": "Used BMW B47 Engine — 3 Series F31 (320d) Estate 2015-2019",
+  "subtitle": "Used B47 engine for 3 Series Estate F31 320d 2015-2019 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: B47-USED-COMPACT-F31-320D",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,695",
+    "note": "12-month warranty",
+    "price": "£1,695.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,495",
+    "note": "12-month warranty",
+    "price": "£2,495.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "BMW B47 engine used — 3 Series F31 320d Estate 2015-2019, complete assembly",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "B47",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2015-2019",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F31",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-b47-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration to confirm fitment with this BMW B47 engine, or see the vehicle list below.",
+  "list": [
+   "3 Series Estate (F31) 2015-2019 — 320d (190 hp)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch — compression tested and inspected",
+   "12-month warranty as standard",
+   "Full oil service completed",
+   "New timing chain and tensioner",
+   "New gaskets and seals fitted"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries (alternator, starter, AC compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this B47 engine now, or view the full B47 engine range for other applications.",
+  "crossLink": "← Back to all B47 engines"
+ }
+}

@@ -1,0 +1,97 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-m62",
+ "applicationSlug": "e53-4.4i-suv-2000",
+ "engineCode": "M62",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW M62 Engine — X5 E53 (4.4i) SUV 2000-2003",
+  "description": "Used BMW M62 engine for X5 E53 4.4i SUV · 286 PS · £1,465 · 12‑month warranty · UK delivery.",
+  "canonical": "https://engined.co.uk/engines/bmw-m62/e53-4.4i-suv-2000/"
+ },
+ "hero": {
+  "title": "Used BMW M62 Engine — X5 E53 (4.4i) SUV 2000-2003",
+  "subtitle": "Used M62 engine for X5 E53 4.4i SUV — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M62-USED-E53-4.4I-SUV-PREFL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,465",
+    "note": "12-month warranty",
+    "price": "£1,465.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,620",
+    "note": "12-month warranty",
+    "price": "£2,620.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW M62 V8 engine for X5 E53 4.4i SUV (2000‑2003) — complete unit",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M62",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2000-2003",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E53",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration or confirm these fitments — this M62 engine is verified for the following BMW X5 applications.",
+  "list": [
+   "BMW X5 (E53) 2000-2003 — 4.4i (286 PS) SUV"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12‑month warranty as standard",
+   "Full inspection report",
+   "Compression and leak‑down test results",
+   "Oil and filter service completed"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter, AC compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M62 engine now, or view the full M62 engine range for other applications.",
+  "crossLink": "← Back to all M62 engines"
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-m62-recon",
+ "applicationSlug": "e38-740il-saloon-1998",
+ "engineCode": "M62TU",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned BMW M62 Engine — E38 740iL Saloon | Engined",
+  "description": "M62 · Reconditioned BMW M62 engine for E38 740iL Saloon (286 PS) — £2,305 · 12-month warranty · UK delivery.",
+  "canonical": "https://engined.co.uk/engines/bmw-m62-recon/e38-740il-saloon-1998/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW M62 Engine — 7 Series E38 (740iL) Saloon 1998-2001",
+  "subtitle": "Reconditioned M62 engine for E38 740iL Saloon — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M62-RECON-E38-740IL-SALOON-FL",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,305",
+    "note": "12-month warranty",
+    "price": "£2,305.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned BMW M62TU engine for E38 740iL Saloon LWB 1998-2001 with renewed timing chains",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M62TU",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "1998-2001",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E38",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "This reconditioned M62TU engine is compatible with the following vehicles — use our reg checker to confirm your specific model before ordering.",
+  "list": [
+   "BMW 7 Series (E38) 1998-2001 — 740iL (286 PS) Saloon LWB"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Renewed timing chains and guides",
+   "LWB-specific chassis packaging",
+   "Fully reconditioned to factory specifications"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M62 engine now, or view the full BMW M62 engine range for other applications.",
+  "crossLink": "← Back to all BMW M62 engines"
+ }
+}

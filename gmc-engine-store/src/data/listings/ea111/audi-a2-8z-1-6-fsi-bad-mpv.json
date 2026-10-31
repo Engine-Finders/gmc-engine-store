@@ -1,0 +1,91 @@
+{
+ "brand": "audi",
+ "brandName": "Audi",
+ "engineSlug": "ea111",
+ "applicationSlug": "audi-a2-8z-1-6-fsi-bad-mpv",
+ "engineCode": "EA111",
+ "condition": "used",
+ "seo": {
+  "title": "Used EA111 Engine — Audi A2 8Z (1.6 FSI BAD) MPV 2000-2005",
+  "description": "EA111 · used · Audi A2 8Z (1.6 FSI BAD) MPV 2000-2005 — £715 with 12-month warranty & UK delivery. Tested before dispatch.",
+  "canonical": "https://engined.co.uk/engines/ea111/audi-a2-8z-1-6-fsi-bad-mpv/"
+ },
+ "hero": {
+  "title": "Used EA111 Engine — Audi A2 8Z (1.6 FSI BAD) MPV 2000-2005",
+  "subtitle": "Used EA111 engine for Audi A2 8Z (1.6 FSI BAD) MPV 2000-2005 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA111-USED-A2-BAD",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £715",
+    "note": "12-month warranty",
+    "price": "£715.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "EA111 1.6 FSI BAD engine for Audi A2 8Z MPV 2000-2005 — transverse configuration",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA111",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2000-2005",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "8Z",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/audi-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/audi-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/audi-audi-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "This EA111 engine is confirmed to fit the vehicles listed below — use our reg checker to confirm exact compatibility for your specific vehicle.",
+  "list": [
+   "Audi A2 MPV (8Z) — 1.6 FSI BAD (110 PS) — 2000-2005"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Full diagnostic report",
+   "Oil and filter service completed",
+   "Pressure and compression tested"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA111 engine now, or view the full EA111 engine range for other applications.",
+  "crossLink": "← Back to all EA111 engines"
+ }
+}

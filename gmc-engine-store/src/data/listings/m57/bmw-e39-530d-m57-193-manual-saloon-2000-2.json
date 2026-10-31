@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "m57",
+ "applicationSlug": "bmw-e39-530d-m57-193-manual-saloon-2000-2",
+ "engineCode": "M57",
+ "condition": "used",
+ "seo": {
+  "title": "PENDING — M57 3.0 Engine BMW E39 530d | Engined",
+  "description": "Used M57 3.0 engine for BMW E39 530d (Manual, 193 PS, 2000-2003). Fixed price £1,400. Tested before dispatch, 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/m57/bmw-e39-530d-m57-193-manual-saloon-2000/"
+ },
+ "hero": {
+  "title": "PENDING — M57 3.0 Engine — BMW E39 530d (Manual, 193 PS) 2000–2003",
+  "subtitle": "Used M57 engine for BMW E39 530d (Manual, 193 PS) — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M57-PEND-E39-530D-193-0003",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,400",
+    "note": "12-month warranty",
+    "price": "£1,400.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "M57 3.0 engine for BMW E39 530d Manual 193 PS, complete unit, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M57",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2000–2003",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E39",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number in our checker above to confirm exact fitment for your BMW E39 530d chassis before purchasing.",
+  "list": [
+   "BMW E39 530d 2000–2003 — Saloon — M57 193 PS — Manual — M57D30"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "All internal seals and gaskets replaced",
+   "Professionally cleaned and degreased"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "External ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M57 engine now, or view the full M57 engine range for other applications.",
+  "crossLink": "← Back to all M57 engines"
+ }
+}

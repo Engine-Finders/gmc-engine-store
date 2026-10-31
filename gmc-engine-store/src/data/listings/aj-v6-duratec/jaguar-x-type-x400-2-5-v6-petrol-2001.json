@@ -1,0 +1,90 @@
+{
+ "brand": "jaguar",
+ "brandName": "Jaguar",
+ "engineSlug": "aj-v6-duratec",
+ "applicationSlug": "jaguar-x-type-x400-2-5-v6-petrol-2001",
+ "engineCode": "AJ-V6",
+ "condition": "used",
+ "seo": {
+  "title": "Used Jaguar AJ-V6 2.5 V6 Petrol Engine — X-Type (X400) 2001-2009",
+  "description": "Used AJ-V6 engine for Jaguar X-Type (X400) 2.5 V6 Petrol 2001-2009. Fixed price £795, tested before dispatch, 12-month warranty & UK delivery.",
+  "canonical": "https://engined.co.uk/engines/aj-v6-duratec/jaguar-x-type-x400-2-5-v6-petrol-2001/"
+ },
+ "hero": {
+  "title": "Used Jaguar AJ-V6 2.5 V6 Petrol Engine — X-Type (X400) 2001-2009",
+  "subtitle": "Used AJ-V6 engine for Jaguar X-Type (X400) 2.5 V6 Petrol — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: AJV6-25-USED-XTYPE",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £795",
+    "note": "12-month warranty",
+    "price": "£795.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Jaguar AJ-V6 2.5L V6 petrol engine for X-Type (X400), showing longitudinal layout and naturally aspirated configuration.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJ-V6",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2001-2009",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X400",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/jaguar-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/jaguar-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/jaguar-jaguar-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment instantly by entering your registration number below to match your chassis code.",
+  "list": [
+   "X-Type (X400) 2001-2009 — 2.5 V6 Petrol (AJ25) Saloon"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Longitudinal 2.5 V6 petrol unit",
+   "Naturally aspirated configuration"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries not specified above",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this AJ-V6 engine now, or view the full AJ-V6 engine range for other applications.",
+  "crossLink": "← Back to all AJ-V6 engines"
+ }
+}

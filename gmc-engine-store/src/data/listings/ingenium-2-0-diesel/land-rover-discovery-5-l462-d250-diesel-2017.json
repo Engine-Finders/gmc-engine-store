@@ -1,0 +1,91 @@
+{
+ "brand": "jaguar",
+ "brandName": "Jaguar",
+ "engineSlug": "ingenium-2-0-diesel",
+ "applicationSlug": "land-rover-discovery-5-l462-d250-diesel-2017",
+ "engineCode": "204DTA",
+ "condition": "used",
+ "seo": {
+  "title": "Used 204DTA 2.0 Diesel Engine – Discovery 5 | Engined",
+  "description": "Used 204DTA engine for Land Rover Discovery 5 D250. 2.0L Twin-Turbo Diesel, 250 PS. Fixed price £3,444. 12-month warranty included. UK delivery available.",
+  "canonical": "https://engined.co.uk/engines/ingenium-2-0-diesel/land-rover-discovery-5-l462-d250-diesel-2017/"
+ },
+ "hero": {
+  "title": "Used 204DTA 2.0 Ingenium Diesel Engine — Discovery 5 (L462) D250 SUV 2017-Present",
+  "subtitle": "Used 204DTA engine for Land Rover Discovery 5 D250 SUV and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 204DTA-USED-DISCOVERY-L462-D250",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £3,444",
+    "note": "12-month warranty",
+    "price": "£3,444.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Land Rover 204DTA 2.0L twin-turbo diesel engine for Discovery 5 L462 D250 SUV, complete assembly.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "204DTA",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2017-Present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L462",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/jaguar-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/jaguar-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/jaguar-jaguar-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration above to confirm this 204DTA engine fits your Land Rover Discovery 5 D250 SUV.",
+  "list": [
+   "Discovery 5 (L462) D250 2.0 Diesel SUV (2017–Present)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (204DTA 2.0L Twin-Turbo Diesel)",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Turbocharger units included",
+   "ECU and wiring loom compatibility verified",
+   "Oil filter and sump plug included"
+  ],
+  "excluded": [
+   "Turbocharger(s) (if reusable, per condition)",
+   "Injectors/fuel system (unless specified as reusable)",
+   "Ancillaries (alternator, starter motor, AC compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 204DTA engine now, or view the full 204DTA engine range for other applications.",
+  "crossLink": "← Back to all 204DTA engines"
+ }
+}

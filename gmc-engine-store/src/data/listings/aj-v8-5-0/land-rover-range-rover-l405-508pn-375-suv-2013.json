@@ -1,0 +1,91 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "aj-v8-5-0",
+ "applicationSlug": "land-rover-range-rover-l405-508pn-375-suv-2013",
+ "engineCode": "508PN",
+ "condition": "used",
+ "seo": {
+  "title": "Used 508PN 5.0 V8 Engine — Range Rover L405 (NA, 375hp) 2013–2017",
+  "description": "Used 508PN engine for Range Rover L405 2013-2017. Fixed price £4,510, tested before dispatch, includes 12-month warranty and UK delivery. Buy now.",
+  "canonical": "https://engined.co.uk/engines/aj-v8-5-0/land-rover-range-rover-l405-508pn-375-suv-2013/"
+ },
+ "hero": {
+  "title": "Used 508PN 5.0 V8 Engine — Range Rover L405 (NA, 375hp) 2013–2017",
+  "subtitle": "Used 508PN engine for Range Rover L405 2013–2017 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 508PN-USED-L405-375-1317",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £4,510",
+    "note": "12-month warranty",
+    "price": "£4,510.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Land Rover 508PN 5.0 V8 NA engine for Range Rover L405 2013-2017. 375hp, pre-facelift, fully tested.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "508PN",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2013–2017",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L405",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Will a 508PS supercharged engine fit my L405? Yes, same block. Use our reg checker above to confirm compatibility.",
+  "list": [
+   "Range Rover L405 (5.0 V8 NA 375hp SUV) 2013–2017"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Fully cleaned and inspected",
+   "Securely packaged for UK delivery",
+   "Ready for direct fitment"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Engine ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 508PN engine now, or view the full 508PN range for other applications.",
+  "crossLink": "← Back to all 508PN engines"
+ }
+}

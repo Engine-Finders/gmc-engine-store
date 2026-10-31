@@ -1,0 +1,96 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n62",
+ "applicationSlug": "e64-645ci-conv-2006",
+ "engineCode": "N62",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW N62 Engine — 6 Series E64 (645Ci) Convertible 2006‑2010",
+  "description": "Used N62 engine for BMW 6 Series E64 645Ci Convertible 2006-2010. £2,760 fixed price, tested before dispatch, 12-month warranty and UK delivery included.",
+  "canonical": "https://engined.co.uk/engines/bmw-n62/e64-645ci-conv-2006/"
+ },
+ "hero": {
+  "title": "Used BMW N62 Engine — 6 Series E64 (645Ci) Convertible 2006‑2010",
+  "subtitle": "Used N62 engine for BMW 6 Series E64 645Ci Convertible — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N62-USED-E64-645CI-FL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,760",
+    "note": "12-month warranty",
+    "price": "£2,760.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £5,175",
+    "note": "12-month warranty",
+    "price": "£5,175.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW N62 engine for E64 645Ci Convertible 2006-2010, LCI N62B44A 4.4L V8 333PS, tested.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N62",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2006-2010",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E64",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our reg checker to confirm this N62 engine fits your BMW 6 Series E64 645Ci Convertible before ordering.",
+  "list": [
+   "BMW 6 Series E64 (645Ci 333 PS Convertible) 2006-2010"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Sump and timing cover"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N62 engine now, or view the full N62 engine range for other applications.",
+  "crossLink": "← Back to all N62 engines — https://engined.co.uk/engines/bmw-n62"
+ }
+}

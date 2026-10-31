@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "306dt",
+ "applicationSlug": "land-rover-discovery-5-l462-30ddtx-249-suv-recon-prefl-2016",
+ "engineCode": "30DDTX",
+ "condition": "recon",
+ "seo": {
+  "title": "30DDTX Discovery 5 249 Recon | Engined",
+  "description": "Reconditioned 30DDTX SDV6 engine for Discovery 5 L462 249 PS twin-turbo 2016–2019. £3,995 with 12-month warranty and UK delivery. Fully rebuilt.",
+  "canonical": "https://engined.co.uk/engines/306dt/land-rover-discovery-5-l462-30ddtx-249-suv-recon-prefl-2016/"
+ },
+ "hero": {
+  "title": "30DDTX Discovery 5 249 Recon",
+  "subtitle": "SUB — Reconditioned 30DDTX engine for Discovery 5 L462 249 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 306DT-RECON-DISCO5-L462-249-PRE",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £3,995",
+    "note": "12-month warranty",
+    "price": "£3,995.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned 30DDTX SDV6 diesel engine for Discovery 5 L462 249 PS twin-turbo, fully rebuilt.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "30DDTX",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2016–2019",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L462",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with our UK reg checker before ordering — this listing covers the following Discovery 5 application.",
+  "list": [
+   "Discovery 5 L462 (SUV — 3.0 SDV6 249 PS — 30DDTX engine code) 2016–2019"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Engine block and cylinder head",
+   "Sump and timing covers"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 30DDTX engine now, or view the full 306DT range for other fitments.",
+  "crossLink": "← Back to all 306DT engines"
+ }
+}

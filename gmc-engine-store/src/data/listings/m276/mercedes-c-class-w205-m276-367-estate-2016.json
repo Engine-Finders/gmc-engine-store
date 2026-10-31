@@ -1,0 +1,91 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "m276",
+ "applicationSlug": "mercedes-c-class-w205-m276-367-estate-2016",
+ "engineCode": "M276",
+ "condition": "used",
+ "seo": {
+  "title": "Used M276 3.0 TT Engine — C-Class W205 Estate (C43 AMG, 367 PS) 2016–2018",
+  "description": "Used M276 3.0 twin-turbo V6 engine for Mercedes C-Class W205 Estate C43 AMG 367 PS (2016–2018). £3,220 with 12-month warranty and fast UK delivery.",
+  "canonical": "https://engined.co.uk/engines/m276/mercedes-c-class-w205-m276-367-estate-2016/"
+ },
+ "hero": {
+  "title": "Used M276 3.0 TT Engine — C-Class W205 Estate (C43 AMG, 367 PS) 2016–2018",
+  "subtitle": "Used M276 engine for C-Class W205 Estate C43 AMG — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M276-USED-G3-W205-C43-EST",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £3,220",
+    "note": "12-month warranty",
+    "price": "£3,220.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used M276 3.0 twin-turbo V6 engine for Mercedes C-Class W205 Estate C43 AMG 367 PS, tested.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M276",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2016–2018",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W205",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-m276-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with our registration checker before ordering — this engine suits the applications listed below.",
+  "list": [
+   "Mercedes-Benz C-Class W205 (Estate — C43 AMG 367 PS) 2016–2018",
+   "Engine code: M276 DE30 AL — 3.0 TT"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "All required gaskets and seals",
+   "Sump and oil pump"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M276 engine now, or view all M276 engines for other applications.",
+  "crossLink": "← Back to all M276 engines"
+ }
+}

@@ -1,0 +1,96 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "b58",
+ "applicationSlug": "bmw-7-series-g12-740i-long-2015",
+ "engineCode": "B58",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW B58 Engine — 7 Series G12 (740i) Long Wheelbase 2015-2022",
+  "description": "BMW B58 · Used · Fits 7 Series G12 740i LWB, 5 Series 540i, 6 Series 640i — £7,550. 12-month warranty, UK delivery. Recon option available. Includes PHEV variants.",
+  "canonical": "https://engined.co.uk/engines/b58/bmw-7-series-g12-740i-long-2015/"
+ },
+ "hero": {
+  "title": "Used BMW B58 Engine — 7 Series G12 (740i) Long Wheelbase 2015-2022",
+  "subtitle": "Used B58 engine for 7 Series G12 740i Long Wheelbase, 5 Series G30 540i, 6 Series G32 640i and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: B58-USED-G12-740I",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £7,550",
+    "note": "12-month warranty",
+    "price": "£7,550.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "BMW B58 engine for 7 Series G12 740i Long Wheelbase — used 3.0-litre executive application unit",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "B58",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2015-2022",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "G12, G30, G31, G60, G32, G11, G15",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-b58-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "This used BMW B58 engine is confirmed to fit the applications listed below. Use our registration checker to confirm compatibility with your specific vehicle, including PHEV variants.",
+  "list": [
+   "7 Series Long Wheelbase (G12) 2015-2022 — 740i (326 hp)",
+   "5 Series (G30/G31/G60) — 540i",
+   "6 Series (G32) — 640i",
+   "7 Series (G11) — 740i, 745e, 750e",
+   "8 Series (G15) — 840i",
+   "PHEV variants (745e, 750e)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Full inspection and compression test",
+   "Drained and flushed",
+   "UK delivery included"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries (alternator, starter, AC compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this B58 engine now, or view the full B58 engine range for other applications.",
+  "crossLink": "← Back to all B58 engines"
+ }
+}

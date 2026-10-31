@@ -1,0 +1,91 @@
+{
+ "brand": "jaguar",
+ "brandName": "Jaguar",
+ "engineSlug": "aj-v8-legacy",
+ "applicationSlug": "jaguar-xjr-x308-aj27s-4-0-sc-saloon-1998",
+ "engineCode": "AJ27S",
+ "condition": "used",
+ "seo": {
+  "title": "Used Jaguar AJ27S Engine — XJR X308 4.0 SC Saloon | Engined",
+  "description": "Used AJ27S engine for Jaguar XJR (X308) 4.0 Supercharged Saloon. £2,639 fixed price, tested before dispatch, 12-month warranty & UK delivery.",
+  "canonical": "https://engined.co.uk/engines/aj-v8-legacy/jaguar-xjr-x308-aj27s-4-0-sc-saloon-1998/"
+ },
+ "hero": {
+  "title": "Used Jaguar AJ27S Engine — XJR (X308) 4.0 Supercharged Saloon 1998-2003",
+  "subtitle": "Used AJ27S engine for Jaguar XJR (X308) 4.0 V8 Supercharged Saloon — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: AJV8-USED-X308-40-SC-SALOON-AJ27S",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £3,680",
+    "note": "12-month warranty",
+    "price": "£3,680.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "AJ27S 4.0 V8 supercharged engine for Jaguar XJR X308 saloon, complete longitudinal assembly with Eaton M112.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJ27S",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "1998-2003",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X308",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/jaguar-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/jaguar-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/jaguar-jaguar-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Verify fitment for your specific chassis using our registration checker before purchasing this AJ27S engine.",
+  "list": [
+   "Jaguar XJR (X308) 4.0 V8 Supercharged (AJ27S) Saloon (1998-2003)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch",
+   "Warranty as standard",
+   "Longitudinal saloon specification components",
+   "Eaton M112 supercharger unit",
+   "Engine wiring harness"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this AJ27S engine now, or view the full AJ27S engine range for other applications.",
+  "crossLink": "← Back to all AJ27S engines"
+ }
+}

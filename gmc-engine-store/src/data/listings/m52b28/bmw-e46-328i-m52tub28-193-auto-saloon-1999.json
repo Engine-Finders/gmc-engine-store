@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "m52b28",
+ "applicationSlug": "bmw-e46-328i-m52tub28-193-auto-saloon-1999",
+ "engineCode": "M52TUB28",
+ "condition": "used",
+ "seo": {
+  "title": "PENDING — M52TUB28 2.8 Engine — BMW E46 328i (Auto, 193 PS) 1999–2000",
+  "description": "M52B28 · PENDING Used · BMW E46 328i Auto · £995 · 12-month warranty included as standard. Fast UK delivery on all reconditioned and used engines.",
+  "canonical": "https://engined.co.uk/engines/m52b28/bmw-e46-328i-m52tub28-193-auto-saloon-1999/"
+ },
+ "hero": {
+  "title": "PENDING — M52TUB28 2.8 Engine — BMW E46 328i (Auto, 193 PS) 1999–2000",
+  "subtitle": "PENDING Used M52TUB28 engine for BMW E46 328i Auto and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M52B28-PEND-E46-328I-AUTO-9900",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £995",
+    "note": "12-month warranty",
+    "price": "£995.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "M52TUB28 2.8 Engine for BMW E46 328i Auto 193 PS, tested and ready for fast UK delivery.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M52TUB28",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "1999–2000",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E46",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your exact registration with our free checker to ensure this M52TUB28 engine perfectly matches your BMW E46 chassis.",
+  "list": [
+   "BMW E46 328i (Auto, 193 PS) 1999–2000"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Full technical support",
+   "UK delivery included"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M52B28 engine now, or view the M52B28 range for other applications.",
+  "crossLink": "← Back to all M52B28 engines"
+ }
+}

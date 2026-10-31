@@ -1,0 +1,92 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "m52",
+ "applicationSlug": "bmw-5-series-e39-520i-saloon-1995-recon",
+ "engineCode": "M52",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned BMW M52 Engine — 5 Series E39 (520i) Saloon 1995-2000",
+  "description": "Reconditioned BMW M52 520i engine for E39 5 Series Saloon & Touring (1995-2000) — tested before dispatch, 12-month warranty, UK delivery. Fixed price £1,295.",
+  "canonical": "https://engined.co.uk/engines/m52/bmw-5-series-e39-520i-saloon-1995-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW M52 Engine — 5 Series E39 (520i) Saloon 1995-2000",
+  "subtitle": "Reconditioned M52 engine for E39 5 Series Saloon and Touring — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M52-RECON-E39-520I-SALOON",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,295",
+    "note": "12-month warranty",
+    "price": "£1,295.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned BMW M52 520i engine for E39 5 Series Saloon and Touring (1995-2000)",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M52",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "1995-2000",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E39",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm compatibility with your vehicle using our registration checker, or review the exact applications below.",
+  "list": [
+   "5 Series Saloon (E39) 1995-2000 — 520i (150 PS)",
+   "Also covers 5 Series Touring (E39) 1995-2000 — 520i (150 PS)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Compression and leak-down tested",
+   "Oil and filter service completed",
+   "Camshaft and timing verified"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries (alternator, starter, air conditioning compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this BMW M52 engine now, or view the full BMW M52 engine range for other applications.",
+  "crossLink": "← Back to all BMW M52 engines"
+ }
+}

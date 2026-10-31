@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "m278",
+ "applicationSlug": "mercedes-gl-x166-m278-408-prefl-suv-recon-2012",
+ "engineCode": "M278",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned M278 4.7 V8 Engine — GL X166 (GL500, 408 PS) Pre-FL 2012–2016",
+  "description": "Reconditioned M278 4.7 V8 engine for the Mercedes-Benz GL X166 GL500 408 PS (2012–2016). £7,245, 12-month warranty, tested before dispatch. UK delivery.",
+  "canonical": "https://engined.co.uk/engines/m278/mercedes-gl-x166-m278-408-prefl-suv-recon-2012/"
+ },
+ "hero": {
+  "title": "Reconditioned M278 4.7 V8 Engine — GL X166 (GL500, 408 PS) Pre-FL 2012–2016",
+  "subtitle": "Reconditioned M278 engine for Mercedes-Benz GL X166 GL500 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M278-RECON-X166-GL500-PREFL",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £7,245",
+    "note": "12-month warranty",
+    "price": "£7,245.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned M278 4.7 V8 biturbo engine for Mercedes GL X166 GL500 408 PS pre-facelift SUV 2012–2016.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M278",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2012–2016",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X166",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-m278-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your registration with our reg checker before ordering — this M278 fits the pre-facelift X166 GL500 large SUV built 2012–2016.",
+  "list": [
+   "Mercedes-Benz GL X166 (GL500 408 PS SUV) 2012–2016"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Renewed timing chains and turbo actuators",
+   "Delivery to a UK mainland address"
+  ],
+  "excluded": [
+   "Turbocharger (reusable unit, condition-dependent)",
+   "Injectors and fuel system components",
+   "Ancillaries (starter, alternator, pumps)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M278 engine now, or view the full M278 engine range for other applications.",
+  "crossLink": "← Back to all M278 engines"
+ }
+}

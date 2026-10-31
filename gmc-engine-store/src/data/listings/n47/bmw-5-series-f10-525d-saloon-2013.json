@@ -1,0 +1,91 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "n47",
+ "applicationSlug": "bmw-5-series-f10-525d-saloon-2013",
+ "engineCode": "N47",
+ "condition": "used",
+ "seo": {
+  "title": "Used N47 Engine — BMW 5 Series F10 525d Saloon 2013-2014",
+  "description": "N47 used engine for BMW 5 Series Saloon F10 525d (204 PS) — fully tested before dispatch, includes 12-month warranty, free UK delivery. Fixed price £1,604.",
+  "canonical": "https://engined.co.uk/engines/n47/bmw-5-series-f10-525d-saloon-2013/"
+ },
+ "hero": {
+  "title": "Used N47 Engine — BMW 5 Series F10 525d Saloon 2013-2014",
+  "subtitle": "Used N47 engine for 5 Series Saloon F10 525d — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N47-USED-G3-F10-525D-FL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,604",
+    "note": "12-month warranty",
+    "price": "£1,604.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "BMW N47 engine for F10 525d Saloon — complete assembly with ancillaries",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N47",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2013-2014",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F10",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-n47-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration for instant fitment confirmation, or check the compatible models listed below.",
+  "list": [
+   "5 Series Saloon (F10) 2013-2014 — 525d (204 PS)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil and filter service completed",
+   "Pressure and compression tested",
+   "Full inspection report supplied"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, aircon compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N47 engine now, or view the full N47 engine range for other applications.",
+  "crossLink": "← Back to all N47 engines"
+ }
+}

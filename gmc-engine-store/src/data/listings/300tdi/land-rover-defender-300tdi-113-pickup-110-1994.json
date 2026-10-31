@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "300tdi",
+ "applicationSlug": "land-rover-defender-300tdi-113-pickup-110-1994",
+ "engineCode": "300TDI",
+ "condition": "used",
+ "seo": {
+  "title": "300Tdi Defender 110 PU 113 PS | Engined",
+  "description": "Used 300Tdi 2.5 diesel engine for Defender 110 Pick Up (113 PS, 1994–1998). Fixed price £2,725, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/300tdi/land-rover-defender-300tdi-113-pickup-110-1994/"
+ },
+ "hero": {
+  "title": "Used 300Tdi 2.5 Diesel Engine — Defender 110 Pick Up (113 PS) 1994–1998",
+  "subtitle": "Used 300Tdi engine for Defender 110 Pick Up (113 PS) — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 300TDI-USED-DEF-110-PU-113",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,725",
+    "note": "12-month warranty",
+    "price": "£2,725.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Land Rover 300Tdi 2.5 diesel engine for Defender 110 Pick Up, 113 PS, 1994–1998, 23L code.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "300Tdi",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "1994–1998",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Defender 110",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your registration with our reg checker to ensure this 300Tdi engine fits your Defender 110 Pick Up.",
+  "list": [
+   "Defender 110 (Pick Up — 300Tdi 113 PS — 23L engine code) 1994–1998"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil sump and pickup",
+   "Timing covers and pulleys"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 300Tdi engine now, or view the full 300Tdi engine range for other applications.",
+  "crossLink": "← Back to all 300Tdi engines"
+ }
+}

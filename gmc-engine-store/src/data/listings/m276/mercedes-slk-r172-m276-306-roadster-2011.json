@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "m276",
+ "applicationSlug": "mercedes-slk-r172-m276-306-roadster-2011",
+ "engineCode": "M276",
+ "condition": "used",
+ "seo": {
+  "title": "Used M276 3.5 V6 Engine — SLK R172 (SLK350, 306 PS) 2011–2015 | Engined",
+  "description": "Used M276 3.5 V6 engine for Mercedes-Benz SLK R172 SLK350 306 PS 2011–2015 — £1,700, tested before dispatch, 12-month warranty, UK delivery. In stock.",
+  "canonical": "https://engined.co.uk/engines/m276/mercedes-slk-r172-m276-306-roadster-2011/"
+ },
+ "hero": {
+  "title": "Used M276 3.5 V6 Engine — SLK R172 (SLK350, 306 PS) 2011–2015",
+  "subtitle": "SUB — Used M276 engine for SLK R172, SLK350 and 306 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M276-USED-G2-R172-SLK350",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,700",
+    "note": "12-month warranty",
+    "price": "£1,700.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "M276 3.5 V6 engine for Mercedes-Benz SLK R172 SLK350 2011–2015, used, naturally aspirated roadster.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M276",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2011–2015",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "R172",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-m276-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration to confirm this used M276 engine fits your Mercedes-Benz SLK R172 SLK350 2011–2015 before you buy.",
+  "list": [
+   "Mercedes-Benz SLK R172 (Roadster, SLK350 306 PS, M276 DE35, 3.5 NA) 2011–2015"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block assembled",
+   "Sump and timing covers fitted"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M276 engine now, or view the full M276 engine range for other applications.",
+  "crossLink": "← Back to all M276 engines — https://engined.co.uk/engines/m276"
+ }
+}

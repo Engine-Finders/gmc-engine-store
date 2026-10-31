@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "prince-n14-n18",
+ "applicationSlug": "bmw-1-series-f20-118i-2011",
+ "engineCode": "N14",
+ "condition": "used",
+ "seo": {
+  "title": "Used Prince N14 1.6 Turbo Engine — BMW 1 Series F20 118i 2011–2012",
+  "description": "Used N14 1.6 Turbo engine for BMW 1 Series F20 118i 2011–2012. £1,295, tested before dispatch, 12-month warranty, UK delivery. Order today online.",
+  "canonical": "https://engined.co.uk/engines/prince-n14-n18/bmw-1-series-f20-118i-2011/"
+ },
+ "hero": {
+  "title": "Used Prince N14 1.6 Turbo Engine — BMW 1 Series F20 118i 2011–2012",
+  "subtitle": "Used N14 engine for BMW 1 Series F20 118i — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: PRINCE-USED-F20-118i-N14",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,295",
+    "note": "12-month warranty",
+    "price": "£1,295.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used N14 1.6 Turbo engine for BMW 1 Series F20 118i 2011–2012, 170 PS, BMW transverse layout.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N14",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2011–2012",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F20",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our reg checker to confirm this N14 engine fits your BMW 1 Series F20 118i 2011–2012 before you buy.",
+  "list": [
+   "BMW 1 Series F20 — 118i (170 PS) 2011–2012 (N14)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New gaskets and seals",
+   "New timing chain and tensioner"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N14 engine now, or view the full N14 engine range for other applications.",
+  "crossLink": "← Back to all N14 engines"
+ }
+}

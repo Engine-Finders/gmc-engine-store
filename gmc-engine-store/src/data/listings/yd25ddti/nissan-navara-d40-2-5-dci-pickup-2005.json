@@ -1,0 +1,81 @@
+{
+ "brand": "nissan",
+ "brandName": "Nissan",
+ "engineSlug": "yd25ddti",
+ "applicationSlug": "nissan-navara-d40-2-5-dci-pickup-2005",
+ "engineCode": "YD25DDTI",
+ "condition": "used",
+ "seo": {
+  "title": "Used Nissan YD25DDTi Engine — Navara D40 | Engined",
+  "description": "Used YD25DDTi engine for Nissan Navara D40 Pick-Up & Pathfinder R51 2.5 dCi (136-173 PS) 2005-2015. 12-month warranty, UK delivery. Used from £2,395.",
+  "canonical": "https://engined.co.uk/engines/yd25ddti/nissan-navara-d40-2-5-dci-pickup-2005/"
+ },
+ "hero": {
+  "title": "Used Nissan YD25DDTi Engine — Nissan Navara D40 (2.5 dCi) Pick-Up 2005-2015",
+  "subtitle": "Used YD25DDTi engine for Nissan Navara D40 Pick-Up — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: YD25DDTi-USED-NAVARA-D40",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,395",
+    "note": "12-month warranty",
+    "price": "£2,395.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Nissan YD25DDTi Engine — Nissan Navara D40 (2.5 dCi) Pick-Up 2005-2015",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "YD25DDTi",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2005-2015",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "D40",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/nissan-nissan-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "<p>Confirm fitment by entering your registration in our reg-checker before ordering. Fits Nissan Navara D40 2005–2015 2.5 dCi.</p>",
+  "list": [
+   "Nissan Navara D40 (2.5 dCi, 136–173 PS) 2005–2015"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (block, head, sump, timing cover)",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Injection pump and injectors (reconditioned to OEM specification)",
+   "Turbocharger (where reusable, per condition)",
+   "Turbocharger (if not reusable, per condition)",
+   "Injectors/fuel system (if not reusable, per condition)",
+   "Ancillaries (alternator, starter motor, A/C compressor, power steering pump)",
+   "Fitting and installation"
+  ],
+  "excluded": []
+ },
+ "cta": {
+  "line": "<p class=\"cta-line\">Buy this YD25DDTi engine now, or <a href=\"https://engined.co.uk/engines/yd25ddti/\">view the full YD25DDTi range</a>.</p>",
+  "crossLink": "← Back to all YD25DDTi engines</a></p>"
+ }
+}

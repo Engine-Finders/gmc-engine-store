@@ -1,0 +1,91 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-m57-recon",
+ "applicationSlug": "e83-xdrive30d-suv-2006",
+ "engineCode": "M57",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned BMW M57 Engine — X3 E83 (xDrive30d) SUV 2006-2010",
+  "description": "Reconditioned BMW M57 · E83 xDrive30d SUV · 218 PS · £3,280 · 12‑month warranty · UK delivery.",
+  "canonical": "https://engined.co.uk/engines/bmw-m57-recon/e83-xdrive30d-suv-2006/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW M57 Engine — X3 E83 (xDrive30d) SUV 2006-2010",
+  "subtitle": "Reconditioned M57 engine for X3 E83 xDrive30d SUV — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M57-RECON-E83-XDRIVE30D-FL",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £3,280",
+    "note": "12-month warranty",
+    "price": "£3,280.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned BMW M57 diesel engine for X3 E83 xDrive30d SUV (2006‑2010) — complete unit",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M57",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2006-2010",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E83",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration or confirm these fitments — this reconditioned M57 engine is verified for the following BMW X3 applications.",
+  "list": [
+   "BMW X3 (E83) 2006-2010 — xDrive30d (218 PS) SUV"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12‑month warranty as standard",
+   "Full inspection report",
+   "Compression and leak‑down test results",
+   "Oil and filter service completed"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter, AC compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M57 engine now, or view the full M57 engine range for other applications.",
+  "crossLink": "← Back to all M57 engines"
+ }
+}

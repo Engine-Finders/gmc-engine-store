@@ -1,0 +1,83 @@
+{
+ "brand": "vauxhall",
+ "brandName": "Vauxhall",
+ "engineSlug": "a14net",
+ "applicationSlug": "vauxhall-astra-j-140ps-estate-2009-recon",
+ "engineCode": "A14NET",
+ "condition": "recon",
+ "seo": {
+  "title": "Recon A14NET Astra J Estate | Engined",
+  "description": "Reconditioned A14NET engine for Vauxhall Astra J Sports Tourer 1.4i Turbo 140 PS. £2,150, 12-month warranty, UK delivery. Check fitment by reg.",
+  "canonical": "https://engined.co.uk/engines/a14net/vauxhall-astra-j-140ps-estate-2009-recon/"
+ },
+ "hero": {
+  "title": "Recon A14NET Astra J Estate",
+  "subtitle": "SUB — Reconditioned A14NET engine for Vauxhall Astra J Sports Tourer Estate 1.4i Turbo 140 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: A14NET-RECON-ASTRA-J-140-ESTATE-12M",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,150",
+    "note": "12-month warranty",
+    "price": "£2,150.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned A14NET engine for Vauxhall Astra J Sports Tourer Estate 1.4i Turbo 140 PS, 2009–2015.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "A14NET",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2009-2015",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Astra J",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with our reg checker before ordering — this reconditioned A14NET is listed for the following Astra J Sports Tourer applications.",
+  "list": [
+   "Vauxhall Astra J Sports Tourer (1.4i Turbo 140 PS A14NET) 2009–2015 — Estate"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Renewed timing chains, tensioners and guides",
+   "Rebuilt cylinder head with new valve stem seals"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this A14NET engine now, or view the full A14NET engine range for other applications.",
+  "crossLink": "← Back to all A14NET engines"
+ }
+}

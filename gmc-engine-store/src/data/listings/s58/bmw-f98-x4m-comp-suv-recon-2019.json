@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "s58",
+ "applicationSlug": "bmw-f98-x4m-comp-suv-recon-2019",
+ "engineCode": "S58",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned BMW S58 3.0 Engine — F98 X4 M Competition SUV (503 PS) 2019–present | Engined",
+  "description": "Reconditioned BMW S58 3.0 engine for the F98 X4 M Competition SUV (503 PS) — fixed price £11,470, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/s58/bmw-f98-x4m-comp-suv-recon-2019/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW S58 3.0 Engine — F98 X4 M Competition SUV (503 PS) 2019–present",
+  "subtitle": "Reconditioned S58 engine for the F98 X4 M Competition SUV (503 PS) — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: S58-RECON-F98-X4MC",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £11,470",
+    "note": "12-month warranty",
+    "price": "£11,470.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned BMW S58 3.0 engine for F98 X4 M Competition SUV, 503 PS, SUV-specific ancillaries — tested.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "S58",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2019–present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F98",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration in our checker to confirm this S58 fits your F98 X4 M Competition SUV before you buy.",
+  "list": [
+   "BMW X4 M F98 (Competition, 503 PS) 2019–present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Timing components (belt/chain) where applicable",
+   "New gaskets and seals"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this S58 engine now, or view the full S58 engine range for other applications.",
+  "crossLink": "← Back to all S58 engines → https://engined.co.uk/engines/s58"
+ }
+}

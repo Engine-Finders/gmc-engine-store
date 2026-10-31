@@ -1,0 +1,90 @@
+{
+ "brand": "jaguar",
+ "brandName": "Jaguar",
+ "engineSlug": "duratorq-zsd-x-type",
+ "applicationSlug": "jaguar-x-type-x400-2-0-diesel-2003",
+ "engineCode": "DURATORQ ZSD",
+ "condition": "used",
+ "seo": {
+  "title": "Used Ford Duratorq ZSD 2.0 D Diesel Engine — Jaguar X-Type (X400) 2003-2009",
+  "description": "Used Duratorq ZSD 2.0 D diesel engine for Jaguar X-Type (X400) 2003-2009. Fixed price £850, tested before dispatch, 12-month warranty & UK delivery.",
+  "canonical": "https://engined.co.uk/engines/duratorq-zsd-x-type/jaguar-x-type-x400-2-0-diesel-2003/"
+ },
+ "hero": {
+  "title": "Used Ford Duratorq ZSD 2.0 D Diesel Engine — Jaguar X-Type (X400) 2003-2009",
+  "subtitle": "Used Duratorq ZSD engine for Jaguar X-Type (X400) 2.0 D Diesel Saloon — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: DURATORQ-20-USED-XTYPE",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £850",
+    "note": "12-month warranty",
+    "price": "£850.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Ford Duratorq ZSD 2.0 D Diesel Engine — Jaguar X-Type (X400) 2003-2009",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "Duratorq ZSD",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2003-2009",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X400",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/jaguar-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/jaguar-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/jaguar-jaguar-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number above to confirm this Duratorq ZSD engine is the exact match for your Jaguar before you buy.",
+  "list": [
+   "Jaguar X-Type X400 (2.0 D Duratorq (FMBA/FMBB) Diesel Saloon) 2003-2009"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "X-Type-specific ancillaries fitted",
+   "UK delivery included"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this Duratorq ZSD engine now, or view the full Duratorq ZSD engine range for other applications.",
+  "crossLink": "← Back to all Duratorq ZSD engines"
+ }
+}

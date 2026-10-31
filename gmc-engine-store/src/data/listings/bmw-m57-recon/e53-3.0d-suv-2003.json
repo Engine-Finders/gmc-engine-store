@@ -1,0 +1,91 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-m57-recon",
+ "applicationSlug": "e53-3.0d-suv-2003",
+ "engineCode": "M57",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned BMW M57 Engine — X5 E53 (3.0d) SUV 2003-2006",
+  "description": "Reconditioned BMW M57 · E53 3.0d SUV · 184 PS · £2,850 · 12‑month warranty · UK delivery.",
+  "canonical": "https://engined.co.uk/engines/bmw-m57-recon/e53-3.0d-suv-2003/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW M57 Engine — X5 E53 (3.0d) SUV 2003-2006",
+  "subtitle": "Reconditioned M57 engine for X5 E53 3.0d SUV — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M57-RECON-E53-3.0D-FL",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,850",
+    "note": "12-month warranty",
+    "price": "£2,850.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned BMW M57 diesel engine for X5 E53 3.0d SUV (2003‑2006) — complete unit",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M57",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2003-2006",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E53",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration or confirm these fitments — this reconditioned M57 engine is verified for the following BMW X5 applications.",
+  "list": [
+   "BMW X5 (E53) 2003-2006 — 3.0d (184 PS) SUV"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12‑month warranty as standard",
+   "Full inspection report",
+   "Compression and leak‑down test results",
+   "Oil and filter service completed"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter, AC compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M57 engine now, or view the full M57 engine range for other applications.",
+  "crossLink": "← Back to all M57 engines"
+ }
+}

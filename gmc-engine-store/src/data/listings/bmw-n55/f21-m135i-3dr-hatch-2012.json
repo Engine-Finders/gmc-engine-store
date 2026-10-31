@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n55",
+ "applicationSlug": "f21-m135i-3dr-hatch-2012",
+ "engineCode": "N55",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW N55 Engine — 1 Series F21 (M135i) 3‑dr Hatch 2012‑2015",
+  "description": "Used BMW N55 engine for 1 Series F21 M135i 3-door Hatchback 2012‑2015. N55B30M0 M Performance 322 PS. £3,445 with 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/bmw-n55/f21-m135i-3dr-hatch-2012/"
+ },
+ "hero": {
+  "title": "Used BMW N55 Engine — 1 Series F21 (M135i) 3‑dr Hatch 2012‑2015",
+  "subtitle": "Used N55 engine for 1 Series F21 M135i 3-door Hatch — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N55-USED-F21-M135I",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £3,445",
+    "note": "12-month warranty",
+    "price": "£3,445.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW N55B30M0 engine for 1 Series F21 M135i 3-door Hatch, M Performance 322 PS.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N55",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2012-2015",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F21",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration below to confirm this used N55 engine fits your BMW before you buy.",
+  "list": [
+   "BMW 1 Series F21 (M135i 322 PS 3‑door Hatchback) 2012‑2015"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Renewed timing components",
+   "Gaskets and seals required for fitting"
+  ],
+  "excluded": [
+   "Turbocharger (reusable only, subject to condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N55 engine now, or view the full N55 engine range for other applications.",
+  "crossLink": "← Back to all N55 engines"
+ }
+}

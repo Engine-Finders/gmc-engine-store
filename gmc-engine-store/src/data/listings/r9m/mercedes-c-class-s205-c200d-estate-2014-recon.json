@@ -1,0 +1,83 @@
+{
+ "brand": "renault",
+ "brandName": "Renault",
+ "engineSlug": "r9m",
+ "applicationSlug": "mercedes-c-class-s205-c200d-estate-2014-recon",
+ "engineCode": "R9M",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned Renault R9M Engine — Mercedes C‑Class S205 (C200d) Estate 2014-2021",
+  "description": "Reconditioned Renault R9M engine for Mercedes C-Class S205 C200d Estate, 2014-2021. Tested before dispatch, 12-month warranty, UK delivery. £1,525. In stock.",
+  "canonical": "https://engined.co.uk/engines/r9m/mercedes-c-class-s205-c200d-estate-2014-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned Renault R9M Engine — Mercedes C‑Class S205 (C200d) Estate 2014-2021",
+  "subtitle": "Reconditioned R9M engine for Mercedes C‑Class S205 C200d Estate — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: R9M-RECON-C200D-ESTATE",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,385",
+    "note": "12-month warranty",
+    "price": "£2,385.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned Renault R9M (OM626) 1.6 dCi 136 PS engine for Mercedes C‑Class S205 C200d Estate, R9M-476",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "R9M",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2014-2021",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "S205",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment against your registration before ordering — this R9M fits the applications listed below.",
+  "list": [
+   "Mercedes C‑Class S205 (C200d, 1.6 dCi, 136 PS, OM626/R9M-476) 2014‑2021"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil sump and pick-up pipe",
+   "Core ancillaries as specified"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system components",
+   "Ancillaries not listed above",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this R9M engine now, or view the full R9M engine range for other applications.",
+  "crossLink": "← Back to all R9M engines"
+ }
+}

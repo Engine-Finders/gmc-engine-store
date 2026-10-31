@@ -1,0 +1,91 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "b47",
+ "applicationSlug": "bmw-x4-f26-xdrive20d-suv-2014-recon",
+ "engineCode": "B47",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned BMW B47 Engine — X4 F26 (xDrive20d) SUV 2014-2018",
+  "description": "Reconditioned B47 engine for X4 F26 xDrive20d — £2,895 with 12-month warranty and UK delivery. Check fitment via reg/chassis.",
+  "canonical": "https://engined.co.uk/engines/b47/bmw-x4-f26-xdrive20d-suv-2014-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW B47 Engine — X4 F26 (xDrive20d) SUV 2014-2018",
+  "subtitle": "Reconditioned B47 engine for X4 F26 xDrive20d — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: B47-RECON-SUV-F26-XDRIVE20D",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,895",
+    "note": "12-month warranty",
+    "price": "£2,895.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned BMW B47 engine for X4 F26 xDrive20d SUV — complete tested unit",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "B47",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2014-2018",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F26",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-b47-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check with your registration or chassis code to confirm, but this engine is designed for the following model(s).",
+  "list": [
+   "Will an X3 B47 fit my 3 Series? — No — different engine mounts, ancillaries, and cooling. Confirm by chassis code."
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (long block)",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Compression and leak-down test report",
+   "Oil and filter service completed",
+   "All necessary gaskets and seals fitted"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries (alternator, starter, air‑con compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this B47 engine now, or view the full B47 engine range for other applications.",
+  "crossLink": "← Back to all B47 engines"
+ }
+}

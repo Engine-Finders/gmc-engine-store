@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n52",
+ "applicationSlug": "e83-xdrive25i-suv-2008",
+ "engineCode": "N52",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW N52 Engine — X3 E83 (xDrive25i) SUV 2008‑2010",
+  "description": "Used N52 engine for BMW X3 E83 xDrive25i SUV 2008-2010. 218 PS LCI N52B25, tested before dispatch. Fixed £1,395, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/bmw-n52/e83-xdrive25i-suv-2008/"
+ },
+ "hero": {
+  "title": "Used BMW N52 Engine — X3 E83 (xDrive25i) SUV 2008‑2010",
+  "subtitle": "SUB — Used N52 engine for BMW X3 E83 xDrive25i SUV — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N52-USED-E83-XDRIVE25I-FL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,395",
+    "note": "12-month warranty",
+    "price": "£1,395.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW N52 engine for X3 E83 xDrive25i SUV, 218 PS LCI N52B25, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N52",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2008‑2010",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E83",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with your registration before ordering; this N52 listing covers the E83 xDrive25i SUV.",
+  "list": [
+   "BMW X3 E83 (xDrive25i 218 PS SUV) 2008‑2010"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Sump and timing covers"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N52 engine now, or view the full N52 engine range for other applications.",
+  "crossLink": "← Back to all N52 engines"
+ }
+}

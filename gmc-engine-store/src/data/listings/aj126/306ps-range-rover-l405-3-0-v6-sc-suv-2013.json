@@ -1,0 +1,96 @@
+{
+ "brand": "jaguar",
+ "brandName": "Jaguar",
+ "engineSlug": "aj126",
+ "applicationSlug": "306ps-range-rover-l405-3-0-v6-sc-suv-2013",
+ "engineCode": "AJ126/306PS",
+ "condition": "used",
+ "seo": {
+  "title": "Used AJ126/306PS 3.0 V6 Engine — Range Rover (L405) 3.0 V6 SC SUV 2013-2019",
+  "description": "Used AJ126/306PS engine for Range Rover (L405) 3.0 V6 SC SUV 2013-2019. Fixed price £3,995, tested before dispatch, 12-month warranty included.",
+  "canonical": "https://engined.co.uk/engines/aj126/306ps-range-rover-l405-3-0-v6-sc-suv-2013/"
+ },
+ "hero": {
+  "title": "Used AJ126/306PS 3.0 V6 Engine — Range Rover (L405) 3.0 V6 SC SUV 2013-2019",
+  "subtitle": "Used AJ126/306PS engine for Range Rover (L405) 3.0 V6 SC SUV — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: AJ126-USED-RANGEROVER-L405-SC-SUV",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £3,995",
+    "note": "12-month warranty",
+    "price": "£3,995.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £5,500",
+    "note": "12-month warranty",
+    "price": "£5,500.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used AJ126/306PS 3.0 V6 engine for Range Rover L405 SUV, complete assembly, ready for installation.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJ126/306PS",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2013-2019",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L405",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/jaguar-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/jaguar-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jlr-aj126-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment by entering your registration number above to ensure this AJ126/306PS engine matches your Range Rover (L405).",
+  "list": [
+   "Range Rover (L405) SUV (3.0 V6 SC 340-380 PS) 2013-2019"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (AJ126/306PS 3.0 V6 Supercharged)",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Longitudinal configuration specific to Range Rover L405",
+   "Supercharger unit included"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition) – *Note: This is a supercharged engine, so turbo is N/A, but standard list applies.",
+   "Injectors/fuel system (unless specified as included in specific lot)",
+   "Ancillaries (alternator, starter, AC compressor if not part of core assembly)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this AJ126 engine now, or view the full AJ126 range for other applications.",
+  "crossLink": "← Back to all AJ126 engines"
+ }
+}

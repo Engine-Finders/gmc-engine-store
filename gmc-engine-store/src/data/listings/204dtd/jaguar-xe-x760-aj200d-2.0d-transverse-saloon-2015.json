@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "204dtd",
+ "applicationSlug": "jaguar-xe-x760-aj200d-2.0d-transverse-saloon-2015",
+ "engineCode": "204DTD",
+ "condition": "used",
+ "seo": {
+  "title": "PENDING — AJ200D 2.0 Diesel Engine — Jaguar XE X760 (2.0d) 2015–2019",
+  "description": "Used 204DTD 2.0 diesel engine for Jaguar XE X760 2.0d saloon. Fixed price £2,495, tested before dispatch, 12-month warranty & UK delivery included.",
+  "canonical": "https://engined.co.uk/engines/204dtd/jaguar-xe-x760-aj200d-2.0d-transverse-saloon-2015/"
+ },
+ "hero": {
+  "title": "PENDING — AJ200D 2.0 Diesel Engine — Jaguar XE X760 2.0d 2015–2019",
+  "subtitle": "Used 204DTD engine for Jaguar XE X760 2.0d — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 204DTD-PEND-XE-2.0D-1519",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,495",
+    "note": "12-month warranty",
+    "price": "£2,495.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used 204DTD 2.0 diesel engine for Jaguar XE X760 2.0d transverse mount 2015 to 2019",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "204DTD",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2015–2019",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X760",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your exact fitment with our free reg-checker below, then review the compatible models for this 204DTD engine.",
+  "list": [
+   "Jaguar XE X760 (2.0d) 2015–2019"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch",
+   "12-month warranty as standard",
+   "Full technical support",
+   "UK delivery included"
+  ],
+  "excluded": [
+   "Turbocharger",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 204DTD engine now, or view the full 204DTD engine range for other applications.",
+  "crossLink": "← Back to all 204DTD engines"
+ }
+}

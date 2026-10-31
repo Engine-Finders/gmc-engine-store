@@ -1,0 +1,93 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "m52",
+ "applicationSlug": "bmw-3-series-e36-328i-coupe-1995-recon-2",
+ "engineCode": "M52",
+ "condition": "recon",
+ "seo": {
+  "title": "BMW M52 Engine for E36 328i Coupé 1995-1999 | Engined",
+  "description": "BMW M52 328i engine · reconditioned · fits E36 328i Coupé, Saloon & Touring · £1,095 · 12-month warranty · UK delivery.",
+  "canonical": "https://engined.co.uk/engines/m52/bmw-3-series-e36-328i-coupe-1995-recon/"
+ },
+ "hero": {
+  "title": "BMW M52 Engine — 3 Series E36 (328i) Coupé 1995-1999",
+  "subtitle": "Reconditioned BMW M52 328i engine for E36 328i Coupé, Saloon, Touring and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M52-RECON-E36-328I-COUPE",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,095",
+    "note": "12-month warranty",
+    "price": "£1,095.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "BMW M52 328i engine — reconditioned E36 328i Coupé 1995-1999 straight-six petrol engine",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M52",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "1995-1999",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E36",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm compatibility with your vehicle using our registration checker, or review the exact applications below.",
+  "list": [
+   "3 Series Coupé (E36) 1995-1999 — 328i (193 PS)",
+   "3 Series Saloon (E36) 1995-1999 — 328i (193 PS)",
+   "3 Series Touring (E36) 1995-1999 — 328i (193 PS)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Compression and leak-down tested",
+   "Oil and filter service completed",
+   "Camshaft and timing verified"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries (alternator, starter, air conditioning compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this BMW M52 engine now, or view the full BMW M52 engine range for other applications.",
+  "crossLink": "← Back to all BMW M52 engines"
+ }
+}

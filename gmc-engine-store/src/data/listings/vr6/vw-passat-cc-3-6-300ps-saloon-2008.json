@@ -1,0 +1,90 @@
+{
+ "brand": "volkswagen",
+ "brandName": "Volkswagen",
+ "engineSlug": "vr6",
+ "applicationSlug": "vw-passat-cc-3-6-300ps-saloon-2008",
+ "engineCode": "VR6",
+ "condition": "used",
+ "seo": {
+  "title": "Used VR6 Engine — VW Passat CC (3.6 FSI 300 PS) Saloon 2008-2016 | Engined",
+  "description": "In stock used VR6 engine for VW Passat CC (3.6 FSI 300 PS, 2008-2016). BWS code, tested before dispatch, £3,215, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/vr6/vw-passat-cc-3-6-300ps-saloon-2008/"
+ },
+ "hero": {
+  "title": "Used VR6 Engine — VW Passat CC (3.6 FSI 300 PS) Saloon 2008-2016",
+  "subtitle": "Used VR6 engine for VW Passat CC 3.6 FSI — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: VR6-USED-PASSAT-CC-36-SALOON",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £3,215",
+    "note": "12-month warranty",
+    "price": "£3,215.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used VR6 engine for VW Passat CC 3.6 FSI 300 PS, BWS code, longitudinal-mounted, 2008-2016.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "VR6",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2008-2016",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "CC",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/volkswagen-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/volkswagen-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/volkswagen-vw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our registration checker to confirm this used VR6 engine fits your VW Passat CC before you buy.",
+  "list": [
+   "VW Passat CC 2008-2016 — 3.6 VR6 FSI 300 PS (BWS) — Saloon"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block included",
+   "Oil sump and timing cover included"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this VR6 engine now, or view the full VR6 range for other applications.",
+  "crossLink": "← Back to all VR6 engines"
+ }
+}

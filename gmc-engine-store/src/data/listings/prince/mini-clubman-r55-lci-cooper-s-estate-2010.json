@@ -1,0 +1,83 @@
+{
+ "brand": "mini",
+ "brandName": "Mini",
+ "engineSlug": "prince",
+ "applicationSlug": "mini-clubman-r55-lci-cooper-s-estate-2010",
+ "engineCode": "PRINCE N14/N18",
+ "condition": "used",
+ "seo": {
+  "title": "Used Prince Engine — MINI Clubman R55 LCI (Cooper S) Estate 2010-2014 | Engined",
+  "description": "Used Prince N14/N18 engine for MINI Clubman R55 LCI Cooper S 1.6 turbo, 184 PS, N18 generation. From £1,650. 12-month warranty. UK delivery.",
+  "canonical": "https://engined.co.uk/engines/prince/mini-clubman-r55-lci-cooper-s-estate-2010/"
+ },
+ "hero": {
+  "title": "Used Prince Engine — MINI Clubman R55 LCI (Cooper S) Estate 2010-2014",
+  "subtitle": "SUB — Used Prince N14/N18 engine for MINI Clubman R55 LCI Cooper S — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: PRINCE-USED-R55LCI-COOPERS-ESTATE",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,650",
+    "note": "12-month warranty",
+    "price": "£1,650.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Prince N14/N18 engine for MINI Clubman R55 LCI Cooper S, 1.6 turbo 184 PS, N18 generation",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "Prince N14/N18",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2010–2014",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "R55 LCI",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/mini-mini-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your registration with our reg checker before ordering — this listing fits the applications below.",
+  "list": [
+   "MINI Clubman R55 LCI (Cooper S — 1.6 turbo, 184 PS — N18 generation) 2010–2014"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New gaskets and seals",
+   "Oil pump",
+   "Timing chain/belt"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this Prince N14/N18 engine now, or view the full Prince N14/N18 engine range for other applications.",
+  "crossLink": "← Back to all Prince N14/N18 engines"
+ }
+}

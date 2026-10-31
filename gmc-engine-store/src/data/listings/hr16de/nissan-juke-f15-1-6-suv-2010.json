@@ -1,0 +1,82 @@
+{
+ "brand": "nissan",
+ "brandName": "Nissan",
+ "engineSlug": "hr16de",
+ "applicationSlug": "nissan-juke-f15-1-6-suv-2010",
+ "engineCode": "HR16DE",
+ "condition": "used",
+ "seo": {
+  "title": "Used Nissan HR16DE Engine — Nissan Juke F15 (1.6) SUV 2010-2019",
+  "description": "Used HR16DE engine for Nissan Juke F15 1.6 SUV (2010-2019). Fixed price £750, tested before dispatch, 12-month warranty and UK delivery. Recon: £1,550.",
+  "canonical": "https://engined.co.uk/engines/hr16de/nissan-juke-f15-1-6-suv-2010/"
+ },
+ "hero": {
+  "title": "Used Nissan HR16DE Engine — Nissan Juke F15 (1.6) SUV 2010-2019",
+  "subtitle": "Used HR16DE engine for Nissan Juke F15 1.6 SUV — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: HR16DE-USED-G2-JUKE",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £750",
+    "note": "12-month warranty",
+    "price": "£750.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Nissan HR16DE Engine — Nissan Juke F15 (1.6) SUV 2010-2019",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "HR16DE",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2010-2019",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F15",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/nissan-nissan-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number in our checker above to confirm this HR16DE engine fits your specific Nissan Juke F15.",
+  "list": [
+   "Nissan Juke F15 (1.6 petrol) 2010-2019"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Clean, drained, and ready for installation",
+   "Full compression test report"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this HR16DE engine now, or view the full HR16DE range for other apps.",
+  "crossLink": "← Back to all HR16DE engines"
+ }
+}

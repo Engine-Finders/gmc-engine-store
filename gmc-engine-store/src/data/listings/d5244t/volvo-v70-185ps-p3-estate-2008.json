@@ -1,0 +1,82 @@
+{
+ "brand": "volvo",
+ "brandName": "Volvo",
+ "engineSlug": "d5244t",
+ "applicationSlug": "volvo-v70-185ps-p3-estate-2008",
+ "engineCode": "D5244T5",
+ "condition": "used",
+ "seo": {
+  "title": "D5 V70 185PS P3 Estate | Engined [32 chars]",
+  "description": "Used D5244T5 D5 engine for Volvo V70 III (135) 2008-2014 —",
+  "canonical": "https://engined.co.uk/engines/d5244t/volvo-v70-185ps-p3-estate-2008/"
+ },
+ "hero": {
+  "title": "Used D5 Engine — Volvo V70 (2.4 D5 185 PS) Estate 2008-2014",
+  "subtitle": "Used D5244T5 engine for Volvo V70 III 2008-2014 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: D5244T-USED-V70-185-P3-ESTATE",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £995",
+    "note": "12-month warranty",
+    "price": "£995.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used D5 Engine — Volvo V70 (2.4 D5 185 PS) Estate 2008-2014",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "D5244T5",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2008-2014",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "135",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "<p>Confirm fitment with our registration checker before ordering — every V70 III",
+  "list": [
+   "Volvo V70 III 135 (2.4 D5 185 PS) 2008-2014"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Core internals as built at the factory",
+   "Oil sump and cam cover",
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ],
+  "excluded": []
+ },
+ "cta": {
+  "line": "<p class=\"cta\">Buy this D5244T5 engine now, or",
+  "crossLink": "← Back to all D5244T engines</a>"
+ }
+}

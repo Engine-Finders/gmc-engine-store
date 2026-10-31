@@ -1,0 +1,90 @@
+{
+ "brand": "jaguar",
+ "brandName": "Jaguar",
+ "engineSlug": "aj126",
+ "applicationSlug": "jaguar-xf-s-x260-380-ps-saloon-2015",
+ "engineCode": "AJ126",
+ "condition": "used",
+ "seo": {
+  "title": "Used Jaguar AJ126 3.0 V6 Engine — XF S (X260) 380 PS",
+  "description": "Used AJ126 engine for Jaguar XF S (X260) 380 PS Saloon 2015-2018. Fixed price £3,295, tested before dispatch, 12-month warranty & UK delivery.",
+  "canonical": "https://engined.co.uk/engines/aj126/jaguar-xf-s-x260-380-ps-saloon-2015/"
+ },
+ "hero": {
+  "title": "Used Jaguar AJ126 3.0 V6 Engine — XF S (X260) 380 PS Saloon 2015-2018",
+  "subtitle": "Used AJ126 engine for Jaguar XF S (X260) 380 PS Saloon — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: AJ126-USED-XF-X260-380-SALOON",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £3,295",
+    "note": "12-month warranty",
+    "price": "£3,295.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Jaguar AJ126 3.0L V6 supercharged engine for XF S (X260) 380 PS Saloon, showing longitudinal layout and XF-specific ancillaries.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJ126",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2015-2018",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X260",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/jaguar-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/jaguar-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jlr-aj126-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment instantly by entering your registration number below to match your chassis code.",
+  "list": [
+   "XF S (X260) 2015-2018 — 3.0 V6 SC (380 PS) Saloon"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Longitudinal 3.0 V6 supercharged unit",
+   "XF X260-specific ancillaries"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries not specified above",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this AJ126 engine now, or view the full AJ126 engine range for other applications.",
+  "crossLink": "← Back to all AJ126 engines"
+ }
+}

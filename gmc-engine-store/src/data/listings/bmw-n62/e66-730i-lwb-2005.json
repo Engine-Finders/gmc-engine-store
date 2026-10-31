@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n62",
+ "applicationSlug": "e66-730i-lwb-2005",
+ "engineCode": "N62",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW N62 Engine — 7 Series E66 (730i) LWB 2005‑2008",
+  "description": "Used BMW N62 engine for 7 Series E66 730i LWB 2005‑2008. LCI N62B36, 272 PS. Fixed £2,655 price, 12-month warranty, UK delivery. Tested before dispatch.",
+  "canonical": "https://engined.co.uk/engines/bmw-n62/e66-730i-lwb-2005/"
+ },
+ "hero": {
+  "title": "Used BMW N62 Engine — 7 Series E66 (730i) LWB 2005‑2008",
+  "subtitle": "Used N62 engine for 7 Series E66 730i LWB — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N62-USED-E66-730I-FL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,655",
+    "note": "12-month warranty",
+    "price": "£2,655.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW N62 Engine — 7 Series E66 (730i) LWB 2005‑2008",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N62",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2005‑2008",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E66",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your registration with our reg checker before purchase to ensure this N62 engine matches your BMW 7 Series E66 730i LWB.",
+  "list": [
+   "BMW 7 Series E66 (730i 272 PS LWB) 2005‑2008"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Core engine components as described in this listing",
+   "Engine prepared for fitment"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N62 engine now, or view full N62 engine range for other applications.",
+  "crossLink": "← Back to all N62 engines"
+ }
+}

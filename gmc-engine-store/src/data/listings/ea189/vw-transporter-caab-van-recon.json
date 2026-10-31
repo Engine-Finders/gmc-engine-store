@@ -1,0 +1,92 @@
+{
+ "brand": "audi",
+ "brandName": "Audi",
+ "engineSlug": "ea189",
+ "applicationSlug": "vw-transporter-caab-van-recon",
+ "engineCode": "EA189",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned EA189 2.0 TDI Engine — VW Transporter T5 (CAAB) Van 2009-2015 | Engined",
+  "description": "EA189 · Reconditioned · VW Transporter T5 Van 2009-2015, CAAB 2.0 TDI 140 hp — rebuilt with new timing belt, tested, £2,450 · 12-month warranty · UK delivery.",
+  "canonical": "https://engined.co.uk/engines/ea189/vw-transporter-caab-van-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned EA189 2.0 TDI Engine — VW Transporter T5 (CAAB) Van 2009-2015",
+  "subtitle": "Reconditioned EA189 engine for VW Transporter Van (T5) CAAB 2.0 TDI (140 hp) — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA189-RECON-TRANSPORTER-CAAB",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,450",
+    "note": "12-month warranty",
+    "price": "£2,450.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned EA189 2.0 TDI engine for VW Transporter T5 (CAAB) Van – 140 hp, rebuilt to exact van specification",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA189",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2009-2015",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "T5",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/audi-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/audi-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/audi-audi-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration for instant compatibility confirmation, or check the list below to see if this EA189 2.0 TDI engine fits your vehicle.",
+  "list": [
+   "VW Transporter Van (T5) 2009-2015 — 2.0 TDI CAAB (140 hp)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch with compression and leak-down checks",
+   "12-month warranty as standard",
+   "Full technical inspection report",
+   "Timing belt, tensioner, and water pump replaced (as part of recon)",
+   "Cylinder head rebuild (as part of recon)",
+   "Oil and filter service completed"
+  ],
+  "excluded": [
+   "Turbocharger (reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, air conditioning compressor, power steering pump)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA189 engine now, or view the full EA189 engine range for other applications.",
+  "crossLink": "← Back to all EA189 engines (links to https://engined.co.uk/engines/ea189/)"
+ }
+}

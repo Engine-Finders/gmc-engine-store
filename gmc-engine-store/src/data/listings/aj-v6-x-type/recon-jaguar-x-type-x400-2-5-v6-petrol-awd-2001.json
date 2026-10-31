@@ -1,0 +1,90 @@
+{
+ "brand": "jaguar",
+ "brandName": "Jaguar",
+ "engineSlug": "aj-v6-x-type",
+ "applicationSlug": "recon-jaguar-x-type-x400-2-5-v6-petrol-awd-2001",
+ "engineCode": "AJ-V6",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned Jaguar AJ-V6 2.5 V6 Petrol Engine — X-Type (X400) AWD Saloon 2001-2009",
+  "description": "Reconditioned AJ-V6 engine for Jaguar X-Type (X400) 2.5 V6 AWD Saloon. Fixed price £1,650. Tested before dispatch, 12-month warranty & UK delivery.",
+  "canonical": "https://engined.co.uk/engines/aj-v6-x-type/recon-jaguar-x-type-x400-2-5-v6-petrol-awd-2001/"
+ },
+ "hero": {
+  "title": "Reconditioned Jaguar AJ-V6 2.5 V6 Petrol Engine — X-Type (X400) AWD Saloon 2001-2009",
+  "subtitle": "Reconditioned AJ-V6 engine for Jaguar X-Type (X400) 2.5 V6 AWD Saloon — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: AJV6-25-RECON-XTYPE-SALOON",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,650",
+    "note": "12-month warranty",
+    "price": "£1,650.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned AJ-V6 2.5 V6 petrol engine for Jaguar X-Type X400 AWD, naturally aspirated, tested.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJ-V6",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2001-2009",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X400",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/jaguar-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/jaguar-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/jaguar-jaguar-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our reg-checker above to confirm this AJ-V6 engine is the exact match for your Jaguar X-Type before you buy.",
+  "list": [
+   "X-Type X400 (2.5 V6 Petrol 194-196 hp AWD Saloon) 2001–2009"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Verified compression and oil pressure",
+   "Full quality assurance sign-off"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this AJ-V6 engine now, or view the full AJ-V6 engine range for other applications.",
+  "crossLink": "← Back to all AJ-V6 engines"
+ }
+}

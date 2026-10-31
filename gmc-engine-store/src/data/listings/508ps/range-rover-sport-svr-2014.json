@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "508ps",
+ "applicationSlug": "range-rover-sport-svr-2014",
+ "engineCode": "508PS",
+ "condition": "used",
+ "seo": {
+  "title": "Used 5.0 V8 Engine — Range Rover Sport L494 SVR 2014-2022",
+  "description": "Used 508PS 5.0 V8 engine for Range Rover Sport L494 SVR 2014-2022. Fixed price £8,968 with 12-month warranty, tested before dispatch, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/508ps/range-rover-sport-svr-2014/"
+ },
+ "hero": {
+  "title": "Used 5.0 V8 Engine — Range Rover Sport L494 SVR 2014-2022",
+  "subtitle": "SUB — Used 508PS engine for Range Rover Sport L494 SVR — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 508PS-USED-RRS-SVR-LATE",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £8,968",
+    "note": "12-month warranty",
+    "price": "£8,968.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Land Rover 508PS 5.0 V8 supercharged engine for Range Rover Sport L494 SVR 2014-2022",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "508PS",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2014-2022",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L494",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with your registration before ordering — this listing covers the applications below.",
+  "list": [
+   "Range Rover Sport L494 SVR (5.0 Supercharged 508PS, 550-575 PS) 2014-2022"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Sump and timing covers"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 508PS engine now, or view the full 508PS engine range for other applications.",
+  "crossLink": "← Back to all 508PS engines"
+ }
+}

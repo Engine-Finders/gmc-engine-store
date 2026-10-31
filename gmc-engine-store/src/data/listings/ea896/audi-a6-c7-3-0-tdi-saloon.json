@@ -1,0 +1,91 @@
+{
+ "brand": "audi",
+ "brandName": "Audi",
+ "engineSlug": "ea896",
+ "applicationSlug": "audi-a6-c7-3-0-tdi-saloon",
+ "engineCode": "EA896",
+ "condition": "used",
+ "seo": {
+  "title": "Used Audi EA896 3.0 TDI V6 Engine — A6 C7 (3.0 TDI) Saloon 2010-2018",
+  "description": "EA896 3.0 V6 TDI · used tested engine · fits Audi A6 Saloon C7 (204‑272 PS) 2010‑2018 · £3,495 · 12‑month warranty · UK delivery",
+  "canonical": "https://engined.co.uk/engines/ea896/audi-a6-c7-3-0-tdi-saloon/"
+ },
+ "hero": {
+  "title": "Used Audi EA896 3.0 TDI V6 Engine — A6 C7 (3.0 TDI) Saloon 2010-2018",
+  "subtitle": "Used EA896 3.0 V6 TDI engine for Audi A6 Saloon C7 (204‑272 PS) 2010‑2018 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA896-USED-A6-C7-SAL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £3,495",
+    "note": "12-month warranty",
+    "price": "£3,495.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "EA896 3.0 V6 TDI engine for Audi A6 Saloon C7 longitudinal MLB mounting",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA896",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2010-2018",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "C7",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/audi-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/audi-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/audi-audi-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "This EA896 3.0 V6 TDI engine is confirmed to fit the following Audi A6 Saloon applications — use our registration checker to verify compatibility with your specific vehicle.",
+  "list": [
+   "Audi A6 Saloon (C7) 2010-2018 — 3.0 TDI (204-272 PS)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Full diagnostic report",
+   "Compression test certificate",
+   "Oil and filter service completed"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA896 engine now, or view the full EA896 engine range for other applications.",
+  "crossLink": "← Back to all EA896 engines"
+ }
+}

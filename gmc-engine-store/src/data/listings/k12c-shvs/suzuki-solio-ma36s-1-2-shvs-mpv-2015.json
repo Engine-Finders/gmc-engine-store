@@ -1,0 +1,83 @@
+{
+ "brand": "suzuki",
+ "brandName": "Suzuki",
+ "engineSlug": "k12c-shvs",
+ "applicationSlug": "suzuki-solio-ma36s-1-2-shvs-mpv-2015",
+ "engineCode": "K12C SHVS",
+ "condition": "used",
+ "seo": {
+  "title": "Used Suzuki K12C SHVS Engine — Solio MA36S (1.2 DualJet SHVS Hybrid) MPV 2015-2025",
+  "description": "Used Suzuki K12C SHVS engine for Solio MA36S — 1.2 DualJet SHVS Hybrid MPV, 2015-2025. Fixed price £525 with 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/k12c-shvs/suzuki-solio-ma36s-1-2-shvs-mpv-2015/"
+ },
+ "hero": {
+  "title": "Used Suzuki K12C SHVS Engine — Solio MA36S (1.2 DualJet SHVS Hybrid) MPV 2015-2025",
+  "subtitle": "Used K12C SHVS engine for Suzuki Solio MA36S — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: K12C-USED-SOLIO-MA36S-SHVS",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £525",
+    "note": "12-month warranty",
+    "price": "£525.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Suzuki K12C SHVS 1.2 DualJet mild-hybrid engine, transverse JDM import, for Solio MA36S 2015-2025",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "K12C SHVS",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2015-2025",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "MA36S",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol (12V SHVS mild hybrid)",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your registration before ordering — every K12C SHVS engine we list is matched to the exact Solio MA36S chassis it was built for.",
+  "list": [
+   "Suzuki Solio MA36S (1.2 DualJet SHVS Hybrid 90 PS, JDM import) 2015–2025"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Compression and oil-pressure test report",
+   "Free UK mainland delivery"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries (alternator, starter motor, A/C compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this K12C SHVS engine now, or view the full K12C SHVS engine range for other applications.",
+  "crossLink": "← Back to all K12C SHVS engines"
+ }
+}

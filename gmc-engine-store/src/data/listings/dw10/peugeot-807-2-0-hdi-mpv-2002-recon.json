@@ -1,0 +1,83 @@
+{
+ "brand": "peugeot",
+ "brandName": "Peugeot",
+ "engineSlug": "dw10",
+ "applicationSlug": "peugeot-807-2-0-hdi-mpv-2002-recon",
+ "engineCode": "PSA DW10",
+ "condition": "recon",
+ "seo": {
+  "title": "DW10 807 HDi Recon | Engined",
+  "description": "DW10 engine for Peugeot 807 2.0 HDi MPV 2002-2010. Used from £1,495, reconditioned from £2,195. 12-month warranty, tested before dispatch, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/dw10/peugeot-807-2-0-hdi-mpv-2002-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned DW10 Engine — Peugeot 807 (2.0 HDi) MPV 2002-2010",
+  "subtitle": "SUB — Reconditioned DW10 engine for Peugeot 807 2.0 HDi MPV — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: DW10-RECON-807-HDI",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,495",
+    "note": "12-month warranty",
+    "price": "£1,495.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned DW10 engine for Peugeot 807 2.0 HDi MPV 2002-2010, commercial/MPV spec, tested",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "PSA DW10",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2002-2010",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "807",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration to confirm fitment before ordering — this listing covers the Peugeot 807 2.0 HDi applications below.",
+  "list": [
+   "Peugeot 807 (2.0 HDi 120-136 PS, commercial/MPV spec) 2002-2010"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New timing belt where applicable",
+   "New gaskets and seals"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this DW10 engine now, or view the full DW10 engine range for other applications.",
+  "crossLink": "← Back to all DW10 engines — links to https://engined.co.uk/engines/dw10"
+ }
+}

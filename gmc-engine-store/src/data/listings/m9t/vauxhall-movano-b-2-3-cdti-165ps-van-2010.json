@@ -1,0 +1,83 @@
+{
+ "brand": "renault",
+ "brandName": "Renault",
+ "engineSlug": "m9t",
+ "applicationSlug": "vauxhall-movano-b-2-3-cdti-165ps-van-2010",
+ "engineCode": "M9T",
+ "condition": "used",
+ "seo": {
+  "title": "Used Renault M9T Engine — Vauxhall Movano B | Engined",
+  "description": "Used Renault M9T engine for Vauxhall Movano B, Renault Master and Nissan NV400 — 2.3 CDTI 165 PS. £1,995 with 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/m9t/vauxhall-movano-b-2-3-cdti-165ps-van-2010/"
+ },
+ "hero": {
+  "title": "Used Renault M9T Engine — Vauxhall Movano B (2.3 CDTI 165 PS) Van 2010-Present",
+  "subtitle": "Used M9T engine for Vauxhall Movano B, Renault Master and Nissan NV400 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M9T-USED-MOVANO-165",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,995",
+    "note": "12-month warranty",
+    "price": "£1,995.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Renault M9T 2.3 CDTI 165 PS engine for Vauxhall Movano B van, Euro 6, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M9T",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2010–present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X62",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration to confirm this used M9T engine fits your Vauxhall Movano B before you buy.",
+  "list": [
+   "Vauxhall Movano B X62 (2.3 CDTI 165 PS, code M9T 870/872) 2010–present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Sump and timing cover"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M9T engine now, or view the full M9T engine range for other applications.",
+  "crossLink": "← Back to all M9T engines — https://engined.co.uk/engines/m9t/"
+ }
+}

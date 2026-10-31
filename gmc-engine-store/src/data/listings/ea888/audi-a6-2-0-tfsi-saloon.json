@@ -1,0 +1,91 @@
+{
+ "brand": "audi",
+ "brandName": "Audi",
+ "engineSlug": "ea888",
+ "applicationSlug": "audi-a6-2-0-tfsi-saloon",
+ "engineCode": "EA888",
+ "condition": "used",
+ "seo": {
+  "title": "Used Audi EA888 2.0 TFSI Engine — A6 C7/C8 (2.0 TFSI) Saloon 2012-present",
+  "description": "EA888 2.0 TFSI · used tested engine · fits A6 Saloon C7/C8 (252 PS) 2012-present · £2,495 · 12-month warranty · UK delivery",
+  "canonical": "https://engined.co.uk/engines/ea888/audi-a6-2-0-tfsi-saloon/"
+ },
+ "hero": {
+  "title": "Used Audi EA888 2.0 TFSI Engine — A6 C7/C8 (2.0 TFSI) Saloon 2012-present",
+  "subtitle": "Used EA888 2.0 TFSI engine for Audi A6 Saloon (252 PS) 2012-present — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA888-USED-A6-SAL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,495",
+    "note": "12-month warranty",
+    "price": "£2,495.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "EA888 2.0 TFSI engine for Audi A6 Saloon C7/C8 252 PS longitudinal MLB",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA888",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2012-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "C7, C8",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/audi-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/audi-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/audi-audi-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "This EA888 2.0 TFSI engine is confirmed to fit the following Audi A6 Saloon applications — use our registration checker to verify compatibility with your specific vehicle.",
+  "list": [
+   "Audi A6 Saloon (C7/C8) 2012-present — 2.0 TFSI (252 PS)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Full diagnostic report",
+   "Compression test certificate",
+   "Oil and filter service completed"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA888 engine now, or view the full EA888 engine range for other applications.",
+  "crossLink": "← Back to all EA888 engines"
+ }
+}

@@ -1,0 +1,101 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "m47",
+ "applicationSlug": "bmw-3-series-e46-318d-estate-1999",
+ "engineCode": "M47",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW M47 Engine — 3 Series E46 (318d) Estate 1999-2005",
+  "description": "Used BMW M47 engine for 3 Series E46 318d Estate (1999-2005). 115PS diesel variant, fully tested, 12-month warranty, UK delivery. £625.",
+  "canonical": "https://engined.co.uk/engines/m47/bmw-3-series-e46-318d-estate-1999/"
+ },
+ "hero": {
+  "title": "Used BMW M47 Engine — 3 Series E46 (318d) Estate 1999-2005",
+  "subtitle": "Used M47 engine for 3 Series E46 318d Estate — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M47-USED-E46-318D-ESTATE",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £625",
+    "note": "12-month warranty",
+    "price": "£625.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW M47 engine for 3 Series E46 318d Estate 1999-2005 – complete diesel assembly",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "BMW M47",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "1999-2005",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E46",
+    "label": "Compatible"
+   },
+   {
+    "icon": "gauge",
+    "value": "115 PS (318d)",
+    "label": "Max Output"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   },
+   {
+    "icon": "config",
+    "value": "M47D20",
+    "label": "Variant"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration at checkout to confirm compatibility, or check the list below for your specific model.",
+  "list": [
+   "BMW 3 Series Estate (E46) 1999-2005 — 318d (115 PS)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Full compression and leak-down testing",
+   "Oil and filter service completed",
+   "All gaskets and seals renewed"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system components",
+   "Ancillaries (alternator, starter motor, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this BMW M47 engine now, or view the full M47 engine range for other applications.",
+  "crossLink": "← Back to all M47 engines"
+ }
+}

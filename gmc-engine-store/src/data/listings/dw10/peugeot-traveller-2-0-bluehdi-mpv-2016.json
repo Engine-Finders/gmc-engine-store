@@ -1,0 +1,83 @@
+{
+ "brand": "peugeot",
+ "brandName": "Peugeot",
+ "engineSlug": "dw10",
+ "applicationSlug": "peugeot-traveller-2-0-bluehdi-mpv-2016",
+ "engineCode": "PSA DW10",
+ "condition": "used",
+ "seo": {
+  "title": "Used DW10 Engine — Peugeot Traveller (2.0 BlueHDi) MPV 2016-2024 | Engined",
+  "description": "Used DW10 engine for Peugeot Traveller 2.0 BlueHDi (120-163 PS) MPV 2016-2024. Fixed price £1,495, 12-month warranty, UK delivery. In stock.",
+  "canonical": "https://engined.co.uk/engines/dw10/peugeot-traveller-2-0-bluehdi-mpv-2016/"
+ },
+ "hero": {
+  "title": "Used DW10 Engine — Peugeot Traveller (2.0 BlueHDi) MPV 2016-2024",
+  "subtitle": "SUB — Used DW10 engine for Peugeot Traveller 2.0 BlueHDi (120-163 PS) MPV — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: DW10-USED-TRAVELLER-BLUEHDI",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,495",
+    "note": "12-month warranty",
+    "price": "£1,495.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used DW10 engine for Peugeot Traveller 2.0 BlueHDi MPV 2016-2024, longitudinal mount, SCR/AdBlue, tested.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "PSA DW10",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2016-2024",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Traveller",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration to confirm fitment before ordering — this listing covers the Peugeot Traveller 2.0 BlueHDi applications below.",
+  "list": [
+   "Peugeot Traveller (2.0 BlueHDi 120-163 PS, commercial/MPV spec, longitudinal) 2016-2024"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New timing belt where applicable",
+   "New gaskets and seals"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this DW10 engine now, or view the full DW10 engine range for other applications.",
+  "crossLink": "← Back to all DW10 engines — links to https://engined.co.uk/engines/dw10"
+ }
+}

@@ -1,0 +1,82 @@
+{
+ "brand": "mini",
+ "brandName": "Mini",
+ "engineSlug": "b48",
+ "applicationSlug": "mini-hatch-f56-cooper-s-hatch-2014-recon",
+ "engineCode": "B48",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned BMW B48 Engine — MINI Hatch F56 (Cooper S) Hatchback 2014-Present | Engined",
+  "description": "Reconditioned BMW B48 engine for MINI Hatch F56 Cooper S Hatchback 2014–Present. Used from £2,695 with 12-month warranty, tested before dispatch, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/b48/mini-hatch-f56-cooper-s-hatch-2014-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW B48 Engine — MINI Hatch F56 (Cooper S) Hatchback 2014-Present",
+  "subtitle": "Reconditioned B48 engine for MINI Hatch F56 Cooper S — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: B48-RECON-HATCH-F56-COOPERS-HATCH",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,695",
+    "note": "12-month warranty",
+    "price": "£2,695.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned BMW B48 petrol engine for MINI Hatch F56 Cooper S, transverse mount, compact hatch layout.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "B48",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2014-Present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F56",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/mini-bmw-b38-b48-petrol-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration to confirm fitment for your MINI Hatch F56 Cooper S before ordering.",
+  "list": [
+   "MINI Hatch (F56) 2014–present — Cooper S (2.0 petrol turbo, ~192 PS)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil sump and timing covers",
+   "Rocker cover (where applicable)"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this B48 engine now, or view the full B48 engine range for other applications.",
+  "crossLink": "← Back to all B48 engines"
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "ajd200",
+ "applicationSlug": "jaguar-f-pace-x761-aj20d6-30d-suv-2017",
+ "engineCode": "AJ20D6",
+ "condition": "used",
+ "seo": {
+  "title": "PENDING — AJ20D6 3.0 Diesel Engine F-Pace X761 | Engined",
+  "description": "Used AJ20D6 3.0 Diesel engine for Jaguar F-Pace X761 30d (2017-2020). Fixed price £3,495. Tested before dispatch, 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/ajd200/jaguar-f-pace-x761-aj20d6-30d-suv-2017/"
+ },
+ "hero": {
+  "title": "PENDING — AJ20D6 3.0 Diesel Engine — Jaguar F-Pace X761 (30d, Longitudinal) 2017–2020",
+  "subtitle": "Used AJ20D6 engine for Jaguar F-Pace X761 30d — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: AJD200-PEND-FPACE-30D-1720",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £3,495",
+    "note": "12-month warranty",
+    "price": "£3,495.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "AJ20D6 3.0 Diesel engine for Jaguar F-Pace X761 30d, complete unit, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJ20D6",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2017–2020",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X761",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number in our checker above to confirm exact fitment for your Jaguar F-Pace X761 chassis before purchasing.",
+  "list": [
+   "Jaguar F-Pace X761 (30d, Longitudinal) 2017–2020"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "All internal seals and gaskets replaced",
+   "Professionally cleaned and degreased"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "External ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this AJ20D6 engine now, or view the full AJ20D6 engine range for other applications.",
+  "crossLink": "← Back to all AJ20D6 engines"
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "brand": "jaguar",
+ "brandName": "Jaguar",
+ "engineSlug": "aj133",
+ "applicationSlug": "jaguar-xf-x250-5-0-v8-saloon-2009",
+ "engineCode": "AJ133",
+ "condition": "used",
+ "seo": {
+  "title": "Used Jaguar AJ133 Engine — XF X250 5.0 V8 Saloon | Engined",
+  "description": "Used AJ133 engine for Jaguar XF (X250) 5.0 V8 Saloon. £2,880 fixed price, tested before dispatch, 12-month warranty & UK delivery.",
+  "canonical": "https://engined.co.uk/engines/aj133/jaguar-xf-x250-5-0-v8-saloon-2009/"
+ },
+ "hero": {
+  "title": "Used Jaguar AJ133 5.0 V8 Engine — XF (X250) 5.0 V8 Saloon 2009-2015",
+  "subtitle": "Used AJ133 engine for Jaguar XF (X250) 5.0 V8 Saloon — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: AJ133-USED-XF-X250-5-0-V8-SALOON",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £4,680",
+    "note": "12-month warranty",
+    "price": "£4,680.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "AJ133 5.0 V8 naturally aspirated engine for Jaguar XF X250 saloon, complete longitudinal assembly.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJ133",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2009-2015",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X250",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/jaguar-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/jaguar-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jlr-aj133-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Verify fitment for your specific chassis using our registration checker before purchasing this AJ133 engine.",
+  "list": [
+   "Jaguar XF (X250) 5.0 V8 (385 PS) Saloon (2009-2015)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch",
+   "Warranty as standard",
+   "Longitudinal saloon specification components",
+   "Naturally aspirated 5.0 V8 configuration",
+   "Engine wiring harness"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this AJ133 engine now, or view the full AJ133 engine range for other applications.",
+  "crossLink": "← Back to all AJ133 engines"
+ }
+}

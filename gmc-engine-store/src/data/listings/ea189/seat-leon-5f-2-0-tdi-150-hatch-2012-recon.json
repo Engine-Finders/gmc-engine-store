@@ -1,0 +1,83 @@
+{
+ "brand": "seat",
+ "brandName": "Seat",
+ "engineSlug": "ea189",
+ "applicationSlug": "seat-leon-5f-2-0-tdi-150-hatch-2012-recon",
+ "engineCode": "EA189",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned VW EA189 Engine — SEAT Leon 5F (2.0 TDI 150 PS) Hatchback 2012-2015",
+  "description": "Reconditioned VW EA189 2.0 TDI engine for the SEAT Leon 5F 150 PS hatchback (2012–2015). Used from £1,295 or recon £2,150 — 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/ea189/seat-leon-5f-2-0-tdi-150-hatch-2012-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned VW EA189 Engine — SEAT Leon 5F (2.0 TDI 150 PS) Hatchback 2012-2015",
+  "subtitle": "Reconditioned EA189 engine for SEAT Leon 5F 150 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA189-RECON-LEON-5F-150",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,150",
+    "note": "12-month warranty",
+    "price": "£2,150.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned VW EA189 2.0 TDI diesel engine for SEAT Leon 5F 150 PS hatchback, transverse mount.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA189",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2012–2015",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "5F",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "The EA189 fits the SEAT Leon 5F 2012–2015 with 2.0 TDI 150 PS — confirm your Leon's reg through our checker before ordering.",
+  "list": [
+   "SEAT Leon 5F (2.0 TDI 150 PS) 2012–2015"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (block, head, sump and covers)",
+   "Fully stripped, inspected and rebuilt to OE specification",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New gaskets, seals and timing components"
+  ],
+  "excluded": [
+   "Turbocharger (reused where reusable, per condition)",
+   "Injectors / fuel system components",
+   "Ancillaries (alternator, starter, pumps, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA189 engine now, or view the full EA189 range for other applications.",
+  "crossLink": "← Back to all EA189 engines"
+ }
+}

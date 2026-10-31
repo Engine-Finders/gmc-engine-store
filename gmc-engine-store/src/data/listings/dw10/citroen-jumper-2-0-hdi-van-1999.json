@@ -1,0 +1,90 @@
+{
+ "brand": "citroen",
+ "brandName": "Citroen",
+ "engineSlug": "dw10",
+ "applicationSlug": "citroen-jumper-2-0-hdi-van-1999",
+ "engineCode": "DW10",
+ "condition": "used",
+ "seo": {
+  "title": "Used Citroën DW10 2.0 HDi Engine — Jumper/Relay I Van 1999-2006",
+  "description": "DW10 · used · Citroën Jumper/Relay I 244 Van 2.0 HDi · heavy commercial · £1,346 · 12-month warranty · UK delivery",
+  "canonical": "https://engined.co.uk/engines/dw10/citroen-jumper-2-0-hdi-van-1999/"
+ },
+ "hero": {
+  "title": "Used Citroën DW10 2.0 HDi Engine — Jumper/Relay I Van 1999-2006",
+  "subtitle": "Used DW10 diesel engine for Citroën Jumper and Relay I 244 Van 2.0 HDi — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: DW10-USED-CITROEN-JUMPER-HDI-VAN",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,346",
+    "note": "12-month warranty",
+    "price": "£1,346.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,156",
+    "note": "12-month warranty",
+    "price": "£2,156.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Citroën DW10 2.0 HDi engine for Jumper/Relay I Van 1999-2006 — tested heavy commercial diesel unit",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "DW10",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "1999-2006",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Citroën Jumper I 244 Van (1999-2006), Citroën Relay I 244 Van (1999-2006)",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/citroen-citroen-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your vehicle's compatibility below — use our reg-checker to confirm this DW10 engine matches your Citroën Jumper exactly.",
+  "list": [
+   "Citroën Jumper I 244 Van (1999-2006) — 2.0 HDi",
+   "Citroën Relay I 244 Van (1999-2006) — 2.0 HDi"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Comprehensive inspection report",
+   "Oil and filter service",
+   "UK mainland delivery"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this DW10 engine now, or view the full DW10 engine range for other applications.",
+  "crossLink": "← Back to all DW10 engines"
+ }
+}

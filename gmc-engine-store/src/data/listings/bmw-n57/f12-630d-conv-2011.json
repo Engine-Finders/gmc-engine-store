@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n57",
+ "applicationSlug": "f12-630d-conv-2011",
+ "engineCode": "N57",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW N57 Engine — 6 Series F12 (630d) Convertible 2011‑2018",
+  "description": "Used BMW N57 engine for 6 Series F12 630d Convertible 2011-2018, 258 PS. Fixed £2,695, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/bmw-n57/f12-630d-conv-2011/"
+ },
+ "hero": {
+  "title": "Used BMW N57 Engine — 6 Series F12 (630d) Convertible 2011‑2018",
+  "subtitle": "SUB — Used N57 engine for 6 Series F12 630d Convertible — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N57-USED-F12-630D",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,695",
+    "note": "12-month warranty",
+    "price": "£2,695.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW N57 engine for 6 Series F12 630d Convertible 2011-2018, 258 PS, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N57",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2011‑2018",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F12",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-n57-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment for your BMW 6 Series F12 630d Convertible by entering your registration in the reg checker before ordering.",
+  "list": [
+   "BMW 6 Series (F12) 2011‑2018 — 630d (258 PS) Convertible"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Oil sump and timing cover"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N57 engine now, or view the full N57 engine range for other applications.",
+  "crossLink": "← Back to all N57 engines"
+ }
+}

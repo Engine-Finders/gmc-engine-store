@@ -1,0 +1,91 @@
+{
+ "brand": "jaguar",
+ "brandName": "Jaguar",
+ "engineSlug": "aj-v8-legacy",
+ "applicationSlug": "recon-jaguar-xj8-x350-aj34-4-2-saloon-2003",
+ "engineCode": "AJ34",
+ "condition": "recon",
+ "seo": {
+  "title": "Recon Jaguar AJ34 Engine — XJ8 X350 4.2 V8 Saloon | Engined",
+  "description": "Reconditioned AJ34 engine for Jaguar XJ8 (X350) 4.2 V8 Saloon. £3,200 fixed price, tested before dispatch, 12-month warranty & UK delivery.",
+  "canonical": "https://engined.co.uk/engines/aj-v8-legacy/recon-jaguar-xj8-x350-aj34-4-2-saloon-2003/"
+ },
+ "hero": {
+  "title": "Reconditioned Jaguar AJ34 Engine — XJ8 (X350) 4.2 V8 Saloon 2003-2009",
+  "subtitle": "Reconditioned AJ34 engine for Jaguar XJ8 (X350) 4.2 V8 Saloon — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: AJV8-RECON-X350-42-NA-SALOON-AJ34-12M",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £3,200",
+    "note": "12-month warranty",
+    "price": "£3,200.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned AJ34 4.2 V8 naturally aspirated engine for Jaguar XJ8 X350 saloon, complete longitudinal assembly with CVVT.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJ34",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2003-2009",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X350",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/jaguar-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/jaguar-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/jaguar-jaguar-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Verify fitment for your specific chassis using our registration checker before purchasing this AJ34 engine.",
+  "list": [
+   "Jaguar XJ8 (X350) 4.2 V8 (AJ34) Saloon (2003-2009)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch",
+   "Warranty as standard",
+   "Longitudinal saloon specification components",
+   "Continuous Variable Valve Timing (CVVT) system",
+   "Engine wiring harness"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this AJ34 engine now, or view the full AJ34 engine range for other applications.",
+  "crossLink": "← Back to all AJ34 engines"
+ }
+}

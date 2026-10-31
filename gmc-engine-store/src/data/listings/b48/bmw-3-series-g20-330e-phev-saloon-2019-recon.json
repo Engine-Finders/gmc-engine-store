@@ -1,0 +1,91 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "b48",
+ "applicationSlug": "bmw-3-series-g20-330e-phev-saloon-2019-recon",
+ "engineCode": "B48",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned BMW B48 Engine — 3 Series G20 (330e) PHEV Saloon 2019-present",
+  "description": "Reconditioned B48 engine for 3 Series G20 330e PHEV – tested before dispatch, £2,520, includes 12‑month warranty and UK mainland delivery.",
+  "canonical": "https://engined.co.uk/engines/b48/bmw-3-series-g20-330e-phev-saloon-2019-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW B48 Engine — 3 Series G20 (330e) PHEV Saloon 2019-present",
+  "subtitle": "Reconditioned B48 engine for 3 Series G20 330e PHEV — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: B48-RECON-G20-330E",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,520",
+    "note": "12-month warranty",
+    "price": "£2,520.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned BMW B48 engine for 3 Series G20 330e PHEV Saloon – longitudinal mount, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "B48",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2019-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "G20",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-b48-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your vehicle's compatibility with a reg check or review the specific chassis, variant, and year coverage below.",
+  "list": [
+   "3 Series Saloon (G20) 2019-present — 330e PHEV (184 hp engine)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil and coolant filled",
+   "UK mainland delivery included",
+   "All gaskets and seals replaced"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries (alternator, starter, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this B48 engine now, or view the full B48 engine range for other applications.",
+  "crossLink": "← Back to all B48 engines"
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n26-recon",
+ "applicationSlug": "f22-228i-coupe-2012",
+ "engineCode": "N26",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned BMW N26 Engine — 2 Series F22 (228i) Coupe 2012–2016",
+  "description": "N26 SULEV · reconditioned · US-market F22 228i Coupe · not for UK sale · 12-month warranty.",
+  "canonical": "https://engined.co.uk/engines/bmw-n26-recon/f22-228i-coupe-2012/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW N26 Engine — 2 Series F22 (228i) Coupe 2012–2016",
+  "subtitle": "Reconditioned N26 SULEV engine for US-market BMW 2 Series F22 228i Coupe — US-market only, not for UK sale.",
+  "sku": "SKU: N26-RECON-F22-228I",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £0",
+    "note": "12-month warranty",
+    "price": "£0.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Not available in UK — US-market only",
+  "imgAlt": "Reconditioned BMW N26 engine for 2 Series F22 228i Coupe 2012-2016 US-market SULEV",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N26",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2012-2016",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F22",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "This engine is for US-market vehicles only. Enter your registration for a guaranteed fitment check.",
+  "list": [
+   "BMW 2 Series (F22) 2012–2016 — 228i SULEV (245 PS) Coupe (US-market only)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch",
+   "12-month warranty as standard",
+   "OEM-spec gaskets and seals",
+   "Oil and filter service",
+   "Full inspection report"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries (e.g., alternator, starter motor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "View the full BMW N26 engine range for other applications.",
+  "crossLink": "← Back to all BMW N26 engines"
+ }
+}

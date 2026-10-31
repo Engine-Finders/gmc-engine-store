@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n53",
+ "applicationSlug": "e64-630i-conv-2007",
+ "engineCode": "N53",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW N53 Engine — 6 Series E64 (630i N53) Convertible 2007‑2011",
+  "description": "Used BMW N53 engine for 6 Series E64 630i Convertible 2007-2011. 272 PS direct-injection, tested before dispatch. Fixed £1,605, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/bmw-n53/e64-630i-conv-2007/"
+ },
+ "hero": {
+  "title": "Used BMW N53 Engine — 6 Series E64 (630i N53) Convertible 2007‑2011",
+  "subtitle": "SUB — Used N53 engine for BMW 6 Series E64 630i Convertible — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N52-USED-E64-630I-N53-FL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,605",
+    "note": "12-month warranty",
+    "price": "£1,605.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW N53 engine for 6 Series E64 630i Convertible, 272 PS direct-injection, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N53",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2007‑2011",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E64",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with your registration before ordering; this N53 listing covers the E64 630i Convertible.",
+  "list": [
+   "BMW 6 Series E64 (630i N53 272 PS Convertible) 2007‑2011"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Sump and timing covers"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N53 engine now, or view the full N53 engine range for other applications.",
+  "crossLink": "← Back to all N53 engines"
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "brand": "jaguar",
+ "brandName": "Jaguar",
+ "engineSlug": "ajd-v6-2-7-tdv6",
+ "applicationSlug": "recon-jaguar-s-type-x200-2-7-tdv6-diesel-2004",
+ "engineCode": "AJD-V6",
+ "condition": "recon",
+ "seo": {
+  "title": "Recon Jaguar AJD-V6 2.7 TDV6 Engine – S-Type X200 | Engined",
+  "description": "Reconditioned AJD-V6 engine for Jaguar S-Type X200. 2.7L Twin-Turbo Diesel V6, 207 PS. Fixed price £2,500. 12-month warranty included. UK delivery available.",
+  "canonical": "https://engined.co.uk/engines/ajd-v6-2-7-tdv6/recon-jaguar-s-type-x200-2-7-tdv6-diesel-2004/"
+ },
+ "hero": {
+  "title": "Reconditioned Jaguar AJD-V6 2.7 TDV6 Diesel Engine — S-Type (X200) 2004-2007",
+  "subtitle": "Reconditioned AJD-V6 engine for Jaguar S-Type X200 and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: AJDV6-RECON-S-TYPE-X200-27-TDV6-SALOON-12M",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,500",
+    "note": "12-month warranty",
+    "price": "£2,500.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned Jaguar AJD-V6 2.7L Twin-Turbo Diesel V6 engine for S-Type X200, complete assembly.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJD-V6",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2004-2007",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X200",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/jaguar-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/jaguar-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/jaguar-jaguar-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration above to confirm this AJD-V6 engine fits your Jaguar S-Type X200.",
+  "list": [
+   "S-Type (X200) 2.7 TDV6 Diesel Saloon (2004–2007)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (AJD-V6 2.7L V6 Twin-Turbo Diesel)",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "ECU and wiring loom compatibility verified",
+   "Oil filter and sump plug included"
+  ],
+  "excluded": [
+   "Turbocharger(s) (if reusable, per condition)",
+   "Injectors/fuel system (unless specified as reusable)",
+   "Ancillaries (alternator, starter motor, AC compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this AJD-V6 engine now, or view the full AJD-V6 engine range for other applications.",
+  "crossLink": "← Back to all AJD-V6 engines"
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n62-recon",
+ "applicationSlug": "e63-650i-coupe-2005",
+ "engineCode": "N62",
+ "condition": "recon",
+ "seo": {
+  "title": "Recond N62 E63 650i Coupe 2005‑2010 | Engined",
+  "description": "Reconditioned BMW N62 engine for 6 Series E63 650i Coupe 2005‑2010. N62B48B, new valve stem seals. £5,175 with 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/bmw-n62-recon/e63-650i-coupe-2005/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW N62 Engine — 6 Series E63 (650i) Coupe 2005‑2010",
+  "subtitle": "Reconditioned N62 engine for 6 Series E63 650i Coupe — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N62-RECON-E63-650I",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £5,175",
+    "note": "12-month warranty",
+    "price": "£5,175.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned BMW N62B48B engine for E63 650i Coupe 2005‑2010, new valve stem seals, tested.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N62",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2005‑2010",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E63",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration before ordering — this reconditioned N62 engine fits the BMW 6 Series E63 650i Coupe 2005‑2010 only.",
+  "list": [
+   "BMW 6 Series E63 (650i 367 PS Coupe) 2005‑2010"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New valve stem seals",
+   "Reconditioned to N62B48B specification"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N62 engine now, or view the full N62 engine range for other applications.",
+  "crossLink": "← Back to all N62 engines"
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "brand": "audi",
+ "brandName": "Audi",
+ "engineSlug": "ea888",
+ "applicationSlug": "audi-a5-2-0-tfsi-coupe-recon",
+ "engineCode": "EA888",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned Audi EA888 2.0 TFSI Engine — A5 B8/B8.5/B9 (2.0 TFSI) Coupe 2008-present",
+  "description": "EA888 2.0 TFSI · reconditioned engine · fits Audi A5 Coupe B8/B8.5/B9 2008-present · £3,500 · 12-month warranty · UK delivery",
+  "canonical": "https://engined.co.uk/engines/ea888/audi-a5-2-0-tfsi-coupe-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned Audi EA888 2.0 TFSI Engine — A5 B8/B8.5/B9 (2.0 TFSI) Coupe 2008-present",
+  "subtitle": "Reconditioned EA888 2.0 TFSI engine for Audi A5 Coupe (211‑252 PS) — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA888-RECON-A5-CPE",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £3,500",
+    "note": "12-month warranty",
+    "price": "£3,500.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "EA888 2.0 TFSI engine reconditioned for Audi A5 Coupe B8/B8.5/B9 longitudinal MLB",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA888",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2008-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "B8, B8.5, B9",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/audi-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/audi-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/audi-audi-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "This EA888 2.0 TFSI engine is confirmed to fit the following Audi A5 Coupe applications — use our registration checker to verify compatibility with your specific vehicle.",
+  "list": [
+   "Audi A5 Coupe (B8/B8.5/B9) 2008-present — 2.0 TFSI (211‑252 PS)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Full diagnostic report",
+   "Compression test certificate",
+   "Oil and filter service completed"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA888 engine now, or view the full EA888 engine range for other applications.",
+  "crossLink": "← Back to all EA888 engines"
+ }
+}

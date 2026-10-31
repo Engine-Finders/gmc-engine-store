@@ -1,0 +1,92 @@
+{
+ "brand": "citroen",
+ "brandName": "Citroen",
+ "engineSlug": "tu-series",
+ "applicationSlug": "citroen-saxo-1-6-tu5-hatchback-pre2003",
+ "engineCode": "TU5",
+ "condition": "used",
+ "seo": {
+  "title": "Used Citroën Saxo 1.0/1.1/1.4/1.6 TU Engine — Pre-2003 Hatchback",
+  "description": "TU5 · used · Citroën Saxo 1.0/1.1/1.4/1.6 VTS · 45-118 PS · £450 · 12-month warranty · UK delivery",
+  "canonical": "https://engined.co.uk/engines/tu-series/citroen-saxo-1-6-tu5-hatchback-pre2003/"
+ },
+ "hero": {
+  "title": "Used Citroën Saxo 1.0/1.1/1.4/1.6 TU Engine — Pre-2003 Hatchback",
+  "subtitle": "Used TU-series petrol engine for Citroën Saxo 1.0, 1.1, 1.4, and 1.6 VTS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: TU-USED-CITROEN-SAXO-TU5-HATCH",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £450",
+    "note": "12-month warranty",
+    "price": "£450.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £800",
+    "note": "12-month warranty",
+    "price": "£800.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Citroën TU5 1.6 engine for Saxo Hatchback pre-2003 — tested petrol unit",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "TU5",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "pre-2003",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Citroën Saxo Hatchback (pre-2003) — 1.0i (TU9), 1.1i (TU1), 1.4i (TU3), 1.6i VTS (TU5JP4)",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/citroen-citroen-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your vehicle's compatibility below — use our reg-checker to confirm this TU-series engine matches your Citroën Saxo exactly.",
+  "list": [
+   "Citroën Saxo Hatchback (pre-2003) — 1.0i (TU9)",
+   "Citroën Saxo Hatchback (pre-2003) — 1.1i (TU1)",
+   "Citroën Saxo Hatchback (pre-2003) — 1.4i (TU3)",
+   "Citroën Saxo Hatchback (pre-2003) — 1.6i VTS (TU5JP4)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Comprehensive inspection report",
+   "Oil and filter service",
+   "UK mainland delivery"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this TU-series engine now, or view the full TU-series engine range for other applications.",
+  "crossLink": "← Back to all TU-series engines"
+ }
+}

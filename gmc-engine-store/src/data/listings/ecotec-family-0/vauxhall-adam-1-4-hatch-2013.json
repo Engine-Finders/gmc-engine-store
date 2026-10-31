@@ -1,0 +1,84 @@
+{
+ "brand": "peugeot",
+ "brandName": "Peugeot",
+ "engineSlug": "ecotec-family-0",
+ "applicationSlug": "vauxhall-adam-1-4-hatch-2013",
+ "engineCode": "ECOTEC FAMILY 0",
+ "condition": "used",
+ "seo": {
+  "title": "Used Vauxhall Ecotec Engine — Adam (1.4) Hatchback 2013-2019",
+  "description": "Used Ecotec Family 0 engine for Vauxhall Adam (1.4) Hatchback. Fits A14XEL/A14XER models. £805 with 12-month warranty and UK delivery. In stock.",
+  "canonical": "https://engined.co.uk/engines/ecotec-family-0/vauxhall-adam-1-4-hatch-2013/"
+ },
+ "hero": {
+  "title": "Used Vauxhall Ecotec Engine — Adam (1.4) Hatchback 2013-2019",
+  "subtitle": "Used Ecotec Family 0 engine for Adam (1.4) Hatchback — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: ECOFAM0-USED-ADAM-14",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £805",
+    "note": "12-month warranty",
+    "price": "£805.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Ecotec Family 0 1.4L engine for Vauxhall Adam Hatchback, transverse-mounted, chain-driven petrol.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "Ecotec Family 0",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2013-2019",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Adam",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "This Ecotec Family 0 engine fits the vehicles below. Use our reg checker to confirm compatibility with your model.",
+  "list": [
+   "Vauxhall Adam (1.4 90-100 PS, A14XEL/A14XER) 2013-2019"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (block, cylinder head, sump, and internals)",
+   "Fully tested and reconditioned before dispatch",
+   "12-month warranty as standard",
+   "New timing chain and tensioner kit",
+   "New gaskets and seals",
+   "Oil pump and water pump"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, A/C compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this Ecotec Family 0 engine now, or view the full Ecotec Family 0 engine range for other applications.",
+  "crossLink": "← Back to all Ecotec Family 0 engines"
+ }
+}

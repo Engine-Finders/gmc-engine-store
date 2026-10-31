@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "m278",
+ "applicationSlug": "mercedes-s-class-w221-m278-408-fl-saloon-2013",
+ "engineCode": "M278",
+ "condition": "used",
+ "seo": {
+  "title": "Used M278 4.7 V8 Engine — S-Class W221 Saloon (S500, 408 PS) FL 2013–2013 | Engined",
+  "description": "Used M278 engine for S-Class W221 S500 Saloon 408 PS. £4,500 fixed price, 12-month warranty, UK delivery, tested before dispatch. In stock now.",
+  "canonical": "https://engined.co.uk/engines/m278/mercedes-s-class-w221-m278-408-fl-saloon-2013/"
+ },
+ "hero": {
+  "title": "Used M278 4.7 V8 Engine — S-Class W221 Saloon (S500, 408 PS) FL 2013–2013",
+  "subtitle": "SUB — Used M278 engine for S-Class W221 S500 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M278-USED-W221-S500-FL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £4,500",
+    "note": "12-month warranty",
+    "price": "£4,500.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used M278 4.7 V8 engine for Mercedes-Benz S-Class W221 S500 408 PS facelift saloon",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M278",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2013–2013",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W221",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-m278-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration to confirm fitment before buying — this M278 listing fits the following W221 application.",
+  "list": [
+   "S-Class W221 (Saloon — S500 408 PS — M278 — 4.7 V8 Biturbo) 2013"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Sump and timing covers"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M278 engine now, or view the full M278 engine range for other applications.",
+  "crossLink": "← Back to all M278 engines"
+ }
+}

@@ -1,0 +1,89 @@
+{
+ "brand": "peugeot",
+ "brandName": "Peugeot",
+ "engineSlug": "vq35-37-v6",
+ "applicationSlug": "nissan-altima-l31-se-saloon-2002-2",
+ "engineCode": "VQ35DE",
+ "condition": "used",
+ "seo": {
+  "title": "Used Nissan VQ35DE Engine — Nissan Altima L31 (SE) Saloon 2002-2006 | Engined",
+  "description": "Used VQ35DE engine for Nissan Altima L31 SE Saloon (2002–2006). Fixed price £1,615 with 12-month warranty and UK delivery. Recon from £2,340.",
+  "canonical": "https://engined.co.uk/engines/vq35-37-v6/nissan-altima-l31-se-saloon-2002/"
+ },
+ "hero": {
+  "title": "Used Nissan VQ35DE Engine — Nissan Altima L31 (SE) Saloon 2002-2006",
+  "subtitle": "Used VQ35DE engine for Nissan Altima L31 SE — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: VQ35-USED-ALTIMA-L31",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,615",
+    "note": "12-month warranty",
+    "price": "£1,615.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,340",
+    "note": "12-month warranty",
+    "price": "£2,340.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used VQ35DE engine for Nissan Altima L31 SE saloon 2002–2006, transverse 3.5L V6, 250 PS, CVTC.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "VQ35DE",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2002–2006",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L31",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration in our reg checker to confirm fitment — this VQ35DE engine is verified for the L31 Altima listed below. *(127 chars ✓)",
+  "list": [
+   "Nissan Altima L31 (SE) 2002–2006"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Compression and oil pressure verified",
+   "Securely crated for UK delivery"
+  ],
+  "excluded": [
+   "Turbocharger (reusable, supplied per condition)",
+   "Injectors and fuel system",
+   "Ancillaries (alternator, starter, air conditioning compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this VQ35DE engine now, or view the full VQ35DE engine range for other applications.",
+  "crossLink": "← Back to all VQ35DE engines"
+ }
+}

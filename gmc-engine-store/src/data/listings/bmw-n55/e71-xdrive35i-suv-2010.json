@@ -1,0 +1,96 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n55",
+ "applicationSlug": "e71-xdrive35i-suv-2010",
+ "engineCode": "N55",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW N55 Engine — X6 E71 (xDrive35i) SUV 2010‑2014",
+  "description": "Used BMW N55 engine for X6 E71 xDrive35i SUV 2010‑2014. 302 PS N55B30O0, tested before dispatch, £3,100 with 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/bmw-n55/e71-xdrive35i-suv-2010/"
+ },
+ "hero": {
+  "title": "Used BMW N55 Engine — X6 E71 (xDrive35i) SUV 2010‑2014",
+  "subtitle": "Used N55 engine for X6 E71 xDrive35i SUV — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N55-USED-E71-XDRIVE35I",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £3,100",
+    "note": "12-month warranty",
+    "price": "£3,100.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £4,485",
+    "note": "12-month warranty",
+    "price": "£4,485.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW N55 engine for X6 E71 xDrive35i SUV 2010‑2014, 302 PS N55B30O0, premium application.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N55",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2010‑2014",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E71",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration to confirm fitment, or check the application list below before ordering.",
+  "list": [
+   "BMW X6 (E71) (xDrive35i 302 PS SUV) 2010‑2014"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Sump and rocker cover"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N55 engine now, or view the full N55 engine range for other applications.",
+  "crossLink": "← Back to all N55 engines"
+ }
+}

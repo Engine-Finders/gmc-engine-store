@@ -1,0 +1,91 @@
+{
+ "brand": "jaguar",
+ "brandName": "Jaguar",
+ "engineSlug": "aj-v8-legacy",
+ "applicationSlug": "recon-jaguar-s-type-x200-aj28-4-0-saloon-1999",
+ "engineCode": "AJ28",
+ "condition": "recon",
+ "seo": {
+  "title": "Recon Jaguar AJ28 Engine — S-Type X200 4.0 V8 | Engined",
+  "description": "Reconditioned AJ28 engine for Jaguar S-Type (X200) 4.0 V8 Saloon. £3,335 fixed price, tested before dispatch, 12-month warranty & UK delivery.",
+  "canonical": "https://engined.co.uk/engines/aj-v8-legacy/recon-jaguar-s-type-x200-aj28-4-0-saloon-1999/"
+ },
+ "hero": {
+  "title": "Reconditioned Jaguar AJ28 Engine — S-Type (X200) 4.0 V8 Saloon 1999-2002",
+  "subtitle": "Reconditioned AJ28 engine for Jaguar S-Type (X200) 4.0 V8 Saloon — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: AJV8-RECON-X200-40-NA-SALOON-AJ28-12M",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £3,335",
+    "note": "12-month warranty",
+    "price": "£3,335.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned AJ28 4.0 V8 naturally aspirated engine for Jaguar S-Type X200 saloon, complete longitudinal assembly with CVVT.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJ28",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "1999-2002",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X200",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/jaguar-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/jaguar-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/jaguar-jaguar-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Verify fitment for your specific chassis using our registration checker before purchasing this AJ28 engine.",
+  "list": [
+   "Jaguar S-Type (X200) 4.0 V8 (AJ28) Saloon (1999-2002)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch",
+   "Warranty as standard",
+   "Longitudinal saloon specification components",
+   "Continuous Variable Valve Timing (CVVT) system",
+   "Engine wiring harness"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this AJ28 engine now, or view the full AJ28 engine range for other applications.",
+  "crossLink": "← Back to all AJ28 engines"
+ }
+}

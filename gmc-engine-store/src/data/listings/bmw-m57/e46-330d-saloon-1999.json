@@ -1,0 +1,97 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-m57",
+ "applicationSlug": "e46-330d-saloon-1999",
+ "engineCode": "M57",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW M57 Engine — 3 Series E46 (330d) Saloon 1999-2001",
+  "description": "Used BMW M57 E46 330d Saloon (184 PS) — from £1,695, reconditioned option £2,850. Tested, 12-month warranty, UK delivery. Fits 3 Series E46 1999-2001.",
+  "canonical": "https://engined.co.uk/engines/bmw-m57/e46-330d-saloon-1999/"
+ },
+ "hero": {
+  "title": "Used BMW M57 Engine — 3 Series E46 (330d) Saloon 1999-2001",
+  "subtitle": "Used M57 engine for 3 Series E46 330d Saloon — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M57-USED-E46-330D-PREFL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,695",
+    "note": "12-month warranty",
+    "price": "£1,695.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,850",
+    "note": "12-month warranty",
+    "price": "£2,850.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "BMW M57 engine for E46 330d Saloon 1999-2001 — used 184 PS 6-cylinder diesel unit",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M57",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "1999-2001",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E46",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-m57-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration for a guaranteed fit check — these vehicles are confirmed compatible with this BMW M57 engine.",
+  "list": [
+   "BMW 3 Series (E46) 1999-2001 — 330d (184 PS) Saloon"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Full pressure and leak testing",
+   "All gaskets and seals replaced",
+   "Timing components inspected"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries (alternator, starter, AC compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M57 engine now, or view the full M57 engine range for other applications.",
+  "crossLink": "← Back to all M57 engines"
+ }
+}

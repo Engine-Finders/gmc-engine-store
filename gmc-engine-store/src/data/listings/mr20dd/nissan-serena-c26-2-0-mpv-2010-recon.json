@@ -1,0 +1,83 @@
+{
+ "brand": "nissan",
+ "brandName": "Nissan",
+ "engineSlug": "mr20dd",
+ "applicationSlug": "nissan-serena-c26-2-0-mpv-2010-recon",
+ "engineCode": "MR20DD",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned MR20DD Engine — Serena C26 2.0 | Engined",
+  "description": "Reconditioned MR20DD engine for Nissan Serena C26 2.0 MPV. Fixed price £1,695 used, £2,450 reconditioned. Tested, UK delivery & 12-month warranty.",
+  "canonical": "https://engined.co.uk/engines/mr20dd/nissan-serena-c26-2-0-mpv-2010-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned Nissan MR20DD Engine — Nissan Serena C26 (2.0) MPV 2010-2016",
+  "subtitle": "Reconditioned MR20DD engine for Nissan Serena C26 2.0 MPV and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: MR20DD-RECON-SERENA-C26",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,695",
+    "note": "12-month warranty",
+    "price": "£1,695.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned Nissan MR20DD Engine — Nissan Serena C26 (2.0) MPV 2010-2016",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "MR20DD",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2010-2016",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "C26",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/nissan-nissan-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number in our checker above to confirm this MR20DD engine is the exact match for your vehicle.",
+  "list": [
+   "Nissan Serena C26 (2.0 petrol, 144-150 PS) 2010-2016"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "VAT inclusive pricing",
+   "Secure, palletised UK delivery"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system components",
+   "Ancillaries (alternator, starter motor, etc.)",
+   "Fitting and installation",
+   "ECU remapping or coding"
+  ]
+ },
+ "cta": {
+  "line": "Buy this MR20DD engine now, or view the full MR20DD engine range for other applications.",
+  "crossLink": "← Back to all MR20DD engines"
+ }
+}

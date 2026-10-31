@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n62-recon",
+ "applicationSlug": "e65-735i-saloon-2005",
+ "engineCode": "N62",
+ "condition": "recon",
+ "seo": {
+  "title": "Recond N62 E65 735i Saloon 2005‑2008 | Engined",
+  "description": "Reconditioned BMW N62 engine for 7 Series E65 735i Saloon 2005‑2008. £5,315, 12-month warranty, UK delivery. Fully reconditioned N62B36 LCI.",
+  "canonical": "https://engined.co.uk/engines/bmw-n62-recon/e65-735i-saloon-2005/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW N62 Engine — 7 Series E65 (735i) Saloon 2005‑2008",
+  "subtitle": "Reconditioned N62 engine for 7 Series E65 735i Saloon — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N62-RECON-E65-735I-FL",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £5,315",
+    "note": "12-month warranty",
+    "price": "£5,315.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned N62 engine for BMW 7 Series E65 735i Saloon 2005‑2008, 272 PS, LCI, premium rebuild.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "BMW N62",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2005‑2008",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E65",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration to confirm fitment before ordering — this listing covers the E65 735i Saloon 2005‑2008 only.",
+  "list": [
+   "BMW 7 Series (E65) (735i Saloon 272 PS) 2005‑2008"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New seals and gaskets where required",
+   "Cylinder head and block reconditioned to specification"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N62 engine now, or view full N62 engine range for other fits.",
+  "crossLink": "← Back to all N62 engines"
+ }
+}

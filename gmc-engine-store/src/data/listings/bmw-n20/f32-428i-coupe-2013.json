@@ -1,0 +1,91 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n20",
+ "applicationSlug": "f32-428i-coupe-2013",
+ "engineCode": "N20",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW N20 Engine — 4 Series F32 (428i) Coupe 2013‑2015",
+  "description": "N20 engine for BMW 428i F32 Coupe 2013-2015 (245PS). Used, tested, 12‑month warranty, UK delivery. £2,065. Also available reconditioned.",
+  "canonical": "https://engined.co.uk/engines/bmw-n20/f32-428i-coupe-2013/"
+ },
+ "hero": {
+  "title": "Used BMW N20 Engine — 4 Series F32 (428i) Coupe 2013‑2015",
+  "subtitle": "Used N20 engine for BMW 428i F32 Coupe — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N20-USED-F32-428I-PREFL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,065",
+    "note": "12-month warranty",
+    "price": "£2,065.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used N20 engine for BMW 428i F32 Coupe 2013-2015 (245PS) pre-facelift high-output unit",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N20",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2013-2015",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F32",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-n20-n47-engine.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration or check the fitment guide below to confirm this N20 engine matches your F32 428i Coupe.",
+  "list": [
+   "BMW 4 Series (F32) 2013‑2015 — 428i (245 PS) Coupe"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12‑month warranty as standard",
+   "Compression and leak‑down tested",
+   "Oil and filter service completed",
+   "Full inspection report supplied"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter, A/C compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N20 engine now, or view the full N20 engine range for other applications.",
+  "crossLink": "← Back to all BMW N20 engines"
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "b57",
+ "applicationSlug": "bmw-x6-g06-xdrive30d-suv-2019",
+ "engineCode": "B57",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW B57 Engine — X6 G06 (xDrive30d) SUV 2019-present",
+  "description": "Used BMW B57 3.0L diesel engine for X6 G06 xDrive30d SUV (2019+). 265hp output. £4,220 with 12-month warranty. UK delivery.",
+  "canonical": "https://engined.co.uk/engines/b57/bmw-x6-g06-xdrive30d-suv-2019/"
+ },
+ "hero": {
+  "title": "Used BMW B57 Engine — X6 G06 (xDrive30d) SUV 2019-present",
+  "subtitle": "Used B57 3.0L diesel engine for X6 G06 xDrive30d (265hp) — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: B57-USED-X6-G06-XDRIVE30D",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £4,220",
+    "note": "12-month warranty",
+    "price": "£4,220.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW B57 3.0L diesel engine for X6 G06 xDrive30d SUV, 265hp variant",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "B57",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2019-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "G06",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-b57-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check compatibility by entering your registration for instant confirmation, or review the models this engine fits below.",
+  "list": [
+   "X6 SUV (G06) 2019-present — xDrive30d (265 hp)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Full diagnostic report",
+   "Oil and filter service completed",
+   "Compression and leak-down test verified"
+  ],
+  "excluded": [
+   "Turbocharger (reusable from your original engine)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, air conditioning compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this BMW B57 3.0L diesel engine now, or view the full B57 engine range for other applications.",
+  "crossLink": "← Back to all B57 engines"
+ }
+}

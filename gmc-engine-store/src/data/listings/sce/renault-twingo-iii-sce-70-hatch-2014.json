@@ -1,0 +1,89 @@
+{
+ "brand": "renault",
+ "brandName": "Renault",
+ "engineSlug": "sce",
+ "applicationSlug": "renault-twingo-iii-sce-70-hatch-2014",
+ "engineCode": "SCE",
+ "condition": "used",
+ "seo": {
+  "title": "Used Renault SCe Engine — Twingo III (SCe 70) Hatchback 2014-Present",
+  "description": "Used Renault SCe engine for Twingo III SCe 70 hatchback, 2014-present. Tested before dispatch, 12-month warranty, UK delivery. £595. In stock.",
+  "canonical": "https://engined.co.uk/engines/sce/renault-twingo-iii-sce-70-hatch-2014/"
+ },
+ "hero": {
+  "title": "Used Renault SCe Engine — Twingo III (SCe 70) Hatchback 2014-Present",
+  "subtitle": "Used SCe engine for the Twingo III SCe 70 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: SCE-USED-TWINGO",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £595",
+    "note": "12-month warranty",
+    "price": "£595.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,050",
+    "note": "12-month warranty",
+    "price": "£1,050.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Renault SCe 1.0 petrol 70 PS engine for Twingo III hatchback, 2014-present",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "SCe",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2014-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Twingo III",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment against your registration before ordering — this SCe fits the applications listed below.",
+  "list": [
+   "Renault Twingo III (SCe 70, 1.0 petrol, 70 PS) 2014–present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil sump and pick-up pipe",
+   "Core ancillaries as specified"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system components",
+   "Ancillaries not listed above",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this SCe engine now, or view the full SCe engine range for other applications.",
+  "crossLink": "← Back to all SCe engines"
+ }
+}

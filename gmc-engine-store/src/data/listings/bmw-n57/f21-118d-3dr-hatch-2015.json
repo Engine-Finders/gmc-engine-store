@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n57",
+ "applicationSlug": "f21-118d-3dr-hatch-2015",
+ "engineCode": "N57",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW N57 Engine — 1 Series F21 (118d) 3‑dr Hatch 2015‑2019",
+  "description": "Used BMW N57 engine for 1 Series F21 118d 3-door Hatch 2015-2019. Fixed price £2,395, 12-month warranty, UK delivery. Check fitment and buy today.",
+  "canonical": "https://engined.co.uk/engines/bmw-n57/f21-118d-3dr-hatch-2015/"
+ },
+ "hero": {
+  "title": "Used BMW N57 Engine — 1 Series F21 (118d) 3‑dr Hatch 2015‑2019",
+  "subtitle": "Used N57 engine for BMW 1 Series F21 118d — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N57-USED-F21-118D-FL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,395",
+    "note": "12-month warranty",
+    "price": "£2,395.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW N57 engine for 1 Series F21 118d 3-door hatch 2015-2019, 184 PS, tested before dispatch",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N57",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2015‑2019",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F21",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-n57-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our reg checker to confirm this N57 engine fits your BMW 1 Series F21 118d before you buy today.",
+  "list": [
+   "BMW 1 Series F21 (118d, 184 PS, 3‑door Hatchback) 2015‑2019"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil sump and rocker cover as fitted",
+   "Timing covers and front cover as fitted"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N57 engine now, or view the full N57 engine range for other applications.",
+  "crossLink": "← Back to all N57 engines"
+ }
+}

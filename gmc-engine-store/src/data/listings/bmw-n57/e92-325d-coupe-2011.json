@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n57",
+ "applicationSlug": "e92-325d-coupe-2011",
+ "engineCode": "N57",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW N57 Engine — 3 Series E92 (325d) Coupe 2011‑2013",
+  "description": "Used BMW N57 engine for 3 Series E92 325d Coupe 2011‑2013. Fixed £2,695, tested before dispatch, 12-month warranty, UK delivery. Recon £3,495.",
+  "canonical": "https://engined.co.uk/engines/bmw-n57/e92-325d-coupe-2011/"
+ },
+ "hero": {
+  "title": "Used BMW N57 Engine — 3 Series E92 (325d) Coupe 2011‑2013",
+  "subtitle": "Used N57 engine for BMW 3 Series E92 325d Coupe 2011‑2013 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N57-USED-E92-325D-FL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,695",
+    "note": "12-month warranty",
+    "price": "£2,695.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "BMW N57 used engine for 3 Series E92 325d Coupe 2011‑2013, LCI 204PS diesel, tested.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N57",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2011‑2013",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E92",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-n57-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration to confirm this N57 engine fits your BMW 3 Series E92 325d Coupe before you buy.",
+  "list": [
+   "BMW 3 Series E92 (325d 204 PS Coupe) 2011‑2013"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Sump and rocker cover"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N57 engine now, or view the N57 engine range for other applications.",
+  "crossLink": "← Back to all N57 engines"
+ }
+}

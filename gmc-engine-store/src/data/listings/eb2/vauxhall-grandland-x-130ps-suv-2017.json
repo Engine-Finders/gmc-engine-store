@@ -1,0 +1,83 @@
+{
+ "brand": "vauxhall",
+ "brandName": "Vauxhall",
+ "engineSlug": "eb2",
+ "applicationSlug": "vauxhall-grandland-x-130ps-suv-2017",
+ "engineCode": "EB2",
+ "condition": "used",
+ "seo": {
+  "title": "Used EB2 Engine — Vauxhall Grandland X (130 PS) SUV 2017-2021 | Engined",
+  "description": "Used EB2 (1.2 PureTech 130 PS) engine for Vauxhall Grandland X SUV, 2017-2021. £1,450 fixed price, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/eb2/vauxhall-grandland-x-130ps-suv-2017/"
+ },
+ "hero": {
+  "title": "Used EB2 Engine — Vauxhall Grandland X (130 PS) SUV 2017-2021",
+  "subtitle": "Used EB2 engine for Vauxhall Grandland X (130 PS) SUV — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EB2-USED-GRANDLAND-X-130-SUV",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,450",
+    "note": "12-month warranty",
+    "price": "£1,450.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used EB2 1.2 PureTech 130 PS petrol engine for Vauxhall Grandland X SUV, 2017-2021",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EB2",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2017-2021",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Grandland X",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration below to confirm this used EB2 engine is the right fit for your Grandland X before you buy.",
+  "list": [
+   "Vauxhall Grandland X (1.2 PureTech 130 PS / EB2ADTS, SUV) 2017-2021"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil sump",
+   "Timing cover"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries (alternator, starter motor, air conditioning compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EB2 engine now, or view the full EB2 engine range for other applications.",
+  "crossLink": "← Back to all EB2 engines"
+ }
+}

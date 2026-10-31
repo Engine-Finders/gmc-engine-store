@@ -1,0 +1,83 @@
+{
+ "brand": "suzuki",
+ "brandName": "Suzuki",
+ "engineSlug": "b58",
+ "applicationSlug": "toyota-supra-a90-3-0-340ps-coupe-2019",
+ "engineCode": "B58",
+ "condition": "used",
+ "seo": {
+  "title": "B58 Supra A90 3.0 340PS Engine | Engined",
+  "description": "Used B58 engine for Toyota Supra A90 3.0 340 PS 2019-2020. Fixed price £3,145 with 12-month warranty and UK delivery. Tested before dispatch.",
+  "canonical": "https://engined.co.uk/engines/b58/toyota-supra-a90-3-0-340ps-coupe-2019/"
+ },
+ "hero": {
+  "title": "B58 Supra A90 3.0 340PS Engine",
+  "subtitle": "Used B58 engine for Toyota Supra A90 3.0 340 PS 2019-2020 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: B58-USED-SUPRA-A90-340",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £3,145",
+    "note": "12-month warranty",
+    "price": "£3,145.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW B58 3.0-litre turbo petrol engine for Toyota Supra A90 340 PS coupe, 2019-2020.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "B58",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2019-2020",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "A90",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Will a BMW B58 fit my Toyota Supra? Yes — use our reg checker to confirm VIN and code B58B30M0 for 340 PS pre-2021.",
+  "list": [
+   "Toyota Supra A90 (3.0 340 PS) 2019-2020"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New gaskets and seals",
+   "New oil and filter"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this B58 engine now, or view the full B58 engine range for other applications.",
+  "crossLink": "← Back to all B58 engines"
+ }
+}

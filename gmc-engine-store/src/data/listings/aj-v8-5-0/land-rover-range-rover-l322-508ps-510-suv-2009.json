@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "aj-v8-5-0",
+ "applicationSlug": "land-rover-range-rover-l322-508ps-510-suv-2009",
+ "engineCode": "508PS",
+ "condition": "used",
+ "seo": {
+  "title": "Used 508PS 5.0 V8 Engine — Range Rover L322 (SC, 510hp) 2009–2012",
+  "description": "Used 508PS engine for Range Rover L322 2009-2012. Fixed price £5,185, tested before dispatch, 12-month warranty & UK delivery. 5.0 V8 SC 510hp.",
+  "canonical": "https://engined.co.uk/engines/aj-v8-5-0/land-rover-range-rover-l322-508ps-510-suv-2009/"
+ },
+ "hero": {
+  "title": "Used 508PS 5.0 V8 Engine — Range Rover L322 (SC, 510hp) 2009–2012",
+  "subtitle": "Used 508PS engine for Range Rover L322 2009–2012 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 508PS-USED-L322-510-0912",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £5,185",
+    "note": "12-month warranty",
+    "price": "£5,185.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "508PS engine for Range Rover L322 2009-2012 SUV, 5.0 V8 SC 510hp, supercharged, tested before dispatch",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "508PS",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2009-2012",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L322",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Will a 508PN NA engine fit my L322 SC? No, SC uses 508PS supercharged; please use the registration checker above to confirm fitment.",
+  "list": [
+   "Range Rover L322 (5.0 V8 SC 510hp) 2009–2012"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Fully cleaned and inspected",
+   "Ready for direct fitment"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 508PS engine now, or view the full 508PS range for other applications.",
+  "crossLink": "← Back to all 508PS engines"
+ }
+}

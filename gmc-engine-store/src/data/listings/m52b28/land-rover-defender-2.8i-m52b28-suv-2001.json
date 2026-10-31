@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "m52b28",
+ "applicationSlug": "land-rover-defender-2.8i-m52b28-suv-2001",
+ "engineCode": "M52B28",
+ "condition": "used",
+ "seo": {
+  "title": "M52B28 2.8 Engine — Land Rover Defender 2.8i 2001 | Engined",
+  "description": "M52B28 2.8 engine · Fits Land Rover Defender 90/110 2.8i (2001) · Contact for pricing · 12-month warranty, tested before dispatch, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/m52b28/land-rover-defender-2.8i-m52b28-suv-2001/"
+ },
+ "hero": {
+  "title": "M52B28 2.8 Engine — Land Rover Defender 2.8i (2001, South Africa)",
+  "subtitle": "M52B28 engine for Land Rover Defender 90/110 2.8i (SA) — tested before dispatch, UK delivery, contact for pricing.",
+  "sku": "SKU: M52B28-COND-DEFENDER-2.8I-2001",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £0",
+    "note": "12-month warranty",
+    "price": "£0.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "M52B28 2.8 engine for Land Rover Defender 2.8i (2001, South Africa), tested and ready for dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M52B28",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2001",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Defender 90/110",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your registration to verify exact fitment for your Land Rover Defender 90/110 2.8i before ordering this M52B28 engine.",
+  "list": [
+   "Land Rover Defender 90/110 2.8i (SA) 2001"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Free UK mainland delivery",
+   "Core charge refund upon return of old unit"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M52B28 engine now, or view the full M52B28 engine range for other applications.",
+  "crossLink": "← Back to all M52B28 engines"
+ }
+}

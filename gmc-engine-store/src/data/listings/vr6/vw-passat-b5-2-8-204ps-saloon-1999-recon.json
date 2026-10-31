@@ -1,0 +1,90 @@
+{
+ "brand": "volkswagen",
+ "brandName": "Volkswagen",
+ "engineSlug": "vr6",
+ "applicationSlug": "vw-passat-b5-2-8-204ps-saloon-1999-recon",
+ "engineCode": "VR6",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned VR6 Engine — VW Passat B5 (2.8 V6 204 PS) Saloon 1999-2005 | Engined",
+  "description": "Reconditioned VR6 engine for VW Passat B5 2.8 V6 204 PS (3B, 1999-2005). AMY/AQP/AUE, renewed timing chains, £2,990, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/vr6/vw-passat-b5-2-8-204ps-saloon-1999-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned VR6 Engine — VW Passat B5 (2.8 V6 204 PS) Saloon 1999-2005",
+  "subtitle": "Reconditioned VR6 engine for VW Passat B5 2.8 V6 204 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: VR6-RECON-PASSAT-B5-28-SALOON-12M",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,990",
+    "note": "12-month warranty",
+    "price": "£2,990.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned VR6 engine for VW Passat B5 2.8 V6 204 PS, longitudinal-mounted, AMY/AQP/AUE, 1999-2005.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "VR6",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "1999-2005",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "3B",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/volkswagen-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/volkswagen-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/volkswagen-vw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our registration checker to confirm this reconditioned VR6 engine fits your VW Passat B5 before you buy.",
+  "list": [
+   "VW Passat B5 3B (2.8 VR6 24v 204 PS AMY/AQP/AUE — Saloon) 1999-2005"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block included",
+   "Oil sump and timing cover included"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this VR6 engine now, or view the full VR6 engine range for other applications.",
+  "crossLink": "← Back to all VR6 engines"
+ }
+}

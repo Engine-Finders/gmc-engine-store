@@ -1,0 +1,83 @@
+{
+ "brand": "suzuki",
+ "brandName": "Suzuki",
+ "engineSlug": "d13a",
+ "applicationSlug": "suzuki-ignis-mh-1-3-ddis-hatch-2004",
+ "engineCode": "D13A",
+ "condition": "used",
+ "seo": {
+  "title": "Used Suzuki D13A Engine — Suzuki Ignis MH 1.3 DDiS 2004-2008",
+  "description": "Used Suzuki D13A 1.3 DDiS diesel engine for Ignis MH 2004–2008. Fixed £625, tested before dispatch, 12-month warranty, UK delivery, in stock.",
+  "canonical": "https://engined.co.uk/engines/d13a/suzuki-ignis-mh-1-3-ddis-hatch-2004/"
+ },
+ "hero": {
+  "title": "Used Suzuki D13A Engine — Suzuki Ignis MH (1.3 DDiS) Hatchback 2004-2008",
+  "subtitle": "SUB — Used D13A engine for Suzuki Ignis MH 1.3 DDiS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: D13A-USED-IGNIS-MH",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £625",
+    "note": "12-month warranty",
+    "price": "£625.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Suzuki D13A 1.3 DDiS diesel engine for Ignis MH hatchback, transverse-mounted, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "D13A",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2004–2008",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "MH",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your registration or chassis code with our reg checker before purchase to ensure this D13A engine matches your Suzuki Ignis MH.",
+  "list": [
+   "Suzuki Ignis MH (1.3 DDiS 75 PS) 2004–2008"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Sump and timing covers"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this D13A engine now, or view the full D13A engine range for other applications.",
+  "crossLink": "← Back to all D13A engines"
+ }
+}

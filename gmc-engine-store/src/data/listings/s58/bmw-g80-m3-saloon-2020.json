@@ -1,0 +1,96 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "s58",
+ "applicationSlug": "bmw-g80-m3-saloon-2020",
+ "engineCode": "S58",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW S58 3.0 Engine — G80 M3 Saloon (473 PS) 2020–present",
+  "description": "Used S58 BMW 3.0 engine for G80 M3 Saloon (473 PS, 2020–present). £7,560 fixed price, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/s58/bmw-g80-m3-saloon-2020/"
+ },
+ "hero": {
+  "title": "Used BMW S58 3.0 Engine — G80 M3 Saloon (473 PS) 2020–present",
+  "subtitle": "Used S58 engine for BMW G80 M3 Saloon — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: S58-USED-G80-M3",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £7,560",
+    "note": "12-month warranty",
+    "price": "£7,560.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £9,975",
+    "note": "12-month warranty",
+    "price": "£9,975.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW S58 3.0 twin-turbo engine for G80 M3 Saloon, 473 PS, 2020–present",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "S58",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2020–present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "G80",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration below to confirm fitment — every application this S58 engine covers is listed here.",
+  "list": [
+   "BMW M3 G80 (Saloon — 473 PS) 2020–present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly — cylinder head, block, crankshaft, pistons and con-rods",
+   "Fully tested before dispatch",
+   "12-month warranty as standard",
+   "Sump, timing cover and cam cover fitted",
+   "Oil pump, gaskets and seals"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, air conditioning compressor, power steering pump)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this S58 engine now, or view the full S58 engine range for other applications.",
+  "crossLink": "← Back to all S58 engines"
+ }
+}

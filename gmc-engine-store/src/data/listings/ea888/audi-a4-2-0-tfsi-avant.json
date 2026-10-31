@@ -1,0 +1,97 @@
+{
+ "brand": "audi",
+ "brandName": "Audi",
+ "engineSlug": "ea888",
+ "applicationSlug": "audi-a4-2-0-tfsi-avant",
+ "engineCode": "EA888",
+ "condition": "used",
+ "seo": {
+  "title": "Used Audi EA888 2.0 TFSI Engine — A4 B8/B8.5/B9 (2.0 TFSI) Avant 2008-present",
+  "description": "EA888 · Used · Audi A4 Avant (B8/B8.5/B9) 2008-present, 2.0 TFSI 211-252 PS — £2,495 · 12-month warranty · UK delivery.",
+  "canonical": "https://engined.co.uk/engines/ea888/audi-a4-2-0-tfsi-avant/"
+ },
+ "hero": {
+  "title": "Used Audi EA888 2.0 TFSI Engine — A4 B8/B8.5/B9 (2.0 TFSI) Avant 2008-present",
+  "subtitle": "Used EA888 2.0 TFSI engine for Audi A4 Avant (B8/B8.5/B9) (211-252 PS) — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA888-USED-A4-AVANT",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,495",
+    "note": "12-month warranty",
+    "price": "£2,495.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £3,500",
+    "note": "12-month warranty",
+    "price": "£3,500.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used EA888 2.0 TFSI engine for Audi A4 B8/B8.5/B9 Avant – 211-252 PS, longitudinal MLB platform spec",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA888",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2008-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "B8,B8.5,B9",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/audi-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/audi-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/audi-audi-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration for instant compatibility confirmation, or check the list below to see if this EA888 2.0 TFSI engine fits your vehicle.",
+  "list": [
+   "Audi A4 Avant (B8/B8.5/B9) 2008-present — 2.0 TFSI (211-252 PS)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch with compression and leak-down checks",
+   "12-month warranty as standard",
+   "Full technical inspection report",
+   "Cam belt and water pump replaced where applicable",
+   "Oil and filter service completed"
+  ],
+  "excluded": [
+   "Turbocharger (reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, air conditioning compressor, power steering pump)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA888 engine now, or view the full EA888 engine range for other applications.",
+  "crossLink": "← Back to all EA888 engines (links to https://engined.co.uk/engines/ea888/)"
+ }
+}

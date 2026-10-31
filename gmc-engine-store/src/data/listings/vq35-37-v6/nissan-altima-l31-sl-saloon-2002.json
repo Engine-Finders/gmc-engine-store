@@ -1,0 +1,82 @@
+{
+ "brand": "nissan",
+ "brandName": "Nissan",
+ "engineSlug": "vq35-37-v6",
+ "applicationSlug": "nissan-altima-l31-sl-saloon-2002",
+ "engineCode": "VQ35DE",
+ "condition": "used",
+ "seo": {
+  "title": "Used Nissan VQ35DE Engine — Nissan Altima L31 (SL) Saloon 2002-2006 | Engined",
+  "description": "Used VQ35DE engine for Nissan Altima L31 SL 2002-2006. Fixed price £1,615, tested before dispatch, 12-month warranty, and secure UK delivery.",
+  "canonical": "https://engined.co.uk/engines/vq35-37-v6/nissan-altima-l31-sl-saloon-2002/"
+ },
+ "hero": {
+  "title": "Used Nissan VQ35DE Engine — Nissan Altima L31 (SL) Saloon 2002-2006",
+  "subtitle": "Used VQ35DE engine for Nissan Altima L31 SL — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: VQ35-USED-ALTIMA-L31-SL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,615",
+    "note": "12-month warranty",
+    "price": "£1,615.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Nissan VQ35DE Engine — Nissan Altima L31 (SL) Saloon 2002-2006",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "VQ35DE",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2002-2006",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L31",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/nissan-nissan-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number in our checker above to confirm this VQ35DE engine fits your Nissan Altima L31.",
+  "list": [
+   "Nissan Altima L31 (SL) 2002-2006"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "VAT included in the price",
+   "Secure, palletised UK delivery"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this VQ35DE engine now, or view the full VQ35DE engine range for other applications.",
+  "crossLink": "← Back to all VQ35DE engines"
+ }
+}

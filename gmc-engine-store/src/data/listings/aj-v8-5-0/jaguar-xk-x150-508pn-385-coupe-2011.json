@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "aj-v8-5-0",
+ "applicationSlug": "jaguar-xk-x150-508pn-385-coupe-2011",
+ "engineCode": "508PN",
+ "condition": "used",
+ "seo": {
+  "title": "Used 508PN 5.0 V8 Engine — Jaguar XK X150 Coupe (NA, 385hp) 2011–2014 | Engined",
+  "description": "Used 508PN 5.0 V8 engine for Jaguar XK X150 Coupe 2011–2014, 385hp NA. Fixed price £3,595, tested before dispatch, with 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/aj-v8-5-0/jaguar-xk-x150-508pn-385-coupe-2011/"
+ },
+ "hero": {
+  "title": "Used 508PN 5.0 V8 Engine — Jaguar XK X150 Coupe (NA, 385hp) 2011–2014",
+  "subtitle": "SUB — Used 508PN engine for Jaguar XK X150 Coupe 2011–2014 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 508PN-USED-XK-COUPE-385-1114",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £3,595",
+    "note": "12-month warranty",
+    "price": "£3,595.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used 508PN 5.0 V8 engine for Jaguar XK X150 Coupe 2011–2014, 385hp NA — tested before dispatch",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "508PN",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2011–2014",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X150",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration to confirm this 508PN engine fits your Jaguar XK X150 2011–2014.",
+  "list": [
+   "Jaguar XK X150 (Coupe, 5.0 V8 NA 385hp) 2011–2014"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New gaskets and seals",
+   "Ready for fitting"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 508PN engine now, or view the full 508PN engine range for other applications.",
+  "crossLink": "← Back to all 508PN engines"
+ }
+}

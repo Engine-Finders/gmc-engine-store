@@ -1,0 +1,96 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "448dt",
+ "applicationSlug": "land-rover-range-rover-l405-448dt-sdv8-340-manual-suv-2017",
+ "engineCode": "448DT",
+ "condition": "used",
+ "seo": {
+  "title": "Used 448DT 4.4 SDV8 Engine — Range Rover L405 (340 hp, Manual) 2017 | Engined",
+  "description": "Used 448DT 4.4 SDV8 engine now for Range Rover L405 2017 340 hp manual. £4,720 with 12-month warranty, UK delivery and tested before dispatch.",
+  "canonical": "https://engined.co.uk/engines/448dt/land-rover-range-rover-l405-448dt-sdv8-340-manual-suv-2017/"
+ },
+ "hero": {
+  "title": "Used 448DT 4.4 SDV8 Engine — Range Rover L405 (340 hp, Manual) 2017",
+  "subtitle": "SUB — Used 448DT engine for Range Rover L405 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 448DT-USED-L405-340-MAN-2017",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £4,720",
+    "note": "12-month warranty",
+    "price": "£4,720.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £6,295",
+    "note": "12-month warranty",
+    "price": "£6,295.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used 448DT 4.4 SDV8 diesel engine for Range Rover L405 2017 340 hp manual — tested used unit.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "448DT",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2017",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L405",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration to confirm this 448DT fits your Range Rover L405 2017 4.4 SDV8 manual before ordering.",
+  "list": [
+   "Range Rover L405 (4.4 SDV8 340 hp, Manual) 2017"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Engine block and cylinder head",
+   "Sump and timing cover"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 448DT engine now, or view the full 448DT engine range for other applications.",
+  "crossLink": "← Back to all 448DT engines"
+ }
+}

@@ -1,0 +1,96 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "om651",
+ "applicationSlug": "mercedes-a-class-w176-om651-170-manual-prefl-hatchback-2012",
+ "engineCode": "OM651",
+ "condition": "used",
+ "seo": {
+  "title": "Used OM651 2.1 CDI Engine — A-Class W176 Hatchback (A 220 CDI, 170 PS, Manual) Pre-FL 2012–2015",
+  "description": "Used OM651 2.1 CDI engine for Mercedes A-Class W176 A 220 CDI 170 PS Manual Pre-FL 2012–2015. £2,070 with 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/om651/mercedes-a-class-w176-om651-170-manual-prefl-hatchback-2012/"
+ },
+ "hero": {
+  "title": "Used OM651 2.1 CDI Engine — A-Class W176 Hatchback (A 220 CDI, 170 PS, Manual) Pre-FL 2012–2015",
+  "subtitle": "Used OM651 engine for A-Class W176, A 220 CDI, 170 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: OM651-USED-W176-A220-MAN-PREFL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,070",
+    "note": "12-month warranty",
+    "price": "£2,070.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,875",
+    "note": "12-month warranty",
+    "price": "£2,875.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used OM651 2.1 CDI engine for Mercedes A-Class W176 A 220 CDI 170 PS Manual Pre-FL 2012–2015, complete assembly.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "OM651",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2012–2015",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W176",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-om651-engine.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment by entering your registration at checkout — we verify against your VIN before dispatch.",
+  "list": [
+   "A-Class W176 (A 220 CDI 170 PS, Manual, Hatchback) Pre-FL 2012–2015"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (block, head, sump, timing cover)",
+   "Tested before dispatch with compression and leak-down report",
+   "12-month warranty as standard",
+   "New gaskets and seals on reassembly",
+   "Oil pump and water pump checked and replaced if worn"
+  ],
+  "excluded": [
+   "Turbocharger (reusable if condition allows — sold separately if required)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, air conditioning compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this OM651 engine now, or view the full OM651 engine range for other applications.",
+  "crossLink": "← Back to all OM651 engines"
+ }
+}

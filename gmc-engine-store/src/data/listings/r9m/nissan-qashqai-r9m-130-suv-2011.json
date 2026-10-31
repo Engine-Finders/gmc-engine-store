@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "r9m",
+ "applicationSlug": "nissan-qashqai-r9m-130-suv-2011",
+ "engineCode": "R9M",
+ "condition": "used",
+ "seo": {
+  "title": "Used R9M 1.6 dCi Engine — Nissan Qashqai I (1.6 dCi, 130 PS) 2011–2014 | Engined",
+  "description": "Used R9M 1.6 dCi engine for Nissan Qashqai I SUV (130 PS, 2011–2014). Fixed price £1,295, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/r9m/nissan-qashqai-r9m-130-suv-2011/"
+ },
+ "hero": {
+  "title": "Used R9M 1.6 dCi Engine — Nissan Qashqai I (1.6 dCi, 130 PS) 2011–2014",
+  "subtitle": "Used R9M engine for Nissan Qashqai I SUV 1.6 dCi 130 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: R9M-USED-QASHQAI-I-130",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,295",
+    "note": "12-month warranty",
+    "price": "£1,295.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used R9M 1.6 dCi 130 PS engine for Nissan Qashqai I SUV 2011–2014, transverse diesel, complete assembly",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "R9M",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2011–2014",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Qashqai I",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-mercedes-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration with our reg checker to confirm this R9M engine fits your Nissan Qashqai I SUV before you buy.",
+  "list": [
+   "Nissan Qashqai I (SUV) (1.6 dCi 130 PS) 2011–2014"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Engine code verified against your registration",
+   "Securely palletised for UK delivery"
+  ],
+  "excluded": [
+   "Turbocharger",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this R9M engine now, or view the full R9M engine range for other applications.",
+  "crossLink": "← Back to all R9M engines"
+ }
+}

@@ -1,0 +1,97 @@
+{
+ "brand": "audi",
+ "brandName": "Audi",
+ "engineSlug": "ea189",
+ "applicationSlug": "audi-a6-c7-cmgb-estate",
+ "engineCode": "EA189",
+ "condition": "used",
+ "seo": {
+  "title": "Used EA189 2.0 TDI Engine — Audi A6 C7 (CMGB) Estate Avant 2011-2014",
+  "description": "EA189 · Used · Audi A6 C7 Estate, A6 Avant · CMGB 2.0 TDI (130 hp) — £1,305 · 12-month warranty · UK delivery.",
+  "canonical": "https://engined.co.uk/engines/ea189/audi-a6-c7-cmgb-estate/"
+ },
+ "hero": {
+  "title": "Used EA189 2.0 TDI Engine — Audi A6 C7 (CMGB) Estate (Avant) 2011-2014",
+  "subtitle": "Used EA189 2.0 TDI engine for Audi A6 C7 Estate, A6 Avant and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA189-USED-A6-C7-CMGB-AVANT",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,305",
+    "note": "12-month warranty",
+    "price": "£1,305.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,070",
+    "note": "12-month warranty",
+    "price": "£2,070.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "EA189 2.0 TDI engine for Audi A6 C7 CMGB Estate longitudinal-mounted 130 hp unit",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA189",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2011-2014",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "C7",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/audi-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/audi-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/audi-audi-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration for instant compatibility confirmation, or check the list below to see if this EA189 2.0 TDI engine fits your vehicle.",
+  "list": [
+   "Audi A6 Estate (C7) CMGB 2011-2014"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch with compression and leak-down checks",
+   "12-month warranty as standard",
+   "Full technical inspection report",
+   "Cam belt and water pump replaced where applicable",
+   "Oil and filter service completed"
+  ],
+  "excluded": [
+   "Turbocharger (reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, air conditioning compressor, power steering pump)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA189 engine now, or view the full EA189 engine range for other applications.",
+  "crossLink": "← Back to all EA189 engines (links to https://engined.co.uk/engines/ea189/)"
+ }
+}

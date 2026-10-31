@@ -1,0 +1,83 @@
+{
+ "brand": "renault",
+ "brandName": "Renault",
+ "engineSlug": "energy-tce",
+ "applicationSlug": "renault-kadjar-i-1-2-tce-130-suv-2015-recon",
+ "engineCode": "ENERGY TCE",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned Renault Energy TCe Engine — Kadjar I (1.2 TCe 130) SUV 2015-2018 | Engined",
+  "description": "Reconditioned Energy TCe engine for Renault Kadjar I 1.2 TCe 130 (H5Ft/H5Bt) 2015-2018. Used option £695. 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/energy-tce/renault-kadjar-i-1-2-tce-130-suv-2015-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned Renault Energy TCe Engine — Kadjar I (1.2 TCe 130) SUV 2015-2018",
+  "subtitle": "Reconditioned Energy TCe engine for Kadjar I 1.2 TCe 130 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: TCe-RECON-KADJAR-12",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £695",
+    "note": "12-month warranty",
+    "price": "£695.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned Energy TCe engine for Renault Kadjar I 1.2 TCe 130, front-transverse 1.2-litre turbo petrol.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "Energy TCe",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2015-2018",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Kadjar I",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your registration to ensure this Energy TCe engine fits your Renault Kadjar I 2015-2018. Use our reg checker.",
+  "list": [
+   "Renault Kadjar I (1.2 TCe 130, 130 PS, code H5Ft/H5Bt) 2015-2018"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil sump",
+   "Valve cover"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this Energy TCe engine now, or view the full Energy TCe engine range for other applications.",
+  "crossLink": "← Back to all Energy TCe engines"
+ }
+}

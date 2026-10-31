@@ -1,0 +1,89 @@
+{
+ "brand": "renault",
+ "brandName": "Renault",
+ "engineSlug": "sce",
+ "applicationSlug": "renault-clio-iv-sce-75-hatch-2012",
+ "engineCode": "SCE",
+ "condition": "used",
+ "seo": {
+  "title": "Used Renault SCe Engine — Clio IV (SCe 75) Hatchback 2012-2019",
+  "description": "Used Renault SCe engine for Clio IV SCe 75 hatchback, 2012-2019. Tested before dispatch, 12-month warranty, UK delivery. £695. In stock.",
+  "canonical": "https://engined.co.uk/engines/sce/renault-clio-iv-sce-75-hatch-2012/"
+ },
+ "hero": {
+  "title": "Used Renault SCe Engine — Clio IV (SCe 75) Hatchback 2012-2019",
+  "subtitle": "Used SCe engine for Clio IV SCe 75 hatchback — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: SCE-USED-CLIO",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £695",
+    "note": "12-month warranty",
+    "price": "£695.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,150",
+    "note": "12-month warranty",
+    "price": "£1,150.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Renault SCe 1.0 petrol 75 PS engine for Clio IV hatchback, 2012-2019",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "SCe",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2012-2019",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Clio IV",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment against your registration before ordering — this SCe fits the applications listed below.",
+  "list": [
+   "Renault Clio IV (SCe 75, 1.0 petrol, 75 PS) 2012–2019"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil sump and pick-up pipe",
+   "Core ancillaries as specified"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system components",
+   "Ancillaries not listed above",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this SCe engine now, or view the full SCe engine range for other applications.",
+  "crossLink": "← Back to all SCe engines"
+ }
+}

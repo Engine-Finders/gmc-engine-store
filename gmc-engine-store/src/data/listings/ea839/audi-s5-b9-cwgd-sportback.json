@@ -1,0 +1,91 @@
+{
+ "brand": "audi",
+ "brandName": "Audi",
+ "engineSlug": "ea839",
+ "applicationSlug": "audi-s5-b9-cwgd-sportback",
+ "engineCode": "EA839",
+ "condition": "used",
+ "seo": {
+  "title": "Used Audi EA839 3.0T Engine — S5 B9 (CWGD 354 PS) Sportback 2016-2024",
+  "description": "EA839 3.0 TFSI · used tested engine · fits S5 Sportback B9 (354 PS) 2016-2024 · £3,495 · 12-month warranty · UK delivery",
+  "canonical": "https://engined.co.uk/engines/ea839/audi-s5-b9-cwgd-sportback/"
+ },
+ "hero": {
+  "title": "Used Audi EA839 3.0T Engine — S5 B9 (CWGD 354 PS) Sportback 2016-2024",
+  "subtitle": "Used EA839 3.0 TFSI engine for Audi S5 Sportback B9 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA839-USED-S5-SB",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £3,495",
+    "note": "12-month warranty",
+    "price": "£3,495.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "EA839 3.0 TFSI engine for Audi S5 Sportback B9 CWGD 354 PS longitudinal mount",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA839",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2016-2024",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "B9",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/audi-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/audi-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/audi-audi-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "This EA839 3.0 TFSI engine is confirmed to fit the following Audi S5 Sportback applications — use our registration checker to verify compatibility with your specific vehicle.",
+  "list": [
+   "Audi S5 Sportback (B9) 2016-2024 — 3.0 TFSI CWGD (354 PS)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Full diagnostic report",
+   "Compression test certificate",
+   "Oil and filter service completed"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA839 engine now, or view the full EA839 engine range for other applications.",
+  "crossLink": "← Back to all EA839 engines"
+ }
+}

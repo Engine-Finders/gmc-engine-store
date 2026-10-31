@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "m270",
+ "applicationSlug": "mercedes-cla-c117-m270-211-prefl-saloon-2013",
+ "engineCode": "M270",
+ "condition": "used",
+ "seo": {
+  "title": "Used M270 2.0T Engine — CLA C117 (CLA250, 211 PS, Transverse) Pre-FL 2013–2016",
+  "description": "Used M270 engine for Mercedes CLA C117 Saloon CLA250 (211 PS). Fixed price £1,395, tested before dispatch, UK delivery, 12-month warranty.",
+  "canonical": "https://engined.co.uk/engines/m270/mercedes-cla-c117-m270-211-prefl-saloon-2013/"
+ },
+ "hero": {
+  "title": "Used M270 2.0T Engine — CLA C117 (CLA250, 211 PS, Transverse) Pre-FL 2013–2016",
+  "subtitle": "Used M270 engine for CLA C117 Saloon CLA250 211 PS and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M270-USED-C117-CLA250-PREFL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,395",
+    "note": "12-month warranty",
+    "price": "£1,395.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Mercedes M270 engine for CLA C117 Saloon CLA250 transverse, complete assembly, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M270",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2013–2016",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "C117",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-m270-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number in our checker above to confirm this M270 engine fits your Mercedes CLA C117.",
+  "list": [
+   "Mercedes-Benz CLA C117 Saloon (CLA250 211 PS, Transverse) 2013–2016"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Renewed timing chain",
+   "OEM-spec gaskets and seals"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M270 engine now, or view the full M270 engine range for other applications.",
+  "crossLink": "← Back to all M270 engines"
+ }
+}

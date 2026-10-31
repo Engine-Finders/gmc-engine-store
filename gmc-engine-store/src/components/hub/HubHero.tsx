@@ -3,6 +3,7 @@
 import Link from "next/link";
 import Icon from "../Icon";
 import UkFlag from "../UkFlag";
+import { useRegCheck } from "../quote/QuoteModal";
 import type { HubPageData } from "@/lib/hub";
 
 type Hero = HubPageData["hero"];
@@ -65,6 +66,7 @@ function SpecCard({ s, i }: { s: Spec; i: number }) {
 
 export default function HubHero({ data }: { data: HubPageData }) {
   const h = data.hero;
+  const rc = useRegCheck();
 
   // "Mercedes OM651 Engine -" ends in a dash, and a normal space lets that dash
   // wrap onto a line of its own once the heading gets narrow. A non-breaking
@@ -147,7 +149,7 @@ export default function HubHero({ data }: { data: HubPageData }) {
               <p className="mt-4 max-w-[520px] text-[13.5px] sm:text-[15px] leading-[1.65] text-ink-700 dark:text-white/80 lg:mt-5">{h.description}</p>
 
               {/* reg lookup — solid white pill, as in both references */}
-              <form id="reg-check" className="mt-4 flex max-w-[560px] items-stretch overflow-hidden rounded-xl border border-line bg-white p-1 shadow-[0_18px_40px_-18px_rgba(8,16,32,0.45)] dark:border-white/12 lg:mt-5">
+              <form id="reg-check" onSubmit={rc.onSubmit} className="mt-4 flex max-w-[560px] items-stretch overflow-hidden rounded-xl border border-line bg-white p-1 shadow-[0_18px_40px_-18px_rgba(8,16,32,0.45)] dark:border-white/12 lg:mt-5">
                 <span className="flex shrink-0 items-center gap-1.5 rounded-lg border border-line px-2.5 dark:border-white/12">
                   <UkFlag className="h-4 w-6 rounded-sm" />
                   <span className="text-[12px] font-bold text-ink-700">{h.regCheck.countryFlag}</span>
@@ -156,6 +158,7 @@ export default function HubHero({ data }: { data: HubPageData }) {
                 <input
                   type="text"
                   placeholder={h.regCheck.placeholder}
+                  value={rc.reg} onChange={rc.onChange} name="reg" autoComplete="off" aria-label="Vehicle registration"
                   // 16px on mobile: anything smaller makes iOS Safari zoom the
                   // viewport on focus, which reads as a broken layout
                   className="min-w-0 flex-1 bg-transparent px-3 text-base sm:text-[14px] font-semibold tracking-wide text-ink-900 outline-none placeholder:text-ink-400"

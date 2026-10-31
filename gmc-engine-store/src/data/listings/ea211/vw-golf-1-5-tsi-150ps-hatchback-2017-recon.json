@@ -1,0 +1,90 @@
+{
+ "brand": "volkswagen",
+ "brandName": "Volkswagen",
+ "engineSlug": "ea211",
+ "applicationSlug": "vw-golf-1-5-tsi-150ps-hatchback-2017-recon",
+ "engineCode": "EA211",
+ "condition": "recon",
+ "seo": {
+  "title": "Recon EA211 Golf 1.5 TSI 150 | Engined",
+  "description": "Reconditioned EA211 1.5 TSI EVO engine for VW Golf hatchback, 150 PS, 2017-present. Fixed price £2,070, tested before dispatch, 12-month warranty.",
+  "canonical": "https://engined.co.uk/engines/ea211/vw-golf-1-5-tsi-150ps-hatchback-2017-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned EA211 Engine — VW Golf (1.5 TSI EVO 150 PS) Hatchback 2017-present",
+  "subtitle": "Reconditioned EA211 engine for VW Golf 1.5 TSI EVO 150 PS hatchback — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA211-RECON-GOLF-15TSI-150-HATCH-12M",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,070",
+    "note": "12-month warranty",
+    "price": "£2,070.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned EA211 1.5 TSI EVO 150 PS engine for VW Golf hatchback, 2017-present, ACT cylinder deactivation",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA211",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2017-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "VII/VIII",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/volkswagen-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/volkswagen-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/volkswagen-vw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with our reg checker before you buy — this reconditioned EA211 suits the application listed below.",
+  "list": [
+   "VW Golf VII/VIII (1.5 TSI EVO 150 PS, Hatchback) 2017-present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil pump and sump",
+   "Cylinder head and block"
+  ],
+  "excluded": [
+   "Turbocharger (reusable — transferred from your unit where condition allows)",
+   "Injectors and fuel system",
+   "Ancillaries (alternator, starter motor, air conditioning compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA211 engine now, or view the full EA211 range for other applications.",
+  "crossLink": "← Back to all EA211 engines"
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n43-recon",
+ "applicationSlug": "e93-320i-conv-2007",
+ "engineCode": "N43B20",
+ "condition": "recon",
+ "seo": {
+  "title": "Recon BMW N43 Engine — E93 320i Conv 2007-2009 | Engined",
+  "description": "Reconditioned BMW N43B20 high-output engine for 3 Series E93 320i Convertible (2007-2009). Fully tested, renewed timing, 170 PS. £1,895 with 12-month warranty & UK delivery.",
+  "canonical": "https://engined.co.uk/engines/bmw-n43-recon/e93-320i-conv-2007/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW N43 Engine — 3 Series E93 (320i) Convertible 2007‑2009",
+  "subtitle": "Reconditioned N43B20 high‑output engine for BMW 3 Series E93 320i Convertible (2007‑2009) — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N43-RECON-E93-320I-PREFL",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,895",
+    "note": "12-month warranty",
+    "price": "£1,895.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned BMW N43B20 high‑output engine for E93 320i Convertible, 170 PS, renewed timing",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N43B20",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2007-2009",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E93",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your vehicle's compatibility by checking your registration or chassis number against the list below.",
+  "list": [
+   "BMW 3 Series (E93) 2007‑2009 — 320i (170 PS) Convertible"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch on our dyno",
+   "12-month unlimited mileage warranty as standard",
+   "Full gasket set and seals",
+   "Engine oil and filter change",
+   "Comprehensive inspection report"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system components",
+   "Ancillaries (alternator, starter, AC compressor, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N43B20 engine now, or view the full BMW N43 engine range for other applications.",
+  "crossLink": "← Back to all BMW N43 engines"
+ }
+}

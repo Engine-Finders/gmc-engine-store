@@ -1,0 +1,97 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "m52",
+ "applicationSlug": "bmw-7-series-e38-728i-saloon-1995",
+ "engineCode": "M52",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW M52 Engine — 7 Series E38 (728i) Saloon 1995-2001",
+  "description": "Used BMW M52 E38 728i Saloon (193 PS) — from £695, reconditioned option £1,095. Tested, 12-month warranty, UK delivery. Fits 7 Series E38 1995-2001.",
+  "canonical": "https://engined.co.uk/engines/m52/bmw-7-series-e38-728i-saloon-1995/"
+ },
+ "hero": {
+  "title": "Used BMW M52 Engine — 7 Series E38 (728i) Saloon 1995-2001",
+  "subtitle": "Used M52 engine for 7 Series E38 728i Saloon — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M52-USED-E38-728I-SALOON",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £695",
+    "note": "12-month warranty",
+    "price": "£695.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,095",
+    "note": "12-month warranty",
+    "price": "£1,095.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "BMW M52 engine for E38 728i Saloon 1995-2001 — used 193 PS 6-cylinder unit",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M52",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "1995-2001",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E38",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration for a guaranteed fit check — these vehicles are confirmed compatible with this BMW M52 engine.",
+  "list": [
+   "7 Series Saloon (E38) 1995-2001 — 728i (193 PS)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Full pressure and leak testing",
+   "All gaskets and seals replaced",
+   "Timing components inspected"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries (alternator, starter, AC compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M52 engine now, or view the full M52 engine range for other applications.",
+  "crossLink": "← Back to all M52 engines"
+ }
+}

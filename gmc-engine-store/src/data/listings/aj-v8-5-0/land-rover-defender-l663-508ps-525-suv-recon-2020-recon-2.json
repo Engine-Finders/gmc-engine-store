@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "aj-v8-5-0",
+ "applicationSlug": "land-rover-defender-l663-508ps-525-suv-recon-2020-recon-2",
+ "engineCode": "508PS",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned 508PS 5.0 V8 Engine — Defender V8 L663 (SC, 525hp) 2020–2022 | Engined",
+  "description": "Reconditioned 508PS 5.0 V8 engine for Defender V8 L663 2020–2022, 525hp SC. Fixed price £8,190, tested before dispatch, 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/aj-v8-5-0/land-rover-defender-l663-508ps-525-suv-recon-2020-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned 508PS 5.0 V8 Engine — Defender V8 L663 (SC, 525hp) 2020–2022",
+  "subtitle": "SUB — Reconditioned 508PS engine for Defender V8 L663 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 508PS-RECON-DEFENDER-525-2022",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £8,190",
+    "note": "12-month warranty",
+    "price": "£8,190.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned 508PS 5.0 V8 supercharged engine for Defender V8 L663 2020–2022, 525hp — rebuilt unit",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "508PS",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2020–2022",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L663",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration to confirm this reconditioned 508PS engine fits your Defender V8 L663 2020–2022.",
+  "list": [
+   "Defender V8 L663 (SUV, 5.0 V8 SC 525hp, 508PS code) 2020–2022"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New gaskets and seals",
+   "Ready for fitting"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 508PS engine now, or view the full 508PS engine range for other applications.",
+  "crossLink": "← Back to all 508PS engines"
+ }
+}

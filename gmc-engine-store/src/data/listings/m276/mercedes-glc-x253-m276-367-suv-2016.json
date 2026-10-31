@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "m276",
+ "applicationSlug": "mercedes-glc-x253-m276-367-suv-2016",
+ "engineCode": "M276",
+ "condition": "used",
+ "seo": {
+  "title": "M276 GLC43 X253 367 | Engined",
+  "description": "Used M276 3.0 TT engine for GLC X253 GLC43 AMG 367 PS, 2016–2019. £3,465, 12-month warranty, tested before dispatch, UK delivery. Premium AMG tune.",
+  "canonical": "https://engined.co.uk/engines/m276/mercedes-glc-x253-m276-367-suv-2016/"
+ },
+ "hero": {
+  "title": "Used M276 3.0 TT Engine — GLC X253 (GLC43 AMG, 367 PS) 2016–2019",
+  "subtitle": "SUB — Used M276 engine for GLC X253, GLC43 AMG — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M276-USED-G6-X253-GLC43",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £3,465",
+    "note": "12-month warranty",
+    "price": "£3,465.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used M276 3.0 TT V6 engine for Mercedes GLC X253 GLC43 AMG 367 PS, AMG tune, premium condition.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M276",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2016–2019",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X253",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-m276-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our registration checker to confirm this used M276 fits your GLC X253 GLC43 AMG 367 PS before ordering.",
+  "list": [
+   "GLC X253 (GLC43 AMG 367 PS) 2016–2019"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Renewed timing chains",
+   "Inspected turbochargers"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M276 now, or view the full M276 range for other applications.",
+  "crossLink": "← Back to all M276 engines — https://engined.co.uk/engines/m276/"
+ }
+}

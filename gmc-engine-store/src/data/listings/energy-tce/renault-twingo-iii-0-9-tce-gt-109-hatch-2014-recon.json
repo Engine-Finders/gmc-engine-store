@@ -1,0 +1,83 @@
+{
+ "brand": "renault",
+ "brandName": "Renault",
+ "engineSlug": "energy-tce",
+ "applicationSlug": "renault-twingo-iii-0-9-tce-gt-109-hatch-2014-recon",
+ "engineCode": "ENERGY TCE",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned Renault Energy TCe Engine — Twingo III (0.9 TCe GT 109) Hatchback 2014-2020 | Engined",
+  "description": "Reconditioned Energy TCe engine for Renault Twingo III 0.9 TCe GT 109 (H4Bt) 2014-2020. Used from £750, 12-month warranty, fast UK delivery.",
+  "canonical": "https://engined.co.uk/engines/energy-tce/renault-twingo-iii-0-9-tce-gt-109-hatch-2014-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned Renault Energy TCe Engine — Twingo III (0.9 TCe GT 109) Hatchback 2014-2020",
+  "subtitle": "Reconditioned Energy TCe engine for Twingo III 0.9 TCe GT 109 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: TCe-RECON-TWINGO-GT",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £750",
+    "note": "12-month warranty",
+    "price": "£750.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned Energy TCe engine for Renault Twingo III 0.9 TCe GT 109, rear-engine turbo petrol.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "Energy TCe",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2014-2020",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Twingo III",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our registration checker to confirm this Energy TCe engine fits your Renault Twingo III 2014-2020.",
+  "list": [
+   "Renault Twingo III (0.9 TCe GT 109, 109 PS, code H4Bt) 2014-2020"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil sump",
+   "Valve cover"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this Energy TCe engine now, or view the full Energy TCe engine range for other applications.",
+  "crossLink": "← Back to all Energy TCe engines"
+ }
+}

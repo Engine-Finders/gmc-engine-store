@@ -1,0 +1,82 @@
+{
+ "brand": "nissan",
+ "brandName": "Nissan",
+ "engineSlug": "vq35-37-v6",
+ "applicationSlug": "infiniti-q60-v37-convertible-2014-recon",
+ "engineCode": "VQ37VHR",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned Nissan VQ37VHR Engine — Infiniti Q60 | Engined",
+  "description": "Reconditioned VQ37VHR engine for Infiniti Q60 V37 Convertible 2014-2020. Fixed price £3,445, tested before dispatch, UK delivery & 12-month warranty.",
+  "canonical": "https://engined.co.uk/engines/vq35-37-v6/infiniti-q60-v37-convertible-2014-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned Nissan VQ37VHR Engine — Infiniti Q60 V37 (Convertible) Convertible 2014-2020",
+  "subtitle": "Reconditioned VQ37VHR engine for Infiniti Q60 V37 Convertible — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: VQ37-RECON-Q60-V37-CONV",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £3,445",
+    "note": "12-month warranty",
+    "price": "£3,445.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "VQ37VHR engine for Infiniti Q60 V37 Convertible 2014-2020, 3.7L V6 with VVEL, tested and ready for dispatch",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "VQ37VHR",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2014-2020",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "V37",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/nissan-nissan-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number in our checker above to confirm this VQ37VHR engine is the correct fit for your Infiniti Q60 V37.",
+  "list": [
+   "Infiniti Q60 V37 2014–2020 — Convertible (3.7L V6, 328 PS)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Fully stripped and cleaned",
+   "Compression tested"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this VQ37VHR engine now, or view the full VQ37VHR range for other applications.",
+  "crossLink": "← Back to all VQ37VHR engines"
+ }
+}

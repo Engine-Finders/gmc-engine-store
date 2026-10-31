@@ -1,0 +1,83 @@
+{
+ "brand": "peugeot",
+ "brandName": "Peugeot",
+ "engineSlug": "dv6",
+ "applicationSlug": "peugeot-2008-1-6-hdi-suv-2013-recon",
+ "engineCode": "PSA DV6",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned PSA DV6 Engine — Peugeot 2008 (1.6 HDi) SUV 2013-2019 | Engined",
+  "description": "Reconditioned PSA DV6 engine for Peugeot 2008 1.6 HDi/BlueHDi (75-120 PS) 2013-2019. £1,125. Tested, 12-month warranty, UK delivery. Recon £1,980.",
+  "canonical": "https://engined.co.uk/engines/dv6/peugeot-2008-1-6-hdi-suv-2013-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned PSA DV6 Engine — Peugeot 2008 (1.6 HDi) SUV 2013-2019",
+  "subtitle": "Reconditioned PSA DV6 engine for 1.6 HDi/BlueHDi — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: DV6-RECON-2008-HDI",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,125",
+    "note": "12-month warranty",
+    "price": "£1,125.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned PSA DV6 engine for Peugeot 2008 1.6 HDi/BlueHDi SUV 2013-2019, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "PSA DV6",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2013-2019",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "2008",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our registration checker to confirm this reconditioned PSA DV6 engine fits your Peugeot 2008 1.6 HDi/BlueHDi before you buy.",
+  "list": [
+   "Peugeot 2008 (1.6 HDi / BlueHDi, 75-120 PS, codes: DV6C, DV6FE (BHW), DV6FD (BHY)) 2013-2019"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New oil and filter",
+   "Gaskets and seals"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this DV6 engine now, or view the full DV6 engine range for other applications.",
+  "crossLink": "← Back to all DV6 engines"
+ }
+}

@@ -1,0 +1,101 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "m43",
+ "applicationSlug": "bmw-3-series-compact-e36-5-316i-hatchback-1995-recon-2",
+ "engineCode": "M43",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned BMW M43 Engine — 3 Series Compact E36/5 316i",
+  "description": "BMW M43 engine for 3 Series Compact E36/5 316i (1995-2000). 102PS variant, fully tested, 12-month warranty, UK delivery. £765.",
+  "canonical": "https://engined.co.uk/engines/m43/bmw-3-series-compact-e36-5-316i-hatchback-1995-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW M43 Engine — 3 Series Compact E36/5 (316i) Hatchback 1995-2000",
+  "subtitle": "Reconditioned M43 engine for 3 Series Compact E36/5 316i Hatchback — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M43-RECON-E36-5-316I-HATCH",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £765",
+    "note": "12-month warranty",
+    "price": "£765.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned BMW M43 engine for 3 Series Compact E36/5 316i Hatchback — complete assembly ready for UK delivery",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "BMW M43",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "1995-2000",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E36/5",
+    "label": "Compatible"
+   },
+   {
+    "icon": "gauge",
+    "value": "102 PS (316i)",
+    "label": "Max Output"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   },
+   {
+    "icon": "config",
+    "value": "M43B16 / M43B19",
+    "label": "Variant"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration at checkout to confirm compatibility, or check the list below for your specific model.",
+  "list": [
+   "BMW 3 Series Compact E36/5 (316i) Hatchback — 1995-2000"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Full compression and leak-down testing",
+   "Oil and filter service completed",
+   "All gaskets and seals renewed"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system components",
+   "Ancillaries (alternator, starter motor, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this BMW M43 engine now, or view the full M43 engine range for other applications.",
+  "crossLink": "← Back to all M43 engines"
+ }
+}

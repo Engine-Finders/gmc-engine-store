@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "s63",
+ "applicationSlug": "bmw-f91-m8-competition-convertible-2019",
+ "engineCode": "S63",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW S63 4.4 V8 Engine — F91 M8 Competition Convertible (625 PS) 2019–present | Engined",
+  "description": "Used S63B44TÜ2 engine for BMW M8 F91 Competition Convertible (625 PS) 2019–present. £7,245 with 12-month warranty, UK delivery, tested before dispatch.",
+  "canonical": "https://engined.co.uk/engines/s63/bmw-f91-m8-competition-convertible-2019/"
+ },
+ "hero": {
+  "title": "Used BMW S63 4.4 V8 Engine — F91 M8 Competition Convertible (625 PS) 2019–present",
+  "subtitle": "SUB — Used S63 engine for F91 M8 Competition Convertible — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: S63-USED-F91-M8C",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £7,245",
+    "note": "12-month warranty",
+    "price": "£7,245.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW S63B44TÜ2 4.4 V8 engine for F91 M8 Competition Convertible, 2019–present, 625 PS",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "S63",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2019–present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F91",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-n63-s63-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with our reg-checker before ordering — this engine is prepared specifically for the applications listed below.",
+  "list": [
+   "BMW M8 F91 — Competition (625 PS) 2019–present (S63B44TÜ2)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block included",
+   "Crankshaft, pistons and connecting rods included"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this S63 engine now, or view the full S63 engine range for other applications.",
+  "crossLink": "← Back to all S63 engines"
+ }
+}

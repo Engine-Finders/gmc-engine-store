@@ -1,0 +1,91 @@
+{
+ "brand": "volkswagen",
+ "brandName": "Volkswagen",
+ "engineSlug": "ea189",
+ "applicationSlug": "vw-passat-b6-140ps-saloon-2008",
+ "engineCode": "EA189",
+ "condition": "used",
+ "seo": {
+  "title": "Used EA189 Engine — VW Passat B6 (2.0 TDI 140 PS) Saloon 2008-2010 | Engined",
+  "description": "Used EA189 2.0 TDI engine for VW Passat B6 (3C) 2008-2010 and more — £1,195 fixed price, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/ea189/vw-passat-b6-140ps-saloon-2008/"
+ },
+ "hero": {
+  "title": "Used EA189 Engine — VW Passat B6 (2.0 TDI 140 PS) Saloon 2008-2010",
+  "subtitle": "Used EA189 engine for Passat B6 2.0 TDI 140 PS Saloon — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA189-USED-PASSAT-B6-140-SALOON",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,195",
+    "note": "12-month warranty",
+    "price": "£1,195.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used EA189 2.0 TDI engine, Passat B6 3C saloon, 140 PS, FWD/AWD fitment 2008-2010",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA189",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2008-2010",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Passat B6 3C",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/volkswagen-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/volkswagen-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/volkswagen-vw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration with our reg checker before ordering — it confirms your Passat B6 uses the correct EA189 fitment.",
+  "list": [
+   "VW Passat B6 3C (2.0 TDI 140 PS — Saloon) 2008-2010"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block as removed",
+   "Sump and timing cover",
+   "Oil pump and water pump"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA189 engine now, or view the full EA189 engine range for other applications.",
+  "crossLink": "← Back to all EA189 engines"
+ }
+}

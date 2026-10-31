@@ -1,0 +1,83 @@
+{
+ "brand": "peugeot",
+ "brandName": "Peugeot",
+ "engineSlug": "a14net",
+ "applicationSlug": "vauxhall-mokka-a-1-4i-turbo-suv-2012",
+ "engineCode": "A14NET",
+ "condition": "used",
+ "seo": {
+  "title": "Used Vauxhall A14NET Engine — Mokka A (1.4i Turbo) SUV 2012-2016",
+  "description": "Used Vauxhall A14NET engine for Mokka A 1.4i Turbo (SE, Exclusiv, Elite) — £1,595 fixed price, 12-month warranty, tested before dispatch, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/a14net/vauxhall-mokka-a-1-4i-turbo-suv-2012/"
+ },
+ "hero": {
+  "title": "Used Vauxhall A14NET Engine — Mokka A (1.4i Turbo) SUV 2012-2016",
+  "subtitle": "Used A14NET engine for Mokka A SE, Exclusiv, Elite and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: A14NET-USED-MOKKA-A",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,595",
+    "note": "12-month warranty",
+    "price": "£1,595.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Vauxhall A14NET 1.4i turbo petrol engine for Mokka A SUV 2012-2016, FWD and 4x4 fitment.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "A14NET",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2012–2016",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Mokka A",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with our registration checker before ordering — every A14NET listed here is matched to the vehicle groups below.",
+  "list": [
+   "Vauxhall Mokka A (1.4i Turbo 140 PS — SE, Exclusiv, Elite; FWD/4x4) 2012–2016"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly — block, cylinder head and sump",
+   "Timing chain and valvetrain fitted as standard",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "UK delivery"
+  ],
+  "excluded": [
+   "Turbocharger (reusable — supplied only where condition allows)",
+   "Injectors and fuel system components",
+   "Ancillaries — alternator, starter motor, air conditioning compressor",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this A14NET engine now, or view the full A14NET engine range.",
+  "crossLink": "← Back to all A14NET engines"
+ }
+}

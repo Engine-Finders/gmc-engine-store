@@ -1,0 +1,83 @@
+{
+ "brand": "peugeot",
+ "brandName": "Peugeot",
+ "engineSlug": "dw10",
+ "applicationSlug": "peugeot-3008-2-0-hdi-163-suv-2009-recon",
+ "engineCode": "PSA DW10",
+ "condition": "recon",
+ "seo": {
+  "title": "DW10 3008 HDi163 Recon | Engined",
+  "description": "DW10 engine for Peugeot 3008 2.0 HDi 163 SUV, 2009-2016. Used from £1,295, reconditioned from £1,995. 12-month warranty, tested before dispatch, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/dw10/peugeot-3008-2-0-hdi-163-suv-2009-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned DW10 Engine — Peugeot 3008 (2.0 HDi 163) SUV 2009-2016",
+  "subtitle": "SUB — Reconditioned DW10 engine for Peugeot 3008 2.0 HDi 163 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: DW10-RECON-3008-HDI163",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,295",
+    "note": "12-month warranty",
+    "price": "£1,295.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned DW10 engine for Peugeot 3008 2.0 HDi 163 SUV 2009-2016, transverse mount, DPF/BlueHDi, tested",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "PSA DW10",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2009-2016",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "3008",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration to confirm fitment before ordering — this listing covers the Peugeot 3008 2.0 HDi 163 applications below.",
+  "list": [
+   "Peugeot 3008 (2.0 HDi 163 PS, RHE/RHH, DW10CTED4) 2009-2016"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New timing belt where applicable",
+   "New gaskets and seals"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this DW10 engine now, or view the full DW10 engine range for other applications.",
+  "crossLink": "← Back to all DW10 engines — links to https://engined.co.uk/engines/dw10"
+ }
+}

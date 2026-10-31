@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "n74",
+ "applicationSlug": "bmw-m760li-g11-g12-saloon-2016",
+ "engineCode": "N74B66TU",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned BMW N74B66TU 6.6 V12 Engine — M760Li xDrive G11/G12 Saloon 2016–2022",
+  "description": "Reconditioned BMW N74B66TU V12 engine for M760Li xDrive G11/G12 (2016-2022). 585-602 hp, tested before dispatch, 12-month warranty. £21,090 with UK delivery.",
+  "canonical": "https://engined.co.uk/engines/n74/bmw-m760li-g11-g12-saloon-2016/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW N74B66TU 6.6 V12 Engine — M760Li xDrive G11/G12 Saloon 2016–2022",
+  "subtitle": "Reconditioned N74 engine for M760Li xDrive G11/G12 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N74-RECON-G11-M760Li",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £21,090",
+    "note": "12-month warranty",
+    "price": "£21,090.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned BMW N74B66TU 6.6L V12 engine for M760Li xDrive G11/G12, 585-602 hp, tested.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N74B66TU",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2016-2022",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "G11/G12",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment for your BMW by checking your registration. This N74B66TU engine fits the following models:",
+  "list": [
+   "BMW M760Li xDrive G11/G12 (6.6 V12 585–602 hp) 2016–2022"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Free UK delivery",
+   "30-day return policy"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N74B66TU engine now, or view the full N74 engine range for other applications.",
+  "crossLink": "← Back to all N74 engines"
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "m276",
+ "applicationSlug": "mercedes-slc-r172-m276-367-roadster-recon-2016",
+ "engineCode": "M276",
+ "condition": "recon",
+ "seo": {
+  "title": "Recon M276 SLC43 R172 367 | Engined",
+  "description": "Reconditioned Mercedes-Benz M276 3.0 TT engine for SLC R172 SLC43 367 PS, 2016–2020. £5,405, 12-month warranty, tested before dispatch, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/m276/mercedes-slc-r172-m276-367-roadster-recon-2016/"
+ },
+ "hero": {
+  "title": "Reconditioned M276 3.0 TT Engine — SLC R172 (SLC43, 367 PS) 2016–2020",
+  "subtitle": "SUB — Reconditioned M276 engine for SLC R172 and SLC43 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M276-RECON-G7-R172-SLC43",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £5,405",
+    "note": "12-month warranty",
+    "price": "£5,405.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned M276 3.0 TT engine for Mercedes SLC R172 SLC43 367 PS, renewed chains, inspected turbos.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M276",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2016–2020",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "R172",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-m276-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our registration checker to confirm this reconditioned M276 fits your SLC R172 SLC43 367 PS before ordering.",
+  "list": [
+   "SLC R172 (SLC43 367 PS) 2016–2020"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Renewed timing chains",
+   "Inspected turbochargers"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M276 engine now, or view the full M276 engine range for other applications.",
+  "crossLink": "← Back to all M276 engines — https://engined.co.uk/engines/m276/"
+ }
+}

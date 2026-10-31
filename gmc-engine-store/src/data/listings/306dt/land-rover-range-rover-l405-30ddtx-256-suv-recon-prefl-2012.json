@@ -1,0 +1,91 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "306dt",
+ "applicationSlug": "land-rover-range-rover-l405-30ddtx-256-suv-recon-prefl-2012",
+ "engineCode": "30DDTX",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned 30DDTX SDV6 Engine — Range Rover L405 Pre-FL (256 PS, Twin-Turbo) 2012–2017",
+  "description": "Reconditioned 30DDTX engine for Range Rover L405. Fixed price £4,820. Tested before dispatch, includes a 12-month warranty and free UK delivery.",
+  "canonical": "https://engined.co.uk/engines/306dt/land-rover-range-rover-l405-30ddtx-256-suv-recon-prefl-2012/"
+ },
+ "hero": {
+  "title": "Reconditioned 30DDTX SDV6 Engine — Range Rover L405 Pre-FL (256 PS, Twin-Turbo) 2012–2017",
+  "subtitle": "Reconditioned 30DDTX engine for Range Rover L405 Pre-FL and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 306DT-RECON-RR-L405-256-PRE",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £4,820",
+    "note": "12-month warranty",
+    "price": "£4,820.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned Land Rover 30DDTX SDV6 engine for Range Rover L405 Pre-FL 256 PS, rebuilt and ready for UK delivery.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "30DDTX",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2012–2017",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L405",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number in our checker above to confirm this 30DDTX engine fits your Land Rover Range Rover L405.",
+  "list": [
+   "Range Rover L405 (3.0 SDV6 256 PS SUV) 2012–2017"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "OEM-spec gaskets and seals",
+   "Cleaned and degreased block",
+   "Full compression test report"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 30DDTX engine now, or view the full 306DT range for other applications.",
+  "crossLink": "← Back to all 306DT engines"
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "brand": "volkswagen",
+ "brandName": "Volkswagen",
+ "engineSlug": "ea211",
+ "applicationSlug": "vw-up-1-0-mpi-75ps-hatchback-2011",
+ "engineCode": "EA211",
+ "condition": "used",
+ "seo": {
+  "title": "Used EA211 Engine — VW Up! (1.0 MPI 75 PS) Hatchback 2011-present",
+  "description": "Used EA211 engine for VW Up! 1.0 MPI 75 PS (2011-present). Fixed price £695, tested before dispatch, 12-month warranty, UK delivery. Reconditioned from £1,200.",
+  "canonical": "https://engined.co.uk/engines/ea211/vw-up-1-0-mpi-75ps-hatchback-2011/"
+ },
+ "hero": {
+  "title": "Used EA211 Engine — VW Up! (1.0 MPI 75 PS) Hatchback 2011-present",
+  "subtitle": "Used EA211 engine for VW Up! 1.0 MPI 75 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA211-USED-UP-75-HATCH",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £695",
+    "note": "12-month warranty",
+    "price": "£695.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used EA211 1.0 MPI 75 PS engine for VW Up! hatchback, transverse NSF, tested, UK delivery",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA211",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2011-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "AA",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/volkswagen-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/volkswagen-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/volkswagen-vw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "This EA211 engine fits the following VW Up! models. Use our registration checker to confirm compatibility with your exact vehicle.",
+  "list": [
+   "VW Up! AA (1.0 MPI 75 PS — CHYB) Hatchback 2011-present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Pistons and crankshaft",
+   "Oil sump and timing cover"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries (alternator, starter, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA211 engine now, or view the full EA211 range for other applications.",
+  "crossLink": "← Back to all EA211 engines"
+ }
+}

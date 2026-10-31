@@ -1,0 +1,96 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "b58",
+ "applicationSlug": "bmw-z4-g29-m40i-convertible-2019",
+ "engineCode": "B58",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW B58 Engine — Z4 G29 (M40i) Convertible 2019-present",
+  "description": "BMW B58 · Used · Fits Z4 G29 M40i, 1 Series M140i, 2 Series M240i, 3 Series M340i — £6,325. 12-month warranty, UK delivery. Recon option available.",
+  "canonical": "https://engined.co.uk/engines/b58/bmw-z4-g29-m40i-convertible-2019/"
+ },
+ "hero": {
+  "title": "Used BMW B58 Engine — Z4 G29 (M40i) Convertible 2019-present",
+  "subtitle": "Used B58 engine for Z4 G29 M40i, 1 Series M140i, 2 Series M240i and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: B58-USED-G29-M40I",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £6,325",
+    "note": "12-month warranty",
+    "price": "£6,325.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "BMW B58 engine for Z4 G29 M40i Convertible — used 3.0-litre M Performance unit",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "B58",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2019-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "G29",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-b58-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "This used BMW B58 engine is confirmed to fit the applications listed below. Use our registration checker to confirm compatibility with your specific vehicle.",
+  "list": [
+   "Z4 Convertible (G29) 2019-present — M40i (340 hp)",
+   "1 Series M140i",
+   "2 Series M240i",
+   "3 Series 340i/M340i",
+   "4 Series 440i/M440i",
+   "Z4 (other variants)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Full inspection and compression test",
+   "Drained and flushed",
+   "UK delivery included"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries (alternator, starter, AC compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this B58 engine now, or view the full B58 engine range for other applications.",
+  "crossLink": "← Back to all B58 engines"
+ }
+}

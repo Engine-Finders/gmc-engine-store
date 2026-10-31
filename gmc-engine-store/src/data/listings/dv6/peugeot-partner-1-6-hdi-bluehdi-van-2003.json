@@ -1,0 +1,90 @@
+{
+ "brand": "citroen",
+ "brandName": "Citroen",
+ "engineSlug": "dv6",
+ "applicationSlug": "peugeot-partner-1-6-hdi-bluehdi-van-2003",
+ "engineCode": "DV6",
+ "condition": "used",
+ "seo": {
+  "title": "Used Peugeot DV6 Engine — Partner (1.6 HDi/BlueHDi) Van/MPV 2003-present",
+  "description": "DV6 · used · Peugeot Partner Van/Tepee MPV 1.6 HDi/BlueHDi · commercial-spec · £1,200 · 12-month warranty · UK delivery",
+  "canonical": "https://engined.co.uk/engines/dv6/peugeot-partner-1-6-hdi-bluehdi-van-2003/"
+ },
+ "hero": {
+  "title": "Used Peugeot DV6 Engine — Partner (1.6 HDi/BlueHDi) Van/MPV 2003-present",
+  "subtitle": "Used DV6 diesel engine for Peugeot Partner Van and Tepee MPV 1.6 HDi and BlueHDi — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: DV6-USED-PEUGEOT-PARTNER-HDI-VAN",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,200",
+    "note": "12-month warranty",
+    "price": "£1,200.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,900",
+    "note": "12-month warranty",
+    "price": "£1,900.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Peugeot DV6 1.6 HDi/BlueHDi engine for Partner Van/MPV 2003-present — tested commercial diesel unit",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "DV6",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2003-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Peugeot Partner Van (2003-present), Peugeot Partner Tepee MPV (2003-present)",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/citroen-psa-dv6-1-6-hdi-diesel-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your vehicle's compatibility below — use our reg-checker to confirm this DV6 engine matches your Peugeot Partner exactly.",
+  "list": [
+   "Peugeot Partner Van (2003-present) — 1.6 HDi / BlueHDi",
+   "Peugeot Partner Tepee MPV (2003-present) — 1.6 HDi / BlueHDi"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Comprehensive inspection report",
+   "Oil and filter service",
+   "UK mainland delivery"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this DV6 engine now, or view the full DV6 engine range for other applications.",
+  "crossLink": "← Back to all DV6 engines"
+ }
+}

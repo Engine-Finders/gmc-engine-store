@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "306ps",
+ "applicationSlug": "jaguar-xf-x260-aj126-340-saloon-recon-2015",
+ "engineCode": "AJ126",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned AJ126 Engine — Jaguar XF (340PS) | Engined",
+  "description": "Reconditioned AJ126 engine for Jaguar XF X260. Fixed price £4,295, tested before dispatch, UK delivery & 12-month warranty. Supercharged 340PS.",
+  "canonical": "https://engined.co.uk/engines/306ps/jaguar-xf-x260-aj126-340-saloon-recon-2015/"
+ },
+ "hero": {
+  "title": "Reconditioned AJ126 3.0 SC V6 Engine — Jaguar XF X260 (340PS) 2015–2020",
+  "subtitle": "Reconditioned AJ126 engine for Jaguar XF X260 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 306PS-RECON-XF-X260-340",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £4,295",
+    "note": "12-month warranty",
+    "price": "£4,295.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned AJ126 3.0 SC V6 Engine — Jaguar XF X260 (340PS) 2015–2020",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "AJ126",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2015–2020",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X260",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number in our checker above to confirm this AJ126 engine is the exact match for your vehicle.",
+  "list": [
+   "Jaguar XF X260 (3.0 AJ126 340PS) 2015–2020"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Fully rebuilt internal components",
+   "Rebuilt supercharger & new timing chains"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this AJ126 engine now, or view the full 306PS engine range for other applications.",
+  "crossLink": "← Back to all 306PS engines"
+ }
+}

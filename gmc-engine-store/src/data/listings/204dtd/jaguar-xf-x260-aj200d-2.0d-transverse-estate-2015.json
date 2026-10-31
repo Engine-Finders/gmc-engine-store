@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "204dtd",
+ "applicationSlug": "jaguar-xf-x260-aj200d-2.0d-transverse-estate-2015",
+ "engineCode": "204DTD",
+ "condition": "used",
+ "seo": {
+  "title": "PENDING — AJ200D 2.0 Diesel Engine — Jaguar XF X260 Sportbrake (2.0d, Transverse) 2015–2019",
+  "description": "Used 204DTD 2.0L diesel engine for Jaguar XF X260 Sportbrake 2.0d. Fixed £2,495 price, tested before dispatch. Includes 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/204dtd/jaguar-xf-x260-aj200d-2.0d-transverse-estate-2015/"
+ },
+ "hero": {
+  "title": "PENDING — AJ200D 2.0 Diesel Engine — Jaguar XF X260 Sportbrake (2.0d, Transverse) 2015–2019",
+  "subtitle": "Used 204DTD engine for Jaguar XF X260 Sportbrake 2.0d — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 204DTD-PEND-XF-SW-2.0D-1519",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,495",
+    "note": "12-month warranty",
+    "price": "£2,495.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "PENDING — AJ200D 2.0 Diesel Engine — Jaguar XF X260 Sportbrake (2.0d, Transverse) 2015–2019",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "204DTD",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2015–2019",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "X260",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm exact fitment for your estate using our free registration checker before ordering your 204DTD engine.",
+  "list": [
+   "Jaguar XF X260 Sportbrake (2.0 Ingenium AJ200D) 2015–2019"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch",
+   "12-month warranty as standard",
+   "Sump and oil pickup tube",
+   "Rocker cover and base gaskets"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 204DTD engine now, or view the full 204DTD engine range for other applications.",
+  "crossLink": "← Back to all 204DTD engines"
+ }
+}

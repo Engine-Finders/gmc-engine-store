@@ -1,0 +1,95 @@
+{
+ "brand": "vauxhall",
+ "brandName": "Vauxhall",
+ "engineSlug": "dv5",
+ "applicationSlug": "vauxhall-crossland-x-110ps-suv-2018",
+ "engineCode": "PSA DV5",
+ "condition": "used",
+ "seo": {
+  "title": "Used DV5 Engine — Vauxhall Crossland X (110 PS) SUV 2018-present",
+  "description": "Used PSA DV5 1.5 diesel engine for Vauxhall Crossland X SUV 2018-present. £1,525 with 12-month warranty, tested before dispatch and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/dv5/vauxhall-crossland-x-110ps-suv-2018/"
+ },
+ "hero": {
+  "title": "Used DV5 Engine — Vauxhall Crossland X (110 PS) SUV 2018-present",
+  "subtitle": "Used PSA DV5 engine for Vauxhall Crossland X 1.5 CDTI SUV — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: DV5-USED-CROSSLAND-X-110-SUV",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,525",
+    "note": "12-month warranty",
+    "price": "£1,525.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,155",
+    "note": "12-month warranty",
+    "price": "£2,155.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used PSA DV5 1.5 turbo-diesel 110 PS engine for Vauxhall Crossland X SUV, transverse FWD, 2018-present",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "PSA DV5",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2018-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Vauxhall Crossland X",
+    "label": "Compatible"
+   },
+   {
+    "icon": "gauge",
+    "value": "110 PS",
+    "label": "Max Output"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your registration with our reg checker before ordering — this engine fits the Vauxhall Crossland X with the DV5 code on the block.",
+  "list": [
+   "Vauxhall Crossland X (1.5 CDTI 110 PS, DV5, SUV) 2018-present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block inspected",
+   "Sump and timing components fitted",
+   "Compression-tested with documentation supplied"
+  ],
+  "excluded": [
+   "Turbocharger (reused only if condition allows)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this DV5 engine now, or view the full DV5 engine range for other applications.",
+  "crossLink": "← Back to all DV5 engines"
+ }
+}

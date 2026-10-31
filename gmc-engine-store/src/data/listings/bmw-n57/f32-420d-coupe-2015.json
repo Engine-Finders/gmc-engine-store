@@ -1,0 +1,96 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n57",
+ "applicationSlug": "f32-420d-coupe-2015",
+ "engineCode": "N57",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW N57 Engine — 4 Series F32 (420d) Coupe 2015-2020",
+  "description": "Used BMW N57 (N57D30O0) engine for 4 Series F32 420d Coupe, 2015-2020. Tested before dispatch, £2,695 with 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/bmw-n57/f32-420d-coupe-2015/"
+ },
+ "hero": {
+  "title": "Used BMW N57 Engine — 4 Series F32 (420d) Coupe 2015-2020",
+  "subtitle": "Used N57 engine for 4 Series F32 420d Coupe — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N57-USED-F32-420D-FL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,695",
+    "note": "12-month warranty",
+    "price": "£2,695.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £3,495",
+    "note": "12-month warranty",
+    "price": "£3,495.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW N57 N57D30O0 diesel engine for 4 Series F32 420d Coupe, 2015-2020",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N57",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2015-2020",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F32",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-n57-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration at checkout to confirm fitment — this N57 fits the BMW 4 Series F32 420d Coupe built 2015 to 2020.",
+  "list": [
+   "BMW 4 Series F32 (420d, 184 PS, Coupe) 2015-2020"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly — block, cylinder head, sump and rocker cover",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Engine code verified against your registration before dispatch",
+   "Free UK delivery"
+  ],
+  "excluded": [
+   "Turbocharger (reused from your existing unit where condition allows)",
+   "Injectors and fuel system components",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N57 engine now, or view the full N57 engine range for other applications.",
+  "crossLink": "← Back to all N57 engines"
+ }
+}

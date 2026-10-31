@@ -1,0 +1,91 @@
+{
+ "brand": "volkswagen",
+ "brandName": "Volkswagen",
+ "engineSlug": "ea288",
+ "applicationSlug": "audi-a3-8v-150ps-hatchback-2012-recon",
+ "engineCode": "EA288",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned EA288 Engine — Audi A3 8V (2.0 TDI 150 PS) Hatchback 2012-2020 (CROSS-BRAND) | Engined",
+  "description": "Reconditioned EA288 engine for Audi A3 8V 2.0 TDI 150 PS Hatchback (2012-2020). Fixed price £2,335, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/ea288/audi-a3-8v-150ps-hatchback-2012-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned EA288 Engine — Audi A3 8V (2.0 TDI 150 PS) Hatchback 2012-2020 (CROSS-BRAND)",
+  "subtitle": "Reconditioned EA288 engine for Audi A3 8V 2.0 TDI 150 PS Hatchback — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA288-RECON-A3-8V-150-HATCH-12M",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,335",
+    "note": "12-month warranty",
+    "price": "£2,335.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned EA288 2.0 TDI 150 PS engine for Audi A3 8V hatchback, 2012-2020, tested, UK delivery",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA288",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2012-2020",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "8V",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/volkswagen-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/volkswagen-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/vw-2-0-tdi-common-rail-and-later-ea288-engine.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "This reconditioned EA288 engine fits the Audi A3 8V models listed below. Use our registration checker to confirm compatibility with your exact vehicle.",
+  "list": [
+   "Audi A3 8V (2.0 TDI 150 PS — Hatchback) 2012-2020 (CROSS-BRAND — REFERENCE)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Pistons and crankshaft",
+   "Oil sump and timing cover"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries (alternator, starter, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA288 engine now, or view the full EA288 engine range for other applications.",
+  "crossLink": "← Back to all EA288 engines"
+ }
+}

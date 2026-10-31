@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "m274",
+ "applicationSlug": "mercedes-cla-c117-m270-156-prefl-saloon-2013",
+ "engineCode": "M270",
+ "condition": "used",
+ "seo": {
+  "title": "Used M270 Engine CLA C117 CLA200 156PS Pre-FL | Engined",
+  "description": "Used M270 2.0T engine for Mercedes CLA C117 Saloon CLA200 156 PS Pre-FL. Fixed price £1,395, tested before dispatch, 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/m274/mercedes-cla-c117-m270-156-prefl-saloon-2013/"
+ },
+ "hero": {
+  "title": "Used M270 2.0T Engine — CLA C117 (CLA200, 156 PS) Pre-FL 2013–2016",
+  "subtitle": "Used M270 engine for CLA C117 Saloon CLA200 156 PS and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M270-USED-C117-CLA200-PREFL",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,350",
+    "note": "12-month warranty",
+    "price": "£2,350.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used M270 2.0T engine for Mercedes CLA C117 CLA200 156 PS transverse layout, tested.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M270",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2013–2016",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "C117",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-m274-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number above to confirm this used M270 engine fits your Mercedes-Benz CLA C117.",
+  "list": [
+   "Mercedes-Benz CLA C117 2013–2016 (Saloon) CLA200 156 PS M270 Transverse"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Standard output specification",
+   "Transverse layout"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M270 engine now, or view the full M270 engine range for other applications.",
+  "crossLink": "← Back to all M270 engines"
+ }
+}

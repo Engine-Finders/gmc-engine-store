@@ -1,0 +1,91 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "b37",
+ "applicationSlug": "bmw-2-series-active-tourer-f45-214d-mpv-2014-recon",
+ "engineCode": "B37",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned BMW B37 Engine — 2 Series Active Tourer F45 (214d) MPV 2014-2021",
+  "description": "Reconditioned BMW B37 engine for 2 Series Active Tourer F45 214d MPV (2014-2021) — fixed price £2,250, fully tested, 12-month warranty included, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/b37/bmw-2-series-active-tourer-f45-214d-mpv-2014-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW B37 Engine — 2 Series Active Tourer F45 (214d) MPV 2014-2021",
+  "subtitle": "Reconditioned B37 engine for 2 Series Active Tourer F45 214d MPV — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: B37-RECON-F45-214D-MPV",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,250",
+    "note": "12-month warranty",
+    "price": "£2,250.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned BMW B37C15 engine for F45 2 Series Active Tourer 214d MPV — transverse FWD configuration",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "B37",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2014-2021",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F45",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration to confirm fitment, or check the compatible models listed below.",
+  "list": [
+   "2 Series Active Tourer (F45) 2014-2021 — 214d (95 hp)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil and filters pre-filled",
+   "Compression and leak-down test certificate",
+   "Full inspection report"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries (alternator, starter, A/C compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this B37 engine now, or view the full B37 engine range for other applications.",
+  "crossLink": "← Back to all B37 engines"
+ }
+}

@@ -1,0 +1,97 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "b38",
+ "applicationSlug": "bmw-2-series-active-tourer-f45-225xe-mpv-2014",
+ "engineCode": "B38",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW B38 Engine — 2 Series Active Tourer F45 (225xe) PHEV MPV 2014-2021",
+  "description": "B38 · used · 2 Series Active Tourer F45 (225xe) PHEV MPV · 136 hp plug‑in hybrid engine · £1,980 · 12‑month warranty · UK delivery. Hybrid‑specific integration with electric motor.",
+  "canonical": "https://engined.co.uk/engines/b38/bmw-2-series-active-tourer-f45-225xe-mpv-2014/"
+ },
+ "hero": {
+  "title": "Used BMW B38 Engine — 2 Series Active Tourer F45 (225xe) PHEV MPV 2014-2021",
+  "subtitle": "Used B38 engine for 2 Series Active Tourer F45 (225xe) PHEV MPV — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: B38-USED-F45-225XE-MPV",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,980",
+    "note": "12-month warranty",
+    "price": "£1,980.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,700",
+    "note": "12-month warranty",
+    "price": "£2,700.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "B38 engine for 2 Series Active Tourer F45 225xe plug‑in hybrid MPV with hybrid integration",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "B38",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2014-2021",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F45",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol / Hybrid",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-b38-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration to confirm compatibility, or check the list below — this B38 engine fits the following models.",
+  "list": [
+   "2 Series Active Tourer (F45) 2014-2021 — 225xe Plug‑In Hybrid (136 hp engine)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Full inspection report",
+   "Compression and leak-down test results",
+   "UK delivery included"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter, AC compressor, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this B38 engine now, or view the full B38 engine range for other applications.",
+  "crossLink": "← Back to all B38 engines"
+ }
+}

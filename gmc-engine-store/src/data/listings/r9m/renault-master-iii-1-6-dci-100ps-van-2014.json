@@ -1,0 +1,83 @@
+{
+ "brand": "renault",
+ "brandName": "Renault",
+ "engineSlug": "r9m",
+ "applicationSlug": "renault-master-iii-1-6-dci-100ps-van-2014",
+ "engineCode": "R9M",
+ "condition": "used",
+ "seo": {
+  "title": "Used Renault R9M Engine — Renault Master III (1.6 dCi 100 PS) Van 2014-2019",
+  "description": "Used Renault R9M engine for Master III 1.6 dCi 100 PS. £1,345 with 12-month warranty and UK delivery. Tested before dispatch. Reconditioned option £2,155.",
+  "canonical": "https://engined.co.uk/engines/r9m/renault-master-iii-1-6-dci-100ps-van-2014/"
+ },
+ "hero": {
+  "title": "Used Renault R9M Engine — Renault Master III (1.6 dCi 100 PS) Van 2014-2019",
+  "subtitle": "Used R9M engine for Master III 1.6 dCi 100 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: R9M-USED-MASTER-100",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,345",
+    "note": "12-month warranty",
+    "price": "£1,345.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Renault R9M engine for Renault Master III 1.6 dCi 100 PS van, R9M-452.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "R9M",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2014–2019",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Master III",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our registration checker to confirm this R9M engine fits your Renault Master III 1.6 dCi 100 PS before buying.",
+  "list": [
+   "Renault Master III (1.6 dCi 100 PS, code R9M-452) 2014–2019"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Engine block and cylinder head",
+   "Internal rotating assembly"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this R9M engine now, or view the full R9M engine range for other applications.",
+  "crossLink": "← Back to all R9M engines"
+ }
+}

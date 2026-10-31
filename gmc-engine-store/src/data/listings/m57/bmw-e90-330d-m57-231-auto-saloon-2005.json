@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "m57",
+ "applicationSlug": "bmw-e90-330d-m57-231-auto-saloon-2005",
+ "engineCode": "M57",
+ "condition": "used",
+ "seo": {
+  "title": "PENDING — M57 3.0 Engine — BMW E90 330d (Auto, 231 PS) 2005–2007 | Engined",
+  "description": "Used PENDING M57 3.0 engine for BMW E90 330d (Auto, 231 PS) 2005–2007 — BRF verification outstanding. £1,500, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/m57/bmw-e90-330d-m57-231-auto-saloon-2005/"
+ },
+ "hero": {
+  "title": "PENDING — M57 3.0 Engine — BMW E90 330d (Auto, 231 PS) 2005–2007",
+  "subtitle": "PENDING M57 engine for BMW E90 330d (Auto, 231 PS) — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M57-PEND-E90-330D-AUTO-0507",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,500",
+    "note": "12-month warranty",
+    "price": "£1,500.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "M57 3.0 diesel engine for BMW E90 330d auto 231 PS 2005–2007 — pending BRF check.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M57",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2005–2007",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E90",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration in our reg checker to confirm this M57 fits your BMW E90 330d before you buy.",
+  "list": [
+   "BMW 3 Series E90 (330d, Auto, 231 PS) 2005–2007"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly, ready to fit",
+   "Bench-tested and compression-checked before dispatch",
+   "12-month warranty as standard",
+   "New gaskets and seals fitted where required",
+   "Sump, timing cover and rocker cover included"
+  ],
+  "excluded": [
+   "Turbocharger (reused from your unit where serviceable, depending on condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, air conditioning compressor, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M57 engine now, or view the full M57 engine range for other applications.",
+  "crossLink": "← Back to all M57 engines"
+ }
+}

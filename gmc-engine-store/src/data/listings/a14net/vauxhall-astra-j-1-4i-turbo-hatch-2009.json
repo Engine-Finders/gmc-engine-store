@@ -1,0 +1,84 @@
+{
+ "brand": "peugeot",
+ "brandName": "Peugeot",
+ "engineSlug": "a14net",
+ "applicationSlug": "vauxhall-astra-j-1-4i-turbo-hatch-2009",
+ "engineCode": "A14NET",
+ "condition": "used",
+ "seo": {
+  "title": "Used Vauxhall A14NET Engine Astra J 2009-2015 | Engined",
+  "description": "Used A14NET engine for Vauxhall Astra J 2009-2015. Fits SRi, Design, Elite trims. £1,595 with 12-month warranty and UK delivery. Check fitment by reg.",
+  "canonical": "https://engined.co.uk/engines/a14net/vauxhall-astra-j-1-4i-turbo-hatch-2009/"
+ },
+ "hero": {
+  "title": "Used Vauxhall A14NET Engine — Astra J (1.4i Turbo) Hatchback 2009-2015",
+  "subtitle": "Used A14NET engine for Astra J (1.4i Turbo) Hatchback, SRi, Design, Elite and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: A14NET-USED-ASTRA-J",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,595",
+    "note": "12-month warranty",
+    "price": "£1,595.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "A14NET used engine for Vauxhall Astra J 1.4i Turbo hatchback 2009-2015, transverse petrol",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "A14NET",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2009-2015",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Astra J",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your registration with our reg checker to ensure this A14NET engine fits your Astra J.",
+  "list": [
+   "Vauxhall Astra J (1.4i Turbo 140 PS) 2009-2015 — SRi, Design, Elite, Tech Line"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Sump and timing covers",
+   "Oil pump and water pump"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this A14NET engine now, or view the full A14NET engine range for other applications.",
+  "crossLink": "← Back to all A14NET engines"
+ }
+}

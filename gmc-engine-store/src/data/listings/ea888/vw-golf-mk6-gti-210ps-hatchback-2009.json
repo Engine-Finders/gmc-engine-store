@@ -1,0 +1,90 @@
+{
+ "brand": "volkswagen",
+ "brandName": "Volkswagen",
+ "engineSlug": "ea888",
+ "applicationSlug": "vw-golf-mk6-gti-210ps-hatchback-2009",
+ "engineCode": "EA888 GEN 1",
+ "condition": "used",
+ "seo": {
+  "title": "Used EA888 Engine — VW Golf Mk6 GTI (2.0 TSI 210 PS) Hatchback 2009-2012 | Engined",
+  "description": "",
+  "canonical": "https://engined.co.uk/engines/ea888/vw-golf-mk6-gti-210ps-hatchback-2009/"
+ },
+ "hero": {
+  "title": "Used EA888 Engine — VW Golf Mk6 GTI (2.0 TSI 210 PS) Hatchback 2009-2012",
+  "subtitle": "Used EA888 Gen 1 engine for VW Golf Mk6 GTI 210 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA888-USED-GOLF-MK6-GTI-210-HATCH",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £895",
+    "note": "12-month warranty",
+    "price": "£895.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used EA888 Gen 1 2.0 TSI 210 PS transverse turbo petrol engine, VW Golf Mk6 GTI spec, CCZA engine code",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA888 Gen 1",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2009-2012",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "5K",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/volkswagen-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/volkswagen-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/volkswagen-vw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration against the list below to confirm this EA888 engine matches your Golf before ordering.",
+  "list": [
+   "VW Golf Mk6 5K (2.0 TSI GTI 210 PS — CCZA) Hatchback 2009-2012"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Fully drained and sealed for transport",
+   "New gaskets and seals where applicable"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA888 engine now, or view the full EA888 engine range for other applications.",
+  "crossLink": "← Back to all EA888 engines"
+ }
+}

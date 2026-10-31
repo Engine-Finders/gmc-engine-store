@@ -1,0 +1,96 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n57",
+ "applicationSlug": "e90-335d-saloon-2011",
+ "engineCode": "N57",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW N57 Engine — 3 Series E90 (335d) Saloon 2011‑2013",
+  "description": "Used BMW N57 engine for 3 Series E90 335d Saloon (2011‑2013). 286 PS LCI N57D30T0, fixed £3,100, 12-month warranty, tested before dispatch, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/bmw-n57/e90-335d-saloon-2011/"
+ },
+ "hero": {
+  "title": "Used BMW N57 Engine — 3 Series E90 (335d) Saloon 2011‑2013",
+  "subtitle": "Used N57 engine for BMW 3 Series E90 335d Saloon (2011‑2013) — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N57-USED-E90-335D-FL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £3,100",
+    "note": "12-month warranty",
+    "price": "£3,100.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £4,020",
+    "note": "12-month warranty",
+    "price": "£4,020.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW N57 engine — E90 335d Saloon LCI N57D30T0 286 PS, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N57",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2011‑2013",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E90",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-n57-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment for your registration with our reg checker before ordering — this listing covers one application of the N57.",
+  "list": [
+   "BMW 3 Series E90 (335d 286 PS Saloon) 2011‑2013"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New gaskets and seals where required",
+   "Oil and filter change"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N57 engine now, or view the full N57 engine range for other applications.",
+  "crossLink": "← Back to all N57 engines → https://engined.co.uk/engines/bmw-n57/"
+ }
+}

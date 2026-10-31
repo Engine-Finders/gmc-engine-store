@@ -1,0 +1,83 @@
+{
+ "brand": "peugeot",
+ "brandName": "Peugeot",
+ "engineSlug": "vq35-37-v6",
+ "applicationSlug": "nissan-skyline-v36-370gt-saloon-2008-2",
+ "engineCode": "VQ37VHR",
+ "condition": "used",
+ "seo": {
+  "title": "Used Nissan VQ37VHR Engine — Nissan Skyline V36 (370GT) Saloon 2008-2015 | Engined",
+  "description": "Used VQ37VHR engine for Nissan Skyline V36 370GT (2008-2015). 3.7L V6 328 PS, £3,445. 12-month warranty, tested before dispatch, UK delivery available.",
+  "canonical": "https://engined.co.uk/engines/vq35-37-v6/nissan-skyline-v36-370gt-saloon-2008/"
+ },
+ "hero": {
+  "title": "Used Nissan VQ37VHR Engine — Nissan Skyline V36 (370GT) Saloon 2008-2015",
+  "subtitle": "Used VQ37VHR engine for Nissan Skyline V36 370GT — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: VQ37-USED-SKYLINE-V36",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £3,445",
+    "note": "12-month warranty",
+    "price": "£3,445.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used VQ37VHR engine for Nissan Skyline V36 370GT 2008-2015, 3.7L V6 328 PS, tested.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "VQ37VHR",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2008–2015",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "V36",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment with your registration before ordering — this listing covers the Nissan Skyline V36 370GT only.",
+  "list": [
+   "Nissan Skyline V36 (370GT — 3.7L V6, 328 PS) 2008–2015"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New gaskets and seals",
+   "New timing chain and tensioner"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this VQ37VHR engine now, or view the full VQ37VHR engine range.",
+  "crossLink": "← Back to all VQ37VHR engines"
+ }
+}

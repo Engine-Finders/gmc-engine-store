@@ -1,0 +1,91 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "b48",
+ "applicationSlug": "bmw-z4-g29-sdrive20i-convertible-2019",
+ "engineCode": "B48",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW B48 Engine — Z4 G29 (sDrive20i) | Engined",
+  "description": "Used BMW B48 engine for Z4 G29 (sDrive20i) Convertible. Fixed price £2,800, fully tested before dispatch, 12-month warranty, free UK delivery.",
+  "canonical": "https://engined.co.uk/engines/b48/bmw-z4-g29-sdrive20i-convertible-2019/"
+ },
+ "hero": {
+  "title": "Used BMW B48 Engine — Z4 G29 (sDrive20i) Convertible 2019-present",
+  "subtitle": "SUB — Used B48 engine for Z4 G29 (sDrive20i) Convertible — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: B48-USED-G29-SDRIVE20I",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,800",
+    "note": "12-month warranty",
+    "price": "£2,800.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW B48 engine for Z4 G29 sDrive20i Convertible, longitudinal mount, tested.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "B48",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2019-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "G29",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-b48-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration to confirm fitment, or check the list below for compatible BMW models.",
+  "list": [
+   "Z4 Convertible (G29) — sDrive20i (184 hp) 2019-present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch (compression, oil pressure, coolant)",
+   "12-month warranty as standard",
+   "Full gasket kit and oil filter",
+   "Free UK mainland delivery",
+   "14-day return policy"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, depends on condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, AC compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this B48 engine now, or view the full B48 engine range for other applications.",
+  "crossLink": "← Back to all B48 engines"
+ }
+}

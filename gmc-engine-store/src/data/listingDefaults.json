@@ -1,0 +1,98 @@
+{
+  "warrantyBadge": "12-MONTH WARRANTY INCLUDED",
+  "warrantyNote": "12-month warranty as standard - stated on this listing before you buy",
+  "addToBasketText": "Add to basket",
+  "checkCompatibilityText": "Check compatibility",
+  "regCheck": {
+    "countryFlag": "GB",
+    "placeholder": "ENTER REG NUMBER",
+    "buttonText": "Check compatibility"
+  },
+  "fitmentNote": "We'll confirm fitment for your vehicle",
+  "podiumImage": "/images/listings/podium.png",
+  "trustBadges": [
+    {
+      "icon": "shield-check",
+      "title": "12-Month Warranty",
+      "subtitle": "Unlimited mileage"
+    },
+    {
+      "icon": "shield",
+      "title": "Verified Fitment",
+      "subtitle": "Checked by registration"
+    },
+    {
+      "icon": "truck",
+      "title": "UK Nationwide Delivery",
+      "subtitle": "Fast & secure, 2–4 days"
+    },
+    {
+      "icon": "returns",
+      "title": "14-Day Returns",
+      "subtitle": "Uninstalled, full refund"
+    },
+    {
+      "icon": "cog",
+      "title": "Quality Assured",
+      "subtitle": "Tested to OEM standards"
+    }
+  ],
+  "aboutFallbackImage": "/images/listings/listing_about.png",
+  "included": {
+    "title": "What's included",
+    "includedTitle": "Included with this engine:",
+    "excludedTitle": "Not included:"
+  },
+  "compatible": {
+    "title": "Fits these vehicles"
+  },
+  "warranty": {
+    "title": "Warranty, returns & delivery",
+    "paragraphs": [
+      "Every engine is supplied with a 12-month warranty as standard, as stated on this listing.",
+      "If the vehicle turns out not to be compatible, return the engine uninstalled within 14 days for a full refund including original delivery cost.",
+      "UK mainland delivery only, typically 2–4 working days on a kerbside pallet, with tracking emailed on dispatch."
+    ]
+  },
+  "whyBuy": {
+    "title": "Why buy from GMC?",
+    "items": [
+      "Specialists in used & reconditioned engines",
+      "20,000+ engines supplied",
+      "Verified fitment by registration",
+      "Fixed prices - No hidden fees",
+      "Trusted by 1,250+ UK customers"
+    ]
+  },
+  "otherApplications": {
+    "titlePrefix": "Other",
+    "titleSuffix": "applications",
+    "footerLinkText": "Full {code} engine guide and all applications"
+  },
+  "buyButton": "Buy it now",
+  "about": {
+    "title": "About this unit",
+    "intro": "This is the {brand} {code} engine in its {vehicle} configuration, carrying part number {sku}. If your vehicle is a different model or year, the correct unit for it is on its own application page - see the other applications below.",
+    "used": "This used unit is removed from a donor vehicle, tested, and supplied with recorded mileage; a fully reconditioned option with new wear parts is available where it is shown as a selectable tab above. Every unit we supply is inspected and checked as standard before dispatch.",
+    "recon": "This reconditioned unit is rebuilt with new wear parts, compression and leak-down tested, and supplied with the warranty shown above. Every unit we supply is inspected and checked as standard before dispatch."
+  },
+  "faqs": {
+    "title": "{code} engine FAQs",
+    "fit": {
+      "q": "Q: Will this {code} engine fit my {vehicle}?",
+      "a": "A: This unit is listed for: {fits}. Enter your registration in the checker on this page to confirm your exact specification before ordering."
+    },
+    "refund": {
+      "q": "Q: What if the engine doesn't fit after all?",
+      "a": "A: If your vehicle turns out not to be compatible, return the engine uninstalled within 14 days of delivery for a full refund including original delivery cost. The registration checker exists to prevent this happening in the first place."
+    },
+    "historyUsed": {
+      "q": "Q: What mileage and history does this used engine have?",
+      "a": "A: Recorded mileage and donor-vehicle history are shown on this listing before you buy, and every used unit is compression and leak-down tested prior to dispatch. If you'd prefer a fully rebuilt unit with new wear parts instead, the reconditioned option is shown as a selectable tab above where available, at its own listed price."
+    },
+    "historyRecon": {
+      "q": "Q: What does reconditioned mean on this engine?",
+      "a": "A: A reconditioned unit is rebuilt with new wear parts, then compression and leak-down tested and supplied with the warranty shown on this listing. If you'd prefer a lower-cost used unit, it is shown as a selectable tab above where available, at its own listed price."
+    }
+  }
+}

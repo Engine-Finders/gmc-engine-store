@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "368dt",
+ "applicationSlug": "land-rover-discovery-4-l319-368dt-3.6-suv-recon-2009",
+ "engineCode": "368DT",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned 368DT 3.6 TDV8 Engine — Discovery 4 (2009–2012)",
+  "description": "Reconditioned 368DT engine for Discovery 4 L319 (272 hp). Fixed price £3,995. Fully rebuilt, tested before dispatch, 12-month warranty & UK delivery.",
+  "canonical": "https://engined.co.uk/engines/368dt/land-rover-discovery-4-l319-368dt-3.6-suv-recon-2009/"
+ },
+ "hero": {
+  "title": "Reconditioned 368DT 3.6 TDV8 Engine — Discovery 4 (2009–2012)",
+  "subtitle": "Reconditioned 368DT engine for Discovery 4 L319 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 368DT-RECON-DISCO4",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £3,995",
+    "note": "12-month warranty",
+    "price": "£3,995.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned 368DT engine for Discovery 4 L319, 3.6 TDV8 272 hp, fully rebuilt.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "368DT",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2009–2012",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L319",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration above to confirm this 368DT engine fits your Discovery 4 before you buy.",
+  "list": [
+   "Discovery 4 L319 (3.6 TDV8 272 hp) 2009–2012"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Fully rebuilt to high specifications",
+   "Secure UK delivery"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 368DT engine now, or view the full 368DT engine range for other applications.",
+  "crossLink": "← Back to all 368DT engines"
+ }
+}

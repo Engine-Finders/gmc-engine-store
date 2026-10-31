@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n73",
+ "applicationSlug": "phantom-coupe-2008",
+ "engineCode": "N73",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW N73 Engine — Rolls-Royce Phantom VII (Phantom Coupé) 2008‑2017",
+  "description": "Used BMW N73 engine for Rolls-Royce Phantom VII (Phantom Coupé) 2008-2017. 6.75L V12, 453 PS. £7,850 with 12-month warranty included and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/bmw-n73/phantom-coupe-2008/"
+ },
+ "hero": {
+  "title": "Used BMW N73 Engine — Rolls-Royce Phantom VII (Phantom Coupé) 2008‑2017",
+  "subtitle": "Used N73 engine for Rolls-Royce Phantom VII (Phantom Coupé) 2008-2017 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N73-USED-PHANTOM-COUPE",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £7,850",
+    "note": "12-month warranty",
+    "price": "£7,850.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW N73 6.75L V12 engine for Rolls-Royce Phantom VII Coupé, 453 PS, tested before dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N73",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2008-2017",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Phantom Coupé",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment for your Rolls-Royce by checking your registration. This N73 engine fits the following models:",
+  "list": [
+   "Rolls-Royce Phantom VII Phantom Coupé (453 PS Coupe) 2008‑2017"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Free UK delivery",
+   "30-day return policy"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N73 engine now, or view the full N73 engine range for other applications.",
+  "crossLink": "← Back to all N73 engines"
+ }
+}

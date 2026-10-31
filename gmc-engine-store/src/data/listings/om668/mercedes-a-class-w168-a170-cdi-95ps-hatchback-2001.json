@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "om668",
+ "applicationSlug": "mercedes-a-class-w168-a170-cdi-95ps-hatchback-2001",
+ "engineCode": "OM668",
+ "condition": "used",
+ "seo": {
+  "title": "OM668 A-Class W168 A 170 CDI 95PS | Engined",
+  "description": "Used OM668 engine for Mercedes A-Class W168 A 170 CDI 95 PS, 2001-2004. Fixed price £495, 12-month warranty and UK delivery. Confirm fitment by registration.",
+  "canonical": "https://engined.co.uk/engines/om668/mercedes-a-class-w168-a170-cdi-95ps-hatchback-2001/"
+ },
+ "hero": {
+  "title": "Used OM668 Engine — Mercedes A-Class W168 (A 170 CDI 95 PS) Hatchback 2001-2004",
+  "subtitle": "SUB — Used OM668 engine for Mercedes A-Class W168 A 170 CDI 95 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: OM668-USED-W168-A170-95PS-HATCH",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £495",
+    "note": "12-month warranty",
+    "price": "£495.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used OM668 engine for Mercedes A-Class W168 A 170 CDI 95 PS facelift, code 668.942.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "OM668",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2001-2004",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W168",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-mercedes-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration to confirm fitment before ordering; this OM668 listing covers the following A-Class W168 applications.",
+  "list": [
+   "A-Class Hatchback W168 (A 170 CDI 95 PS) 2001-2004"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New timing belt/chain fitted where applicable",
+   "New gaskets and seals"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this OM668 engine now, or view the full OM668 engine range.",
+  "crossLink": "← Back to all OM668 engines"
+ }
+}

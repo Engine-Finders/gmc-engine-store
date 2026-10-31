@@ -1,0 +1,88 @@
+{
+ "brand": "citroen",
+ "brandName": "Citroen",
+ "engineSlug": "ep6",
+ "applicationSlug": "mini-clubman-n14-estate-2008",
+ "engineCode": "EP6",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned MINI N14/N18 1.6T Engine — Cooper S R55 Clubman 2008-2013",
+  "description": "EP6 · reconditioned · MINI Cooper S R55 Clubman N14/N18 1.6T · £2,000 · 12-month warranty · UK delivery",
+  "canonical": "https://engined.co.uk/engines/ep6/mini-clubman-n14-estate-2008/"
+ },
+ "hero": {
+  "title": "Reconditioned MINI N14/N18 1.6T Engine — Cooper S R55 Clubman 2008-2013",
+  "subtitle": "Reconditioned EP6 petrol engine for MINI Cooper S R55 Clubman N14 and N18 1.6T — fully rebuilt, tested before dispatch, UK delivery.",
+  "sku": "SKU: EP6-RECON-MINI-CLUBMAN-N14-ESTATE",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,000",
+    "note": "12-month warranty",
+    "price": "£2,000.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned MINI EP6 N14/N18 1.6T engine for Cooper S R55 Clubman 2008-2013 — fully rebuilt petrol unit",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EP6",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2008-2013",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "MINI Cooper S R55 Clubman (2008-2013) — N14 1.6T, N18 1.6T",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/citroen-psa-bmw-ep6-prince-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your vehicle's compatibility below — use our reg-checker to confirm this EP6 engine matches your MINI Cooper S exactly.",
+  "list": [
+   "MINI Cooper S R55 Clubman (2008-2013) — N14 1.6T",
+   "MINI Cooper S R55 Clubman (2008-2013) — N18 1.6T"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Rebuilt cylinder head",
+   "New timing components",
+   "MINI-specific ancillaries verified",
+   "Clubman-specific fitment verified",
+   "Comprehensive inspection report",
+   "Oil and filter service",
+   "UK mainland delivery"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EP6 engine now, or view the full EP6 engine range for other applications.",
+  "crossLink": "← Back to all EP6 engines"
+ }
+}

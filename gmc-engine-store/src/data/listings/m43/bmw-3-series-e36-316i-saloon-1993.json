@@ -1,0 +1,93 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "m43",
+ "applicationSlug": "bmw-3-series-e36-316i-saloon-1993",
+ "engineCode": "M43",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW M43 Engine — 3 Series E36 (316i) 1993-1999",
+  "description": "M43 · Used · 316i, Compact, 318i · £220 · 12-month warranty · UK delivery.",
+  "canonical": "https://engined.co.uk/engines/m43/bmw-3-series-e36-316i-saloon-1993/"
+ },
+ "hero": {
+  "title": "Used BMW M43 Engine — 3 Series E36 (316i) Saloon 1993-1999",
+  "subtitle": "Used M43 engine for 316i, Compact, 318i and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M43-USED-E36-316I-SALOON",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £220",
+    "note": "12-month warranty",
+    "price": "£220.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW M43 Engine — 3 Series E36 (316i) Saloon 1993-1999",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M43",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "1993-1999",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E36",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your vehicle's registration number to confirm compatibility before ordering.",
+  "list": [
+   "3 Series Saloon (E36) 1993-1999 — 316i (102 PS)",
+   "3 Series Compact (E36) 1994-2000 — 316i (102 PS)",
+   "3 Series Saloon (E36) 1993-1999 — 318i (M43B19, 115 PS)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Compression and leak-down tested",
+   "Oil and filter service completed",
+   "Fully inspected and validated"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter, air con compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M43 engine now, or view the full M43 engine range for other applications.",
+  "crossLink": "← Back to all M43 engines"
+ }
+}

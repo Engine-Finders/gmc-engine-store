@@ -1,0 +1,96 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "200tdi",
+ "applicationSlug": "land-rover-discovery-1-lj-200tdi-13l-111-3dr-auto-1989",
+ "engineCode": "200TDI",
+ "condition": "used",
+ "seo": {
+  "title": "Used 200Tdi 2.5 Diesel Engine — Discovery 1 3-door (13L, 111 PS, Auto) 1989–1994",
+  "description": "Used Land Rover 200Tdi diesel engine for Discovery 1 LJ 3-door (13L, automatic, 111 PS) 1989-1994. Fixed price £1,000, 12-month warranty, fast UK delivery.",
+  "canonical": "https://engined.co.uk/engines/200tdi/land-rover-discovery-1-lj-200tdi-13l-111-3dr-auto-1989/"
+ },
+ "hero": {
+  "title": "Used 200Tdi 2.5 Diesel Engine — Discovery 1 3-door (13L, 111 PS, Auto) 1989–1994",
+  "subtitle": "Used 200Tdi engine for Discovery 1 LJ 3-door automatic — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 200TDI-USED-DISCO-13L-AUTO-3DR",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,000",
+    "note": "12-month warranty",
+    "price": "£1,000.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £3,200",
+    "note": "12-month warranty",
+    "price": "£3,200.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used Land Rover 200Tdi 2.5 diesel engine for Discovery 1 LJ 3-door, 13L automatic, 1989-1994",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "200Tdi",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "1989-1994",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "LJ",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration to confirm fitment — this listing covers one specific Discovery 1 LJ 3-door 200Tdi application.",
+  "list": [
+   "Discovery 1 LJ (3-door, 200Tdi 13L, Automatic, 111 PS) 1989-1994"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly (block, head, sump, timing cover)",
+   "Tested before dispatch — compression and oil pressure verified",
+   "12-month warranty as standard",
+   "New gaskets and seals on reassembly",
+   "Crated and palletised for safe transit"
+  ],
+  "excluded": [
+   "Turbocharger (reusable if condition allows)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, power steering pump, A/C compressor)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 200Tdi engine now, or view the full 200Tdi range for other applications.",
+  "crossLink": "← Back to all 200Tdi engines"
+ }
+}

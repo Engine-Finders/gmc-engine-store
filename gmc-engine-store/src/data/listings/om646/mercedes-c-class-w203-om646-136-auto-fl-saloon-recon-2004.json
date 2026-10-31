@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "om646",
+ "applicationSlug": "mercedes-c-class-w203-om646-136-auto-fl-saloon-recon-2004",
+ "engineCode": "OM646",
+ "condition": "recon",
+ "seo": {
+  "title": "Recon OM646 Engine C-Class W203 C200 CDI 136PS | Engined",
+  "description": "Recon OM646 2.2 CDI engine for Mercedes C-Class W203 C200 CDI 136 PS Auto. Fixed price £1,900, tested before dispatch, 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/om646/mercedes-c-class-w203-om646-136-auto-fl-saloon-recon-2004/"
+ },
+ "hero": {
+  "title": "Reconditioned OM646 2.2 CDI Engine — C-Class W203 (C200 CDI, 136 PS) FL",
+  "subtitle": "Reconditioned OM646 engine for C-Class W203 Saloon C200 CDI and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: OM646-RECON-W203-C200-AUTO-FL",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,900",
+    "note": "12-month warranty",
+    "price": "£1,900.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned OM646 2.2 CDI engine for Mercedes C-Class W203 C200 CDI 136 PS Auto, tested.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "OM646",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2004–2007",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W203",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-mercedes-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number above to confirm this reconditioned OM646 engine fits your Mercedes-Benz C-Class W203.",
+  "list": [
+   "Mercedes-Benz C-Class W203 2004–2007 (Saloon) C200 CDI 136 PS Auto OM646.812"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Renewed timing chain",
+   "Automatic transmission specification"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this OM646 engine now, or view the full OM646 engine range for other applications.",
+  "crossLink": "← Back to all OM646 engines"
+ }
+}

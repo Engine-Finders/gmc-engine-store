@@ -1,0 +1,82 @@
+{
+ "brand": "mini",
+ "brandName": "Mini",
+ "engineSlug": "b47",
+ "applicationSlug": "mini-countryman-r60-cooper-sd-suv-2014-recon",
+ "engineCode": "B47",
+ "condition": "recon",
+ "seo": {
+  "title": "B47 Countryman R60 Cooper SD SUV Recon | Engined",
+  "description": "Reconditioned BMW B47 engine for MINI Countryman R60 Cooper SD SUV 2014–2016. Used from £2,870, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/b47/mini-countryman-r60-cooper-sd-suv-2014-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW B47 Engine — MINI Countryman R60 (Cooper SD) SUV 2014-2016",
+  "subtitle": "Reconditioned B47 engine for MINI Countryman R60 Cooper SD — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: B47-RECON-COUNTRYMAN-R60-COOPERSD-SUV",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £2,870",
+    "note": "12-month warranty",
+    "price": "£2,870.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "BMW B47 diesel engine for MINI Countryman R60 Cooper SD, transverse mount, MINI-specific ancillaries.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "B47",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2014-2016",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "R60",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/mini-bmw-b47-diesel-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration to confirm fitment for your MINI Countryman R60 Cooper SD before ordering.",
+  "list": [
+   "MINI Countryman (R60) 2014–2016 — Cooper SD (2.0 diesel, ~170 PS)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Oil sump and timing covers",
+   "Rocker cover (where applicable)"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this B47 engine now, or view the full B47 engine range for other applications.",
+  "crossLink": "← Back to all B47 engines"
+ }
+}

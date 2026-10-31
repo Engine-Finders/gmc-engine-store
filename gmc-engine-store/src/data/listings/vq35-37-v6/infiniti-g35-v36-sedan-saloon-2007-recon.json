@@ -1,0 +1,83 @@
+{
+ "brand": "nissan",
+ "brandName": "Nissan",
+ "engineSlug": "vq35-37-v6",
+ "applicationSlug": "infiniti-g35-v36-sedan-saloon-2007-recon",
+ "engineCode": "VQ35HR",
+ "condition": "recon",
+ "seo": {
+  "title": "Nissan VQ35HR Engine - Infiniti G35 V36 Sedan | Engined",
+  "description": "Reconditioned VQ35HR engine for Infiniti G35 V36 Sedan 2007-2008. Fixed price £2,525, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/vq35-37-v6/infiniti-g35-v36-sedan-saloon-2007-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned Nissan VQ35HR Engine — Infiniti G35 V36 (Sedan) Saloon 2007-2008",
+  "subtitle": "Reconditioned VQ35HR engine for Infiniti G35 V36 Sedan and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: VQ35-RECON-G35-V36-SEDAN",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £3,445",
+    "note": "12-month warranty",
+    "price": "£3,445.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned Nissan VQ35HR Engine — Infiniti G35 V36 (Sedan) Saloon 2007-2008",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "VQ35HR",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2007-2008",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "V36",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/nissan-nissan-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm your exact registration with our free checker to ensure a perfect match for your Infiniti G35 V36 before ordering.",
+  "list": [
+   "Infiniti G35 V36 (Sedan) Saloon 2007-2008"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested-before-dispatch",
+   "12-month warranty as standard",
+   "Cylinder block",
+   "Cylinder heads",
+   "Oil sump"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this VQ35HR engine now, or view the full range for other applications.",
+  "crossLink": "← Back to all VQ35HR engines"
+ }
+}

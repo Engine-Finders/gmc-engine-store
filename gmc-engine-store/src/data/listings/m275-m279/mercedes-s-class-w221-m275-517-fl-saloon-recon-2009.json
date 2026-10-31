@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "m275-m279",
+ "applicationSlug": "mercedes-s-class-w221-m275-517-fl-saloon-recon-2009",
+ "engineCode": "M275",
+ "condition": "recon",
+ "seo": {
+  "title": "Recon M275 S600 W221 FL 517 | Engined",
+  "description": "Reconditioned M275 5.5 V12 Biturbo engine for Mercedes S-Class W221 S600 517 PS facelift saloon 2009–2013. £11,500, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/m275-m279/mercedes-s-class-w221-m275-517-fl-saloon-recon-2009/"
+ },
+ "hero": {
+  "title": "Recon M275 S600 W221 FL 517",
+  "subtitle": "SUB — Reconditioned M275 engine for S600, W221 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M275-RECON-W221-S600-FL",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £11,500",
+    "note": "12-month warranty",
+    "price": "£11,500.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned Mercedes M275 5.5 V12 Biturbo engine for S-Class W221 S600 517 PS facelift saloon",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M275",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2009–2013",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W221",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-mercedes-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration to confirm fitment before ordering — this M275 unit is listed for the following S-Class W221 applications.",
+  "list": [
+   "Mercedes-Benz S-Class W221 (S600 517 PS, Saloon, V12 Biturbo) 2009–2013"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Renewed twin-turbo coolant lines",
+   "Reconditioned to standard output"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M275 engine now, or view the full M275 engine range for other applications.",
+  "crossLink": "← Back to all M275 engines — https://engined.co.uk/engines/m275-m279/"
+ }
+}

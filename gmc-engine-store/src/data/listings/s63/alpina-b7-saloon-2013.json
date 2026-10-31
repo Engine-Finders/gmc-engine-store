@@ -1,0 +1,96 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "s63",
+ "applicationSlug": "alpina-b7-saloon-2013",
+ "engineCode": "S63",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW S63 4.4 V8 Engine — Alpina B7 (F01/G12) 2013–present",
+  "description": "Used BMW S63 engine for the Alpina B7 F01/G12 Saloon (600 PS, 2013–present). £5,800 fixed price, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/s63/alpina-b7-saloon-2013/"
+ },
+ "hero": {
+  "title": "Used BMW S63 4.4 V8 Engine — Alpina B7 (F01/G12) 2013–present",
+  "subtitle": "Used S63 engine for the Alpina B7 F01/G12 Saloon — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: S63-USED-ALPINA-B7",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £5,800",
+    "note": "12-month warranty",
+    "price": "£5,800.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £9,060",
+    "note": "12-month warranty",
+    "price": "£9,060.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW S63B44TÜ engine for Alpina B7 F01/G12 Saloon, 600 PS, 2013–present, Alpina-tuned",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "S63",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2013–present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F01, G12",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-n63-s63-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Confirm fitment by entering your registration in our reg checker — this listing covers the applications below. Alpina-specific requirements may need separate verification.",
+  "list": [
+   "Alpina B7 F01/G12 (Saloon, 600 PS — S63B44TÜ) 2013–present"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Fully inspected and cleaned",
+   "Supplied ready to fit"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this S63 engine now, or view the full S63 engine range for other applications.",
+  "crossLink": "← Back to all S63 engines"
+ }
+}

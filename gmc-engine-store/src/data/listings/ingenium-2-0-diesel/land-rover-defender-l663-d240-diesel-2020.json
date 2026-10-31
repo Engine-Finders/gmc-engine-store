@@ -1,0 +1,90 @@
+{
+ "brand": "jaguar",
+ "brandName": "Jaguar",
+ "engineSlug": "ingenium-2-0-diesel",
+ "applicationSlug": "land-rover-defender-l663-d240-diesel-2020",
+ "engineCode": "204DTA",
+ "condition": "used",
+ "seo": {
+  "title": "Used 204DTA Diesel Engine — Defender L663 D240 | Engined",
+  "description": "Used 204DTA engine for Defender (L663) D240 2.0 Diesel SUV. Fixed price £3,444, tested before dispatch, UK delivery & 12-month warranty included.",
+  "canonical": "https://engined.co.uk/engines/ingenium-2-0-diesel/land-rover-defender-l663-d240-diesel-2020/"
+ },
+ "hero": {
+  "title": "Used 204DTA 2.0 Ingenium Diesel Engine — Defender (L663) D240 SUV",
+  "subtitle": "Used 204DTA engine for Defender (L663) D240 2.0 Diesel SUV — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 204DTA-USED-DEFENDER-L663-D240",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £3,444",
+    "note": "12-month warranty",
+    "price": "£3,444.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used 204DTA 2.0 Ingenium Diesel engine for Land Rover Defender L663 D240, tested and ready for dispatch.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "204DTA",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2020-Present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L663",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/jaguar-3-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/jaguar-3-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/jaguar-jaguar-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number above to confirm this 204DTA engine fits your Land Rover Defender (L663) D240.",
+  "list": [
+   "Defender (L663) (D240 2.0 Diesel 240 PS SUV) (2020-Present)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "VAT included",
+   "Professional, secure packaging"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 204DTA engine now, or view all 204DTA engines for other applications.",
+  "crossLink": "← Back to all 204DTA engines"
+ }
+}

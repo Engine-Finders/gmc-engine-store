@@ -1,0 +1,83 @@
+{
+ "brand": "renault",
+ "brandName": "Renault",
+ "engineSlug": "r9m",
+ "applicationSlug": "renault-trafic-ii-1-6-dci-125ps-van-2014-recon-2",
+ "engineCode": "R9M",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned Renault R9M Engine — Renault Trafic II (1.6 dCi 125 PS) Van 2014-2018 | Engined",
+  "description": "Reconditioned Renault R9M engine for Renault Trafic II 1.6 dCi 125 PS. Used from £1,345, reconditioned £2,155. 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/r9m/renault-trafic-ii-1-6-dci-125ps-van-2014-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned Renault R9M Engine — Renault Trafic II (1.6 dCi 125 PS) Van 2014-2018",
+  "subtitle": "Reconditioned R9M engine for Renault Trafic II 1.6 dCi 125 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: R9M-RECON-TRAFIC-125",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,345",
+    "note": "12-month warranty",
+    "price": "£1,345.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned Renault R9M engine for Renault Trafic II 1.6 dCi 125 PS van, R9M-452.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "R9M",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2014–2018",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "Trafic II",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engine.png",
+    "thumb": "/images/listings/engine_trim.png",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our registration checker to confirm this R9M engine fits your Renault Trafic II 1.6 dCi 125 PS before buying.",
+  "list": [
+   "Renault Trafic II (1.6 dCi 125 PS, R9M-452) 2014–2018"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Engine block and cylinder head",
+   "Internal rotating assembly"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this R9M engine now, or view the full R9M engine range for other applications.",
+  "crossLink": "← Back to all R9M engines"
+ }
+}

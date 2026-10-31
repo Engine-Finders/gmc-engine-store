@@ -1,0 +1,90 @@
+{
+ "brand": "mercedes",
+ "brandName": "Mercedes",
+ "engineSlug": "m273",
+ "applicationSlug": "mercedes-ml-w164-m273-388-auto-prefl-suv-2007",
+ "engineCode": "M273",
+ "condition": "used",
+ "seo": {
+  "title": "Used M273 5.5 V8 Engine — ML W164 (ML500, 388 PS, Auto) Pre-FL 2007–2008",
+  "description": "Used M273 5.5 V8 engine for ML W164 ML500 388 PS Auto Pre-FL 2007–2008. Fixed £1,995, tested before dispatch, 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/m273/mercedes-ml-w164-m273-388-auto-prefl-suv-2007/"
+ },
+ "hero": {
+  "title": "Used M273 5.5 V8 Engine — ML W164 (ML500, 388 PS, Auto) Pre-FL 2007–2008",
+  "subtitle": "SUB — Used M273 engine for ML W164 and ML500 — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: M273-USED-W164-ML500-PREFL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £1,995",
+    "note": "12-month warranty",
+    "price": "£1,995.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used M273 5.5 V8 engine for ML W164 ML500 388 PS Auto Pre-FL 2007–2008 4MATIC",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "M273",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2007–2008",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "W164",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/mercedes-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/mercedes-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/mercedes-m273-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Use our reg checker to confirm this M273 engine fits your ML W164 ML500 before ordering.",
+  "list": [
+   "ML W164 (ML500 388 PS Auto M273.963) 2007–2008"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head, block, sump and timing cover as applicable",
+   "Oil pump and water pump where fitted"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this M273 engine now, or view the full M273 engine range for other applications.",
+  "crossLink": "← Back to all M273 engines — https://engined.co.uk/engines/m273"
+ }
+}

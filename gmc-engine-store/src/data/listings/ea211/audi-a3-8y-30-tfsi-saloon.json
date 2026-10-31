@@ -1,0 +1,97 @@
+{
+ "brand": "audi",
+ "brandName": "Audi",
+ "engineSlug": "ea211",
+ "applicationSlug": "audi-a3-8y-30-tfsi-saloon",
+ "engineCode": "EA211",
+ "condition": "used",
+ "seo": {
+  "title": "Used Audi EA211 Engine — A3 8Y (30 TFSI 116 PS) Saloon 2020-present | Engined",
+  "description": "EA211 · Used · Audi A3 Saloon 8Y 2020-present, 30 TFSI 1.0 116 PS — £995 · 12-month warranty · UK delivery.",
+  "canonical": "https://engined.co.uk/engines/ea211/audi-a3-8y-30-tfsi-saloon/"
+ },
+ "hero": {
+  "title": "Used Audi EA211 Engine — A3 8Y (30 TFSI 116 PS) Saloon 2020-present",
+  "subtitle": "Used EA211 1.0 TFSI engine for Audi A3 Saloon (8Y) 30 TFSI 116 PS — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: EA211-USED-A3-8Y-30-SAL",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £995",
+    "note": "12-month warranty",
+    "price": "£995.00",
+    "default": true
+   },
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,650",
+    "note": "12-month warranty",
+    "price": "£1,650.00"
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used EA211 1.0 TFSI engine for Audi A3 8Y Saloon – 30 TFSI 116 PS, three-cylinder, transverse mount",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "EA211",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2020-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "8Y",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/audi-2-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/audi-2-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/audi-audi-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration for instant compatibility confirmation, or check the list below to see if this EA211 1.0 TFSI engine fits your vehicle.",
+  "list": [
+   "Audi A3 Saloon (8Y) 2020-present — 30 TFSI (1.0, 116 PS)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch with compression and leak-down checks",
+   "12-month warranty as standard",
+   "Full technical inspection report",
+   "Cam belt and water pump replaced where applicable",
+   "Oil and filter service completed"
+  ],
+  "excluded": [
+   "Turbocharger (reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter motor, air conditioning compressor, power steering pump)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this EA211 engine now, or view the full EA211 engine range for other applications.",
+  "crossLink": "← Back to all EA211 engines (links to https://engined.co.uk/engines/ea211/)"
+ }
+}

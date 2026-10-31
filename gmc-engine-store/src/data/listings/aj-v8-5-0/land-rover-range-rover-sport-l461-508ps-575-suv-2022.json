@@ -1,0 +1,90 @@
+{
+ "brand": "landrover",
+ "brandName": "Land Rover",
+ "engineSlug": "aj-v8-5-0",
+ "applicationSlug": "land-rover-range-rover-sport-l461-508ps-575-suv-2022",
+ "engineCode": "508PS",
+ "condition": "used",
+ "seo": {
+  "title": "Used 508PS 5.0 V8 Engine — Range Rover Sport L461 (SC, 575hp) 2022–2024",
+  "description": "Used 508PS 5.0 V8 supercharged engine for Range Rover Sport L461 SVR 2022–2024. Fixed £5,545, tested before dispatch, 12-month warranty, UK delivery.",
+  "canonical": "https://engined.co.uk/engines/aj-v8-5-0/land-rover-range-rover-sport-l461-508ps-575-suv-2022/"
+ },
+ "hero": {
+  "title": "Used 508PS 5.0 V8 Engine — Range Rover Sport L461 (SC, 575hp) 2022–2024",
+  "subtitle": "Used 508PS engine for Range Rover Sport L461 SVR — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: 508PS-USED-L461-575-2224",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £5,545",
+    "note": "12-month warranty",
+    "price": "£5,545.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used 508PS 5.0 supercharged V8 engine for Range Rover Sport L461 SVR, 2022–2024, pictured as removed",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "508PS",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2022–2024",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "L461",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/landrover-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/landrover-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/land-rover-jaguar-land-rover-engine-compatibility-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration to confirm your Range Rover Sport L461 SVR is covered before ordering.",
+  "list": [
+   "Range Rover Sport L461 (5.0 V8 SC 575hp, 508PS) 2022–2024"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "New gaskets and seals fitted during preparation",
+   "Oil sump and timing cover"
+  ],
+  "excluded": [
+   "Turbocharger / supercharger (if reusable, supplied per condition)",
+   "Injectors and fuel system",
+   "Ancillaries (alternator, starter, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this 508PS engine now, or view the full 508PS engine range for other applications.",
+  "crossLink": "← Back to all 508PS engines"
+ }
+}

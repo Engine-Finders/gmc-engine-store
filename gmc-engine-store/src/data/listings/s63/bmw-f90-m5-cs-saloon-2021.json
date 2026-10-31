@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "s63",
+ "applicationSlug": "bmw-f90-m5-cs-saloon-2021",
+ "engineCode": "S63",
+ "condition": "used",
+ "seo": {
+  "title": "Used S63 F90 M5 CS Saloon | Engined",
+  "description": "Used BMW S63 4.4 V8 engine for F90 M5 CS Saloon (635 PS), 2021–2023. Fixed £7,245, tested before dispatch, 12-month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/s63/bmw-f90-m5-cs-saloon-2021/"
+ },
+ "hero": {
+  "title": "Used BMW S63 4.4 V8 Engine — F90 M5 CS Saloon (635 PS) 2021–2023",
+  "subtitle": "SUB — Used BMW S63 engine for F90 M5 CS Saloon — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: S63-USED-F90-M5CS",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £7,245",
+    "note": "12-month warranty",
+    "price": "£7,245.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW S63 4.4 V8 engine for BMW M5 F90 CS Saloon, 635 PS, 2021–2023, tested used unit.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "BMW S63",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2021–2023",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "F90",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-n63-s63-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your reg to confirm this used BMW S63 engine fits your F90 M5 CS before you buy.",
+  "list": [
+   "BMW M5 F90 (CS 635 PS Saloon, S63B44TÜ2) 2021–2023"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Cylinder head and block",
+   "Oil sump and timing cover"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors / fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this BMW S63 engine now, or view the full BMW S63 engine range for other applications.",
+  "crossLink": "← Back to all BMW S63 engines"
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "b48",
+ "applicationSlug": "bmw-5-series-g30-530i-saloon-2017",
+ "engineCode": "B48",
+ "condition": "used",
+ "seo": {
+  "title": "Used BMW B48 Engine — 5 Series G30 (530i) Saloon 2017-present",
+  "description": "Used B48 engine for BMW 5 Series G30 (530i) Saloon 2017-present — 252 hp. In stock at £2,990 with 12‑month warranty and UK delivery.",
+  "canonical": "https://engined.co.uk/engines/b48/bmw-5-series-g30-530i-saloon-2017/"
+ },
+ "hero": {
+  "title": "Used BMW B48 Engine — 5 Series G30 (530i) Saloon 2017-present",
+  "subtitle": "Used B48 engine for BMW 5 Series G30 (530i) Saloon — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: B48-USED-G30-530I",
+  "options": [
+   {
+    "id": "used",
+    "label": "Used — £2,990",
+    "note": "12-month warranty",
+    "price": "£2,990.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Used BMW B48 engine for 5 Series G30 530i Saloon — 252 hp, longitudinal mount.",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "B48",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2017-present",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "G30",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-b48-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "This B48 engine fits the BMW 5 Series Saloon (G30) 2017-present 530i — use our reg checker below to confirm exact compatibility for your vehicle.",
+  "list": [
+   "BMW 5 Series Saloon (G30) 2017-present — 530i (252 hp)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Full inspection report",
+   "Oil and filter service",
+   "UK delivery"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, depends on condition)",
+   "Injectors/fuel system",
+   "Ancillaries (alternator, starter, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this B48 engine now, or view the full B48 engine range for other applications.",
+  "crossLink": "← Back to all B48 engines"
+ }
+}

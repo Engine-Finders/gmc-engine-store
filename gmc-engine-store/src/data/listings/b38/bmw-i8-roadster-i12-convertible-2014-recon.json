@@ -1,0 +1,91 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "b38",
+ "applicationSlug": "bmw-i8-roadster-i12-convertible-2014-recon",
+ "engineCode": "B38",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned BMW B38 Engine — i8 Roadster (I12) Convertible 2014-2020",
+  "description": "Reconditioned B38 · i8 Roadster (I12) Convertible · 228 hp high‑output hybrid engine · £5,175 · 12‑month warranty · UK delivery. B38K15T0 variant with full rebuild and test.",
+  "canonical": "https://engined.co.uk/engines/b38/bmw-i8-roadster-i12-convertible-2014-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW B38 Engine — i8 Roadster (I12) Convertible 2014-2020",
+  "subtitle": "Reconditioned B38 engine for i8 Roadster (I12) Convertible and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: B38-RECON-I12-I8-ROADSTER",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £5,175",
+    "note": "12-month warranty",
+    "price": "£5,175.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned BMW B38K15T0 i8 Roadster I12 high‑output hybrid engine assembly with electric motor integration",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "B38",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2014-2020",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "I12",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol / Hybrid",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-b38-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration to confirm compatibility, or check the list below — this B38 engine fits the following models.",
+  "list": [
+   "i8 Roadster (I12) 2014-2020 — i8 Roadster (228 hp)"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Full inspection report",
+   "Compression and leak-down test results",
+   "UK delivery included"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries (alternator, starter, AC compressor, etc.)",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this B38 engine now, or view the full B38 engine range for other applications.",
+  "crossLink": "← Back to all B38 engines"
+ }
+}

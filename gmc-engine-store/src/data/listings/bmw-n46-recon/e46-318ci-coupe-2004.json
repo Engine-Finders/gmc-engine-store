@@ -1,0 +1,90 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n46-recon",
+ "applicationSlug": "e46-318ci-coupe-2004",
+ "engineCode": "N46",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned BMW N46 Engine — 3 Series E46 (318Ci) Coupe 2004‑2006 | Engined",
+  "description": "Reconditioned N46 engine for BMW 3 Series E46 318Ci Coupe · £1,615 · 12-month warranty · UK delivery · Fully rebuilt with renewed timing · E46-specific",
+  "canonical": "https://engined.co.uk/engines/bmw-n46-recon/e46-318ci-coupe-2004/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW N46 Engine — 3 Series E46 (318Ci) Coupe 2004‑2006",
+  "subtitle": "Reconditioned N46 engine for BMW 3 Series E46 318Ci Coupe — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N46-RECON-E46-318CI",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,615",
+    "note": "12-month warranty",
+    "price": "£1,615.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "Prepared to order",
+  "imgAlt": "Reconditioned BMW N46B20 engine for E46 318Ci Coupe 2004‑2006, fully rebuilt with renewed timing",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N46",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2004‑2006",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E46",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Check your registration to confirm fitment before ordering. This engine is a direct fit for the applications listed below.",
+  "list": [
+   "BMW 3 Series E46 318Ci (148 PS) Coupe 2004‑2006"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12‑month warranty as standard",
+   "Renewed timing chain and tensioner",
+   "Rebuilt Valvetronic system"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N46 engine now, or view the full N46 engine range for other applications.",
+  "crossLink": "← Back to all N46 engines"
+ }
+}

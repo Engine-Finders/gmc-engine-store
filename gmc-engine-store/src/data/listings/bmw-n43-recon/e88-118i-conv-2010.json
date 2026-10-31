@@ -1,0 +1,95 @@
+{
+ "brand": "bmw",
+ "brandName": "BMW",
+ "engineSlug": "bmw-n43-recon",
+ "applicationSlug": "e88-118i-conv-2010",
+ "engineCode": "N43B20",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned BMW N43 Engine — 1 Series E88 (118i) Convertible 2010‑2013",
+  "description": "Reconditioned N43B20 · 118i (143 PS) · E88 Convertible · £1,705 · 12‑month warranty · UK delivery",
+  "canonical": "https://engined.co.uk/engines/bmw-n43-recon/e88-118i-conv-2010/"
+ },
+ "hero": {
+  "title": "Reconditioned BMW N43 Engine — 1 Series E88 (118i) Convertible 2010‑2013",
+  "subtitle": "Reconditioned N43 engine for BMW 1 Series E88 118i Convertible — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: N43-RECON-E88-118I-FL",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £1,705",
+    "note": "12-month warranty",
+    "price": "£1,705.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "Reconditioned BMW N43B20 engine for E88 118i Convertible 2010‑2013 with EU5 compliance",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "N43B20",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2010‑2013",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E88",
+    "label": "Compatible"
+   },
+   {
+    "icon": "gauge",
+    "value": "143 PS",
+    "label": "Max Output"
+   },
+   {
+    "icon": "fuel",
+    "value": "Petrol",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/default/bmw-1-front.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/default/bmw-1-bay.webp",
+    "kind": "photo"
+   },
+   {
+    "src": "/images/listings/engines/bmw-bmw-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration to confirm exact compatibility with your BMW 1 Series E88 118i Convertible.",
+  "list": [
+   "BMW 1 Series (E88) 2010‑2013 — 118i (143 PS) Convertible"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12‑month warranty as standard",
+   "Oil and filter service completed",
+   "New gaskets and seals fitted"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors and fuel system components",
+   "Ancillaries not specific to this application",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this N43 engine now, or view the full N43 engine range for other applications.",
+  "crossLink": "← [Back to all N43 engines"
+ }
+}

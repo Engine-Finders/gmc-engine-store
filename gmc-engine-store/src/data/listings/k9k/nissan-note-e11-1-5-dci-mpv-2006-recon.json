@@ -1,0 +1,82 @@
+{
+ "brand": "nissan",
+ "brandName": "Nissan",
+ "engineSlug": "k9k",
+ "applicationSlug": "nissan-note-e11-1-5-dci-mpv-2006-recon",
+ "engineCode": "K9K",
+ "condition": "recon",
+ "seo": {
+  "title": "Reconditioned K9K Engine — Nissan Note E11 (1.5 dCi) MPV 2006-2012",
+  "description": "Reconditioned K9K engine for Nissan Note E11 1.5 dCi MPV. Fixed price £985 used, 12-month warranty & UK delivery. Various outputs 90-116 PS.",
+  "canonical": "https://engined.co.uk/engines/k9k/nissan-note-e11-1-5-dci-mpv-2006-recon/"
+ },
+ "hero": {
+  "title": "Reconditioned K9K Engine — Nissan Note E11 (1.5 dCi) MPV 2006-2012",
+  "subtitle": "Reconditioned K9K engine for Nissan Note E11 1.5 dCi MPV and more — fixed price, tested before dispatch, UK delivery.",
+  "sku": "SKU: K9K-USED-G1-NOTE",
+  "options": [
+   {
+    "id": "recon",
+    "label": "Reconditioned — £985",
+    "note": "12-month warranty",
+    "price": "£985.00",
+    "default": true
+   }
+  ],
+  "stockLabel": "In stock — ready to ship",
+  "imgAlt": "K9K transverse-mounted 1.5-litre dCi diesel engine for Nissan Note E11 MPV 2006-2012",
+  "specCards": [
+   {
+    "icon": "cog",
+    "value": "K9K",
+    "label": "Engine Code"
+   },
+   {
+    "icon": "calendar",
+    "value": "2006-2012",
+    "label": "Production Years"
+   },
+   {
+    "icon": "car",
+    "value": "E11",
+    "label": "Compatible"
+   },
+   {
+    "icon": "fuel",
+    "value": "Diesel",
+    "label": "Fuel Type"
+   }
+  ],
+  "gallery": [
+   {
+    "src": "/images/listings/engines/renault-k9k-dci-diesel-engine-hero.webp",
+    "kind": "engine"
+   }
+  ]
+ },
+ "fits": {
+  "intro": "Enter your registration number above to confirm this K9K engine fits your vehicle before ordering.",
+  "list": [
+   "Nissan Note E11 (1.5 dCi MPV) 2006-2012"
+  ]
+ },
+ "included": {
+  "included": [
+   "Complete engine assembly",
+   "Tested before dispatch",
+   "12-month warranty as standard",
+   "Fully inspected and cleaned",
+   "Ready for direct fitment"
+  ],
+  "excluded": [
+   "Turbocharger (if reusable, per condition)",
+   "Injectors/fuel system",
+   "Ancillaries",
+   "Fitting and installation"
+  ]
+ },
+ "cta": {
+  "line": "Buy this K9K engine now, or view the full K9K engine range for other applications.",
+  "crossLink": "← Back to all K9K engines"
+ }
+}
