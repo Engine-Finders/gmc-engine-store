@@ -61,18 +61,21 @@ const CX = 515; // horizontal centre of the layout
 // rz follows the curve of the ring, b is brightness.
 type Slot = { x: number; y: number; s: number; d: number; rz: number; b: number };
 const SLOTS: Slot[] = [
-  { x: 0, y: 300, s: 1.0, d: 9, rz: 0, b: 1 }, //        front (hero card)
-  { x: 272, y: 440, s: 0.58, d: 8, rz: -7, b: 1 }, // front right
+  { x: 0, y: 280, s: 1.0, d: 9, rz: 0, b: 1 }, //        front (hero card)
+  { x: 272, y: 440, s: 0.58, d: 8, rz: -6, b: 1 }, // front right
   { x: 420, y: 272, s: 0.46, d: 7, rz: 8, b: 0.96 }, //   right
-  { x: 362, y: 96, s: 0.4, d: 5, rz: 3, b: 0.92 }, //     back right, outer
-  { x: 214, y: 112, s: 0.43, d: 4, rz: 2, b: 0.92 }, //   back right, inner
-  { x: -214, y: 112, s: 0.43, d: 4, rz: -3, b: 0.92 }, // back left, inner
-  { x: -362, y: 96, s: 0.4, d: 5, rz: -3, b: 0.92 }, //   back left, outer
-  { x: -420, y: 272, s: 0.46, d: 7, rz: -5, b: 0.96 }, // left
-  { x: -272, y: 440, s: 0.58, d: 8, rz: 5, b: 1 }, // front left
+  { x: 362, y: 96, s: 0.4, d: 5, rz: 0, b: 0.92 }, //     back right, outer
+  { x: 214, y: 112, s: 0.43, d: 4, rz: 0, b: 0.92 }, //   back right, inner
+  { x: -200, y: 112, s: 0.43, d: 4, rz: 0, b: 0.92 }, // back left, inner
+  { x: -335, y: 96, s: 0.4, d: 5, rz: 0, b: 0.92 }, //   back left, outer (inward: the ring is lower on the left)
+  { x: -420, y: 272, s: 0.46, d: 7, rz: -6, b: 0.96 }, // left
+  { x: -272, y: 440, s: 0.58, d: 8, rz: 6, b: 1 }, // front left
 ];
+// rz is chosen so no resting card edge sits at a shallow 1-5 degree angle (those show stair steps
+// on 100%-scaling screens). With the -6 degree forward lean, vertical edges end up at rz + 6 and
+// top / bottom edges at rz: so rz is 0, -6 (vertical edges exactly upright) or 6 and more.
 const K = SLOTS.length;
-const RING = { cx: CX, cy: 330, rx: 470, ry: 178, tilt: -2.5 };
+const RING = { cx: CX, cy: 330, rx: 505, ry: 185, tilt: -2.5 };
 
 const REST = 1.7; // seconds the cards rest between glides
 const GLIDE = 1.25; // seconds one glide takes
@@ -122,37 +125,195 @@ function Ring({ W, H }: { W: number; H: number }) {
   const cy = oy + RING.cy * u;
   const rx = RING.rx * u;
   const ry = RING.ry * u;
+  // the inner ring sits a little higher, as if it were further back
+  const icy = cy - 10 * u;
+  const irx = rx * 0.7;
+  const iry = ry * 0.62;
+  const dots = (ex: number, ey: number, erx: number, ery: number, angles: number[]) =>
+    angles.map((a) => {
+      const t = (a * Math.PI) / 180;
+      return { x: ex + erx * Math.cos(t), y: ey + ery * Math.sin(t) };
+    });
+  // glowing nodes along each ring (angles in degrees, 90 = front); kept clear of the hero card
+  const outerDots = dots(cx, cy, rx, ry, [20, 58, 122, 160, 196, 238, 302, 344]);
+  const innerDots = dots(cx, icy, irx, iry, [10, 50, 130, 170, 215, 265, 325]);
+  // Uneven light, like the reference: the main ring burns brighter where it curves round at its
+  // far left and far right ends. [angle (0 = right end, 180 = left end), strength, reach]
+  const HOT: [number, number, number][] = [
+    [180, 0.85, 150],
+    [0, 0.85, 150],
+  ];
+  const hotPts = dots(cx, cy, rx, ry, HOT.map((h) => h[0]));
   return (
-    <svg viewBox={`0 0 ${W} ${H}`} className="hero-track pointer-events-none absolute inset-0 h-full w-full" fill="none" style={{ zIndex: 0 }}>
+    // No CSS animation here (the ring used to pulse its opacity): Chrome runs that on the GPU as its
+    // own layer, and cards drawn over a GPU layer get pulled onto the GPU as bitmaps -> jagged edges.
+    <svg viewBox={`0 0 ${W} ${H}`} className="pointer-events-none absolute inset-0 h-full w-full" fill="none" style={{ zIndex: 0, opacity: 0.75 }}>
       <defs>
         <linearGradient id="hero-ring" x1="0" y1="0" x2="0" y2="1">
           <stop offset="0" stopColor="#4f9dff" stopOpacity="0.35" />
           <stop offset="0.55" stopColor="#4f9dff" stopOpacity="0.95" />
           <stop offset="1" stopColor="#7cc0ff" stopOpacity="1" />
         </linearGradient>
+        {HOT.map(([, strength, reach], i) => (
+          <radialGradient key={i} id={`hero-ring-spot-${i}`} gradientUnits="userSpaceOnUse" cx={hotPts[i].x} cy={hotPts[i].y} r={reach * u}>
+            <stop offset="0" stopColor="#e6f2ff" stopOpacity={strength} />
+            <stop offset="0.35" stopColor="#60a5fa" stopOpacity={strength * 0.7} />
+            <stop offset="1" stopColor="#2f7bff" stopOpacity="0" />
+          </radialGradient>
+        ))}
         <filter id="hero-ring-blur" x="-10%" y="-30%" width="120%" height="160%">
           <feGaussianBlur stdDeviation="7" />
         </filter>
+        <filter id="hero-dot-glow" x="-200%" y="-200%" width="500%" height="500%">
+          <feGaussianBlur stdDeviation="4" />
+        </filter>
+        {/* darkens the front stretch of the main ring, under the middle card, so the platform's
+            light stands out there (a mask on the ring only, never on the cards) */}
+        <radialGradient id="hero-ring-front" gradientUnits="userSpaceOnUse" cx={cx} cy={cy + ry} r={260 * u} gradientTransform={`translate(${cx} ${cy + ry}) scale(1 0.45) translate(${-cx} ${-(cy + ry)})`}>
+          <stop offset="0" stopColor="#000" stopOpacity="0.85" />
+          <stop offset="0.6" stopColor="#000" stopOpacity="0.5" />
+          <stop offset="1" stopColor="#000" stopOpacity="0" />
+        </radialGradient>
+        <mask id="hero-ring-mask" maskUnits="userSpaceOnUse" x={-W} y={-H} width={3 * W} height={3 * H}>
+          <rect x={-W} y={-H} width={3 * W} height={3 * H} fill="#fff" />
+          <rect x={-W} y={-H} width={3 * W} height={3 * H} fill="url(#hero-ring-front)" />
+        </mask>
       </defs>
       <g transform={`rotate(${RING.tilt} ${cx} ${cy})`}>
-        <ellipse cx={cx} cy={cy} rx={rx} ry={ry} stroke="#2f7bff" strokeWidth={12} opacity={0.45} filter="url(#hero-ring-blur)" />
-        <ellipse cx={cx} cy={cy} rx={rx} ry={ry} stroke="url(#hero-ring)" strokeWidth={2.2} />
-        <ellipse cx={cx} cy={cy} rx={rx} ry={ry} stroke="#d6ebff" strokeWidth={2} strokeLinecap="round" strokeDasharray="1 16" opacity={0.85} />
-        <ellipse cx={cx} cy={cy - 8 * u} rx={rx * 0.72} ry={ry * 0.66} stroke="#5aa0ff" strokeWidth={1.5} strokeLinecap="round" strokeDasharray="1 12" opacity={0.35} />
+        {/* main ring (darker along its front, under the middle card) */}
+        <g mask="url(#hero-ring-mask)">
+          <ellipse cx={cx} cy={cy} rx={rx} ry={ry} stroke="#2f7bff" strokeWidth={12} opacity={0.45} filter="url(#hero-ring-blur)" />
+          <ellipse cx={cx} cy={cy} rx={rx} ry={ry} stroke="url(#hero-ring)" strokeWidth={2.2} />
+          <ellipse cx={cx} cy={cy} rx={rx} ry={ry} stroke="#d6ebff" strokeWidth={2} strokeLinecap="round" strokeDasharray="1 16" opacity={0.85} />
+        </g>
+        {/* main ring: brighter at its left and right ends, a soft bloom plus a bright core */}
+        {HOT.map((_, i) => (
+          <g key={i}>
+            <ellipse cx={cx} cy={cy} rx={rx} ry={ry} stroke={`url(#hero-ring-spot-${i})`} strokeWidth={18 * u} filter="url(#hero-ring-blur)" />
+            <ellipse cx={cx} cy={cy} rx={rx} ry={ry} stroke={`url(#hero-ring-spot-${i})`} strokeWidth={Math.max(2, 3 * u)} />
+          </g>
+        ))}
+        {/* inner ring */}
+        <ellipse cx={cx} cy={icy} rx={irx} ry={iry} stroke="#2f7bff" strokeWidth={8} opacity={0.3} filter="url(#hero-ring-blur)" />
+        <ellipse cx={cx} cy={icy} rx={irx} ry={iry} stroke="#4f9dff" strokeWidth={1.4} opacity={0.6} />
+        <ellipse cx={cx} cy={icy} rx={irx} ry={iry} stroke="#cfe5ff" strokeWidth={1.8} strokeLinecap="round" strokeDasharray="1 12" opacity={0.7} />
+        {/* glowing nodes on both rings */}
+        {[...outerDots.map((d) => ({ ...d, r: 4.5 })), ...innerDots.map((d) => ({ ...d, r: 3 }))].map((d, i) => (
+          <g key={i}>
+            <circle cx={d.x} cy={d.y} r={d.r * 2.6 * u} fill="#3b82f6" opacity={0.75} filter="url(#hero-dot-glow)" />
+            <circle cx={d.x} cy={d.y} r={d.r * u} fill="#e0efff" />
+          </g>
+        ))}
       </g>
     </svg>
   );
 }
 
+/* Glowing platform the front card stands on: a pool of light and one bright ring.
+   Its own SVG so the ring pulse does not dim it. Its centre line sits just above the
+   front card's bottom edge, so the card's base rests inside the rings. */
+function Platform({ W, H }: { W: number; H: number }) {
+  const { u, ox, oy } = fit(W, H);
+  const px = ox + CX * u;
+  const py = oy + (SLOTS[0].y + 190) * u;
+  const ring = (rx: number, ry: number, glow: number, core: number) => (
+    <g mask="url(#hero-pad-cut)">
+      <ellipse cx={px} cy={py} rx={rx * u} ry={ry * u} stroke="#2f7bff" strokeWidth={glow * u} opacity={0.9} filter="url(#hero-pad-blur)" />
+      <ellipse cx={px} cy={py} rx={rx * u} ry={ry * u} stroke="#7cc0ff" strokeWidth={core * u} />
+      <ellipse cx={px} cy={py} rx={rx * u} ry={ry * u} stroke="#f0f7ff" strokeWidth={Math.max(1, core * 0.45 * u)} />
+    </g>
+  );
+  return (
+    <svg viewBox={`0 0 ${W} ${H}`} className="pointer-events-none absolute inset-0 h-full w-full" fill="none" style={{ zIndex: 0 }}>
+      <defs>
+        <radialGradient id="hero-pad">
+          <stop offset="0" stopColor="#dbeafe" stopOpacity="0.9" />
+          <stop offset="0.3" stopColor="#3b82f6" stopOpacity="0.6" />
+          <stop offset="1" stopColor="#1d4ed8" stopOpacity="0" />
+        </radialGradient>
+        <filter id="hero-pad-blur" x="-20%" y="-150%" width="140%" height="400%">
+          <feGaussianBlur stdDeviation={6 * u} />
+        </filter>
+        {/* The middle card hides the back half of the ring: a card-shaped hole that the animation loop
+            keeps on the middle card (same transform) and fades with it. Ring only, never the cards. */}
+        <mask id="hero-pad-cut" maskUnits="userSpaceOnUse" x={0} y={0} width={W} height={H}>
+          <rect x={0} y={0} width={W} height={H} fill="#fff" />
+          <rect data-pad-cut x={-CARD_W / 2} y={-200} width={CARD_W} height={400} rx={16} fill="#000" opacity={0} />
+        </mask>
+        <radialGradient id="hero-hot">
+          <stop offset="0" stopColor="#ffffff" stopOpacity="1" />
+          <stop offset="0.35" stopColor="#bfdbfe" stopOpacity="0.85" />
+          <stop offset="0.7" stopColor="#3b82f6" stopOpacity="0.35" />
+          <stop offset="1" stopColor="#1d4ed8" stopOpacity="0" />
+        </radialGradient>
+        {/* white along the front of the ring, fading to its normal blue towards the sides */}
+        <radialGradient id="hero-ring-hot" gradientUnits="userSpaceOnUse" cx={px} cy={py + 40 * u} r={150 * u}>
+          <stop offset="0" stopColor="#ffffff" stopOpacity="1" />
+          <stop offset="0.5" stopColor="#e0efff" stopOpacity="0.6" />
+          <stop offset="1" stopColor="#ffffff" stopOpacity="0" />
+        </radialGradient>
+      </defs>
+      {/* pool of light under the card */}
+      <ellipse cx={px} cy={py} rx={250 * u} ry={55 * u} fill="url(#hero-pad)" opacity={0.7} />
+      {ring(205, 40, 16, 3.2)}
+      {/* white-hot centre: the light is brightest straight below the card */}
+      <ellipse cx={px} cy={py + 8 * u} rx={150 * u} ry={30 * u} fill="url(#hero-hot)" />
+      {/* the front of the ring burns white where it passes under the card */}
+      <g mask="url(#hero-pad-cut)">
+        <ellipse cx={px} cy={py} rx={205 * u} ry={40 * u} stroke="url(#hero-ring-hot)" strokeWidth={4 * u} />
+        <ellipse cx={px} cy={py} rx={205 * u} ry={40 * u} stroke="url(#hero-ring-hot)" strokeWidth={14 * u} filter="url(#hero-pad-blur)" />
+      </g>
+    </svg>
+  );
+}
+
+/* White glow spilling over the front card's bottom edge, drawn ABOVE the cards: the light below is
+   so bright it washes the card's base white. A plain soft gradient, no blend mode (a blend mode
+   can push the cards under it onto the GPU as bitmaps). */
+function PlatformFlare({ W, H }: { W: number; H: number }) {
+  const { u, ox, oy } = fit(W, H);
+  const px = ox + CX * u;
+  const py = oy + (SLOTS[0].y + 203) * u; // the front card's bottom edge
+  return (
+    <svg viewBox={`0 0 ${W} ${H}`} className="pointer-events-none absolute inset-0 h-full w-full" fill="none" style={{ zIndex: 295 }}>
+      <defs>
+        <radialGradient id="hero-flare">
+          <stop offset="0" stopColor="#ffffff" stopOpacity="1" />
+          <stop offset="0.3" stopColor="#dbeafe" stopOpacity="0.8" />
+          <stop offset="0.65" stopColor="#3b82f6" stopOpacity="0.35" />
+          <stop offset="1" stopColor="#1d4ed8" stopOpacity="0" />
+        </radialGradient>
+      </defs>
+      <ellipse cx={px} cy={py} rx={170 * u} ry={26 * u} fill="url(#hero-flare)" opacity={0.55} />
+      <ellipse cx={px} cy={py} rx={85 * u} ry={9 * u} fill="url(#hero-flare)" />
+    </svg>
+  );
+}
+
+// LED point light: seconds per lap round a card
+const LED_LAP = 5.5;
+
+// point at distance s (px) clockwise round a w x h box, starting at its top-left corner
+function perimeterPoint(s: number, w: number, h: number): [number, number] {
+  let d = mod(s, 2 * (w + h));
+  if (d < w) return [d, 0];
+  d -= w;
+  if (d < h) return [w, d];
+  d -= h;
+  if (d < w) return [w - d, h];
+  d -= w;
+  return [0, h - d];
+}
+
 function OrbitCard({ card, index }: { card: Card; index: number }) {
   const reconditioned = card.condition === "Reconditioned";
   return (
-    <div className="relative" style={{ width: CARD_W }}>
-      {/* outer bloom; its strength follows depth (set per frame) */}
+    <div className="relative rounded-2xl" style={{ width: CARD_W }}>
+      {/* outer bloom: blue LED ambience all the way round; its strength follows depth (set per frame) */}
       <span
         data-glow
         className="pointer-events-none absolute inset-0 rounded-2xl"
-        style={{ boxShadow: "-10px 0 24px -8px rgba(56,136,255,0.5), 10px 0 24px -8px rgba(225,238,255,0.3), 0 22px 40px -14px rgba(56,136,255,0.5)" }}
+        style={{ boxShadow: "0 0 22px -2px rgba(59,130,246,0.55), -10px 0 24px -8px rgba(56,136,255,0.5), 10px 0 24px -8px rgba(225,238,255,0.3), 0 22px 40px -14px rgba(56,136,255,0.5)" }}
       />
       <div
         data-card={index}
@@ -165,29 +326,20 @@ function OrbitCard({ card, index }: { card: Card; index: number }) {
           boxShadow: "inset 6px 0 12px -10px rgba(80,155,255,0.32), inset -6px 0 12px -10px rgba(240,247,255,0.26), 0 24px 44px -14px rgba(0,0,0,0.75)",
         }}
       >
-        {/* rim light: bright at the four corners, faint along the sides;
-            the left edge is blue, the right edge is white */}
-        <span
-          className="pointer-events-none absolute inset-0 rounded-2xl"
-          style={{
-            padding: 2,
-            background: [
-              "radial-gradient(70px 70px at 0 0, rgba(150,200,255,1), transparent 70%)",
-              "radial-gradient(70px 70px at 0 100%, rgba(120,185,255,1), transparent 70%)",
-              "radial-gradient(70px 70px at 100% 0, rgba(255,255,255,1), transparent 70%)",
-              "radial-gradient(70px 70px at 100% 100%, rgba(255,255,255,1), transparent 70%)",
-              "linear-gradient(90deg, rgba(70,140,255,0.6) 0%, rgba(90,150,255,0.22) 45%, rgba(200,225,255,0.25) 60%, rgba(240,247,255,0.65) 100%)",
-            ].join(", "),
-            WebkitMask: "linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0)",
-            WebkitMaskComposite: "xor",
-            mask: "linear-gradient(#000 0 0) content-box exclude, linear-gradient(#000 0 0)",
-          }}
-        />
-        {/* inward corner glow: light spilling into the glass from each corner */}
+        {/* No CSS mask or filter on the card or its edge layers: either one makes the browser draw that
+            layer as a flat bitmap and then tilt it, which gives jagged edges. Edges are SVG strokes and
+            plain gradients, drawn as vectors at the card's final angle. (The engine photo's drop shadow
+            is fine: the photo is a bitmap anyway and the shadow is soft.) */}
+        {/* inward corner glow: light spilling into the glass from each corner, with a tight bright
+            glint right in the corner (left corners blue, right corners white) */}
         <span
           className="pointer-events-none absolute inset-0 rounded-2xl"
           style={{
             background: [
+              "radial-gradient(34px 34px at 0 0, rgba(150,200,255,0.7), transparent 70%)",
+              "radial-gradient(34px 34px at 0 100%, rgba(120,185,255,0.65), transparent 70%)",
+              "radial-gradient(34px 34px at 100% 0, rgba(255,255,255,0.6), transparent 70%)",
+              "radial-gradient(34px 34px at 100% 100%, rgba(255,255,255,0.55), transparent 70%)",
               "radial-gradient(130px 110px at 0 0, rgba(80,150,255,0.55), transparent 70%)",
               "radial-gradient(130px 110px at 0 100%, rgba(80,150,255,0.5), transparent 70%)",
               "radial-gradient(130px 110px at 100% 0, rgba(235,244,255,0.4), transparent 70%)",
@@ -197,8 +349,8 @@ function OrbitCard({ card, index }: { card: Card; index: number }) {
         />
         {/* glass sheen across the top-left */}
         <span
-          className="pointer-events-none absolute inset-0 bg-gradient-to-br from-white/[0.14] via-white/[0.02] to-transparent"
-          style={{ maskImage: "linear-gradient(125deg, #000 0%, transparent 50%)", WebkitMaskImage: "linear-gradient(125deg, #000 0%, transparent 50%)" }}
+          className="pointer-events-none absolute inset-0"
+          style={{ background: "linear-gradient(125deg, rgba(255,255,255,0.14) 0%, rgba(255,255,255,0.05) 22%, transparent 50%)" }}
         />
 
         <div className="relative flex items-start justify-between px-6 pt-5">
@@ -223,7 +375,7 @@ function OrbitCard({ card, index }: { card: Card; index: number }) {
             src={card.image}
             alt=""
             className="mx-auto w-full object-contain [filter:drop-shadow(0_10px_14px_rgba(0,0,0,0.6))_drop-shadow(0_0_14px_rgba(90,160,255,0.25))]"
-            style={{ height: 200 }}
+            style={{ height: 170 }}
             draggable={false}
           />
         </div>
@@ -247,12 +399,60 @@ function OrbitCard({ card, index }: { card: Card; index: number }) {
             <Icon name="arrow-right" className="h-3.5 w-3.5" />
           </span>
         </div>
+        {/* depth shade: darkens cards further back (replaces a brightness filter, see above) */}
+        <span data-shade className="pointer-events-none absolute inset-0 rounded-2xl bg-black opacity-0" />
       </div>
+      {/* rim light, blue on the left edge, white on the right. Outside the card's clip and soft on
+          purpose: a thin bright core inside a faint wider band, centred on the card's edge. A crisp
+          hard line at a slight angle shows stair steps on normal (100% scaling) screens; a soft edge
+          doesn't. */}
+      <svg className="pointer-events-none absolute inset-0 h-full w-full overflow-visible" fill="none" aria-hidden="true">
+        <defs>
+          <linearGradient id={`orbit-rim-${index}`} x1="0" y1="0" x2="1" y2="0">
+            <stop offset="0" stopColor="#5a9bff" stopOpacity="0.95" />
+            <stop offset="0.45" stopColor="#5a9bff" stopOpacity="0.5" />
+            <stop offset="0.6" stopColor="#cfe2ff" stopOpacity="0.5" />
+            <stop offset="1" stopColor="#f0f7ff" stopOpacity="0.9" />
+          </linearGradient>
+        </defs>
+        <rect width="100%" height="100%" rx="16" stroke={`url(#orbit-rim-${index})`} strokeWidth="5" opacity="0.3" />
+        <rect width="100%" height="100%" rx="16" stroke={`url(#orbit-rim-${index})`} strokeWidth="1.5" />
+      </svg>
+      {/* front-card rim: a stronger, even blue line all the way round with a tight halo (small blur,
+          so it stays a line and doesn't spread). Faded in per frame as the card reaches the middle. */}
+      <svg data-front-rim className="pointer-events-none absolute inset-0 h-full w-full overflow-visible opacity-0" fill="none" aria-hidden="true">
+        <defs>
+          <filter id={`orbit-front-blur-${index}`} x="-5%" y="-5%" width="110%" height="110%">
+            <feGaussianBlur stdDeviation="2" />
+          </filter>
+        </defs>
+        <rect width="100%" height="100%" rx="16" stroke="#3b8bff" strokeWidth="6" opacity="0.8" filter={`url(#orbit-front-blur-${index})`} />
+        <rect width="100%" height="100%" rx="16" stroke="#5aa2ff" strokeWidth="2.5" />
+        <rect width="100%" height="100%" rx="16" stroke="#cfe5ff" strokeWidth="0.8" opacity="0.7" />
+      </svg>
+      {/* LED edge: a point of light running round the border. The rim is stroked with a small soft
+          round gradient that the animation loop slides along the edge, so the light fades smoothly
+          with no visible steps. The blur on the bloom is fine: blurred light has no hard edge to
+          turn jagged. */}
+      <svg className="pointer-events-none absolute inset-0 h-full w-full overflow-visible" fill="none" aria-hidden="true">
+        <defs>
+          <radialGradient id={`orbit-led-${index}`} data-led gradientUnits="userSpaceOnUse" cx="0" cy="0" r="30">
+            <stop offset="0" stopColor="#ffffff" stopOpacity="1" />
+            <stop offset="0.35" stopColor="#93c5fd" stopOpacity="0.85" />
+            <stop offset="1" stopColor="#3b82f6" stopOpacity="0" />
+          </radialGradient>
+          <filter id={`orbit-led-blur-${index}`} x="-10%" y="-10%" width="120%" height="120%">
+            <feGaussianBlur stdDeviation="4" />
+          </filter>
+        </defs>
+        <rect width="100%" height="100%" rx="16" stroke={`url(#orbit-led-${index})`} strokeWidth="6" opacity="0.75" filter={`url(#orbit-led-blur-${index})`} />
+        <rect width="100%" height="100%" rx="16" stroke={`url(#orbit-led-${index})`} strokeWidth="2.2" />
+      </svg>
     </div>
   );
 }
 
-export default function HeroOrbit() {
+export default function HeroOrbit({ cardHrefs }: { cardHrefs: Record<string, string> }) {
   const router = useRouter();
   const sceneRef = useRef<HTMLDivElement>(null);
   const slotRefs = useRef<(HTMLDivElement | null)[]>([]);
@@ -348,6 +548,8 @@ export default function HeroOrbit() {
         }
       }
 
+      // the card most in the middle: the platform ring's back half is cut out behind it
+      let cut = { f: 0, t: "", h: 0 };
       for (let i = 0; i < N; i++) {
         const el = slotRefs.current[i];
         if (!el) continue;
@@ -360,15 +562,19 @@ export default function HeroOrbit() {
         const x = ox + (CX + p.x) * u;
         const y = oy + p.y * u;
         const scale = p.s * (1 + 0.08 * a) * u;
-        const rx = 10 * flat; // top leans back
-        const ry = 16 * side * flat; // the edge facing the centre card is the nearer one
-        const rz = p.rz * flat;
+        const rz = p.rz * flat; // follows the curve of the ring
+        const sx = 1 - 0.06 * Math.abs(side) * flat; // side cards are a touch narrower (seen at an angle)
         const sk = -6 * flat; // shared forward lean
 
-        el.style.transform = `translate3d(${x.toFixed(2)}px, ${y.toFixed(2)}px, 0) scale(${scale.toFixed(4)}) perspective(1000px) rotateX(${rx.toFixed(2)}deg) rotateY(${ry.toFixed(2)}deg) rotateZ(${rz.toFixed(2)}deg) skewX(${sk.toFixed(2)}deg)`;
-        // depth shading uses brightness, not opacity, so cards never turn see-through
+        // 2D transform only. Any 3D part (perspective / rotateX / rotateY) makes the GPU draw the card as
+        // a flat bitmap and warp it, which leaves jagged, stair-stepped borders on the tilted cards. A 2D
+        // transform is drawn directly at its final angle and size, with smooth anti-aliased edges.
+        el.style.transform = `translate(${x.toFixed(2)}px, ${y.toFixed(2)}px) scale(${scale.toFixed(4)}) rotate(${rz.toFixed(2)}deg) skewX(${sk.toFixed(2)}deg) scaleX(${sx.toFixed(4)})`;
+        // depth shading: a black layer inside the card, never a CSS filter (a filter makes the tilted
+        // card jagged) and never opacity (cards must not turn see-through)
         const shade = a > 0.02 ? 1 : p.b * (1 - 0.18 * s.dim);
-        el.style.filter = shade > 0.995 ? "none" : `brightness(${shade.toFixed(3)})`;
+        const shadeEl = el.querySelector<HTMLElement>("[data-shade]");
+        if (shadeEl) shadeEl.style.opacity = (1 - shade).toFixed(3);
         el.style.zIndex = String(Math.round(p.d * 10) + (a > 0.5 ? 200 : 0));
 
         const front = Math.max(0, (p.s - 0.58) / 0.42); // 1 in the hero slot, 0 from the neighbours outwards
@@ -378,6 +584,36 @@ export default function HeroOrbit() {
         if (glow) glow.style.opacity = Math.max(0.4 + 0.6 * front, a).toFixed(3);
         if (arrow) arrow.style.opacity = flat.toFixed(3);
         if (pill) pill.style.opacity = a.toFixed(3);
+        const frontRim = el.querySelector<SVGSVGElement>("[data-front-rim]");
+        if (frontRim) frontRim.style.opacity = Math.max(front, a).toFixed(3);
+        const middle = Math.max(front, a);
+        if (middle > cut.f) {
+          // the card's own transform, in SVG syntax (the card box is centred on its slot point)
+          const t = `translate(${x.toFixed(2)} ${y.toFixed(2)}) scale(${scale.toFixed(4)}) rotate(${rz.toFixed(2)}) skewX(${sk.toFixed(2)}) scale(${sx.toFixed(4)} 1)`;
+          cut = { f: middle, t, h: el.querySelector<HTMLElement>("[data-card]")?.offsetHeight ?? 412 };
+        }
+
+        // LED point light: slide its gradient round the rim (on the card's edge, like the rim);
+        // every card's light is at the same place on its border, moving in step
+        const led = el.querySelector<SVGRadialGradientElement>("[data-led]");
+        const body = el.querySelector<HTMLElement>("[data-card]");
+        if (led && body) {
+          const w = CARD_W;
+          const h = body.offsetHeight;
+          const lap = reduce ? 0.12 : now / 1000 / LED_LAP;
+          const [lx, ly] = perimeterPoint(lap * 2 * (w + h), w, h);
+          led.setAttribute("cx", lx.toFixed(1));
+          led.setAttribute("cy", ly.toFixed(1));
+        }
+      }
+      const hole = sceneRef.current?.querySelector<SVGRectElement>("[data-pad-cut]");
+      if (hole) {
+        hole.setAttribute("opacity", cut.f.toFixed(3));
+        if (cut.t) {
+          hole.setAttribute("transform", cut.t);
+          hole.setAttribute("y", String(-cut.h / 2));
+          hole.setAttribute("height", String(cut.h));
+        }
       }
       // the scene stays hidden until every card has its first position (no stacked flash on load)
       if (sceneRef.current && sceneRef.current.style.opacity !== "1") sceneRef.current.style.opacity = "1";
@@ -398,10 +634,10 @@ export default function HeroOrbit() {
 
   const activate = useCallback(
     (i: number) => {
-      if (S.current.sel === i) router.push(cards[i].href); // second click: open the engine
+      if (S.current.sel === i) router.push(cardHrefs[cards[i].code] ?? cards[i].href); // second click: open the engine
       else setSel(i); // first click: bring it to the front
     },
-    [router, setSel],
+    [router, setSel, cardHrefs],
   );
 
   const onPointerDown = (e: React.PointerEvent) => {
@@ -450,7 +686,7 @@ export default function HeroOrbit() {
   return (
     <div
       ref={sceneRef}
-      className="absolute inset-0 touch-pan-y select-none opacity-0 transition-opacity duration-500"
+      className="absolute inset-0 touch-pan-y select-none opacity-0"
       style={{ cursor: sel === null ? "grab" : "default" }}
       onPointerDown={onPointerDown}
       onPointerMove={onPointerMove}
@@ -460,6 +696,8 @@ export default function HeroOrbit() {
       onPointerLeave={() => (S.current.hover = false)}
     >
       <Ring W={dims.W} H={dims.H} />
+      <Platform W={dims.W} H={dims.H} />
+      <PlatformFlare W={dims.W} H={dims.H} />
       {cards.map((card, i) => (
         <div
           key={card.code}
