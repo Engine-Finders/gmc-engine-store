@@ -20,47 +20,86 @@ type Card = {
 const FLOAT_DUR = [7, 8, 7.5, 6.6, 8.4];
 const FLOAT_DELAY = [0, -2, -1, -3, -4];
 
-// Curated mobile slides (featured centered), still sourced from JSON
-const ORDER = ["N47D20", "AJ126", "OM651", "M274", "306DT"];
-const slides = ORDER.map((code) => (hero.cards as Card[]).find((c) => c.code === code)!).filter(Boolean);
-const featuredIndex = slides.findIndex((c) => c.featured);
+// All hero cards, rotated so the featured card starts in the middle with cards either side
+const all = hero.cards as Card[];
+const start = Math.max(0, all.findIndex((c) => c.featured));
+const lead = Math.floor(all.length / 2);
+const slides = all.map((_, i) => all[(start - lead + i + all.length) % all.length]);
+const featuredIndex = lead;
 
-function CardFace({ card }: { card: Card }) {
-  const featured = card.featured;
+// Same glass card as the desktop orbit: see-through navy glass, corners lit, blue left edge, white right edge.
+function CardFace({ card, active }: { card: Card; active: boolean }) {
   const reconditioned = card.condition === "Reconditioned";
   return (
-    <div
-      className={`relative rounded-xl border overflow-hidden p-3 bg-white/[0.02] backdrop-blur-lg ${
-        featured
-          ? "border-[#5aa0ff] shadow-[0_0_0_1px_rgba(107,176,255,0.45),0_0_16px_-1px_rgba(107,176,255,0.6),0_8px_32px_rgba(0,0,0,0.5)]"
-          : "border-white/12 shadow-[0_8px_32px_rgba(0,0,0,0.5)]"
-      }`}
-    >
-      {/* top inner sheen for glass feel */}
-      <span className="pointer-events-none absolute inset-x-0 top-0 h-1/3 bg-gradient-to-b from-white/[0.05] to-transparent" />
-      <div className="relative flex items-start justify-between">
-        <div>
-          <p className="text-lg font-extrabold text-white leading-none [text-shadow:0_1px_3px_rgba(0,0,0,0.55)]">{card.code}</p>
-          <p className="mt-1 text-[11px] text-white/70">{card.spec}</p>
+    <div className="relative">
+      {/* outer bloom: blue on the left, white on the right; stronger on the centred card */}
+      <span
+        className="pointer-events-none absolute inset-0 rounded-xl transition-opacity duration-500"
+        style={{
+          opacity: active ? 1 : 0.45,
+          boxShadow: "-10px 0 24px -8px rgba(56,136,255,0.5), 10px 0 24px -8px rgba(225,238,255,0.3), 0 18px 34px -14px rgba(56,136,255,0.5)",
+        }}
+      />
+      <div
+        className="relative overflow-hidden rounded-xl p-3"
+        style={{
+          background: "linear-gradient(160deg, rgba(34,70,150,0.72) 0%, rgba(12,26,64,0.8) 34%, rgba(5,10,26,0.86) 100%)",
+          boxShadow: "inset 6px 0 12px -10px rgba(80,155,255,0.32), inset -6px 0 12px -10px rgba(240,247,255,0.26), 0 20px 36px -14px rgba(0,0,0,0.75)",
+        }}
+      >
+        {/* rim light: bright at the four corners, faint along the sides */}
+        <span
+          className="pointer-events-none absolute inset-0 rounded-xl"
+          style={{
+            padding: 1.5,
+            background: [
+              "radial-gradient(50px 50px at 0 0, rgba(150,200,255,1), transparent 70%)",
+              "radial-gradient(50px 50px at 0 100%, rgba(120,185,255,1), transparent 70%)",
+              "radial-gradient(50px 50px at 100% 0, rgba(255,255,255,1), transparent 70%)",
+              "radial-gradient(50px 50px at 100% 100%, rgba(255,255,255,1), transparent 70%)",
+              "linear-gradient(90deg, rgba(70,140,255,0.6) 0%, rgba(90,150,255,0.22) 45%, rgba(200,225,255,0.25) 60%, rgba(240,247,255,0.65) 100%)",
+            ].join(", "),
+            WebkitMask: "linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0)",
+            WebkitMaskComposite: "xor",
+            mask: "linear-gradient(#000 0 0) content-box exclude, linear-gradient(#000 0 0)",
+          }}
+        />
+        {/* inward corner glow */}
+        <span
+          className="pointer-events-none absolute inset-0 rounded-xl"
+          style={{
+            background: [
+              "radial-gradient(90px 80px at 0 0, rgba(80,150,255,0.55), transparent 70%)",
+              "radial-gradient(90px 80px at 0 100%, rgba(80,150,255,0.5), transparent 70%)",
+              "radial-gradient(90px 80px at 100% 0, rgba(235,244,255,0.4), transparent 70%)",
+              "radial-gradient(90px 80px at 100% 100%, rgba(235,244,255,0.36), transparent 70%)",
+            ].join(", "),
+          }}
+        />
+        <div className="relative flex items-start justify-between">
+          <div>
+            <p className="text-lg font-extrabold text-white leading-none [text-shadow:0_1px_3px_rgba(0,0,0,0.55)]">{card.code}</p>
+            <p className="mt-1 text-[11px] text-white/85">{card.spec}</p>
+          </div>
+          <Icon name="heart" className="w-4 h-4 text-white/80" />
         </div>
-        <Icon name="heart" className="w-4 h-4 text-white/75" />
-      </div>
-      <span className={`relative mt-1.5 inline-block rounded-md px-1.5 py-0.5 text-[8px] font-bold uppercase tracking-wide ${reconditioned ? "bg-primary-600 text-white" : "bg-white/15 text-white"}`}>
-        {card.condition}
-      </span>
-      {/* eslint-disable-next-line @next/next/no-img-element */}
-      <img src={card.image} alt="" className="relative mx-auto my-2 h-[120px] w-auto object-contain" draggable={false} />
-      <div className="relative flex items-end justify-between">
-        <div>
-          <p className="text-lg font-extrabold text-white [text-shadow:0_1px_3px_rgba(0,0,0,0.55)]">{card.price}</p>
-          {card.inStock && (
-            <span className="mt-0.5 inline-flex items-center gap-1 text-[10px] text-green-400">
-              <span className="w-1.5 h-1.5 rounded-full bg-green-400" />
-              In stock
-            </span>
-          )}
+        <span className={`relative mt-1.5 inline-block rounded-md px-1.5 py-0.5 text-[8px] font-bold uppercase tracking-wide ${reconditioned ? "bg-primary-600 text-white" : "bg-white/20 text-white"}`}>
+          {card.condition}
+        </span>
+        {/* eslint-disable-next-line @next/next/no-img-element */}
+        <img src={card.image} alt="" className="relative mx-auto my-2 h-[120px] w-auto object-contain [filter:drop-shadow(0_8px_10px_rgba(0,0,0,0.6))]" draggable={false} />
+        <div className="relative flex items-end justify-between">
+          <div>
+            <p className="text-lg font-extrabold text-white [text-shadow:0_1px_3px_rgba(0,0,0,0.55)]">{card.price}</p>
+            {card.inStock && (
+              <span className="mt-0.5 inline-flex items-center gap-1 text-[10px] font-medium text-green-400">
+                <span className="w-1.5 h-1.5 rounded-full bg-green-400" />
+                In stock
+              </span>
+            )}
+          </div>
+          <Icon name="arrow-right" className="w-4 h-4 text-white/80" />
         </div>
-        <Icon name="arrow-right" className="w-4 h-4 text-white/75" />
       </div>
     </div>
   );
@@ -111,7 +150,7 @@ export default function HeroCarousel() {
           const shift = off * 62; // % of card width
           const rotate = Math.max(-2, Math.min(2, off)) * 34; // side cards tilt outward
           const scale = off === 0 ? 1 : abs === 1 ? 0.8 : 0.62;
-          const opacity = abs === 0 ? 1 : abs === 1 ? 0.7 : 0;
+          const opacity = abs === 0 ? 1 : abs === 1 ? 0.85 : 0;
           const style: React.CSSProperties = {
             transform: `translate(calc(-50% + ${shift}%), -50%) rotateY(${rotate}deg) scale(${scale})`,
             zIndex: 30 - abs * 10,
@@ -140,7 +179,7 @@ export default function HeroCarousel() {
             <div key={card.code} className="absolute left-1/2 top-1/2 w-[60vw] max-w-[250px] transition-all duration-500 ease-out" style={style}>
               <div className="hero-float" style={floatVars}>
                 <Link href={card.href} aria-label={`${card.code} engine`} className="block" draggable={false} onClick={guardClick}>
-                  <CardFace card={card} />
+                  <CardFace card={card} active={off === 0} />
                 </Link>
               </div>
             </div>

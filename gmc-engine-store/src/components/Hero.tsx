@@ -38,18 +38,18 @@ function RegistrationForm() {
       </div>
 
       {/* Description */}
-      <p className="relative mt-1.5 text-[11px] leading-snug text-white/60 lg:-mt-1 lg:pl-[72px] lg:text-[15px] lg:text-white/80">
+      <p className="relative mt-1.5 text-[12px] leading-snug text-white/75 lg:-mt-1 lg:pl-[72px] lg:text-[15px] lg:text-white/80">
         {hero.form.description}
       </p>
 
       {/* Form */}
       <form onSubmit={rc.onSubmit} className="relative mt-2.5 flex flex-col gap-2 sm:flex-row lg:mt-5 lg:gap-3">
-        <div className="flex flex-1 items-center overflow-hidden rounded-lg bg-white lg:h-[54px]">
+        <div className="flex h-[50px] shrink-0 items-center overflow-hidden rounded-lg bg-white sm:flex-1 lg:h-[54px]">
           {/* Country */}
-          <span className="flex items-center gap-1.5 self-stretch border-r border-line bg-[#eef1f6] px-2 py-1.5 lg:gap-2 lg:px-3">
-            <UkFlag className="h-4 w-6 rounded-sm lg:h-5 lg:w-8" />
+          <span className="flex items-center gap-1.5 self-stretch border-r border-line bg-[#eef1f6] px-2.5 py-1.5 lg:gap-2 lg:px-3">
+            <UkFlag className="h-[18px] w-7 rounded-sm lg:h-5 lg:w-8" />
 
-            <span className="text-[11px] font-bold text-ink-700 lg:text-[15px]">
+            <span className="text-[13px] font-bold text-ink-700 lg:text-[15px]">
               {hero.form.countryFlag}
             </span>
           </span>
@@ -68,22 +68,22 @@ function RegistrationForm() {
         {/* Submit */}
         <button
           type="submit"
-          className="shrink-0 rounded-lg bg-primary-600 px-4 py-1.5 text-sm font-bold text-white transition-all duration-200 ease-out hover:bg-primary-500 lg:h-[54px] lg:px-5 lg:text-[16px]"
+          className="h-[46px] shrink-0 rounded-lg bg-primary-600 px-4 text-[15px] font-bold text-white transition-all duration-200 ease-out hover:bg-primary-500 lg:h-[54px] lg:px-5 lg:text-[16px]"
         >
           {hero.form.buttonText}
         </button>
       </form>
 
       {/* Badges */}
-      <div className="relative mt-2.5 flex items-center gap-3 lg:mt-5 lg:gap-0">
+      <div className="relative mt-2.5 flex items-center gap-0 lg:mt-5">
         {hero.form.badges.map((badge, i) => (
           <span
             key={badge.text}
-            className={`inline-flex items-center gap-1.5 text-[10px] text-white/55 lg:gap-2.5 lg:text-[15px] lg:text-white/85 ${i > 0 ? "lg:ml-6 lg:border-l lg:border-white/20 lg:pl-6" : ""}`}
+            className={`inline-flex items-center gap-1.5 text-[11px] text-white/80 lg:gap-2.5 lg:text-[15px] lg:text-white/85 ${i > 0 ? "ml-3 border-l border-white/20 pl-3 lg:ml-6 lg:pl-6" : ""}`}
           >
             <Icon
               name={badge.icon}
-              className="h-3.5 w-3.5 text-white/55 lg:h-5 lg:w-5 lg:text-white/85"
+              className="h-4 w-4 text-white/80 lg:h-5 lg:w-5 lg:text-white/85"
             />
 
             {badge.text}
