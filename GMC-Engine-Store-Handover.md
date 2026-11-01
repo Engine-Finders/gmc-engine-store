@@ -105,12 +105,33 @@ When several listings fit, the brand and model of the page the link is on break 
 - **Listing breadcrumbs** are Home > `<Brand> Engines` > model (when that model page exists) > `<CODE> Engine` > listing.
 - **Canonicals** come from the route, not the JSON: `metadataBase` is `SITE_URL` (`https://www.engined.co.uk` unless `NEXT_PUBLIC_SITE_URL` is set) and each page sets its own path (`/`, `/<brand>`, `/<brand>/<model>`, `/engines/<engine>`, `/engines/<engine>/<app>`, `/contact`). The `seo.canonical` fields in the JSON are not used. A new page type must set `alternates.canonical` in its `generateMetadata`; the layout deliberately has none, or every page would inherit it.
 
-**Building the remaining brand, model and hub pages.** The source markdown is in `Brand Pages.zip` (20 brands), `Model Pages.zip` (94 models) and `Hub Pages.zip` (151 engines); the zips are not in the repo, the owner has them. The Mercedes brand page, the C-Class model page, the OM651 hub and the OM651 listings are the finished examples to copy. Write a converter per page type (like `scripts/md_to_listingpage.py`; `scripts/md_to_brandpage.py` is a start for brands) that adds entries to the JSON. For the links to join up, keep these slugs:
+**Building the remaining brand, model and hub pages.** The pages are data-driven: one component set per page type renders whatever entry its JSON holds, so a page exists as soon as its entry is in the JSON. `scripts/md_to_pages.py` builds the entries from the client's markdown zips: `Brand Pages.zip` (20 brands), `Model Pages.zip` (94 models) and `Hub Pages.zip` (151 engine files). The zips are not in the repo; the owner has them. Put them in the repo root (next to this file) and run, from the app folder:
+
+```
+python -I scripts/md_to_pages.py all --dry-run --report pages-report.json   # parse everything, write nothing
+python -I scripts/md_to_pages.py hub                                        # then write, type by type
+python -I scripts/md_to_pages.py brand
+python -I scripts/md_to_pages.py model
+python -I scripts/md_to_pages.py hub --only "BMW"                           # just some files
+```
+
+What it does, and what to check in its report:
+
+- **Same shape as the examples.** Every entry is built in exactly the shape of the finished Mercedes-Benz brand page, C-Class model page and OM651 hub, so the existing components render it unchanged. Those three hand-built entries are never overwritten (existing entries are kept unless `--overwrite`).
+- **Reads every format variant in the zips.** The files were written in several formats (`SECTION` blocks or plain headings, `KEY:` / `KEY —` / bold keys, `ROW:` lines or markdown tables, specs inline or as a list). Prompt leftovers such as "130–200 chars." and "H2 —" are stripped.
+- **Fills what the markdown lacks from the site's own data, never invents it.** Featured engines, application units (when a hub has no `CARD` lines), engine photos and "from" prices come from the listing pages in `src/data/listings`. Prices are only ever taken from the markdown or the listings. Images with no source use the generic ones (brand logos exist only for Audi, BMW, Jaguar, Land Rover, Mercedes and VW) and are listed in the report.
+- **One page per URL.** A shared engine has a hub file under each brand that uses it (EA888 under Audi, SEAT and VW; K9K under Nissan, Renault and Mercedes). The most complete file is used and the others are listed as duplicates.
+- **Skips pages that cannot render.** A brand or model with no engines, or a hub with no unit to sell, is not written (the hero needs at least one card). Links to it go to the nearest page.
+- **Report notes worth acting on:** "history names no generation codes" (the history text was split across the generations in order; read it), missing `seo.description`, and "no listing folder" for a hub (its unit links fall back to the nearest listing until listings exist).
+
+Last full run (Nov 2026): hub 127 pages written (plus the existing OM651), 19 duplicates, 4 skipped; brand 15 written (plus the existing Mercedes-Benz), 4 skipped (Fiat, Honda, MG, Mitsubishi have no engines in the markdown); model 90 written, 3 skipped, 1 duplicate. With all of them in place the build passed (359 pages) and `check_links.py` found no broken links across 391 pages and 1,980 link targets.
+
+The slugs it uses, so links join up:
 
 - **Brand key** (`brandPage.json`): the brand name slugified plus `-engines`, e.g. `bmw-engines`, `land-rover-engines`, `mini-engines`, `seat-engines`. `brandSlugFor()` in `lib/slugs.ts` must give the same slug for the listing brand code; add a line to `BRAND_PAGE_SLUG` if it does not.
-- **Model key** (`modelPage.json`): the model's slug as it appears in listing slugs after the brand code (`c-class` for `mercedes-c-class-w204-...`, `golf` for `volkswagen-golf-...`), with `brandSlug` set to the brand key. Listings of that model then show it in their breadcrumb.
-- **Hub key** (`hubPage.json`): the listing folder name in `src/data/listings` (`om651`, `n47`, `bmw-m57`). Listings link to their hub only when the names match.
-- **Links inside the data:** use the intended URL forms above; the resolver handles the rest.
+- **Model key** (`modelPage.json`): the model name slugified (`a4`, `astra`, `c-class`), with `brandSlug` set to the brand key. Model keys share one namespace across brands; the script reports a clash.
+- **Hub key** (`hubPage.json`): the slug in the file's `CANONICAL` (`/engines/om651/` gives `om651`), else the engine code from the file name. The resolver matches it to the listing folders (`m57` finds `m57`, `bmw-m57`, `bmw-m57-recon`), and a combined hub such as `om612-om647` also answers links to `/engines/om612`.
+- **Links inside the data:** the intended URL; the resolver handles the rest.
 
 **Checking.** With the site running, `python -I scripts/check_links.py` opens the home page, every brand, model and hub page, the hand-built listing and one listing per engine folder, follows every internal link once and checks every canonical. It exits non-zero on any 404 or wrong canonical. Use `--listings all` for every listing, `--base https://www.engined.co.uk` for the live site. Run it after adding pages and before pushing.
 
@@ -229,7 +250,8 @@ npx tsc --noEmit             # type check; keep clean
 | `scripts/md_to_listingpage.py` | Listing extractor (section 5) |
 | `scripts/slice_default_images.py` | Slices the brand contact sheets into the default car photos |
 | `scripts/check_links.py` | `python -I scripts/check_links.py [--base URL] [--listings N\|all]` finds internal links that do not return 200 and wrong canonicals (section 4.1) |
-| `scripts/md_to_brandpage.py` | `python scripts/md_to_brandpage.py "../MOCKUP-02-brand-page-mercedes.md"` adds a brand page entry to `brandPage.json` from a mockup markdown file |
+| `scripts/md_to_pages.py` | `python -I scripts/md_to_pages.py brand\|model\|hub\|all [--dry-run] [--only TEXT] [--report FILE]` builds brand, model and hub pages from the client zips (section 4.1) |
+| `scripts/md_to_brandpage.py` | Older one-off converter for the Mercedes mockup markdown (`MOCKUP-02-...md`); superseded by `md_to_pages.py` for the zips |
 | `scripts/cutout_hero.js` | `node scripts/cutout_hero.js` re-cuts the hub hero artwork |
 | `scripts/shot.js` | `node scripts/shot.js <chromeDebugPort> <width> <out.png>` takes a full-page screenshot through Chrome's debugging port |
 
@@ -275,7 +297,7 @@ npx tsc --noEmit             # type check; keep clean
 | Lead delivery | Not tested with a real lead. Send one test lead and confirm it reaches `leads@engined.co.uk` and the CRM, and that the relay accepts the `engined.co.uk` sender |
 | Contact details | `contact.json` `details` (phone, WhatsApp, email, address, hours) are empty, so the "Other ways to reach us" card is hidden. No GMC phone or address exists in the project |
 | Missing static pages | Guides, Returns, About, Privacy, Terms, Delivery and Warranty have no pages; their links go to the stand-ins in `STATIC_FALLBACK` (home sections or `/contact`). Privacy and Terms pages are needed |
-| Missing pages | Brand, model and hub pages exist for one brand each (Mercedes-Benz, C-Class, OM651); the rest come from the zips (section 4.1). Until then their links go to the nearest existing page |
+| Missing pages | Brand, model and hub pages exist for one brand each (Mercedes-Benz, C-Class, OM651); `scripts/md_to_pages.py` builds the rest from the zips (section 4.1). Until they are generated, their links go to the nearest existing page |
 | Images | About 1,190 listings have no car-photo pair (Citroen, Mini, Nissan, Peugeot, Renault, Seat, Suzuki, Toyota, Vauxhall, Volvo). About 790 use the neutral engine placeholder (Peugeot, Renault, Seat, Suzuki, Toyota, Vauxhall, Volvo have no engine photo) |
 | Recon copy | The "what does reconditioned mean" FAQ and the recon About paragraph were written from the used wording and the recon lists; the business should read them |
 | Sitemap and robots | There is no `sitemap.xml` or `robots.txt` yet |

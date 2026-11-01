@@ -176,8 +176,17 @@ function resolveModel(brandSlug: string, model: string): string {
   return brands.has(brandSlug) ? `${brandHref}#shop-by-model` : brandHref;
 }
 
+/** Hub pages that cover several codes ("om612-om647", "m177-m178"), keyed by each of their codes. */
+const hubAlias = new Map<string, string>();
+for (const key of hubs) {
+  const parts = key.split("-").filter((p) => /\d/.test(p) && p.length >= 3);
+  if (parts.length > 1) for (const p of parts) if (!hubs.has(p) && !hubAlias.has(p)) hubAlias.set(p, key);
+}
+
 function resolveEngine(engine: string | undefined, app: string | undefined, context: string[]): string {
   if (!engine) return STATIC_FALLBACK["/engines"];
+  const alias = hubAlias.get(engine);
+  if (alias && !app) return `/engines/${alias}`;
   // no page context (e.g. the home page): use the brand whose page lists this engine
   const brand = brandOfEngine(engine);
   const ctx = context.length ? context : brand ? listingPrefixes(brand) : [];
