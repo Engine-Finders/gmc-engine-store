@@ -290,21 +290,6 @@ function PlatformFlare({ W, H }: { W: number; H: number }) {
   );
 }
 
-// LED point light: seconds per lap round a card
-const LED_LAP = 5.5;
-
-// point at distance s (px) clockwise round a w x h box, starting at its top-left corner
-function perimeterPoint(s: number, w: number, h: number): [number, number] {
-  let d = mod(s, 2 * (w + h));
-  if (d < w) return [d, 0];
-  d -= w;
-  if (d < h) return [w, d];
-  d -= h;
-  if (d < w) return [w - d, h];
-  d -= w;
-  return [0, h - d];
-}
-
 // A card's moving parts, found once (not queried every frame), plus the last value written to each
 // so unchanged values are never written again (every write makes the browser redraw the card).
 type Parts = {
@@ -314,8 +299,6 @@ type Parts = {
   arrow: HTMLElement | null;
   pill: HTMLElement | null;
   frontRim: SVGSVGElement | null;
-  ledSvg: SVGSVGElement | null;
-  led: SVGRadialGradientElement | null;
   h: number; // card height (measured once)
   last: Record<string, string>;
 };
@@ -329,8 +312,6 @@ function cardParts(el: HTMLElement): Parts {
     arrow: q("[data-arrow]"),
     pill: q("[data-pill]"),
     frontRim: q("[data-front-rim]"),
-    ledSvg: q("[data-led-svg]"),
-    led: q("[data-led]"),
     h: q<HTMLElement>("[data-card]")?.offsetHeight || 412,
     last: {},
   };
@@ -459,28 +440,13 @@ function OrbitCard({ card, index }: { card: Card; index: number }) {
       </svg>
       {/* front-card rim: a stronger, even blue line all the way round with a tight halo. The halo is
           layered plain strokes, not a blur filter (a blur is costly to redraw every frame), so it stays
-          a line and doesn't spread. Faded in per frame as the card reaches the middle. */}
+          a line and doesn't spread. The middle spot always has it at full strength: it is fully on from
+          halfway into the middle, so while cards glide the arriving card lights up as the leaving one dims. */}
       <svg data-front-rim className="pointer-events-none absolute inset-0 h-full w-full overflow-visible opacity-0" fill="none" aria-hidden="true">
         <rect width="100%" height="100%" rx="16" stroke="#3b8bff" strokeWidth="8" opacity="0.14" />
         <rect width="100%" height="100%" rx="16" stroke="#3b8bff" strokeWidth="5" opacity="0.3" />
         <rect width="100%" height="100%" rx="16" stroke="#5aa2ff" strokeWidth="2.5" />
         <rect width="100%" height="100%" rx="16" stroke="#cfe5ff" strokeWidth="0.8" opacity="0.7" />
-      </svg>
-      {/* LED edge: a point of light running round the border of every card (the loop shows it and keeps
-          all the lights in step). The rim is stroked with a small soft round gradient that the loop slides along
-          the edge, so the light fades smoothly with no visible steps; wider faint strokes of the same
-          gradient make its bloom (no blur filter, which would be costly to redraw every frame). */}
-      <svg data-led-svg className="pointer-events-none absolute inset-0 h-full w-full overflow-visible opacity-0" fill="none" aria-hidden="true">
-        <defs>
-          <radialGradient id={`orbit-led-${index}`} data-led gradientUnits="userSpaceOnUse" cx="0" cy="0" r="30">
-            <stop offset="0" stopColor="#ffffff" stopOpacity="1" />
-            <stop offset="0.35" stopColor="#93c5fd" stopOpacity="0.85" />
-            <stop offset="1" stopColor="#3b82f6" stopOpacity="0" />
-          </radialGradient>
-        </defs>
-        <rect width="100%" height="100%" rx="16" stroke={`url(#orbit-led-${index})`} strokeWidth="9" opacity="0.2" />
-        <rect width="100%" height="100%" rx="16" stroke={`url(#orbit-led-${index})`} strokeWidth="5" opacity="0.4" />
-        <rect width="100%" height="100%" rx="16" stroke={`url(#orbit-led-${index})`} strokeWidth="2.2" />
       </svg>
     </div>
   );
@@ -590,8 +556,7 @@ export default function HeroOrbit({ cardHrefs }: { cardHrefs: Record<string, str
 
       // Performance: the cards are redrawn by the browser (not moved as GPU bitmaps) so their edges stay
       // smooth, which makes every change to them costly. So each card's parts are found and measured
-      // once, and a value is only written when it changes: at rest nothing is redrawn but the point
-      // lights, which are their own small GPU layers.
+      // once, and a value is only written when it changes: at rest nothing is redrawn.
       if (!parts.current) parts.current = slotRefs.current.map((el) => (el ? cardParts(el) : null));
       let best = -1; // the card most in the middle
       let bestF = 0;
@@ -628,24 +593,11 @@ export default function HeroOrbit({ cardHrefs }: { cardHrefs: Record<string, str
         put(c, "glow", Math.max(0.4 + 0.6 * front, a).toFixed(2), (v) => c.glow && (c.glow.style.opacity = v));
         put(c, "arrow", flat.toFixed(2), (v) => c.arrow && (c.arrow.style.opacity = v));
         put(c, "pill", a.toFixed(2), (v) => c.pill && (c.pill.style.opacity = v));
-        put(c, "rim", Math.max(front, a).toFixed(2), (v) => c.frontRim && (c.frontRim.style.opacity = v));
+        // middle-card glow: full from halfway into the middle slot, so the middle is never without it
+        put(c, "rim", Math.max(Math.min(1, front * 2), a).toFixed(2), (v) => c.frontRim && (c.frontRim.style.opacity = v));
         if (front > bestF) {
           bestF = front;
           best = i;
-        }
-
-        // LED point light on every card: slide its gradient round the rim. Each light's svg is its own
-        // small GPU layer, so moving the light redraws just the light, not the whole card under it.
-        put(c, "led", "on", () => {
-          if (!c.ledSvg) return;
-          c.ledSvg.style.opacity = "1";
-          c.ledSvg.style.willChange = "transform";
-        });
-        if (c.led) {
-          const lap = reduce ? 0.12 : now / 1000 / LED_LAP;
-          const [lx, ly] = perimeterPoint(lap * 2 * (CARD_W + c.h), CARD_W, c.h);
-          put(c, "lx", lx.toFixed(1), (v) => c.led!.setAttribute("cx", v));
-          put(c, "ly", ly.toFixed(1), (v) => c.led!.setAttribute("cy", v));
         }
       }
 
