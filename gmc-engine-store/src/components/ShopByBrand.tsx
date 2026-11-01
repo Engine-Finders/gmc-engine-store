@@ -1,7 +1,10 @@
 import Link from "next/link";
 import Icon from "./Icon";
 import SectionHeading from "./SectionHeading";
-import shopByBrand from "@/data/shopByBrand.json";
+import rawShopByBrand from "@/data/shopByBrand.json";
+import { resolveLinks } from "@/lib/links";
+
+const shopByBrand = resolveLinks(rawShopByBrand);
 
 export default function ShopByBrand() {
   return (

@@ -2,6 +2,8 @@ import Link from "next/link";
 import Icon from "../Icon";
 import UkFlag from "../UkFlag";
 import type { ModelPageData } from "@/lib/model";
+import { resolveHref } from "@/lib/links";
+import { brandSlugFor } from "@/lib/slugs";
 import ModelHeroCarousel, { EngineCard, cqw } from "./ModelHeroCarousel";
 
 type Data = ModelPageData["hero"];
@@ -35,9 +37,9 @@ export default function ModelHero({ data, trustBadges }: { data: Data; trustBadg
         <nav className="flex flex-wrap items-center gap-1.5 text-[11px] font-semibold text-ink-500 dark:text-white/55">
           <Link href="/" className="hover:text-ink-900 dark:hover:text-white">Home</Link>
           <Icon name="chevron-right" className="h-3 w-3 opacity-50" />
-          <Link href="/brands" className="hover:text-ink-900 dark:hover:text-white">Brands</Link>
+          <Link href={resolveHref("/brands")} className="hover:text-ink-900 dark:hover:text-white">Brands</Link>
           <Icon name="chevron-right" className="h-3 w-3 opacity-50" />
-          <Link href={`/${data ? "mercedes-benz-engines" : ""}`} className="hover:text-ink-900 dark:hover:text-white">{data.brand}</Link>
+          <Link href={resolveHref(`/${brandSlugFor(data.brand)}`)} className="hover:text-ink-900 dark:hover:text-white">{data.brand}</Link>
           <Icon name="chevron-right" className="h-3 w-3 opacity-50" />
           <span className="text-ink-800 dark:text-white/85">{data.model} Engines</span>
         </nav>

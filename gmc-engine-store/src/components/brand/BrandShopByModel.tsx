@@ -29,7 +29,7 @@ export default function BrandShopByModel({ data }: { data: Data }) {
   const shown = expanded ? models : models.slice(0, 10);
 
   return (
-    <section className="bg-white pb-10 lg:pb-12">
+    <section id="shop-by-model" className="scroll-mt-20 bg-white pb-10 lg:pb-12">
       <div className="max-w-content mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-end justify-between gap-4">
           <div>

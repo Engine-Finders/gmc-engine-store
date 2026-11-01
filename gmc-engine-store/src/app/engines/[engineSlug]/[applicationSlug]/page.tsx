@@ -28,7 +28,7 @@ export function generateMetadata({ params }: { params: Params }): Metadata {
   return {
     title: data.seo.title,
     description: data.seo.description,
-    alternates: { canonical: data.seo.canonical },
+    alternates: { canonical: `/engines/${params.engineSlug}/${params.applicationSlug}` },
   };
 }
 

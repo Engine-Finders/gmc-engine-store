@@ -105,7 +105,7 @@ function CardFace({ card, active }: { card: Card; active: boolean }) {
   );
 }
 
-export default function HeroCarousel() {
+export default function HeroCarousel({ cardHrefs }: { cardHrefs: Record<string, string> }) {
   const [center, setCenter] = useState(featuredIndex);
   const dragX = useRef(0);
   const moved = useRef(0);
@@ -178,7 +178,7 @@ export default function HeroCarousel() {
           return (
             <div key={card.code} className="absolute left-1/2 top-1/2 w-[60vw] max-w-[250px] transition-all duration-500 ease-out" style={style}>
               <div className="hero-float" style={floatVars}>
-                <Link href={card.href} aria-label={`${card.code} engine`} className="block" draggable={false} onClick={guardClick}>
+                <Link href={cardHrefs[card.code] ?? card.href} aria-label={`${card.code} engine`} className="block" draggable={false} onClick={guardClick}>
                   <CardFace card={card} active={off === 0} />
                 </Link>
               </div>

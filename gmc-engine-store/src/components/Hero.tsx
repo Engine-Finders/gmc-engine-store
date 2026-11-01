@@ -97,7 +97,8 @@ function RegistrationForm() {
 /* =========================================================
    Hero
    ========================================================= */
-export default function Hero() {
+/** cardHrefs: engine code -> resolved link, from the server page (the resolver can't run in the browser). */
+export default function Hero({ cardHrefs }: { cardHrefs: Record<string, string> }) {
   return (
     <section className="hero-bg relative min-h-[100svh] overflow-hidden lg:min-h-0">
       <div className="relative mx-auto flex min-h-[100svh] max-w-content flex-col px-3 pt-1.5 pb-1.5 lg:min-h-[calc(100svh-68px)] lg:px-0 lg:pt-4 lg:pb-5">
@@ -152,7 +153,7 @@ export default function Hero() {
               =================================================== */}
           <div className="relative order-2 hidden self-stretch lg:block" style={{ minHeight: 440 }}>
             <div className="absolute inset-y-0 -left-6 right-[min(0px,calc((1200px-100vw)/2))]">
-              <HeroOrbit />
+              <HeroOrbit cardHrefs={cardHrefs} />
             </div>
           </div>
 
@@ -171,7 +172,7 @@ export default function Hero() {
 
             {/* Floating cards */}
             <div className="relative">
-              <HeroCarousel />
+              <HeroCarousel cardHrefs={cardHrefs} />
             </div>
           </div>
 

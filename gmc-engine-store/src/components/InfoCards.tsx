@@ -1,8 +1,11 @@
 import Link from "next/link";
 import Icon from "./Icon";
 import usedVs from "@/data/usedVsReconditioned.json";
-import guides from "@/data/buyersGuides.json";
+import rawGuides from "@/data/buyersGuides.json";
+import { resolveLinks } from "@/lib/links";
 import warranty from "@/data/warrantyDelivery.json";
+
+const guides = resolveLinks(rawGuides);
 
 type Item = { title: string; description: string; icon: string };
 

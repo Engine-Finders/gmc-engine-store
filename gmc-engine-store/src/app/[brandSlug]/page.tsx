@@ -22,7 +22,7 @@ export function generateStaticParams() {
 export function generateMetadata({ params }: { params: { brandSlug: string } }): Metadata {
   const data = getBrandData(params.brandSlug);
   if (!data) return {};
-  return { title: data.seo.title, description: data.seo.description };
+  return { title: data.seo.title, description: data.seo.description, alternates: { canonical: `/${params.brandSlug}` } };
 }
 
 export default function BrandPage({ params }: { params: { brandSlug: string } }) {

@@ -1,6 +1,9 @@
 import Link from "next/link";
 import Icon from "./Icon";
-import buyEngine from "@/data/buyEngine.json";
+import rawBuyEngine from "@/data/buyEngine.json";
+import { resolveLinks } from "@/lib/links";
+
+const buyEngine = resolveLinks(rawBuyEngine);
 
 export default function PopularEngines() {
   return (

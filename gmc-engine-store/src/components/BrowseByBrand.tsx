@@ -24,19 +24,19 @@ function borderGradient(glow: string, bright: string): string {
   return `linear-gradient(38deg, ${bright} 0%, ${glow} 40%, ${glow}55 72%, ${glow}1f 100%)`;
 }
 
-export default function BrowseByBrand() {
+export default function BrowseByBrand({ data }: { data: typeof brands }) {
   const scrollToShop = () => {
-    document.getElementById(brands.allBrandsCard.targetId)?.scrollIntoView({ behavior: "smooth" });
+    document.getElementById(data.allBrandsCard.targetId)?.scrollIntoView({ behavior: "smooth" });
   };
 
   return (
     <section className="bg-white pt-8 pb-10 lg:pt-10 lg:pb-12">
       <div className="max-w-content mx-auto px-3 lg:px-0 ">
-        <SectionHeading title={brands.sectionTitle} description={brands.sectionDescription} linkText={brands.viewAllText} linkHref={brands.viewAllHref} />
+        <SectionHeading title={data.sectionTitle} description={data.sectionDescription} linkText={data.viewAllText} linkHref={data.viewAllHref} />
 
         {/* Desktop: tall cards row */}
         <div className="mt-9 hidden lg:grid lg:grid-cols-7 lg:gap-5">
-          {brands.brands.map((brand: Brand) => (
+          {data.brands.map((brand: Brand) => (
             <Link key={brand.name} href={brand.href} className="group relative block h-[236px]">
               {/* radiating background haze */}
               <span aria-hidden className="pointer-events-none absolute -inset-4 rounded-[30px] blur-2xl opacity-80 transition-opacity duration-300 group-hover:opacity-100" style={{ background: haze(brand.glow, brand.glowBright) }} />
@@ -67,8 +67,8 @@ export default function BrowseByBrand() {
           <button onClick={scrollToShop} className="group relative block h-[236px]">
             <div className="relative h-full rounded-xl overflow-hidden bg-gradient-to-b from-navy-800 to-navy-950 border border-white/10 transition-all duration-300 group-hover:-translate-y-1.5 group-hover:border-primary-500/40 group-hover:shadow-card-hover flex flex-col items-center justify-center gap-3">
               <span className="text-white text-3xl tracking-widest leading-none">•••</span>
-              <p className="text-[13px] font-bold text-white">{brands.allBrandsCard.name}</p>
-              <p className="text-[11px] text-white/55">{brands.allBrandsCard.count}</p>
+              <p className="text-[13px] font-bold text-white">{data.allBrandsCard.name}</p>
+              <p className="text-[11px] text-white/55">{data.allBrandsCard.count}</p>
               <span className="absolute bottom-3.5 right-3.5 text-white/85 group-hover:text-white group-hover:translate-x-0.5 transition-all drop-shadow-[0_1px_3px_rgba(0,0,0,0.6)]">
                 <Icon name="arrow-right" className="w-4 h-4" />
               </span>
@@ -78,7 +78,7 @@ export default function BrowseByBrand() {
 
         {/* Mobile: full-width horizontal cards */}
         <div className="mt-6 flex flex-col gap-4 lg:hidden">
-          {brands.brands.map((brand: Brand) => (
+          {data.brands.map((brand: Brand) => (
             <Link key={brand.name} href={brand.href} className="group relative block">
               <span aria-hidden className="pointer-events-none absolute -inset-3 rounded-[26px] blur-2xl opacity-80" style={{ background: haze(brand.glow, brand.glowBright) }} />
               <div className="relative rounded-xl p-[1.5px]" style={{ background: borderGradient(brand.glow, brand.glowBright), boxShadow: `0 0 14px -3px ${brand.glow}b0` }}>
@@ -105,8 +105,8 @@ export default function BrowseByBrand() {
           <button onClick={scrollToShop} className="group relative flex items-center h-[92px] rounded-xl overflow-hidden bg-gradient-to-r from-navy-800 to-navy-950 border border-white/10 px-5 gap-4">
             <span className="grid place-items-center w-12 h-12 rounded-full border border-primary-400/50 text-white text-lg tracking-widest shrink-0">•••</span>
             <div className="text-left">
-              <p className="text-[15px] font-bold text-white leading-tight">{brands.allBrandsCard.name}</p>
-              <p className="text-[12px] text-white/55">{brands.allBrandsCard.count}</p>
+              <p className="text-[15px] font-bold text-white leading-tight">{data.allBrandsCard.name}</p>
+              <p className="text-[12px] text-white/55">{data.allBrandsCard.count}</p>
             </div>
             <span className="ml-auto text-white/85 group-hover:text-white transition-colors">
               <Icon name="arrow-right" className="w-4 h-4" />

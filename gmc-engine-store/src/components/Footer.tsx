@@ -1,6 +1,9 @@
 import Link from "next/link";
 import Icon from "./Icon";
-import footer from "@/data/footer.json";
+import rawFooter from "@/data/footer.json";
+import { resolveLinks } from "@/lib/links";
+
+const footer = resolveLinks(rawFooter);
 
 function Stars() {
   return (

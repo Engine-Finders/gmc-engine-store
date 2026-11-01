@@ -4,9 +4,9 @@ import { useState } from "react";
 import Link from "next/link";
 import Icon from "./Icon";
 import SectionHeading from "./SectionHeading";
-import engines from "@/data/engines.json";
+import rawEngines from "@/data/engines.json";
 
-export default function FeaturedEngines() {
+export default function FeaturedEngines({ data: engines }: { data: typeof rawEngines }) {
   const [favorites, setFavorites] = useState<Set<string>>(new Set());
   const toggleFav = (id: string) =>
     setFavorites((prev) => {
@@ -16,7 +16,7 @@ export default function FeaturedEngines() {
     });
 
   return (
-    <section className="bg-white pb-10 lg:pb-12">
+    <section id="featured-engines" className="scroll-mt-20 bg-white pb-10 lg:pb-12">
       <div className="max-w-content mx-auto px-3 lg:px-0 ">
         <SectionHeading title={engines.sectionTitle} description={engines.sectionDescription} linkText={engines.viewAllText} linkHref={engines.viewAllHref} />
 

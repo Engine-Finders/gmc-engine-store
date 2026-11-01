@@ -23,7 +23,11 @@ export function generateStaticParams() {
 export function generateMetadata({ params }: { params: Params }): Metadata {
   const data = getModelData(params.modelSlug);
   if (!data || data.brandSlug !== params.brandSlug) return {};
-  return { title: data.seo.title, description: data.seo.description };
+  return {
+    title: data.seo.title,
+    description: data.seo.description,
+    alternates: { canonical: `/${params.brandSlug}/${params.modelSlug}` },
+  };
 }
 
 export default function ModelPage({ params }: { params: Params }) {

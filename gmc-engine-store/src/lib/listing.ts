@@ -2,7 +2,10 @@ import fs from "fs";
 import path from "path";
 import listingPage from "@/data/listingPage.json";
 import defaults from "@/data/listingDefaults.json";
+import modelPage from "@/data/modelPage.json";
 import { hubSlugs } from "@/lib/hub";
+import { pageContext, resolveLinks } from "@/lib/links";
+import { brandSlugFor } from "@/lib/slugs";
 
 /**
  * Listing pages come from two places:
@@ -168,9 +171,19 @@ function siblings(engineSlug: string, applicationSlug: string, n = 4) {
 
 /* --------------------------------------------------------------------- merge */
 
+/** The model page this listing belongs to, when one exists (its application slug starts "<brand>-<model>-"). */
+function modelFor(s: Slim) {
+  const brandSlug = brandSlugFor(s.brand);
+  return (Object.values(modelPage) as { slug: string; brandSlug: string; hero: { model: string } }[]).find(
+    (m) => m.brandSlug === brandSlug && s.applicationSlug.startsWith(`${s.brand}-${m.slug}-`),
+  );
+}
+
 function fromSlim(s: Slim): ListingPageData {
   const hub = hubSlugs.includes(s.engineSlug);
   const hubHref = hub ? `/engines/${s.engineSlug}` : "";
+  const brandHref = `/${brandSlugFor(s.brand)}`;
+  const model = modelFor(s);
   const gallery: GalleryItem[] = s.hero.gallery.length
     ? s.hero.gallery.map((g) => ({ ...g, trimmed: g.src.startsWith("/images/listings/engines/") }))
     : [{ src: "/images/listings/engine.png", thumb: "/images/listings/engine_trim.png", kind: "engine" }];
@@ -193,11 +206,13 @@ function fromSlim(s: Slim): ListingPageData {
     engineSlug: s.engineSlug,
     applicationSlug: s.applicationSlug,
     seo: s.seo,
+    // home -> brand -> model (when its page exists) -> engine hub -> this listing; every link is resolved
+    // to the nearest real page in getListingData, so they never 404 while those pages are still being built
     breadcrumb: [
       { label: "Home", href: "/" },
-      { label: "Engines", href: "/engines" },
-      { label: `${s.brandName} Engines`, href: "" },
-      { label: `${s.engineCode} Engine`, href: hubHref },
+      { label: `${s.brandName} Engines`, href: brandHref },
+      ...(model ? [{ label: model.hero.model, href: `/${model.brandSlug}/${model.slug}` }] : []),
+      { label: `${s.engineCode} Engine`, href: `/engines/${s.engineSlug}` },
       { label: shortLabel(s.hero.title), href: "" },
     ],
     hero: {
@@ -252,7 +267,7 @@ function fromSlim(s: Slim): ListingPageData {
     cta: {
       line: s.cta.line,
       crossLink: s.cta.crossLink || `← Back to all ${s.engineCode} engines`,
-      crossHref: hubHref || "/engines",
+      crossHref: hubHref || brandHref,
       buyButton: defaults.buyButton,
     },
   };
@@ -270,9 +285,9 @@ function fromLegacy(d: (typeof listingPage)[keyof typeof listingPage]): ListingP
 /** Routes are /engines/<engineSlug>/<applicationSlug>. */
 export function getListingData(engineSlug: string, applicationSlug: string): ListingPageData | undefined {
   const hand = (listingPage as Record<string, (typeof listingPage)[keyof typeof listingPage]>)[`${engineSlug}-${applicationSlug}`];
-  if (hand) return fromLegacy(hand);
+  if (hand) return resolveLinks(fromLegacy(hand));
   const slim = readSlim(engineSlug, applicationSlug);
-  return slim ? fromSlim(slim) : undefined;
+  return slim ? resolveLinks(fromSlim(slim), pageContext(slim.brand)) : undefined;
 }
 
 /** Hand-built pages plus every extracted file. */

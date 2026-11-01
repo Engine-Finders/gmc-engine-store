@@ -1,15 +1,14 @@
 import type { Metadata } from "next";
 import "./globals.css";
 import QuoteModalProvider from "@/components/quote/QuoteModal";
+import { SITE_URL } from "@/lib/site";
 
 export const metadata: Metadata = {
   title: "Buy Used & Reconditioned Engines Online | GMC",
   description:
     "Buy used and reconditioned engines online at fixed prices. Find your engine by registration or browse by brand. Verified fitment, warranty, UK delivery.",
-  metadataBase: new URL("https://example.com"),
-  alternates: {
-    canonical: "https://example.com/",
-  },
+  // relative canonicals in each page resolve against this; no canonical here, or every page would inherit one
+  metadataBase: new URL(SITE_URL),
 };
 
 export default function RootLayout({

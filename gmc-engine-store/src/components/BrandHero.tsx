@@ -7,6 +7,7 @@ import Icon from "./Icon";
 import UkFlag from "./UkFlag";
 import { useRegCheck } from "./quote/QuoteModal";
 import type { BrandPageData } from "@/lib/brand";
+import { staticHref } from "@/lib/slugs";
 
 /* =========================================================
    TYPES
@@ -311,7 +312,7 @@ export default function BrandHero({
           />
 
           <Link
-            href="/brands"
+            href={staticHref("/brands")}
             className="transition-colors hover:text-white"
           >
             Brands

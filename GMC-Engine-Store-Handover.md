@@ -86,6 +86,34 @@ Pages are **data-driven**. A page type is a set of components; each page is one 
 
 **Tailwind colour trap.** Only these `ink` shades exist: 400, 500, 700, 800, 900. `text-ink-600`, `bg-ink-100` and similar render nothing; use 500 or 700. Some older components still use the undefined shades (grep `ink-[1236]00`).
 
+### 4.1 Internal links and canonicals
+
+**Rule: no internal link may 404.** Links in the JSON are written as the URL they are meant to reach, even when that page does not exist yet (`/engines/om642`, `/mercedes-benz-engines/e-class`, `/audi-engines`). `src/lib/links.ts` resolves every one of them at build time:
+
+| Link to | Page exists | Page missing (nearest real page) |
+|---|---|---|
+| `/engines/<engine>/<app>` | the listing | best-matching listing of that engine, else the engine hub |
+| `/engines/<engine>` (or `<engine>-w204` style) | the hub | best listing of that engine (the suffix picks the chassis), else the brand page that lists the engine |
+| `/<brand>-engines/<model>` | the model page | hub of the engine with most listings for that model, else a listing of the model, else the brand page's "Shop by model" |
+| `/<brand>-engines` | the brand page | home page "Shop by brand" |
+| `/engines`, `/brands`, `/guides`, `/warranty`, `/delivery`, `/returns`, `/about`, `/privacy`, `/terms` | - | the stand-in in `STATIC_FALLBACK` in `src/lib/slugs.ts` |
+
+When several listings fit, the brand and model of the page the link is on break the tie (a Mercedes page picks a Mercedes listing).
+
+- **Where it runs:** `getBrandData`, `getModelData`, `getHubData` and `getListingData` return data with every `href`/`*Href` field resolved. Home sections resolve in `app/page.tsx` (client components get the resolved links as props) and in the server components that import their JSON (`ShopByBrand`, `InfoCards`, `PopularEngines`, `Footer`). Server components use `resolveHref()`; client components may only use `staticHref()` from `lib/slugs.ts` (the resolver reads the file system).
+- **It updates itself.** Add a page's JSON and every link to that URL points at it on the next build. Never replace an intended URL in the data with its fallback.
+- **Listing breadcrumbs** are Home > `<Brand> Engines` > model (when that model page exists) > `<CODE> Engine` > listing.
+- **Canonicals** come from the route, not the JSON: `metadataBase` is `SITE_URL` (`https://www.engined.co.uk` unless `NEXT_PUBLIC_SITE_URL` is set) and each page sets its own path (`/`, `/<brand>`, `/<brand>/<model>`, `/engines/<engine>`, `/engines/<engine>/<app>`, `/contact`). The `seo.canonical` fields in the JSON are not used. A new page type must set `alternates.canonical` in its `generateMetadata`; the layout deliberately has none, or every page would inherit it.
+
+**Building the remaining brand, model and hub pages.** The source markdown is in `Brand Pages.zip` (20 brands), `Model Pages.zip` (94 models) and `Hub Pages.zip` (151 engines); the zips are not in the repo, the owner has them. The Mercedes brand page, the C-Class model page, the OM651 hub and the OM651 listings are the finished examples to copy. Write a converter per page type (like `scripts/md_to_listingpage.py`; `scripts/md_to_brandpage.py` is a start for brands) that adds entries to the JSON. For the links to join up, keep these slugs:
+
+- **Brand key** (`brandPage.json`): the brand name slugified plus `-engines`, e.g. `bmw-engines`, `land-rover-engines`, `mini-engines`, `seat-engines`. `brandSlugFor()` in `lib/slugs.ts` must give the same slug for the listing brand code; add a line to `BRAND_PAGE_SLUG` if it does not.
+- **Model key** (`modelPage.json`): the model's slug as it appears in listing slugs after the brand code (`c-class` for `mercedes-c-class-w204-...`, `golf` for `volkswagen-golf-...`), with `brandSlug` set to the brand key. Listings of that model then show it in their breadcrumb.
+- **Hub key** (`hubPage.json`): the listing folder name in `src/data/listings` (`om651`, `n47`, `bmw-m57`). Listings link to their hub only when the names match.
+- **Links inside the data:** use the intended URL forms above; the resolver handles the rest.
+
+**Checking.** With the site running, `python -I scripts/check_links.py` opens the home page, every brand, model and hub page, the hand-built listing and one listing per engine folder, follows every internal link once and checks every canonical. It exits non-zero on any 404 or wrong canonical. Use `--listings all` for every listing, `--base https://www.engined.co.uk` for the live site. Run it after adding pages and before pushing.
+
 ---
 
 ## 5. Listing extraction (markdown to pages)
@@ -200,6 +228,7 @@ npx tsc --noEmit             # type check; keep clean
 |---|---|
 | `scripts/md_to_listingpage.py` | Listing extractor (section 5) |
 | `scripts/slice_default_images.py` | Slices the brand contact sheets into the default car photos |
+| `scripts/check_links.py` | `python -I scripts/check_links.py [--base URL] [--listings N\|all]` finds internal links that do not return 200 and wrong canonicals (section 4.1) |
 | `scripts/md_to_brandpage.py` | `python scripts/md_to_brandpage.py "../MOCKUP-02-brand-page-mercedes.md"` adds a brand page entry to `brandPage.json` from a mockup markdown file |
 | `scripts/cutout_hero.js` | `node scripts/cutout_hero.js` re-cuts the hub hero artwork |
 | `scripts/shot.js` | `node scripts/shot.js <chromeDebugPort> <width> <out.png>` takes a full-page screenshot through Chrome's debugging port |
@@ -245,11 +274,11 @@ npx tsc --noEmit             # type check; keep clean
 |---|---|
 | Lead delivery | Not tested with a real lead. Send one test lead and confirm it reaches `leads@engined.co.uk` and the CRM, and that the relay accepts the `engined.co.uk` sender |
 | Contact details | `contact.json` `details` (phone, WhatsApp, email, address, hours) are empty, so the "Other ways to reach us" card is hidden. No GMC phone or address exists in the project |
-| Dead links | Footer links (Guides, Returns, About, Privacy, Terms, Delivery, Warranty) and the "All guides" link on the guides card return 404. Only `/contact` exists |
-| Missing pages | Brand, model and hub pages exist for one brand each. The home page's brand cards for BMW, Jaguar, Land Rover, Audi and Volkswagen link to 404s, and a generated listing links to a hub only when `hubPage.json` has that engine |
+| Missing static pages | Guides, Returns, About, Privacy, Terms, Delivery and Warranty have no pages; their links go to the stand-ins in `STATIC_FALLBACK` (home sections or `/contact`). Privacy and Terms pages are needed |
+| Missing pages | Brand, model and hub pages exist for one brand each (Mercedes-Benz, C-Class, OM651); the rest come from the zips (section 4.1). Until then their links go to the nearest existing page |
 | Images | About 1,190 listings have no car-photo pair (Citroen, Mini, Nissan, Peugeot, Renault, Seat, Suzuki, Toyota, Vauxhall, Volvo). About 790 use the neutral engine placeholder (Peugeot, Renault, Seat, Suzuki, Toyota, Vauxhall, Volvo have no engine photo) |
 | Recon copy | The "what does reconditioned mean" FAQ and the recon About paragraph were written from the used wording and the recon lists; the business should read them |
-| Canonical and `metadataBase` | `layout.tsx` points at `example.com`; there is no sitemap or robots file; the markdown canonicals use `engined.co.uk` |
+| Sitemap and robots | There is no `sitemap.xml` or `robots.txt` yet |
 | CRM year field | `year` is emailed but not mapped in `toCrmLeadPayload` |
 | No leads admin | The garage sites' `/leads` page has not been ported |
 | Header and footer theme | Both stay dark on the light model, hub and listing pages (the reference shows a light header) |
