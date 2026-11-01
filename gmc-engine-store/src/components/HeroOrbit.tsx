@@ -77,8 +77,8 @@ const SLOTS: Slot[] = [
 const K = SLOTS.length;
 const RING = { cx: CX, cy: 330, rx: 505, ry: 185, tilt: -2.5 };
 
-const REST = 1.7; // seconds the cards rest between glides
-const GLIDE = 1.25; // seconds one glide takes
+const REST = 1.4; // seconds the cards rest between glides
+const GLIDE = 1.05; // seconds one glide takes
 const FOCUS_GLIDE = 0.9; // seconds per slot when a clicked card travels to the front
 
 type Tween = { from: number; to: number; t: number; dur: number };
@@ -305,6 +305,45 @@ function perimeterPoint(s: number, w: number, h: number): [number, number] {
   return [0, h - d];
 }
 
+// A card's moving parts, found once (not queried every frame), plus the last value written to each
+// so unchanged values are never written again (every write makes the browser redraw the card).
+type Parts = {
+  el: HTMLElement;
+  shade: HTMLElement | null;
+  glow: HTMLElement | null;
+  arrow: HTMLElement | null;
+  pill: HTMLElement | null;
+  frontRim: SVGSVGElement | null;
+  ledSvg: SVGSVGElement | null;
+  led: SVGRadialGradientElement | null;
+  h: number; // card height (measured once)
+  last: Record<string, string>;
+};
+
+function cardParts(el: HTMLElement): Parts {
+  const q = <T extends Element>(sel: string) => el.querySelector<T>(sel);
+  return {
+    el,
+    shade: q("[data-shade]"),
+    glow: q("[data-glow]"),
+    arrow: q("[data-arrow]"),
+    pill: q("[data-pill]"),
+    frontRim: q("[data-front-rim]"),
+    ledSvg: q("[data-led-svg]"),
+    led: q("[data-led]"),
+    h: q<HTMLElement>("[data-card]")?.offsetHeight || 412,
+    last: {},
+  };
+}
+
+/** Write v only if it differs from the last value written under key; true if it was written. */
+function put(c: Parts, key: string, v: string, apply: (v: string) => unknown): boolean {
+  if (c.last[key] === v) return false;
+  c.last[key] = v;
+  apply(v);
+  return true;
+}
+
 function OrbitCard({ card, index }: { card: Card; index: number }) {
   const reconditioned = card.condition === "Reconditioned";
   return (
@@ -374,7 +413,7 @@ function OrbitCard({ card, index }: { card: Card; index: number }) {
           <img
             src={card.image}
             alt=""
-            className="mx-auto w-full object-contain [filter:drop-shadow(0_10px_14px_rgba(0,0,0,0.6))_drop-shadow(0_0_14px_rgba(90,160,255,0.25))]"
+            className="mx-auto w-full object-contain [filter:drop-shadow(0_10px_14px_rgba(0,0,0,0.6))]"
             style={{ height: 170 }}
             draggable={false}
           />
@@ -418,34 +457,29 @@ function OrbitCard({ card, index }: { card: Card; index: number }) {
         <rect width="100%" height="100%" rx="16" stroke={`url(#orbit-rim-${index})`} strokeWidth="5" opacity="0.3" />
         <rect width="100%" height="100%" rx="16" stroke={`url(#orbit-rim-${index})`} strokeWidth="1.5" />
       </svg>
-      {/* front-card rim: a stronger, even blue line all the way round with a tight halo (small blur,
-          so it stays a line and doesn't spread). Faded in per frame as the card reaches the middle. */}
+      {/* front-card rim: a stronger, even blue line all the way round with a tight halo. The halo is
+          layered plain strokes, not a blur filter (a blur is costly to redraw every frame), so it stays
+          a line and doesn't spread. Faded in per frame as the card reaches the middle. */}
       <svg data-front-rim className="pointer-events-none absolute inset-0 h-full w-full overflow-visible opacity-0" fill="none" aria-hidden="true">
-        <defs>
-          <filter id={`orbit-front-blur-${index}`} x="-5%" y="-5%" width="110%" height="110%">
-            <feGaussianBlur stdDeviation="2" />
-          </filter>
-        </defs>
-        <rect width="100%" height="100%" rx="16" stroke="#3b8bff" strokeWidth="6" opacity="0.8" filter={`url(#orbit-front-blur-${index})`} />
+        <rect width="100%" height="100%" rx="16" stroke="#3b8bff" strokeWidth="8" opacity="0.14" />
+        <rect width="100%" height="100%" rx="16" stroke="#3b8bff" strokeWidth="5" opacity="0.3" />
         <rect width="100%" height="100%" rx="16" stroke="#5aa2ff" strokeWidth="2.5" />
         <rect width="100%" height="100%" rx="16" stroke="#cfe5ff" strokeWidth="0.8" opacity="0.7" />
       </svg>
-      {/* LED edge: a point of light running round the border. The rim is stroked with a small soft
-          round gradient that the animation loop slides along the edge, so the light fades smoothly
-          with no visible steps. The blur on the bloom is fine: blurred light has no hard edge to
-          turn jagged. */}
-      <svg className="pointer-events-none absolute inset-0 h-full w-full overflow-visible" fill="none" aria-hidden="true">
+      {/* LED edge: a point of light running round the border of every card (the loop shows it and keeps
+          all the lights in step). The rim is stroked with a small soft round gradient that the loop slides along
+          the edge, so the light fades smoothly with no visible steps; wider faint strokes of the same
+          gradient make its bloom (no blur filter, which would be costly to redraw every frame). */}
+      <svg data-led-svg className="pointer-events-none absolute inset-0 h-full w-full overflow-visible opacity-0" fill="none" aria-hidden="true">
         <defs>
           <radialGradient id={`orbit-led-${index}`} data-led gradientUnits="userSpaceOnUse" cx="0" cy="0" r="30">
             <stop offset="0" stopColor="#ffffff" stopOpacity="1" />
             <stop offset="0.35" stopColor="#93c5fd" stopOpacity="0.85" />
             <stop offset="1" stopColor="#3b82f6" stopOpacity="0" />
           </radialGradient>
-          <filter id={`orbit-led-blur-${index}`} x="-10%" y="-10%" width="120%" height="120%">
-            <feGaussianBlur stdDeviation="4" />
-          </filter>
         </defs>
-        <rect width="100%" height="100%" rx="16" stroke={`url(#orbit-led-${index})`} strokeWidth="6" opacity="0.75" filter={`url(#orbit-led-blur-${index})`} />
+        <rect width="100%" height="100%" rx="16" stroke={`url(#orbit-led-${index})`} strokeWidth="9" opacity="0.2" />
+        <rect width="100%" height="100%" rx="16" stroke={`url(#orbit-led-${index})`} strokeWidth="5" opacity="0.4" />
         <rect width="100%" height="100%" rx="16" stroke={`url(#orbit-led-${index})`} strokeWidth="2.2" />
       </svg>
     </div>
@@ -456,6 +490,8 @@ export default function HeroOrbit({ cardHrefs }: { cardHrefs: Record<string, str
   const router = useRouter();
   const sceneRef = useRef<HTMLDivElement>(null);
   const slotRefs = useRef<(HTMLDivElement | null)[]>([]);
+  const parts = useRef<(Parts | null)[] | null>(null);
+  const holeRef = useRef<SVGRectElement | null>(null);
   const S = useRef<Scene>({ W: REF_W, H: REF_H, pos: 0, tween: null, rest: 0, speed: 1, dim: 0, hover: false, dragging: false, sel: null, selAmt: cards.map(() => 0) });
   const press = useRef<{ x: number; target: EventTarget | null; moved: boolean; id: number } | null>(null);
   const [sel, setSelState] = useState<number | null>(null);
@@ -516,6 +552,10 @@ export default function HeroOrbit({ cardHrefs }: { cardHrefs: Record<string, str
   // the one animation loop
   useEffect(() => {
     const reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+    // card heights can change once the web fonts load: find and measure the parts again then
+    document.fonts?.ready.then(() => {
+      parts.current = null;
+    });
     let raf = 0;
     let last = performance.now();
 
@@ -548,11 +588,16 @@ export default function HeroOrbit({ cardHrefs }: { cardHrefs: Record<string, str
         }
       }
 
-      // the card most in the middle: the platform ring's back half is cut out behind it
-      let cut = { f: 0, t: "", h: 0 };
+      // Performance: the cards are redrawn by the browser (not moved as GPU bitmaps) so their edges stay
+      // smooth, which makes every change to them costly. So each card's parts are found and measured
+      // once, and a value is only written when it changes: at rest nothing is redrawn but the point
+      // lights, which are their own small GPU layers.
+      if (!parts.current) parts.current = slotRefs.current.map((el) => (el ? cardParts(el) : null));
+      let best = -1; // the card most in the middle
+      let bestF = 0;
       for (let i = 0; i < N; i++) {
-        const el = slotRefs.current[i];
-        if (!el) continue;
+        const c = parts.current[i];
+        if (!c) continue;
         const p = sample(slotOf(i, s.pos));
         s.selAmt[i] += ((s.sel === i ? 1 : 0) - s.selAmt[i]) * Math.min(1, dt * 6);
         const a = s.selAmt[i];
@@ -569,53 +614,58 @@ export default function HeroOrbit({ cardHrefs }: { cardHrefs: Record<string, str
         // 2D transform only. Any 3D part (perspective / rotateX / rotateY) makes the GPU draw the card as
         // a flat bitmap and warp it, which leaves jagged, stair-stepped borders on the tilted cards. A 2D
         // transform is drawn directly at its final angle and size, with smooth anti-aliased edges.
-        el.style.transform = `translate(${x.toFixed(2)}px, ${y.toFixed(2)}px) scale(${scale.toFixed(4)}) rotate(${rz.toFixed(2)}deg) skewX(${sk.toFixed(2)}deg) scaleX(${sx.toFixed(4)})`;
+        // Never hand the card to the GPU while it moves (will-change): the GPU would scale and tilt a
+        // bitmap drawn at the old size and angle, which goes pixelated mid-glide.
+        put(c, "t", `translate(${x.toFixed(2)}px, ${y.toFixed(2)}px) scale(${scale.toFixed(4)}) rotate(${rz.toFixed(2)}deg) skewX(${sk.toFixed(2)}deg) scaleX(${sx.toFixed(4)})`, (v) => (c.el.style.transform = v));
+
         // depth shading: a black layer inside the card, never a CSS filter (a filter makes the tilted
         // card jagged) and never opacity (cards must not turn see-through)
         const shade = a > 0.02 ? 1 : p.b * (1 - 0.18 * s.dim);
-        const shadeEl = el.querySelector<HTMLElement>("[data-shade]");
-        if (shadeEl) shadeEl.style.opacity = (1 - shade).toFixed(3);
-        el.style.zIndex = String(Math.round(p.d * 10) + (a > 0.5 ? 200 : 0));
+        put(c, "shade", (1 - shade).toFixed(2), (v) => c.shade && (c.shade.style.opacity = v));
+        put(c, "z", String(Math.round(p.d * 10) + (a > 0.5 ? 200 : 0)), (v) => (c.el.style.zIndex = v));
 
         const front = Math.max(0, (p.s - 0.58) / 0.42); // 1 in the hero slot, 0 from the neighbours outwards
-        const glow = el.querySelector<HTMLElement>("[data-glow]");
-        const arrow = el.querySelector<HTMLElement>("[data-arrow]");
-        const pill = el.querySelector<HTMLElement>("[data-pill]");
-        if (glow) glow.style.opacity = Math.max(0.4 + 0.6 * front, a).toFixed(3);
-        if (arrow) arrow.style.opacity = flat.toFixed(3);
-        if (pill) pill.style.opacity = a.toFixed(3);
-        const frontRim = el.querySelector<SVGSVGElement>("[data-front-rim]");
-        if (frontRim) frontRim.style.opacity = Math.max(front, a).toFixed(3);
-        const middle = Math.max(front, a);
-        if (middle > cut.f) {
-          // the card's own transform, in SVG syntax (the card box is centred on its slot point)
-          const t = `translate(${x.toFixed(2)} ${y.toFixed(2)}) scale(${scale.toFixed(4)}) rotate(${rz.toFixed(2)}) skewX(${sk.toFixed(2)}) scale(${sx.toFixed(4)} 1)`;
-          cut = { f: middle, t, h: el.querySelector<HTMLElement>("[data-card]")?.offsetHeight ?? 412 };
+        put(c, "glow", Math.max(0.4 + 0.6 * front, a).toFixed(2), (v) => c.glow && (c.glow.style.opacity = v));
+        put(c, "arrow", flat.toFixed(2), (v) => c.arrow && (c.arrow.style.opacity = v));
+        put(c, "pill", a.toFixed(2), (v) => c.pill && (c.pill.style.opacity = v));
+        put(c, "rim", Math.max(front, a).toFixed(2), (v) => c.frontRim && (c.frontRim.style.opacity = v));
+        if (front > bestF) {
+          bestF = front;
+          best = i;
         }
 
-        // LED point light: slide its gradient round the rim (on the card's edge, like the rim);
-        // every card's light is at the same place on its border, moving in step
-        const led = el.querySelector<SVGRadialGradientElement>("[data-led]");
-        const body = el.querySelector<HTMLElement>("[data-card]");
-        if (led && body) {
-          const w = CARD_W;
-          const h = body.offsetHeight;
+        // LED point light on every card: slide its gradient round the rim. Each light's svg is its own
+        // small GPU layer, so moving the light redraws just the light, not the whole card under it.
+        put(c, "led", "on", () => {
+          if (!c.ledSvg) return;
+          c.ledSvg.style.opacity = "1";
+          c.ledSvg.style.willChange = "transform";
+        });
+        if (c.led) {
           const lap = reduce ? 0.12 : now / 1000 / LED_LAP;
-          const [lx, ly] = perimeterPoint(lap * 2 * (w + h), w, h);
-          led.setAttribute("cx", lx.toFixed(1));
-          led.setAttribute("cy", ly.toFixed(1));
+          const [lx, ly] = perimeterPoint(lap * 2 * (CARD_W + c.h), CARD_W, c.h);
+          put(c, "lx", lx.toFixed(1), (v) => c.led!.setAttribute("cx", v));
+          put(c, "ly", ly.toFixed(1), (v) => c.led!.setAttribute("cy", v));
         }
       }
-      const hole = sceneRef.current?.querySelector<SVGRectElement>("[data-pad-cut]");
-      if (hole) {
-        hole.setAttribute("opacity", cut.f.toFixed(3));
-        if (cut.t) {
-          hole.setAttribute("transform", cut.t);
-          hole.setAttribute("y", String(-cut.h / 2));
-          hole.setAttribute("height", String(cut.h));
+
+      // The middle card hides the back half of the platform ring: a card-shaped hole in the middle
+      // slot's shape, its strength following how far a card has arrived (5% steps, so the platform -
+      // which has large blurs - is redrawn only a few times per glide, not every frame).
+      const hole = holeRef.current ?? (holeRef.current = sceneRef.current?.querySelector<SVGRectElement>("[data-pad-cut]") ?? null);
+      if (hole && best >= 0) {
+        const c = parts.current[best]!;
+        const a0 = Math.round(s.selAmt[best] * 10) / 10;
+        const shape = `translate(${(ox + CX * u).toFixed(2)} ${(oy + SLOTS[0].y * u).toFixed(2)}) scale(${((1 + 0.08 * a0) * u).toFixed(4)}) skewX(${(-6 * (1 - a0)).toFixed(2)})|${c.h}`;
+        if (hole.dataset.shape !== shape) {
+          hole.dataset.shape = shape;
+          hole.setAttribute("transform", shape.split("|")[0]);
+          hole.setAttribute("y", String(-c.h / 2));
+          hole.setAttribute("height", String(c.h));
         }
-      }
-      // the scene stays hidden until every card has its first position (no stacked flash on load)
+        const op = (Math.round(bestF * 20) / 20).toFixed(2);
+        if (hole.getAttribute("opacity") !== op) hole.setAttribute("opacity", op);
+      }      // the scene stays hidden until every card has its first position (no stacked flash on load)
       if (sceneRef.current && sceneRef.current.style.opacity !== "1") sceneRef.current.style.opacity = "1";
       raf = requestAnimationFrame(frame);
     };
