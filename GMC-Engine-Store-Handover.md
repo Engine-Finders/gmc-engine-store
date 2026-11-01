@@ -19,8 +19,6 @@ Everything needed to build and run the site is in this repo. Environment variabl
 
 `gmc-engine-store/CONTEXT.md` and `HANDOVER.txt` hold earlier design notes (design rules, glass-card notes, the Windows `.next` gotcha). Where they differ from this file, this file is current.
 
-The garage sites (BMW, Mercedes, Jaguar, Land Rover) are separate projects; the GMC lead flow follows Land Rover's.
-
 **Core flow:** a visitor lands on a brand, hub or listing page, types a plate into one of the registration boxes, and the site-wide quote pop-up opens with the vehicle looked up. They submit name, phone, email and postcode. The form posts to `/api/send-lead`, which emails `leads@engined.co.uk` through the shared PHP mail relay and, in parallel, saves the lead in the shared Supabase CRM.
 
 ---
@@ -46,15 +44,15 @@ Paths are relative to the app folder `gmc-engine-store/`:
 
 | Area | Choice | Notes |
 |---|---|---|
-| Framework | Next.js 14.2.5 (App Router), React 18.3, TypeScript 5 | Older than the garage sites (Next 16, React 19) |
+| Framework | Next.js 14.2.5 (App Router), React 18.3, TypeScript 5 | |
 | Styling | Tailwind CSS 3.4, `darkMode: "class"` | Config is `tailwind.config.js`. The important modifier is a leading `!` here |
 | Animation | framer-motion 12 | Carousels and hero cards only |
 | Images | `<img>` and static png/webp | `sharp` is used by build-time scripts only |
 | Font | Inter | Loaded from Google Fonts in `layout.tsx` |
 | Server code | Route handlers `/api/send-lead` and `/api/vrm` | |
 | Hosting | Vercel | |
-| Mail | PHP relay on StackCP, `relay.mercedesgarage.uk` | Same relay as the garage sites. Vercel cannot use SMTP reliably |
-| CRM | Supabase Edge Function | Same shared lead store as the garage sites |
+| Mail | PHP relay on StackCP, `relay.mercedesgarage.uk` | Vercel cannot use SMTP reliably |
+| CRM | Supabase Edge Function | |
 | Tests | None | `npx tsc --noEmit` is the safety net. ESLint is not configured |
 
 There is no database, cart or checkout. "Add to basket" and "Buy it now" open the quote pop-up with the listing's title and SKU in the enquiry.
@@ -302,7 +300,7 @@ npx tsc --noEmit             # type check; keep clean
 | Recon copy | The "what does reconditioned mean" FAQ and the recon About paragraph were written from the used wording and the recon lists; the business should read them |
 | Sitemap and robots | There is no `sitemap.xml` or `robots.txt` yet |
 | CRM year field | `year` is emailed but not mapped in `toCrmLeadPayload` |
-| No leads admin | The garage sites' `/leads` page has not been ported |
+| No leads admin | There is no page to view submitted leads; they are only in the email and the CRM |
 | Header and footer theme | Both stay dark on the light model, hub and listing pages (the reference shows a light header) |
 | Brand-folder naming | Whether breadcrumbs follow the folder name or the car make is an open question for the owner |
 | Mail relay | Plain HTTP, protected by the shared secret only |
