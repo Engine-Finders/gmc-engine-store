@@ -50,7 +50,7 @@ APP = Path(__file__).resolve().parents[1]
 REPO = APP.parent
 DATA = APP / "src" / "data"
 PUBLIC = APP / "public"
-SITE = "https://www.engined.co.uk"
+SITE = "https://engined.co.uk"
 
 TYPES = {
     "brand": ("Brand Pages.zip", "brandPage.json"),

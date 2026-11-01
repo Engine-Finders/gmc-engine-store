@@ -5,7 +5,7 @@ Check that no internal link 404s and every page has the right canonical tag.
 Run it against a running site (dev server, `npm run start`, or the live domain):
 
     python scripts/check_links.py                                  # http://localhost:3000
-    python scripts/check_links.py --base https://www.engined.co.uk
+    python scripts/check_links.py --base https://engined.co.uk
     python scripts/check_links.py --listings 5                     # 5 listing pages per engine (default 1)
     python scripts/check_links.py --listings all                   # every listing page (slow)
 
@@ -13,7 +13,7 @@ It opens the home page, every brand / model / engine hub page in src/data, the h
 N listing pages per engine folder, collects every internal <a href> on them, requests each target once
 and reports:
   * links that do not return 200 (with the pages they appear on)
-  * pages whose <link rel="canonical"> is missing or is not https://www.engined.co.uk/<path>
+  * pages whose <link rel="canonical"> is missing or is not https://engined.co.uk/<path>
 
 Exit code 1 if anything is wrong, so it can gate a deploy.
 """
@@ -31,7 +31,7 @@ from urllib.parse import urljoin, urlparse
 
 APP = Path(__file__).resolve().parents[1]
 DATA = APP / "src" / "data"
-SITE = "https://www.engined.co.uk"
+SITE = "https://engined.co.uk"
 
 
 class Links(HTMLParser):

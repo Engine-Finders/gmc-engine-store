@@ -10,7 +10,7 @@ Everything needed to build and run the site is in this repo. Environment variabl
 
 | Item | Value |
 |---|---|
-| Live domain | www.engined.co.uk (`engined.co.uk` redirects to `www`) |
+| Live domain | engined.co.uk (`www.engined.co.uk` redirects to it) |
 | GitHub repo | [Engine-Finders/gmc-engine-store](https://github.com/Engine-Finders/gmc-engine-store), branch `main` |
 | Repo layout | The Next.js app is in the **subfolder `gmc-engine-store/`**. The repo root also holds the design mockups (`MOCKUP-*.md`, used by `md_to_brandpage.py`), `HANDOVER.txt`, this file and a few reference images. Run every command from the app folder |
 | Vercel | The Vercel project's **Root Directory must be `gmc-engine-store`**. A push to `main` deploys |
@@ -101,7 +101,7 @@ When several listings fit, the brand and model of the page the link is on break 
 - **Where it runs:** `getBrandData`, `getModelData`, `getHubData` and `getListingData` return data with every `href`/`*Href` field resolved. Home sections resolve in `app/page.tsx` (client components get the resolved links as props) and in the server components that import their JSON (`ShopByBrand`, `InfoCards`, `PopularEngines`, `Footer`). Server components use `resolveHref()`; client components may only use `staticHref()` from `lib/slugs.ts` (the resolver reads the file system).
 - **It updates itself.** Add a page's JSON and every link to that URL points at it on the next build. Never replace an intended URL in the data with its fallback.
 - **Listing breadcrumbs** are Home > `<Brand> Engines` > model (when that model page exists) > `<CODE> Engine` > listing.
-- **Canonicals** come from the route, not the JSON: `metadataBase` is `SITE_URL` (`https://www.engined.co.uk` unless `NEXT_PUBLIC_SITE_URL` is set) and each page sets its own path (`/`, `/<brand>`, `/<brand>/<model>`, `/engines/<engine>`, `/engines/<engine>/<app>`, `/contact`). The `seo.canonical` fields in the JSON are not used. A new page type must set `alternates.canonical` in its `generateMetadata`; the layout deliberately has none, or every page would inherit it.
+- **Canonicals** come from the route, not the JSON: `metadataBase` is `SITE_URL` (`https://engined.co.uk` unless `NEXT_PUBLIC_SITE_URL` is set) and each page sets its own path (`/`, `/<brand>`, `/<brand>/<model>`, `/engines/<engine>`, `/engines/<engine>/<app>`, `/contact`). The `seo.canonical` fields in the JSON are not used. A new page type must set `alternates.canonical` in its `generateMetadata`; the layout deliberately has none, or every page would inherit it.
 
 **Building the remaining brand, model and hub pages.** The pages are data-driven: one component set per page type renders whatever entry its JSON holds, so a page exists as soon as its entry is in the JSON. `scripts/md_to_pages.py` builds the entries from the client's markdown zips: `Brand Pages.zip` (20 brands), `Model Pages.zip` (94 models) and `Hub Pages.zip` (151 engine files). The zips are not in the repo; the owner has them. Put them in the repo root (next to this file) and run, from the app folder:
 
@@ -131,7 +131,7 @@ The slugs it uses, so links join up:
 - **Hub key** (`hubPage.json`): the slug in the file's `CANONICAL` (`/engines/om651/` gives `om651`), else the engine code from the file name. The resolver matches it to the listing folders (`m57` finds `m57`, `bmw-m57`, `bmw-m57-recon`), and a combined hub such as `om612-om647` also answers links to `/engines/om612`.
 - **Links inside the data:** the intended URL; the resolver handles the rest.
 
-**Checking.** With the site running, `python -I scripts/check_links.py` opens the home page, every brand, model and hub page, the hand-built listing and one listing per engine folder, follows every internal link once and checks every canonical. It exits non-zero on any 404 or wrong canonical. Use `--listings all` for every listing, `--base https://www.engined.co.uk` for the live site. Run it after adding pages and before pushing.
+**Checking.** With the site running, `python -I scripts/check_links.py` opens the home page, every brand, model and hub page, the hand-built listing and one listing per engine folder, follows every internal link once and checks every canonical. It exits non-zero on any 404 or wrong canonical. Use `--listings all` for every listing, `--base https://engined.co.uk` for the live site. Run it after adding pages and before pushing.
 
 ---
 
