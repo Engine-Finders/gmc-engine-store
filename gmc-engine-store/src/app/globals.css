@@ -52,9 +52,9 @@ a {
 /* ---- Hero dark background field ---- */
 .hero-bg {
   background:
-    radial-gradient(900px 520px at 78% 34%, rgba(37, 99, 235, 0.22) 0%, transparent 62%),
-    radial-gradient(700px 500px at 8% 12%, rgba(37, 99, 235, 0.10) 0%, transparent 60%),
-    linear-gradient(180deg, #080c18 0%, #0a1020 55%, #070b16 100%);
+    radial-gradient(900px 520px at 78% 34%, rgba(37, 99, 235, 0.14) 0%, transparent 62%),
+    radial-gradient(700px 500px at 8% 12%, rgba(37, 99, 235, 0.06) 0%, transparent 60%),
+    linear-gradient(180deg, #04060d 0%, #050913 55%, #03050a 100%);
 }
 
 /* subtle connecting-dot texture behind hero cards */

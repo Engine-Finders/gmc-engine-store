@@ -14,7 +14,7 @@ type Card = {
   image: string;
   href: string;
   featured: boolean;
-  bg: string;
+  bg?: string;
 };
 
 const FLOAT_DUR = [7, 8, 7.5, 6.6, 8.4];

@@ -22,10 +22,10 @@ export default function FeaturedEngines() {
 
         <div className="relative mt-7">
           {/* carousel arrows (decorative on desktop) */}
-          <button aria-label="Previous" className="hidden lg:grid place-items-center absolute -left-4 top-1/2 -translate-y-1/2 z-10 w-9 h-9 rounded-full bg-white border border-line shadow-card text-ink-700 hover:text-primary-600 hover:border-primary-300 transition-colors">
+          <button aria-label="Previous" className="hidden lg:grid place-items-center absolute -left-14 top-1/2 -translate-y-1/2 z-10 w-10 h-10 rounded-full bg-white border border-line shadow-card text-ink-700 hover:text-primary-600 hover:border-primary-300 transition-colors">
             <Icon name="chevron-left" className="w-4 h-4" />
           </button>
-          <button aria-label="Next" className="hidden lg:grid place-items-center absolute -right-4 top-1/2 -translate-y-1/2 z-10 w-9 h-9 rounded-full bg-white border border-line shadow-card text-ink-700 hover:text-primary-600 hover:border-primary-300 transition-colors">
+          <button aria-label="Next" className="hidden lg:grid place-items-center absolute -right-14 top-1/2 -translate-y-1/2 z-10 w-10 h-10 rounded-full bg-white border border-line shadow-card text-ink-700 hover:text-primary-600 hover:border-primary-300 transition-colors">
             <Icon name="chevron-right" className="w-4 h-4" />
           </button>
 

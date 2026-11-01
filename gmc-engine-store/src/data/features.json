@@ -1,12 +1,12 @@
 {
   "items": [
     {
-      "icon": "shield",
+      "icon": "shield-check",
       "title": "Verified Fitment",
       "description": "Checked by registration"
     },
     {
-      "icon": "warranty",
+      "icon": "shield-lock",
       "title": "12-Month Warranty",
       "description": "On reconditioned units"
     },
