@@ -671,6 +671,22 @@ def model_identity(parts, text):
     folder = parts[-2] if len(parts) > 1 else ""
     stem = Path(parts[-1]).stem
     brand = brand_name(folder) or brand_name(stem.split()[0]) or folder
+    # The later model batches are exported as files such as
+    # "model-page-mercedes-a-class.md" inside a brand folder. Strip the export
+    # prefix and the repeated brand prefix so their routes remain
+    # /mercedes-benz-engines/a-class rather than using the filename as the slug.
+    if stem.lower().startswith("model-page-"):
+        raw_model = stem[len("model-page-"):]
+        brand_prefixes = [slugify(brand), slugify(brand).replace("-", "-")]
+        if brand_name(brand) == "Mercedes-Benz":
+            brand_prefixes += ["mercedes", "mercedes-benz"]
+        elif brand_name(brand) == "BMW":
+            brand_prefixes += ["bmw"]
+        for prefix in sorted(set(brand_prefixes), key=len, reverse=True):
+            if raw_model.lower().startswith(prefix.lower() + "-"):
+                raw_model = raw_model[len(prefix) + 1:]
+                break
+        return brand, raw_model.replace("-", " ")
     words = stem.split()
     while words and (brand_name(words[0]) or letters(words[0]) in ("benz", "land", "rover")):
         words = words[1:]
@@ -734,15 +750,25 @@ def engine_rows(text):
             p = [x.strip() for x in s.strip("|").split("|")]
             if re.match(r"^\|[\s|:-]+\|?$", s):
                 continue
-            if re.match(r"variant", tidy(p[0]), re.I):  # header row: map the columns by their names
+            # The original model exports use a "Variant | Engine code | ..." header. The later
+            # Mercedes/BMW/Land Rover exports use "Engine Code | Fuel | Applications | ...".
+            # Accept both shapes without changing how the older files are interpreted.
+            header_text = " | ".join(tidy(x).lower() for x in p)
+            is_engine_header = re.match(r"variant", tidy(p[0]), re.I) or (
+                re.search(r"engine\s+code|^code$", header_text)
+                and re.search(r"fuel", header_text)
+                and re.search(r"application|variant", header_text)
+            )
+            if is_engine_header:  # header row: map the columns by their names
                 cols = {}
                 for i, h in enumerate(tidy(x).lower() for x in p):
                     for k, pat in (("code", r"code"), ("link", r"hub|link|page"), ("fuel", r"fuel"),
-                                   ("years", r"year"), ("output", r"output|ps|power")):
+                                   ("years", r"year"), ("output", r"output|ps|power"),
+                                   ("variant", r"variant|application")):
                         if k not in cols and re.search(pat, h):
                             cols[k] = i
                             break
-                cols["variant"] = 0
+                cols.setdefault("variant", 0)
                 continue
             if cols is not None:
                 cells.append((p, cols))

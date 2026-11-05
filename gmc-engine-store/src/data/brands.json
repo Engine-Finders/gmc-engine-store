@@ -6,7 +6,7 @@
   "brands": [
     {
       "name": "Mercedes-Benz",
-      "logo": "/images/brands/logo-mercedes.png",
+      "logo": "/images/brands/logos/mercedes-logo-small.webp.webp",
       "car": "/images/brands/car-mercedes.png",
       "engineCount": 489,
       "glow": "#6aa4ff",
@@ -15,7 +15,7 @@
     },
     {
       "name": "BMW",
-      "logo": "/images/brands/logo-bmw.png",
+      "logo": "/images/brands/logos/bmw-logo-small.webp.webp",
       "car": "/images/brands/car-bmw.png",
       "engineCount": 412,
       "glow": "#2f7bff",
@@ -24,7 +24,7 @@
     },
     {
       "name": "Jaguar",
-      "logo": "/images/brands/logo-jaguar.png",
+      "logo": "/images/brands/logos/jaguar-logo-small.webp.webp",
       "car": "/images/brands/car-jaguar.png",
       "engineCount": 156,
       "glow": "#9aa6b2",
@@ -33,7 +33,7 @@
     },
     {
       "name": "Land Rover",
-      "logo": "/images/brands/logo-landrover.png",
+      "logo": "/images/brands/logos/land-rover-logo-small.webp.webp",
       "car": "/images/brands/car-landrover.png",
       "engineCount": 208,
       "glow": "#3ddc84",
@@ -42,7 +42,7 @@
     },
     {
       "name": "Audi",
-      "logo": "/images/brands/logo-audi.png",
+      "logo": "/images/brands/logos/audi-logo-small.webp.webp",
       "car": "/images/brands/car-audi.png",
       "engineCount": 315,
       "glow": "#ff8a3d",
@@ -51,7 +51,7 @@
     },
     {
       "name": "Volkswagen",
-      "logo": "/images/brands/logo-vw.png",
+      "logo": "/images/brands/logos/volkswagon-logo-small.webp.webp",
       "car": "/images/brands/car-vw.png",
       "engineCount": 386,
       "glow": "#8a7bff",

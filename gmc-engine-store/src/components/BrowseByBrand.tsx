@@ -4,6 +4,7 @@ import Link from "next/link";
 import Icon from "./Icon";
 import SectionHeading from "./SectionHeading";
 import brands from "@/data/brands.json";
+import { brandLogoForName } from "@/lib/brandLogos";
 
 type Brand = (typeof brands.brands)[number];
 
@@ -47,7 +48,7 @@ export default function BrowseByBrand({ data }: { data: typeof brands }) {
                   <span className="pointer-events-none absolute left-0 bottom-0 h-3/5 w-2/3" style={{ background: `radial-gradient(72% 82% at 0% 100%, ${brand.glow}5c 0%, transparent 62%)` }} />
                   <div className="relative flex flex-col items-center pt-6">
                     {/* eslint-disable-next-line @next/next/no-img-element */}
-                    <img src={brand.logo} alt={`${brand.name} logo`} className="h-11 w-auto object-contain" />
+                    <img src={brandLogoForName(brand.name) || brand.logo} alt={`${brand.name} logo`} className="h-11 w-auto object-contain" />
                     <p className="mt-2.5 text-[13px] font-bold text-white text-center px-2 leading-tight">{brand.name}</p>
                     <p className="mt-1 text-[11px] text-white/55">{brand.engineCount} Engines</p>
                   </div>
@@ -90,7 +91,7 @@ export default function BrowseByBrand({ data }: { data: typeof brands }) {
                   {/* right-side dark gradient so the arrow stands out */}
                   <span className="pointer-events-none absolute right-0 bottom-0 h-full w-[28%] bg-gradient-to-l from-black/70 via-black/30 to-transparent" />
                   {/* eslint-disable-next-line @next/next/no-img-element */}
-                  <img src={brand.logo} alt={`${brand.name} logo`} className="relative h-12 w-14 object-contain shrink-0" />
+                  <img src={brandLogoForName(brand.name) || brand.logo} alt={`${brand.name} logo`} className="relative h-12 w-14 object-contain shrink-0" />
                   <div className="relative ml-3 min-w-0 max-w-[44%]">
                     <p className="text-[15px] font-bold text-white leading-tight">{brand.name}</p>
                     <p className="text-[12px] text-white/55">{brand.engineCount} Engines</p>
