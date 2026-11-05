@@ -4,17 +4,95 @@
   "viewAllText": "All brands",
   "viewAllHref": "/brands",
   "brands": [
-    { "name": "Mercedes-Benz", "logo": "/images/brands/sbl-mercedes.png", "href": "/mercedes-benz-engines" },
-    { "name": "BMW", "logo": "/images/brands/sbl-bmw.png", "href": "/bmw-engines" },
-    { "name": "Jaguar", "logo": "/images/brands/sbl-jaguar.png", "href": "/jaguar-engines" },
-    { "name": "Land Rover", "logo": "/images/brands/sbl-landrover.png", "href": "/land-rover-engines" },
-    { "name": "Range Rover", "logo": "/images/brands/sbl-rangerover.png", "href": "/range-rover-engines" },
-    { "name": "Audi", "logo": "/images/brands/sbl-audi.png", "href": "/audi-engines" },
-    { "name": "Volkswagen", "logo": "/images/brands/sbl-vw.png", "href": "/volkswagen-engines" },
-    { "name": "MINI", "logo": "/images/brands/sbl-mini.png", "href": "/mini-engines" },
-    { "name": "Ford", "logo": "/images/brands/sbl-ford.png", "href": "/ford-engines" },
-    { "name": "Vauxhall", "logo": "/images/brands/sbl-vauxhall.png", "href": "/vauxhall-engines" },
-    { "name": "Toyota", "logo": "/images/brands/sbl-toyota.png", "href": "/toyota-engines" },
-    { "name": "All brands", "logo": "", "href": "/brands" }
+    {
+      "name": "Mercedes-Benz",
+      "logo": "/images/brands/logos/mercedes-logo-small.webp.webp",
+      "href": "/mercedes-benz-engines"
+    },
+    {
+      "name": "BMW",
+      "logo": "/images/brands/logos/bmw-logo-small.webp.webp",
+      "href": "/bmw-engines"
+    },
+    {
+      "name": "Jaguar",
+      "logo": "/images/brands/logos/jaguar-logo-small.webp.webp",
+      "href": "/jaguar-engines"
+    },
+    {
+      "name": "Land Rover",
+      "logo": "/images/brands/logos/land-rover-logo-small.webp.webp",
+      "href": "/land-rover-engines"
+    },
+    {
+      "name": "Audi",
+      "logo": "/images/brands/logos/audi-logo-small.webp.webp",
+      "href": "/audi-engines"
+    },
+    {
+      "name": "Volkswagen",
+      "logo": "/images/brands/logos/volkswagon-logo-small.webp.webp",
+      "href": "/volkswagen-engines"
+    },
+    {
+      "name": "MINI",
+      "logo": "/images/brands/logos/mini-logo-small.webp.webp",
+      "href": "/mini-engines"
+    },
+    {
+      "name": "Vauxhall",
+      "logo": "/images/brands/logos/vauxhall-logo-small.webp.webp",
+      "href": "/vauxhall-engines"
+    },
+    {
+      "name": "Toyota",
+      "logo": "/images/brands/logos/toyota-logo-small.webp.webp",
+      "href": "/toyota-engines"
+    },
+    {
+      "name": "Citroen",
+      "logo": "/images/brands/logos/citroen-logo-small.webp.webp",
+      "href": "/citroen-engines"
+    },
+    {
+      "name": "Hyundai",
+      "logo": "/images/brands/logos/hyundai-logo-small.webp.webp",
+      "href": "/hyundai-engines"
+    },
+    {
+      "name": "Nissan",
+      "logo": "/images/brands/logos/nissan-logo-small.webp.webp",
+      "href": "/nissan-engines"
+    },
+    {
+      "name": "Peugeot",
+      "logo": "/images/brands/logos/peugeot-logo-small.webp.webp",
+      "href": "/peugeot-engines"
+    },
+    {
+      "name": "Renault",
+      "logo": "/images/brands/logos/renault-logo-small.webp.webp",
+      "href": "/renault-engines"
+    },
+    {
+      "name": "SEAT",
+      "logo": "/images/brands/logos/seat-logo-small.webp.webp",
+      "href": "/seat-engines"
+    },
+    {
+      "name": "Suzuki",
+      "logo": "/images/brands/logos/suzuki-logo-small.webp.webp",
+      "href": "/suzuki-engines"
+    },
+    {
+      "name": "Volvo",
+      "logo": "/images/brands/logos/volvo-logo-small.webp.webp",
+      "href": "/volvo-engines"
+    },
+    {
+      "name": "All brands",
+      "logo": "",
+      "href": "/brands"
+    }
   ]
 }

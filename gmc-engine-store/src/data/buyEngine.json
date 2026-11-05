@@ -36,6 +36,30 @@
       "priceFrom": "£995",
       "image": "/images/engines/pop-om642.png",
       "href": "/engines/m272"
+    },
+    {
+      "code": "EA211",
+      "spec": "1.0-1.6 - Petrol",
+      "years": "2011-present",
+      "priceFrom": "£625",
+      "image": "/images/listings/engines/volkswagen-vw-engine-hero.webp",
+      "href": "/engines/ea211"
+    },
+    {
+      "code": "M57",
+      "spec": "2.9/3.0L - Diesel",
+      "years": "1998-2013",
+      "priceFrom": "£1,695",
+      "image": "/images/listings/engines/bmw-m57-engine-hero.webp",
+      "href": "/engines/m57"
+    },
+    {
+      "code": "K9K",
+      "spec": "1.5 dCi - Diesel",
+      "years": "2001-present",
+      "priceFrom": "£750",
+      "image": "/images/listings/engines/renault-k9k-dci-diesel-engine-hero.webp",
+      "href": "/engines/k9k"
     }
   ]
 }

@@ -5,10 +5,30 @@ import { SITE_HOST, SITE_NAME, SITE_URL } from "@/lib/site";
 type LeadPayload = Record<string, unknown>;
 
 const LOGO_PATH = "/images/brands/logo.png";
-const ENGINE_PATH = "/images/listings/engine.png";
 const NOT_PROVIDED = "Not provided";
 
-const UNIVERSAL_EMAIL_TEMPLATE = `<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>New Quote Request</title></head><body style="margin:0;padding:18px 8px;background:#eaf0f7;font-family:Arial,Helvetica,sans-serif;color:#101b2d"><table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td align="center"><table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="max-width:680px;margin:0 auto;background:#fff;border-radius:14px;overflow:hidden;box-shadow:0 8px 24px rgba(17,39,70,.16)"><tr><td style="background:#071d37;padding:0;color:#fff"><table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td valign="top" style="padding:20px 8px 18px 24px"><img src="{{LOGO_URL}}" alt="{{SITE_NAME}}" width="96" style="display:block;width:96px;max-width:100%;height:auto;border:0;outline:none;text-decoration:none"><table role="presentation" cellpadding="0" cellspacing="0" border="0" style="margin-top:16px"><tr><td width="38" height="38" align="center" valign="middle" style="width:38px;height:38px;background:#0b9fea;border:1px solid #61c7fb;border-radius:8px;font-size:21px;line-height:38px;color:#fff">&#9993;</td><td style="padding-left:11px"><div style="font-size:24px;line-height:28px;font-weight:700;color:#fff">New Quote Request</div><div style="font-size:14px;line-height:19px;color:#d6e8f7;padding-top:3px">A new enquiry has been submitted from your website.</div></td></tr></table></td><td width="170" align="right" valign="bottom" style="width:170px;padding:10px 14px 0 0"><img src="{{ENGINE_IMAGE_URL}}" alt="Engine" width="150" style="display:block;width:150px;max-width:100%;height:auto;border:0;outline:none;text-decoration:none"></td></tr></table></td></tr><tr><td style="padding:18px 24px 8px;background:#fff">{{LEAD_CARD}}{{VEHICLE_CARD}}{{SOURCE_CARD}}</td></tr><tr><td style="padding:18px 24px;background:#071d37;color:#fff"><table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td style="font-size:14px;line-height:20px;font-weight:700">Lead Reference: <span style="color:#42c8fb">{{LEAD_REFERENCE}}</span></td><td align="right" style="font-size:13px;line-height:20px;color:#eef7ff">&#128197; Received: {{RECEIVED_UK}}</td></tr></table></td></tr></table></td></tr></table></body></html>`;
+const UNIVERSAL_EMAIL_TEMPLATE = `<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>New Quote Request</title></head>
+<body style="margin:0;padding:18px 8px;background:#eaf0f7;font-family:Arial,Helvetica,sans-serif;color:#101b2d">
+  <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td align="center">
+    <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="max-width:680px;margin:0 auto;background:#fff;border-radius:14px;overflow:hidden;box-shadow:0 8px 24px rgba(17,39,70,.16)">
+      <tr><td style="background:#071d37;padding:14px 16px;color:#fff">
+        <table role="presentation" cellpadding="0" cellspacing="0" border="0"><tr>
+          <td valign="middle" style="padding-right:4px"><img src="{{LOGO_URL}}" alt="GMC" width="34" height="34" style="display:block;width:34px;height:34px;object-fit:contain;border:0;outline:none;text-decoration:none"></td>
+          <td valign="middle" style="padding-left:4px"><div style="font-size:18px;line-height:21px;font-weight:800;letter-spacing:-.2px;color:#fff">GMC</div><div style="padding-top:2px;font-size:8px;line-height:10px;font-weight:700;letter-spacing:2px;color:#c7d0dd">ENGINE STORE</div></td>
+        </tr></table>
+      </td></tr>
+      <tr><td style="padding:16px 12px 4px;background:#fff">
+        <table role="presentation" cellpadding="0" cellspacing="0" border="0"><tr>
+          <td valign="middle"><div style="font-size:21px;line-height:25px;font-weight:800;letter-spacing:-.2px;color:#08224b">New Quote Request</div><div style="font-size:14px;line-height:19px;color:#53627a;padding-top:1px">A new enquiry has been submitted from your <span style="color:#075ccf;font-weight:700">{{SUBMISSION_CHANNEL}}</span>.</div></td>
+        </tr></table>
+        <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="margin:18px 0 14px;border-top:1px solid #dce5f0"><tr><td style="padding-top:11px;font-size:14px;line-height:19px;color:#53627a">Source: <a href="{{HEADER_SOURCE_URL}}" style="color:#075ccf;text-decoration:underline;font-weight:700">{{HEADER_SOURCE}}</a></td></tr></table>
+        {{LEAD_CARD}}{{VEHICLE_CARD}}{{SOURCE_CARD}}
+      </td></tr>
+      <tr><td style="padding:12px 16px;background:#071d37;color:#fff"><table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td style="font-size:14px;line-height:20px;font-weight:700">Lead Reference: <span style="color:#42c8fb">{{LEAD_REFERENCE}}</span></td><td align="right" style="font-size:13px;line-height:20px;color:#eef7ff">&#128197; Received: {{RECEIVED_UK}}</td></tr></table></td></tr>
+    </table>
+  </td></tr></table>
+</body></html>`;
 
 function escapeHtml(value: unknown) {
   return String(value ?? "").replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;").replace(/'/g, "&#039;");
@@ -39,7 +59,7 @@ function registrationRow(value: string) {
 }
 
 function sectionCard(title: string, icon: string, rows: string) {
-  return `<table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="margin:0 0 20px;border:1px solid #93b0d1;border-radius:10px;overflow:hidden"><tr><td style="padding:10px 14px;background:#071d37;color:#fff;font-size:18px;line-height:22px;font-weight:700">${icon}<span style="padding-left:10px">${escapeHtml(title)}</span></td></tr><tr><td><table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="border-collapse:collapse">${rows}</table></td></tr></table>`;
+  return `<table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="margin:0 0 8px;border:1px solid #93b0d1;border-radius:8px;overflow:hidden"><tr><td style="padding:8px 10px;background:#071d37;color:#fff;font-size:16px;line-height:20px;font-weight:700">${icon}<span style="padding-left:7px">${escapeHtml(title)}</span></td></tr><tr><td><table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="border-collapse:collapse">${rows}</table></td></tr></table>`;
 }
 
 function formatEngineCapacity(value: unknown) {
@@ -78,6 +98,17 @@ function sourcePageUrl(sourcePage: string) {
   }
 }
 
+function headerSource(payload: LeadPayload, sourcePage: string) {
+  const formSource = text(payload.lead_source).replace(/[-_]+/g, " ");
+  const page = sourcePage.replace(/^https?:\/\//, "") || LEAD_SOURCE;
+  return [formSource, page].filter(Boolean).join(" · ");
+}
+
+function submissionChannel(payload: LeadPayload, sourcePage: string) {
+  const source = `${text(payload.lead_source)} ${sourcePage}`.toLowerCase();
+  return source.includes("blog") ? "blog" : "website";
+}
+
 function additionalInformationValues(payload: LeadPayload) {
   const values: string[] = [];
   const product = text(payload.vehicle_part || payload.product || payload.enquiry_type);
@@ -114,7 +145,6 @@ export function buildLeadEmail(payload: LeadPayload, sourcePage: string) {
   const subjectVehicle = subjectParts(payload);
   const subject = [`New Lead`, SITE_NAME, ...subjectVehicle].join(" ");
   const logoUrl = new URL(LOGO_PATH, SITE_URL).toString();
-  const engineImageUrl = new URL(ENGINE_PATH, SITE_URL).toString();
 
   const additionalInformation = additionalInformationValues(payload).join("\n");
   const leadRows = [
@@ -143,7 +173,9 @@ export function buildLeadEmail(payload: LeadPayload, sourcePage: string) {
     UNIVERSAL_EMAIL_TEMPLATE
       .replace(/{{SITE_NAME}}/g, escapeHtml(SITE_NAME))
       .replace("{{LOGO_URL}}", escapeHtml(logoUrl))
-      .replace("{{ENGINE_IMAGE_URL}}", escapeHtml(engineImageUrl))
+      .replace("{{HEADER_SOURCE}}", escapeHtml(headerSource(payload, sourcePage)))
+      .replace("{{HEADER_SOURCE_URL}}", escapeHtml(pageUrl || `https://${SITE_HOST}`))
+      .replace("{{SUBMISSION_CHANNEL}}", submissionChannel(payload, sourcePage))
       .replace("{{LEAD_CARD}}", sectionCard("LEAD DETAILS", "&#128100;", leadRows))
       .replace("{{VEHICLE_CARD}}", sectionCard("VEHICLE DETAILS", "&#128663;", vehicleRows))
       .replace("{{SOURCE_CARD}}", sectionCard("SOURCE", "&#128279;", sourceRows))
