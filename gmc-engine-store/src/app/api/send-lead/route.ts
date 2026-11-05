@@ -1,40 +1,58 @@
-import { sendLeadToCRM, toCrmLeadPayload, leadSourcePage, LEAD_SOURCE } from "@/lib/leads";
-import { SITE_NAME } from "@/lib/site";
-
-const esc = (v: unknown) =>
-  String(v).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+import { sendLeadToCRM, toCrmLeadPayload, leadSourcePage } from "@/lib/leads";
+import { buildLeadEmail } from "@/lib/leadEmail";
 
 async function sendLeadEmail(payload: Record<string, unknown>, sourcePage: string) {
   const relayUrl = process.env.MAIL_RELAY_URL;
   if (!relayUrl) return { ok: false, error: "mail relay is not configured" };
 
-  const { page_url: _pageUrl, honeypot: _honeypot, ...fields } = payload;
-  const rows = Object.entries({ ...fields, source: LEAD_SOURCE, source_page: sourcePage })
-    .filter(([, value]) => value !== undefined && value !== null && value !== "")
-    .map(([key, value]) => `<tr><td style="font-weight:bold;padding:4px 12px 4px 0;">${esc(key)}</td><td>${esc(value)}</td></tr>`)
-    .join("");
+  const email = buildLeadEmail(payload, sourcePage);
 
-  try {
-    const res = await fetch(relayUrl, {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-        "X-Relay-Secret": process.env.MAIL_RELAY_SECRET || "",
-      },
-      body: JSON.stringify({
-        to: process.env.MAIL_TO_ADDRESS,
-        cc: process.env.MAIL_CC_ADDRESS,
-        fromAddress: process.env.MAIL_FROM_ADDRESS,
-        fromName: process.env.MAIL_FROM_NAME,
-        subject: `New Quote Request - ${SITE_NAME}`,
-        html: `<h2>New Quote Request</h2><table>${rows}</table>`,
-      }),
-      signal: AbortSignal.timeout(20000),
-    });
-    return res.ok ? { ok: true } : { ok: false, error: `relay responded ${res.status}` };
-  } catch (err) {
-    return { ok: false, error: (err as Error).message };
-  }
+  const send = async (to: string | undefined, cc: string | undefined) => {
+    if (!to) return { ok: false, error: "mail recipient is not configured" };
+
+    try {
+      const res = await fetch(relayUrl, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+          "X-Relay-Secret": process.env.MAIL_RELAY_SECRET || "",
+        },
+        body: JSON.stringify({
+          to,
+          cc,
+          fromAddress: process.env.MAIL_FROM_ADDRESS,
+          fromName: process.env.MAIL_FROM_NAME,
+          replyTo: email.replyTo,
+          subject: email.subject,
+          html: email.html,
+          text: email.text,
+        }),
+        signal: AbortSignal.timeout(20000),
+      });
+      const responseText = await res.text();
+      if (!res.ok) return { ok: false, error: `relay responded ${res.status}: ${responseText.slice(0, 300)}` };
+
+      // The relay may return a JSON error with HTTP 200. Treat that as a failure
+      // instead of reporting a successful lead to the browser.
+      try {
+        const responseBody = JSON.parse(responseText) as { ok?: boolean; success?: boolean; status?: string; message?: string };
+        if (responseBody.ok === false || responseBody.success === false || responseBody.status === "error") {
+          return { ok: false, error: responseBody.message || "mail relay rejected the message" };
+        }
+      } catch {
+        // A successful relay may return an empty or non-JSON response.
+      }
+
+      return { ok: true };
+    } catch (err) {
+      return { ok: false, error: (err as Error).message };
+    }
+  };
+
+  const primaryResult = await send(process.env.MAIL_TO_ADDRESS, process.env.MAIL_CC_ADDRESS);
+
+  if (!primaryResult.ok) console.error("lead email failed:", primaryResult.error);
+  return primaryResult;
 }
 
 export async function POST(request: Request) {
