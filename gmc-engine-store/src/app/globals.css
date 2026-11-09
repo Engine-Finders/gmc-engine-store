@@ -139,3 +139,24 @@ a {
 .no-scrollbar::-webkit-scrollbar {
   display: none;
 }
+
+/* Compact, theme-matched scrolling for the primary navigation dropdowns. */
+.nav-dropdown-scroll {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(96, 165, 250, 0.72) rgba(255, 255, 255, 0.06);
+  scrollbar-gutter: stable;
+}
+.nav-dropdown-scroll::-webkit-scrollbar {
+  width: 4px;
+}
+.nav-dropdown-scroll::-webkit-scrollbar-track {
+  background: rgba(255, 255, 255, 0.06);
+  border-radius: 999px;
+}
+.nav-dropdown-scroll::-webkit-scrollbar-thumb {
+  background: rgba(96, 165, 250, 0.72);
+  border-radius: 999px;
+}
+.nav-dropdown-scroll::-webkit-scrollbar-thumb:hover {
+  background: #60a5fa;
+}

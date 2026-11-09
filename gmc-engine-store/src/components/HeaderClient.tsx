@@ -90,7 +90,7 @@ export default function HeaderClient({ menu }: { menu: NavMenu }) {
                       <Icon name="chevron-down" className={`w-3.5 h-3.5 text-ink-500 transition-transform ${isOpen ? "rotate-180" : ""}`} />
                     </button>
                     {isOpen && (
-                      <div className="absolute left-0 top-full min-w-[260px] rounded-xl border border-white/10 bg-navy-950 p-1.5 shadow-[0_24px_60px_-20px_rgba(0,0,0,0.7)]">
+                      <div className="nav-dropdown-scroll absolute left-0 top-full max-h-[min(70vh,520px)] min-w-[260px] overflow-y-auto rounded-xl border border-white/10 bg-navy-950 p-1.5 shadow-[0_24px_60px_-20px_rgba(0,0,0,0.7)]">
                         {list.length ? (
                           list.map((it) => (
                             <Link
@@ -198,7 +198,7 @@ export default function HeaderClient({ menu }: { menu: NavMenu }) {
                         <Icon name="chevron-down" className={`w-4 h-4 text-ink-400 transition-transform ${isOpen ? "rotate-180" : ""}`} />
                       </button>
                       {isOpen && (
-                        <div className="ml-3 mb-1 border-l border-white/10 pl-2">
+                        <div className="nav-dropdown-scroll ml-3 mb-1 max-h-[min(55vh,360px)] overflow-y-auto border-l border-white/10 pl-2">
                           {list.length ? (
                             list.map((it) => (
                               <Link key={it.href} href={it.href} onClick={() => setMobileOpen(false)} className="block rounded-lg px-3 py-2.5 text-[13.5px] font-medium text-white/75 hover:bg-white/5 hover:text-white">

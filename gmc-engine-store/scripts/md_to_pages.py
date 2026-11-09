@@ -670,7 +670,23 @@ def build_brand(parts, text, ls, hubs_by_brand):
 def model_identity(parts, text):
     folder = parts[-2] if len(parts) > 1 else ""
     stem = Path(parts[-1]).stem
-    brand = brand_name(folder) or brand_name(stem.split()[0]) or folder
+    brand = brand_name(folder) or brand_name(stem.split()[0])
+    matched_prefix = ""
+    # The attached batch is flat ("Model Page/Land Rover Freelander 1.md"),
+    # so a multi-word brand cannot be recovered from stem.split()[0]. Match
+    # the longest known display name before falling back to the folder name.
+    if not brand:
+        for candidate in sorted(set(BRANDS.values()), key=len, reverse=True):
+            if letters(stem).startswith(letters(candidate)):
+                brand = candidate
+                matched_prefix = candidate
+                break
+    elif brand:
+        for candidate in sorted(set(BRANDS.values()), key=len, reverse=True):
+            if stem.lower().startswith(candidate.lower() + " "):
+                matched_prefix = candidate
+                break
+    brand = brand or folder
     # The later model batches are exported as files such as
     # "model-page-mercedes-a-class.md" inside a brand folder. Strip the export
     # prefix and the repeated brand prefix so their routes remain
@@ -687,6 +703,8 @@ def model_identity(parts, text):
                 raw_model = raw_model[len(prefix) + 1:]
                 break
         return brand, raw_model.replace("-", " ")
+    if matched_prefix:
+        return brand, stem[len(matched_prefix):].strip()
     words = stem.split()
     while words and (brand_name(words[0]) or letters(words[0]) in ("benz", "land", "rover")):
         words = words[1:]
@@ -1096,7 +1114,11 @@ def build_hub(parts, text, ls):
 def renderable(kind, entry):
     """Brand and model heroes show one engine card at a time and need at least one; a hub page needs at
     least one application unit to sell."""
-    if kind in ("brand", "model"):
+    if kind == "model":
+        # Zero-engine informational models (for example MINI Electric) are
+        # valid pages and must not be dropped because they have no product cards.
+        return True
+    if kind == "brand":
         return bool(entry["hero"]["cards"])
     return bool(entry["applications"]["units"])
 
@@ -1107,6 +1129,15 @@ def run(kind, args, ls):
     if not src.exists():
         sys.exit(f"{kind}: source not found: {src} (pass --src)")
     files = read_sources(src, args.only)
+    # The attached ZIP contains both model and hub folders. Keep each pass
+    # scoped to its own resources and ignore the stray Model Page/1.md file.
+    if kind == "model":
+        files = [(parts, text) for parts, text in files
+                 if any(p.lower() == "model page" for p in parts)
+                 and Path(parts[-1]).stem != "1"]
+    elif kind == "hub":
+        files = [(parts, text) for parts, text in files
+                 if any(p.lower() == "hub pages" for p in parts)]
     out_path = Path(args.out) if args.out and args.type != "all" else DATA / json_name
     data = json.loads(out_path.read_text(encoding="utf-8")) if out_path.exists() else {}
     keep = set(data)
