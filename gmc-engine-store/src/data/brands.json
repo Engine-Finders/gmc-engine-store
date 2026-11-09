@@ -57,6 +57,42 @@
       "glow": "#8a7bff",
       "glowBright": "#c3b8ff",
       "href": "/volkswagen-engines"
+    },
+    {
+      "name": "Fiat",
+      "logo": "/images/brands/logos/fiat-logo-small.webp.webp",
+      "car": "/images/brands/Brandpage_car.png",
+      "engineCount": 0,
+      "glow": "#6aa4ff",
+      "glowBright": "#b3d6ff",
+      "href": "/fiat-engines"
+    },
+    {
+      "name": "Honda",
+      "logo": "/images/brands/logos/honda-logo-small.webp.webp",
+      "car": "/images/brands/Brandpage_car.png",
+      "engineCount": 0,
+      "glow": "#6aa4ff",
+      "glowBright": "#b3d6ff",
+      "href": "/honda-engines"
+    },
+    {
+      "name": "MG",
+      "logo": "/images/brands/logos/mg-logo-small.webp.webp",
+      "car": "/images/brands/Brandpage_car.png",
+      "engineCount": 0,
+      "glow": "#6aa4ff",
+      "glowBright": "#b3d6ff",
+      "href": "/mg-engines"
+    },
+    {
+      "name": "Mitsubishi",
+      "logo": "/images/brands/logos/mitsubishi-logo-small.webp.webp",
+      "car": "/images/brands/Brandpage_car.png",
+      "engineCount": 0,
+      "glow": "#6aa4ff",
+      "glowBright": "#b3d6ff",
+      "href": "/mitsubishi-engines"
     }
   ],
   "allBrandsCard": {

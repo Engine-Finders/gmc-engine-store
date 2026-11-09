@@ -3821,10 +3821,10 @@
     "shopByModel": {
       "title": "Shop MINI Engines by Model",
       "subtitle": "Find the right engine for your MINI by selecting your model from the list below. Every model line includes its supported engine families, from Hatch to Paceman.",
-      "viewAllText": "View all 7 models",
+      "viewAllText": "View all 8 models",
       "viewAllHref": "/mini-engines#shop-by-model",
       "allModelsLabel": "View all models",
-      "allModelsCount": "7 models available",
+      "allModelsCount": "8 models available",
       "models": [
         {
           "name": "Hatch (3dr)",
@@ -3874,6 +3874,13 @@
           "families": "2 engine families",
           "image": "/images/brands/Brandpage_car.png",
           "href": "/mini-engines/paceman"
+        },
+        {
+          "name": "Electric",
+          "chassis": "F56 BEV",
+          "families": "0 engine families",
+          "image": "/images/brands/Brandpage_car.png",
+          "href": "/mini-engines/electric"
         }
       ]
     },
@@ -6555,7 +6562,7 @@
         {
           "name": "Land Cruiser",
           "chassis": "2005–",
-          "families": "1 engine family",
+          "families": "0 engine families",
           "image": "/images/brands/Brandpage_car.png",
           "href": "/toyota-engines/land-cruiser"
         },
@@ -7443,10 +7450,10 @@
     "shopByModel": {
       "title": "Shop Volkswagen Engines by Model",
       "subtitle": "",
-      "viewAllText": "View all 10 models",
+      "viewAllText": "View all 11 models",
       "viewAllHref": "/volkswagen-engines#shop-by-model",
       "allModelsLabel": "View all models",
-      "allModelsCount": "10 models available",
+      "allModelsCount": "11 models available",
       "models": [
         {
           "name": "Polo",
@@ -7517,6 +7524,13 @@
           "families": "6 engine families",
           "image": "/images/brands/Brandpage_car.png",
           "href": "/volkswagen-engines/touareg"
+        },
+        {
+          "name": "ID Range",
+          "chassis": "MEB",
+          "families": "0 engine families",
+          "image": "/images/brands/Brandpage_car.png",
+          "href": "/volkswagen-engines/id-range"
         }
       ]
     },
@@ -8603,6 +8617,774 @@
       "title": "Find the right Jaguar engine",
       "highlight": "in under a minute",
       "description": "Enter your registration number to see which Jaguar engines fit your vehicle, compare used and reconditioned options, and buy at the listed price.",
+      "placeholder": "ENTER REG NUMBER",
+      "buttonText": "Find my engine",
+      "countryFlag": "GB",
+      "carImage": "/images/brands/Brandpage_cta.png",
+      "badges": [
+        {
+          "icon": "check-circle",
+          "text": "Verified by Registration"
+        },
+        {
+          "icon": "check-circle",
+          "text": "UK Delivery"
+        },
+        {
+          "icon": "check-circle",
+          "text": "Warranty Included"
+        }
+      ]
+    }
+  },
+  "fiat-engines": {
+    "slug": "fiat-engines",
+    "seo": {
+      "title": "Fiat Engines for Sale | Used & Reconditioned | GMC",
+      "description": "Browse GMC Fiat engine resources and confirm exact fitment by registration."
+    },
+    "hero": {
+      "brand": "Fiat",
+      "name": "Fiat",
+      "logo": "/images/brands/logos/fiat-logo-small.webp.webp",
+      "title": "Engines for Sale",
+      "highlight": "Used & Reconditioned",
+      "description": "Fiat engine resources with registration-based fitment and UK delivery.",
+      "carImage": "/images/brands/Brandpage.png",
+      "regCheck": {
+        "placeholder": "ENTER REG NUMBER",
+        "buttonText": "Find my engine",
+        "countryFlag": "GB",
+        "helpText": "How registration lookup works"
+      },
+      "trustBadges": [
+        {
+          "icon": "shield-check",
+          "title": "12-Month Warranty",
+          "subtitle": "Unlimited mileage on recon"
+        },
+        {
+          "icon": "shield",
+          "title": "Verified Fitment",
+          "subtitle": "Checked by registration"
+        },
+        {
+          "icon": "truck",
+          "title": "UK Nationwide Delivery",
+          "subtitle": "Fast & secure, 2–4 days"
+        },
+        {
+          "icon": "returns",
+          "title": "14-Day Returns",
+          "subtitle": "Uninstalled, full refund"
+        }
+      ],
+      "cards": [
+        {
+          "code": "CATALOG-PENDING",
+          "name": "Confirmed resources pending",
+          "ps": "",
+          "nm": "",
+          "years": "",
+          "image": "/images/engines/engine.png",
+          "inStock": false,
+          "href": "/engines",
+          "pos": {
+            "top": 120,
+            "left": 260,
+            "width": 210,
+            "rotate": 0,
+            "z": 20
+          },
+          "featured": true
+        }
+      ]
+    },
+    "howItWorks": {
+      "title": "How Buying Works",
+      "steps": [
+        {
+          "number": 1,
+          "icon": "search",
+          "title": "Verify fit by reg",
+          "description": "Enter your registration or browse to your model — we confirm the exact engine code your vehicle needs."
+        },
+        {
+          "number": 2,
+          "icon": "cart",
+          "title": "Order at the fixed price",
+          "description": "Choose used or reconditioned where both are available, then buy at the fixed price shown on the page."
+        },
+        {
+          "number": 3,
+          "icon": "truck",
+          "title": "Dispatched with warranty",
+          "description": "Your engine ships UK-wide with tracking, backed by warranty and a 14-day uninstalled return."
+        }
+      ]
+    },
+    "featuredEngines": {
+      "title": "Featured Fiat Engines in Stock",
+      "subtitle": "Every featured Suzuki engine is available for immediate purchase at a fixed, transparent price. Stock is updated live, and orders placed before 2pm are dispatched the next working day.",
+      "viewAllText": "See all engines",
+      "viewAllHref": "/engines",
+      "buyButtonText": "Buy it now",
+      "engines": []
+    },
+    "shopByModel": {
+      "title": "Shop Fiat Engines by Model",
+      "subtitle": "",
+      "viewAllText": "View all 0 models",
+      "viewAllHref": "/suzuki-engines#shop-by-model",
+      "allModelsLabel": "View all models",
+      "allModelsCount": "0 models available",
+      "models": []
+    },
+    "engineFamilies": {
+      "title": "All Fiat Engine Families",
+      "description": "",
+      "image": "/images/engines/pop-om642.png",
+      "families": []
+    },
+    "priceGuide": {
+      "title": "Fiat Engine Price Guide",
+      "description": "For a quick reference, we list the lowest current prices for our most popular engine families. All prices are hardcoded and include no hidden fees. If a specific family is not listed, please check its individual listing for current pricing.",
+      "columns": [
+        "Engine family",
+        "Used from",
+        "Reconditioned from",
+        "Note"
+      ],
+      "rows": [],
+      "note": "Prices shown are current lowest listed prices and update as stock changes. The price on each listing is the price you pay — no hidden fees at checkout.",
+      "image": "/images/engines/mercedes-om642-diesel-engine.png"
+    },
+    "usedVsRecon": {
+      "title": "Used or Reconditioned — Which Fiat Engine to Buy?",
+      "options": []
+    },
+    "about": {
+      "title": "About Fiat Engines",
+      "logo": "/images/brands/Brand_logo.png",
+      "carImage": "/images/brands/Brandpage_about.png",
+      "paragraphs": [
+        "GMC is preparing the Fiat engine catalog. Confirmed model, engine-family and listing data will be added as source resources become available."
+      ]
+    },
+    "warrantyDelivery": {
+      "title": "Warranty & Delivery on Fiat Engines",
+      "items": []
+    },
+    "faqs": {
+      "title": "Fiat Engine Buying FAQs",
+      "subtitle": "Answers to the most common questions about buying a Suzuki engine from GMC.",
+      "items": [],
+      "whyBuy": {
+        "title": "Why buy Suzuki engines from GMC?",
+        "items": [
+          {
+            "icon": "shield",
+            "title": "Verified Fitment",
+            "description": "Every engine is verified by registration so you get the exact engine that fits your Suzuki."
+          },
+          {
+            "icon": "shield-check",
+            "title": "12-Month Warranty",
+            "description": "Reconditioned engines include 12-month, unlimited-mileage warranty. Used engines have stated terms."
+          },
+          {
+            "icon": "truck",
+            "title": "UK Nationwide Delivery",
+            "description": "Fast & secure kerbside pallet delivery anywhere on the UK mainland, typically 2–4 working days."
+          },
+          {
+            "icon": "lock",
+            "title": "Secure Checkout",
+            "description": "Safe online payments with encrypted checkout and fraud protection for your peace of mind."
+          }
+        ]
+      }
+    },
+    "cta": {
+      "title": "Find the right Fiat engine",
+      "highlight": "in under a minute",
+      "description": "Enter your registration number, confirm fitment, and buy your engine at the listed price – all without waiting for a quote.",
+      "placeholder": "ENTER REG NUMBER",
+      "buttonText": "Find my engine",
+      "countryFlag": "GB",
+      "carImage": "/images/brands/Brandpage_cta.png",
+      "badges": [
+        {
+          "icon": "check-circle",
+          "text": "Verified by Registration"
+        },
+        {
+          "icon": "check-circle",
+          "text": "UK Delivery"
+        },
+        {
+          "icon": "check-circle",
+          "text": "Warranty Included"
+        }
+      ]
+    }
+  },
+  "honda-engines": {
+    "slug": "honda-engines",
+    "seo": {
+      "title": "Honda Engines for Sale | Used & Reconditioned | GMC",
+      "description": "Browse GMC Honda engine resources and confirm exact fitment by registration."
+    },
+    "hero": {
+      "brand": "Honda",
+      "name": "Honda",
+      "logo": "/images/brands/logos/honda-logo-small.webp.webp",
+      "title": "Engines for Sale",
+      "highlight": "Used & Reconditioned",
+      "description": "Honda engine resources with registration-based fitment and UK delivery.",
+      "carImage": "/images/brands/Brandpage.png",
+      "regCheck": {
+        "placeholder": "ENTER REG NUMBER",
+        "buttonText": "Find my engine",
+        "countryFlag": "GB",
+        "helpText": "How registration lookup works"
+      },
+      "trustBadges": [
+        {
+          "icon": "shield-check",
+          "title": "12-Month Warranty",
+          "subtitle": "Unlimited mileage on recon"
+        },
+        {
+          "icon": "shield",
+          "title": "Verified Fitment",
+          "subtitle": "Checked by registration"
+        },
+        {
+          "icon": "truck",
+          "title": "UK Nationwide Delivery",
+          "subtitle": "Fast & secure, 2–4 days"
+        },
+        {
+          "icon": "returns",
+          "title": "14-Day Returns",
+          "subtitle": "Uninstalled, full refund"
+        }
+      ],
+      "cards": [
+        {
+          "code": "CATALOG-PENDING",
+          "name": "Confirmed resources pending",
+          "ps": "",
+          "nm": "",
+          "years": "",
+          "image": "/images/engines/engine.png",
+          "inStock": false,
+          "href": "/engines",
+          "pos": {
+            "top": 120,
+            "left": 260,
+            "width": 210,
+            "rotate": 0,
+            "z": 20
+          },
+          "featured": true
+        }
+      ]
+    },
+    "howItWorks": {
+      "title": "How Buying Works",
+      "steps": [
+        {
+          "number": 1,
+          "icon": "search",
+          "title": "Verify fit by reg",
+          "description": "Enter your registration or browse to your model — we confirm the exact engine code your vehicle needs."
+        },
+        {
+          "number": 2,
+          "icon": "cart",
+          "title": "Order at the fixed price",
+          "description": "Choose used or reconditioned where both are available, then buy at the fixed price shown on the page."
+        },
+        {
+          "number": 3,
+          "icon": "truck",
+          "title": "Dispatched with warranty",
+          "description": "Your engine ships UK-wide with tracking, backed by warranty and a 14-day uninstalled return."
+        }
+      ]
+    },
+    "featuredEngines": {
+      "title": "Featured Honda Engines in Stock",
+      "subtitle": "Every featured Suzuki engine is available for immediate purchase at a fixed, transparent price. Stock is updated live, and orders placed before 2pm are dispatched the next working day.",
+      "viewAllText": "See all engines",
+      "viewAllHref": "/engines",
+      "buyButtonText": "Buy it now",
+      "engines": []
+    },
+    "shopByModel": {
+      "title": "Shop Honda Engines by Model",
+      "subtitle": "",
+      "viewAllText": "View all 0 models",
+      "viewAllHref": "/suzuki-engines#shop-by-model",
+      "allModelsLabel": "View all models",
+      "allModelsCount": "0 models available",
+      "models": []
+    },
+    "engineFamilies": {
+      "title": "All Honda Engine Families",
+      "description": "",
+      "image": "/images/engines/pop-om642.png",
+      "families": []
+    },
+    "priceGuide": {
+      "title": "Honda Engine Price Guide",
+      "description": "For a quick reference, we list the lowest current prices for our most popular engine families. All prices are hardcoded and include no hidden fees. If a specific family is not listed, please check its individual listing for current pricing.",
+      "columns": [
+        "Engine family",
+        "Used from",
+        "Reconditioned from",
+        "Note"
+      ],
+      "rows": [],
+      "note": "Prices shown are current lowest listed prices and update as stock changes. The price on each listing is the price you pay — no hidden fees at checkout.",
+      "image": "/images/engines/mercedes-om642-diesel-engine.png"
+    },
+    "usedVsRecon": {
+      "title": "Used or Reconditioned — Which Honda Engine to Buy?",
+      "options": []
+    },
+    "about": {
+      "title": "About Honda Engines",
+      "logo": "/images/brands/Brand_logo.png",
+      "carImage": "/images/brands/Brandpage_about.png",
+      "paragraphs": [
+        "GMC is preparing the Honda engine catalog. Confirmed model, engine-family and listing data will be added as source resources become available."
+      ]
+    },
+    "warrantyDelivery": {
+      "title": "Warranty & Delivery on Honda Engines",
+      "items": []
+    },
+    "faqs": {
+      "title": "Honda Engine Buying FAQs",
+      "subtitle": "Answers to the most common questions about buying a Suzuki engine from GMC.",
+      "items": [],
+      "whyBuy": {
+        "title": "Why buy Suzuki engines from GMC?",
+        "items": [
+          {
+            "icon": "shield",
+            "title": "Verified Fitment",
+            "description": "Every engine is verified by registration so you get the exact engine that fits your Suzuki."
+          },
+          {
+            "icon": "shield-check",
+            "title": "12-Month Warranty",
+            "description": "Reconditioned engines include 12-month, unlimited-mileage warranty. Used engines have stated terms."
+          },
+          {
+            "icon": "truck",
+            "title": "UK Nationwide Delivery",
+            "description": "Fast & secure kerbside pallet delivery anywhere on the UK mainland, typically 2–4 working days."
+          },
+          {
+            "icon": "lock",
+            "title": "Secure Checkout",
+            "description": "Safe online payments with encrypted checkout and fraud protection for your peace of mind."
+          }
+        ]
+      }
+    },
+    "cta": {
+      "title": "Find the right Honda engine",
+      "highlight": "in under a minute",
+      "description": "Enter your registration number, confirm fitment, and buy your engine at the listed price – all without waiting for a quote.",
+      "placeholder": "ENTER REG NUMBER",
+      "buttonText": "Find my engine",
+      "countryFlag": "GB",
+      "carImage": "/images/brands/Brandpage_cta.png",
+      "badges": [
+        {
+          "icon": "check-circle",
+          "text": "Verified by Registration"
+        },
+        {
+          "icon": "check-circle",
+          "text": "UK Delivery"
+        },
+        {
+          "icon": "check-circle",
+          "text": "Warranty Included"
+        }
+      ]
+    }
+  },
+  "mg-engines": {
+    "slug": "mg-engines",
+    "seo": {
+      "title": "MG Engines for Sale | Used & Reconditioned | GMC",
+      "description": "Browse GMC MG engine resources and confirm exact fitment by registration."
+    },
+    "hero": {
+      "brand": "MG",
+      "name": "MG",
+      "logo": "/images/brands/logos/mg-logo-small.webp.webp",
+      "title": "Engines for Sale",
+      "highlight": "Used & Reconditioned",
+      "description": "MG engine resources with registration-based fitment and UK delivery.",
+      "carImage": "/images/brands/Brandpage.png",
+      "regCheck": {
+        "placeholder": "ENTER REG NUMBER",
+        "buttonText": "Find my engine",
+        "countryFlag": "GB",
+        "helpText": "How registration lookup works"
+      },
+      "trustBadges": [
+        {
+          "icon": "shield-check",
+          "title": "12-Month Warranty",
+          "subtitle": "Unlimited mileage on recon"
+        },
+        {
+          "icon": "shield",
+          "title": "Verified Fitment",
+          "subtitle": "Checked by registration"
+        },
+        {
+          "icon": "truck",
+          "title": "UK Nationwide Delivery",
+          "subtitle": "Fast & secure, 2–4 days"
+        },
+        {
+          "icon": "returns",
+          "title": "14-Day Returns",
+          "subtitle": "Uninstalled, full refund"
+        }
+      ],
+      "cards": [
+        {
+          "code": "CATALOG-PENDING",
+          "name": "Confirmed resources pending",
+          "ps": "",
+          "nm": "",
+          "years": "",
+          "image": "/images/engines/engine.png",
+          "inStock": false,
+          "href": "/engines",
+          "pos": {
+            "top": 120,
+            "left": 260,
+            "width": 210,
+            "rotate": 0,
+            "z": 20
+          },
+          "featured": true
+        }
+      ]
+    },
+    "howItWorks": {
+      "title": "How Buying Works",
+      "steps": [
+        {
+          "number": 1,
+          "icon": "search",
+          "title": "Verify fit by reg",
+          "description": "Enter your registration or browse to your model — we confirm the exact engine code your vehicle needs."
+        },
+        {
+          "number": 2,
+          "icon": "cart",
+          "title": "Order at the fixed price",
+          "description": "Choose used or reconditioned where both are available, then buy at the fixed price shown on the page."
+        },
+        {
+          "number": 3,
+          "icon": "truck",
+          "title": "Dispatched with warranty",
+          "description": "Your engine ships UK-wide with tracking, backed by warranty and a 14-day uninstalled return."
+        }
+      ]
+    },
+    "featuredEngines": {
+      "title": "Featured MG Engines in Stock",
+      "subtitle": "Every featured Suzuki engine is available for immediate purchase at a fixed, transparent price. Stock is updated live, and orders placed before 2pm are dispatched the next working day.",
+      "viewAllText": "See all engines",
+      "viewAllHref": "/engines",
+      "buyButtonText": "Buy it now",
+      "engines": []
+    },
+    "shopByModel": {
+      "title": "Shop MG Engines by Model",
+      "subtitle": "",
+      "viewAllText": "View all 0 models",
+      "viewAllHref": "/suzuki-engines#shop-by-model",
+      "allModelsLabel": "View all models",
+      "allModelsCount": "0 models available",
+      "models": []
+    },
+    "engineFamilies": {
+      "title": "All MG Engine Families",
+      "description": "",
+      "image": "/images/engines/pop-om642.png",
+      "families": []
+    },
+    "priceGuide": {
+      "title": "MG Engine Price Guide",
+      "description": "For a quick reference, we list the lowest current prices for our most popular engine families. All prices are hardcoded and include no hidden fees. If a specific family is not listed, please check its individual listing for current pricing.",
+      "columns": [
+        "Engine family",
+        "Used from",
+        "Reconditioned from",
+        "Note"
+      ],
+      "rows": [],
+      "note": "Prices shown are current lowest listed prices and update as stock changes. The price on each listing is the price you pay — no hidden fees at checkout.",
+      "image": "/images/engines/mercedes-om642-diesel-engine.png"
+    },
+    "usedVsRecon": {
+      "title": "Used or Reconditioned — Which MG Engine to Buy?",
+      "options": []
+    },
+    "about": {
+      "title": "About MG Engines",
+      "logo": "/images/brands/Brand_logo.png",
+      "carImage": "/images/brands/Brandpage_about.png",
+      "paragraphs": [
+        "GMC is preparing the MG engine catalog. Confirmed model, engine-family and listing data will be added as source resources become available."
+      ]
+    },
+    "warrantyDelivery": {
+      "title": "Warranty & Delivery on MG Engines",
+      "items": []
+    },
+    "faqs": {
+      "title": "MG Engine Buying FAQs",
+      "subtitle": "Answers to the most common questions about buying a Suzuki engine from GMC.",
+      "items": [],
+      "whyBuy": {
+        "title": "Why buy Suzuki engines from GMC?",
+        "items": [
+          {
+            "icon": "shield",
+            "title": "Verified Fitment",
+            "description": "Every engine is verified by registration so you get the exact engine that fits your Suzuki."
+          },
+          {
+            "icon": "shield-check",
+            "title": "12-Month Warranty",
+            "description": "Reconditioned engines include 12-month, unlimited-mileage warranty. Used engines have stated terms."
+          },
+          {
+            "icon": "truck",
+            "title": "UK Nationwide Delivery",
+            "description": "Fast & secure kerbside pallet delivery anywhere on the UK mainland, typically 2–4 working days."
+          },
+          {
+            "icon": "lock",
+            "title": "Secure Checkout",
+            "description": "Safe online payments with encrypted checkout and fraud protection for your peace of mind."
+          }
+        ]
+      }
+    },
+    "cta": {
+      "title": "Find the right MG engine",
+      "highlight": "in under a minute",
+      "description": "Enter your registration number, confirm fitment, and buy your engine at the listed price – all without waiting for a quote.",
+      "placeholder": "ENTER REG NUMBER",
+      "buttonText": "Find my engine",
+      "countryFlag": "GB",
+      "carImage": "/images/brands/Brandpage_cta.png",
+      "badges": [
+        {
+          "icon": "check-circle",
+          "text": "Verified by Registration"
+        },
+        {
+          "icon": "check-circle",
+          "text": "UK Delivery"
+        },
+        {
+          "icon": "check-circle",
+          "text": "Warranty Included"
+        }
+      ]
+    }
+  },
+  "mitsubishi-engines": {
+    "slug": "mitsubishi-engines",
+    "seo": {
+      "title": "Mitsubishi Engines for Sale | Used & Reconditioned | GMC",
+      "description": "Browse GMC Mitsubishi engine resources and confirm exact fitment by registration."
+    },
+    "hero": {
+      "brand": "Mitsubishi",
+      "name": "Mitsubishi",
+      "logo": "/images/brands/logos/mitsubishi-logo-small.webp.webp",
+      "title": "Engines for Sale",
+      "highlight": "Used & Reconditioned",
+      "description": "Mitsubishi engine resources with registration-based fitment and UK delivery.",
+      "carImage": "/images/brands/Brandpage.png",
+      "regCheck": {
+        "placeholder": "ENTER REG NUMBER",
+        "buttonText": "Find my engine",
+        "countryFlag": "GB",
+        "helpText": "How registration lookup works"
+      },
+      "trustBadges": [
+        {
+          "icon": "shield-check",
+          "title": "12-Month Warranty",
+          "subtitle": "Unlimited mileage on recon"
+        },
+        {
+          "icon": "shield",
+          "title": "Verified Fitment",
+          "subtitle": "Checked by registration"
+        },
+        {
+          "icon": "truck",
+          "title": "UK Nationwide Delivery",
+          "subtitle": "Fast & secure, 2–4 days"
+        },
+        {
+          "icon": "returns",
+          "title": "14-Day Returns",
+          "subtitle": "Uninstalled, full refund"
+        }
+      ],
+      "cards": [
+        {
+          "code": "CATALOG-PENDING",
+          "name": "Confirmed resources pending",
+          "ps": "",
+          "nm": "",
+          "years": "",
+          "image": "/images/engines/engine.png",
+          "inStock": false,
+          "href": "/engines",
+          "pos": {
+            "top": 120,
+            "left": 260,
+            "width": 210,
+            "rotate": 0,
+            "z": 20
+          },
+          "featured": true
+        }
+      ]
+    },
+    "howItWorks": {
+      "title": "How Buying Works",
+      "steps": [
+        {
+          "number": 1,
+          "icon": "search",
+          "title": "Verify fit by reg",
+          "description": "Enter your registration or browse to your model — we confirm the exact engine code your vehicle needs."
+        },
+        {
+          "number": 2,
+          "icon": "cart",
+          "title": "Order at the fixed price",
+          "description": "Choose used or reconditioned where both are available, then buy at the fixed price shown on the page."
+        },
+        {
+          "number": 3,
+          "icon": "truck",
+          "title": "Dispatched with warranty",
+          "description": "Your engine ships UK-wide with tracking, backed by warranty and a 14-day uninstalled return."
+        }
+      ]
+    },
+    "featuredEngines": {
+      "title": "Featured Mitsubishi Engines in Stock",
+      "subtitle": "Every featured Suzuki engine is available for immediate purchase at a fixed, transparent price. Stock is updated live, and orders placed before 2pm are dispatched the next working day.",
+      "viewAllText": "See all engines",
+      "viewAllHref": "/engines",
+      "buyButtonText": "Buy it now",
+      "engines": []
+    },
+    "shopByModel": {
+      "title": "Shop Mitsubishi Engines by Model",
+      "subtitle": "",
+      "viewAllText": "View all 0 models",
+      "viewAllHref": "/suzuki-engines#shop-by-model",
+      "allModelsLabel": "View all models",
+      "allModelsCount": "0 models available",
+      "models": []
+    },
+    "engineFamilies": {
+      "title": "All Mitsubishi Engine Families",
+      "description": "",
+      "image": "/images/engines/pop-om642.png",
+      "families": []
+    },
+    "priceGuide": {
+      "title": "Mitsubishi Engine Price Guide",
+      "description": "For a quick reference, we list the lowest current prices for our most popular engine families. All prices are hardcoded and include no hidden fees. If a specific family is not listed, please check its individual listing for current pricing.",
+      "columns": [
+        "Engine family",
+        "Used from",
+        "Reconditioned from",
+        "Note"
+      ],
+      "rows": [],
+      "note": "Prices shown are current lowest listed prices and update as stock changes. The price on each listing is the price you pay — no hidden fees at checkout.",
+      "image": "/images/engines/mercedes-om642-diesel-engine.png"
+    },
+    "usedVsRecon": {
+      "title": "Used or Reconditioned — Which Mitsubishi Engine to Buy?",
+      "options": []
+    },
+    "about": {
+      "title": "About Mitsubishi Engines",
+      "logo": "/images/brands/Brand_logo.png",
+      "carImage": "/images/brands/Brandpage_about.png",
+      "paragraphs": [
+        "GMC is preparing the Mitsubishi engine catalog. Confirmed model, engine-family and listing data will be added as source resources become available."
+      ]
+    },
+    "warrantyDelivery": {
+      "title": "Warranty & Delivery on Mitsubishi Engines",
+      "items": []
+    },
+    "faqs": {
+      "title": "Mitsubishi Engine Buying FAQs",
+      "subtitle": "Answers to the most common questions about buying a Suzuki engine from GMC.",
+      "items": [],
+      "whyBuy": {
+        "title": "Why buy Suzuki engines from GMC?",
+        "items": [
+          {
+            "icon": "shield",
+            "title": "Verified Fitment",
+            "description": "Every engine is verified by registration so you get the exact engine that fits your Suzuki."
+          },
+          {
+            "icon": "shield-check",
+            "title": "12-Month Warranty",
+            "description": "Reconditioned engines include 12-month, unlimited-mileage warranty. Used engines have stated terms."
+          },
+          {
+            "icon": "truck",
+            "title": "UK Nationwide Delivery",
+            "description": "Fast & secure kerbside pallet delivery anywhere on the UK mainland, typically 2–4 working days."
+          },
+          {
+            "icon": "lock",
+            "title": "Secure Checkout",
+            "description": "Safe online payments with encrypted checkout and fraud protection for your peace of mind."
+          }
+        ]
+      }
+    },
+    "cta": {
+      "title": "Find the right Mitsubishi engine",
+      "highlight": "in under a minute",
+      "description": "Enter your registration number, confirm fitment, and buy your engine at the listed price – all without waiting for a quote.",
       "placeholder": "ENTER REG NUMBER",
       "buttonText": "Find my engine",
       "countryFlag": "GB",

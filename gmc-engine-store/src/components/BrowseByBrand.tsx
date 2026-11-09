@@ -26,6 +26,9 @@ function borderGradient(glow: string, bright: string): string {
 }
 
 export default function BrowseByBrand({ data }: { data: typeof brands }) {
+  // Keep the desktop showcase to one balanced row. The full catalog remains
+  // available in Shop by Brand below and on the mobile layout.
+  const desktopBrands = data.brands.slice(0, 6);
   const scrollToShop = () => {
     document.getElementById(data.allBrandsCard.targetId)?.scrollIntoView({ behavior: "smooth" });
   };
@@ -37,7 +40,7 @@ export default function BrowseByBrand({ data }: { data: typeof brands }) {
 
         {/* Desktop: tall cards row */}
         <div className="mt-9 hidden lg:grid lg:grid-cols-7 lg:gap-5">
-          {data.brands.map((brand: Brand) => (
+          {desktopBrands.map((brand: Brand) => (
             <Link key={brand.name} href={brand.href} className="group relative block h-[236px]">
               {/* radiating background haze */}
               <span aria-hidden className="pointer-events-none absolute -inset-4 rounded-[30px] blur-2xl opacity-80 transition-opacity duration-300 group-hover:opacity-100" style={{ background: haze(brand.glow, brand.glowBright) }} />

@@ -42419,5 +42419,1172 @@
       "buttonText": "Check Fitment by Reg",
       "buttonHref": "#reg-check"
     }
+  },
+  "448pn": {
+    "engineSlug": "448pn",
+    "seo": {
+      "title": "448PN Engine for Sale | Used & Reconditioned | Engined",
+      "description": "448PN 4.4 V8 petrol engine for sale. 2 application groups for Discovery 3 & Range Rover Sport. From £1,650. 6-12 month warranty, UK delivery.",
+      "canonical": "https://engined.co.uk/engines/448pn"
+    },
+    "breadcrumb": [
+      {
+        "label": "Home",
+        "href": "/"
+      },
+      {
+        "label": "Engines",
+        "href": "/engines"
+      },
+      {
+        "label": "Land Rover Engines",
+        "href": "/land-rover-engines"
+      },
+      {
+        "label": "448PN Engine"
+      }
+    ],
+    "hero": {
+      "brand": "Land Rover",
+      "brandLogo": "/images/brands/logo-landrover.png",
+      "titleLead": "448PN 4.4 V8 Petrol Engine -",
+      "titleHighlight": "Used & Reconditioned",
+      "titleTail": " for Sale",
+      "alsoKnownAs": "Also known as: 4.4 V8, 4.4 Petrol V8, JLR 4.4 V8",
+      "description": "Fits Land Rover Discovery 3 and Range Rover Sport models — also known as 4.4 V8, 4.4 Petrol V8. Verified fitment, fixed prices, UK delivery.",
+      "heroImage": "/images/hub/hero_dark_cut.png",
+      "heroImageLight": "/images/hub/hero_light_cut.png",
+      "quickSpecs": [
+        {
+          "icon": "cog",
+          "value": "4.4L",
+          "label": "Displacement"
+        },
+        {
+          "icon": "fuel",
+          "value": "Petrol",
+          "label": "Fuel"
+        },
+        {
+          "icon": "calendar",
+          "value": "2004-2009",
+          "label": "Production"
+        }
+      ],
+      "specCards": [
+        {
+          "icon": "cog",
+          "value": "4.4L",
+          "label": "Displacement"
+        },
+        {
+          "icon": "fuel",
+          "value": "Petrol",
+          "label": "Fuel"
+        },
+        {
+          "icon": "calendar",
+          "value": "2004-2009",
+          "label": "Production"
+        },
+        {
+          "icon": "config",
+          "value": "V8",
+          "label": "Configuration"
+        },
+        {
+          "icon": "box",
+          "value": "Multiple",
+          "label": "Applications"
+        }
+      ],
+      "regCheck": {
+        "countryFlag": "GB",
+        "placeholder": "ENTER REG NUMBER",
+        "buttonText": "Check fit"
+      },
+      "microTrust": [
+        "Exact model match",
+        "Engine code confirmed",
+        "100% secure"
+      ],
+      "trustBadges": [
+        {
+          "icon": "shield-check",
+          "title": "Verified Fitment",
+          "subtitle": "Checked by registration"
+        },
+        {
+          "icon": "shield-check",
+          "title": "12-Month Warranty",
+          "subtitle": "On reconditioned units"
+        },
+        {
+          "icon": "truck",
+          "title": "UK Nationwide Delivery",
+          "subtitle": "2-4 working days"
+        },
+        {
+          "icon": "repeat",
+          "title": "14-Day Returns",
+          "subtitle": "Uninstalled, full refund"
+        }
+      ]
+    },
+    "applications": {
+      "title": "Buy a 448PN Engine for Your Vehicle",
+      "subtitle": "",
+      "ctaText": "View unit",
+      "units": [
+        {
+          "id": "448pn-discovery-3",
+          "condition": "Used & Reconditioned",
+          "title": "448PN - Discovery 3",
+          "subtitle": "Discovery 3 (L319) 2004–2009",
+          "price": "£1,650",
+          "image": "/images/listings/engine_trim.png",
+          "href": "/engines/448pn/448pn-discovery-3"
+        },
+        {
+          "id": "448pn-range-rover-sport-l320",
+          "condition": "Used & Reconditioned",
+          "title": "448PN - Range Rover Sport L320",
+          "subtitle": "Range Rover Sport (L320) 2005–2009",
+          "price": "£1,850",
+          "image": "/images/listings/engine_trim.png",
+          "href": "/engines/448pn/448pn-range-rover-sport-l320"
+        }
+      ]
+    },
+    "compatibility": {
+      "title": "Full 448PN Compatibility",
+      "intro": "",
+      "columns": [
+        "Model",
+        "Chassis",
+        "Variants",
+        "Years",
+        "Config.",
+        "Unit page"
+      ],
+      "note": "Confirm your exact spec with the registration checker above.",
+      "rows": [
+        {
+          "model": "Discovery 3",
+          "chassis": "L319",
+          "variants": "4.4 V8",
+          "years": "2004–2009",
+          "config": "Longitudinal",
+          "linkText": "View unit",
+          "href": "/engines/448pn-discovery-3"
+        },
+        {
+          "model": "Range Rover Sport",
+          "chassis": "L320",
+          "variants": "4.4 V8",
+          "years": "2005–2009",
+          "config": "Longitudinal",
+          "linkText": "View unit",
+          "href": "/engines/448pn-range-rover-sport-l320"
+        }
+      ]
+    },
+    "prices": {
+      "title": "448PN Engine Prices",
+      "intro": "",
+      "columns": [
+        "Application",
+        "Used from",
+        "Reconditioned from"
+      ],
+      "note": "Prices shown are current lowest listed prices and update as stock changes. The price on each listing is the price you pay — no hidden fees at checkout.",
+      "rows": [
+        {
+          "application": "Discovery 3 (L319)",
+          "used": "£1,650",
+          "recon": "£2,800"
+        },
+        {
+          "application": "Range Rover Sport (L320)",
+          "used": "£1,850",
+          "recon": "£3,100"
+        }
+      ]
+    },
+    "whatYouGet": {
+      "titleLead": "What You Get with a ",
+      "titleHighlight": "448PN",
+      "titleTail": " Engine",
+      "includedTitle": "What's included:",
+      "includedBody": "Complete long-block assembly; Renewed timing chains, guides and tensioners (recon); New coolant crossover gaskets and seals (recon); Tested-before-dispatch compression/leak-down; 6-12 month warranty.",
+      "excludedTitle": "Not included:",
+      "excluded": [
+        "Engine management ECU",
+        "Ancillary brackets (transfer from old unit unless specified)",
+        "Fitting and installation",
+        "Shipping/palletisation fees"
+      ],
+      "asideTitle": "Used or reconditioned?",
+      "asideBody": "Used units are widely available and cost-effective for both Discovery 3 and Range Rover Sport applications, while reconditioned units are recommended for higher-mileage vehicles to ensure long-term reliability of the timing assembly and gaskets. The 448PN 4.4L V8 is known for timing chain guide wear and coolant crossover gasket degradation at higher mileages. Replacement demand is steady as these vehicles age, and a prepared unit addresses these wear points with renewed chains, guides, and seals as standard."
+    },
+    "faqs": {
+      "title": "448PN Engine Buying FAQs",
+      "subtitle": "Everything you need to know before you buy the right 448PN engine for your vehicle.",
+      "items": [
+        {
+          "q": "Which vehicles use the 448PN engine?",
+          "a": "The 448PN 4.4 V8 petrol engine was fitted to the Land Rover Discovery 3 (2004–2009) and Range Rover Sport L320 (2005–2009). Always confirm fitment via your registration."
+        },
+        {
+          "q": "What are the aliases or cross-brand codes for this engine?",
+          "a": "In the trade, the 448PN is also known as the 4.4 V8, 4.4 Petrol V8, or JLR-built BMW-derived 4.4 V8."
+        },
+        {
+          "q": "Should I buy a used or reconditioned 448PN engine?",
+          "a": "Used units are widely available and cost-effective for both Discovery 3 and Range Rover Sport applications, while reconditioned units are recommended for higher-mileage vehicles to ensure long-term reliability of the timing assembly and gaskets. Choose recon for comprehensive timing chain and gasket renewal."
+        },
+        {
+          "q": "How do I confirm fitment for my vehicle?",
+          "a": "Match the 448PN code on the engine block stamp with your V5C registration and chassis number, or use our free registration checker to confirm exact compatibility."
+        },
+        {
+          "q": "What warranty and delivery options are available?",
+          "a": "All engines come with a 6-12 month warranty and UK nationwide palletised delivery, ensuring a secure and reliable purchase."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Get Your 448PN Engine Today",
+      "body": "",
+      "buttonText": "Check Fitment by Reg",
+      "buttonHref": "#reg-check"
+    }
+  },
+  "m133": {
+    "engineSlug": "m133",
+    "seo": {
+      "title": "M133 Engine for Sale | Used & Reconditioned | Engined",
+      "description": "M133 2.0 AMG turbo engine for sale. 3 application groups for A45, CLA45 & GLA45. From £2,800. 6-12 month warranty, verified fitment, UK delivery.",
+      "canonical": "https://engined.co.uk/engines/m133"
+    },
+    "breadcrumb": [
+      {
+        "label": "Home",
+        "href": "/"
+      },
+      {
+        "label": "Engines",
+        "href": "/engines"
+      },
+      {
+        "label": "Mercedes-Benz Engines",
+        "href": "/mercedes-benz-engines"
+      },
+      {
+        "label": "M133 Engine"
+      }
+    ],
+    "hero": {
+      "brand": "Mercedes-Benz",
+      "brandLogo": "/images/brands/logo-mercedes.png",
+      "titleLead": "Mercedes-Benz M133 2.0 AMG Turbo Engine -",
+      "titleHighlight": "Used & Reconditioned",
+      "titleTail": " for Sale",
+      "alsoKnownAs": "Also known as: 2.0 AMG, \"45\" series engine, M133A",
+      "description": "Fits A-Class, CLA-Class, GLA-Class models — also known as 2.0 AMG, \"45\" series engine, M133A. Verified fitment, fixed prices, UK delivery.",
+      "heroImage": "/images/hub/hero_dark_cut.png",
+      "heroImageLight": "/images/hub/hero_light_cut.png",
+      "quickSpecs": [
+        {
+          "icon": "cog",
+          "value": "2.0L",
+          "label": "Displacement"
+        },
+        {
+          "icon": "fuel",
+          "value": "Petrol",
+          "label": "Fuel"
+        },
+        {
+          "icon": "calendar",
+          "value": "2013-2019",
+          "label": "Production"
+        }
+      ],
+      "specCards": [
+        {
+          "icon": "cog",
+          "value": "2.0L",
+          "label": "Displacement"
+        },
+        {
+          "icon": "fuel",
+          "value": "Petrol",
+          "label": "Fuel"
+        },
+        {
+          "icon": "calendar",
+          "value": "2013-2019",
+          "label": "Production"
+        },
+        {
+          "icon": "config",
+          "value": "I4",
+          "label": "Configuration"
+        },
+        {
+          "icon": "box",
+          "value": "Multiple",
+          "label": "Applications"
+        }
+      ],
+      "regCheck": {
+        "countryFlag": "GB",
+        "placeholder": "ENTER REG NUMBER",
+        "buttonText": "Check fit"
+      },
+      "microTrust": [
+        "Exact model match",
+        "Engine code confirmed",
+        "100% secure"
+      ],
+      "trustBadges": [
+        {
+          "icon": "shield-check",
+          "title": "Verified Fitment",
+          "subtitle": "Checked by registration"
+        },
+        {
+          "icon": "shield-check",
+          "title": "12-Month Warranty",
+          "subtitle": "On reconditioned units"
+        },
+        {
+          "icon": "truck",
+          "title": "UK Nationwide Delivery",
+          "subtitle": "2-4 working days"
+        },
+        {
+          "icon": "repeat",
+          "title": "14-Day Returns",
+          "subtitle": "Uninstalled, full refund"
+        }
+      ]
+    },
+    "applications": {
+      "title": "Buy a M133 Engine for Your Vehicle",
+      "subtitle": "",
+      "ctaText": "View unit",
+      "units": [
+        {
+          "id": "m133-a-class-w176",
+          "condition": "Used & Reconditioned",
+          "title": "M133 - A-Class W176",
+          "subtitle": "A45 AMG (W176) 2013–2019",
+          "price": "£2,800",
+          "image": "/images/listings/engine_trim.png",
+          "href": "/engines/m133/m133-a-class-w176"
+        },
+        {
+          "id": "m133-cla-class-c117",
+          "condition": "Used & Reconditioned",
+          "title": "M133 - CLA-Class C117",
+          "subtitle": "CLA45 AMG (C117) 2013–2019",
+          "price": "£2,900",
+          "image": "/images/listings/engine_trim.png",
+          "href": "/engines/m133/m133-cla-class-c117"
+        },
+        {
+          "id": "m133-gla-class-x156",
+          "condition": "Used & Reconditioned",
+          "title": "M133 - GLA-Class X156",
+          "subtitle": "GLA45 AMG (X156) 2015–2019",
+          "price": "£3,000",
+          "image": "/images/listings/engine_trim.png",
+          "href": "/engines/m133/m133-gla-class-x156"
+        }
+      ]
+    },
+    "compatibility": {
+      "title": "Full M133 Compatibility",
+      "intro": "",
+      "columns": [
+        "Model",
+        "Chassis",
+        "Variants",
+        "Years",
+        "Config.",
+        "Unit page"
+      ],
+      "note": "Confirm your exact spec with the registration checker above.",
+      "rows": [
+        {
+          "model": "A-Class",
+          "chassis": "W176",
+          "variants": "A45 AMG",
+          "years": "2013–2019",
+          "config": "Transverse",
+          "linkText": "View unit",
+          "href": "/engines/m133-a-class-w176"
+        },
+        {
+          "model": "CLA-Class",
+          "chassis": "C117",
+          "variants": "CLA45 AMG",
+          "years": "2013–2019",
+          "config": "Transverse",
+          "linkText": "View unit",
+          "href": "/engines/m133-cla-class-c117"
+        },
+        {
+          "model": "GLA-Class",
+          "chassis": "X156",
+          "variants": "GLA45 AMG",
+          "years": "2015–2019",
+          "config": "Transverse",
+          "linkText": "View unit",
+          "href": "/engines/m133-gla-class-x156"
+        }
+      ]
+    },
+    "prices": {
+      "title": "M133 Engine Prices",
+      "intro": "",
+      "columns": [
+        "Application",
+        "Used from",
+        "Reconditioned from"
+      ],
+      "note": "Prices shown are current lowest listed prices and update as stock changes. The price on each listing is the price you pay — no hidden fees at checkout.",
+      "rows": [
+        {
+          "application": "A-Class W176",
+          "used": "£2,800",
+          "recon": "£4,800"
+        },
+        {
+          "application": "CLA-Class C117",
+          "used": "£2,900",
+          "recon": "£4,900"
+        },
+        {
+          "application": "GLA-Class X156",
+          "used": "£3,000",
+          "recon": "£5,000"
+        }
+      ]
+    },
+    "whatYouGet": {
+      "titleLead": "What You Get with an ",
+      "titleHighlight": "M133",
+      "titleTail": " Engine",
+      "includedTitle": "What's included:",
+      "includedBody": "Complete long-block assembly; Renewed timing chain and guides (recon); Inspected/replaced turbocharger (recon); Tested-before-dispatch compression/leak-down; 6-12 month warranty.",
+      "excludedTitle": "Not included:",
+      "excluded": [
+        "Engine management ECU (requires coding)",
+        "Fuel injectors (reusable if sound)",
+        "Ancillary brackets and wiring harnesses (transfer from old unit)",
+        "Fitting and installation"
+      ],
+      "asideTitle": "Used or reconditioned?",
+      "asideBody": "Used units are available for budget-conscious repairs, but reconditioned units are strongly recommended for M133 applications due to the high-stress nature of the AMG \"45\" tuning and the compounding cost of ancillary failures. The M133 is a high-strung, high-output 2.0L turbocharged engine. Replacement demand is driven by bearing wear, turbocharger degradation, and timing chain guide issues on higher-mileage examples. A prepared unit addresses these wear points with renewed components as standard."
+    },
+    "faqs": {
+      "title": "M133 Engine Buying FAQs",
+      "subtitle": "Everything you need to know before you buy the right M133 engine for your vehicle.",
+      "items": [
+        {
+          "q": "Which vehicles use the M133 engine?",
+          "a": "The M133 2.0 AMG turbo engine was fitted to the Mercedes-Benz A45 (W176), CLA45 (C117), and GLA45 (X156) models from 2013 to 2019. Always confirm fitment via your registration."
+        },
+        {
+          "q": "What are the aliases or cross-brand codes for this engine?",
+          "a": "In the trade, the M133 is also known as the 2.0 AMG, \"45\" series engine, or M133A."
+        },
+        {
+          "q": "Should I buy a used or reconditioned M133 engine?",
+          "a": "Used units are available for budget-conscious repairs, but reconditioned units are strongly recommended for M133 applications due to the high-stress nature of the AMG \"45\" tuning and the compounding cost of ancillary failures. Recon is favoured for critical wear item renewal."
+        },
+        {
+          "q": "How do I confirm fitment for my vehicle?",
+          "a": "Match the M133 code on the engine block stamp with your V5C registration and chassis number, or use our free registration checker to confirm exact compatibility."
+        },
+        {
+          "q": "What warranty and delivery options are available?",
+          "a": "All engines come with a 6-12 month warranty and UK nationwide palletised delivery, ensuring a secure and reliable purchase."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Get Your M133 Engine Today",
+      "body": "",
+      "buttonText": "Check Fitment by Reg",
+      "buttonHref": "#reg-check"
+    }
+  },
+  "m156": {
+    "engineSlug": "m156",
+    "seo": {
+      "title": "M156 Engine for Sale | Used & Reconditioned | Engined",
+      "description": "M156 6.2L V8 AMG engine for sale. 6 application groups for C63, E63, CLS63, SL63, CLK63 & ML63. From £2,500. 6-12 month warranty, UK delivery.",
+      "canonical": "https://engined.co.uk/engines/m156"
+    },
+    "breadcrumb": [
+      {
+        "label": "Home",
+        "href": "/"
+      },
+      {
+        "label": "Engines",
+        "href": "/engines"
+      },
+      {
+        "label": "Mercedes-Benz Engines",
+        "href": "/mercedes-benz-engines"
+      },
+      {
+        "label": "M156 Engine"
+      }
+    ],
+    "hero": {
+      "brand": "Mercedes-Benz",
+      "brandLogo": "/images/brands/logo-mercedes.png",
+      "titleLead": "Mercedes-Benz M156 6.2L V8 AMG Engine -",
+      "titleHighlight": "Used & Reconditioned",
+      "titleTail": " for Sale",
+      "alsoKnownAs": "Also known as: 6.2 AMG, \"63\", M156 E63",
+      "description": "Fits Mercedes-Benz C63, E63, CLS63, SL63, CLK63, and ML63 models — also known as 6.2 AMG, \"63\". Verified fitment, fixed prices, UK delivery.",
+      "heroImage": "/images/hub/hero_dark_cut.png",
+      "heroImageLight": "/images/hub/hero_light_cut.png",
+      "quickSpecs": [
+        {
+          "icon": "cog",
+          "value": "6.2L",
+          "label": "Displacement"
+        },
+        {
+          "icon": "fuel",
+          "value": "Petrol",
+          "label": "Fuel"
+        },
+        {
+          "icon": "calendar",
+          "value": "2006-2015",
+          "label": "Production"
+        }
+      ],
+      "specCards": [
+        {
+          "icon": "cog",
+          "value": "6.2L",
+          "label": "Displacement"
+        },
+        {
+          "icon": "fuel",
+          "value": "Petrol",
+          "label": "Fuel"
+        },
+        {
+          "icon": "calendar",
+          "value": "2006-2015",
+          "label": "Production"
+        },
+        {
+          "icon": "config",
+          "value": "V8",
+          "label": "Configuration"
+        },
+        {
+          "icon": "box",
+          "value": "Multiple",
+          "label": "Applications"
+        }
+      ],
+      "regCheck": {
+        "countryFlag": "GB",
+        "placeholder": "ENTER REG NUMBER",
+        "buttonText": "Check fit"
+      },
+      "microTrust": [
+        "Exact model match",
+        "Engine code confirmed",
+        "100% secure"
+      ],
+      "trustBadges": [
+        {
+          "icon": "shield-check",
+          "title": "Verified Fitment",
+          "subtitle": "Checked by registration"
+        },
+        {
+          "icon": "shield-check",
+          "title": "12-Month Warranty",
+          "subtitle": "On reconditioned units"
+        },
+        {
+          "icon": "truck",
+          "title": "UK Nationwide Delivery",
+          "subtitle": "2-4 working days"
+        },
+        {
+          "icon": "repeat",
+          "title": "14-Day Returns",
+          "subtitle": "Uninstalled, full refund"
+        }
+      ]
+    },
+    "applications": {
+      "title": "Buy a M156 Engine for Your Vehicle",
+      "subtitle": "",
+      "ctaText": "View unit",
+      "units": [
+        {
+          "id": "m156-c-class-w204",
+          "condition": "Used & Reconditioned",
+          "title": "M156 - C-Class W204",
+          "subtitle": "C63 AMG (W204) 2007–2014",
+          "price": "£2,500",
+          "image": "/images/listings/engine_trim.png",
+          "href": "/engines/m156/m156-c-class-w204"
+        },
+        {
+          "id": "m156-e-class-w212",
+          "condition": "Used & Reconditioned",
+          "title": "M156 - E-Class W212",
+          "subtitle": "E63 AMG (W212) 2009–2011",
+          "price": "£2,800",
+          "image": "/images/listings/engine_trim.png",
+          "href": "/engines/m156/m156-e-class-w212"
+        },
+        {
+          "id": "m156-cls-class-c219",
+          "condition": "Used & Reconditioned",
+          "title": "M156 - CLS-Class C219",
+          "subtitle": "CLS63 AMG (C219) 2006–2010",
+          "price": "£2,600",
+          "image": "/images/listings/engine_trim.png",
+          "href": "/engines/m156/m156-cls-class-c219"
+        },
+        {
+          "id": "m156-sl-class-r230",
+          "condition": "Used & Reconditioned",
+          "title": "M156 - SL-Class R230",
+          "subtitle": "SL63 AMG (R230) 2008–2012",
+          "price": "£3,000",
+          "image": "/images/listings/engine_trim.png",
+          "href": "/engines/m156/m156-sl-class-r230"
+        },
+        {
+          "id": "m156-clk-class-c209",
+          "condition": "Used & Reconditioned",
+          "title": "M156 - CLK-Class C209",
+          "subtitle": "CLK63 AMG (C209) 2006–2009",
+          "price": "£2,700",
+          "image": "/images/listings/engine_trim.png",
+          "href": "/engines/m156/m156-clk-class-c209"
+        },
+        {
+          "id": "m156-ml-class-w164",
+          "condition": "Used & Reconditioned",
+          "title": "M156 - ML-Class W164",
+          "subtitle": "ML63 AMG (W164) 2006–2011",
+          "price": "£2,900",
+          "image": "/images/listings/engine_trim.png",
+          "href": "/engines/m156/m156-ml-class-w164"
+        }
+      ]
+    },
+    "compatibility": {
+      "title": "Full M156 Compatibility",
+      "intro": "",
+      "columns": [
+        "Model",
+        "Chassis",
+        "Variants",
+        "Years",
+        "Config.",
+        "Unit page"
+      ],
+      "note": "Confirm your exact spec with the registration checker above.",
+      "rows": [
+        {
+          "model": "C-Class",
+          "chassis": "W204",
+          "variants": "C63 AMG",
+          "years": "2007–2014",
+          "config": "Longitudinal",
+          "linkText": "View unit",
+          "href": "/engines/m156-c-class-w204"
+        },
+        {
+          "model": "E-Class",
+          "chassis": "W212",
+          "variants": "E63 AMG",
+          "years": "2009–2011",
+          "config": "Longitudinal",
+          "linkText": "View unit",
+          "href": "/engines/m156-e-class-w212"
+        },
+        {
+          "model": "CLS-Class",
+          "chassis": "C219",
+          "variants": "CLS63 AMG",
+          "years": "2006–2010",
+          "config": "Longitudinal",
+          "linkText": "View unit",
+          "href": "/engines/m156-cls-class-c219"
+        },
+        {
+          "model": "SL-Class",
+          "chassis": "R230",
+          "variants": "SL63 AMG",
+          "years": "2008–2012",
+          "config": "Longitudinal",
+          "linkText": "View unit",
+          "href": "/engines/m156-sl-class-r230"
+        },
+        {
+          "model": "CLK-Class",
+          "chassis": "C209",
+          "variants": "CLK63 AMG",
+          "years": "2006–2009",
+          "config": "Longitudinal",
+          "linkText": "View unit",
+          "href": "/engines/m156-clk-class-c209"
+        },
+        {
+          "model": "ML-Class",
+          "chassis": "W164",
+          "variants": "ML63 AMG",
+          "years": "2006–2011",
+          "config": "Longitudinal",
+          "linkText": "View unit",
+          "href": "/engines/m156-ml-class-w164"
+        }
+      ]
+    },
+    "prices": {
+      "title": "M156 Engine Prices",
+      "intro": "",
+      "columns": [
+        "Application",
+        "Used from",
+        "Reconditioned from"
+      ],
+      "note": "Prices shown are current lowest listed prices and update as stock changes. The price on each listing is the price you pay — no hidden fees at checkout.",
+      "rows": [
+        {
+          "application": "C-Class W204",
+          "used": "£2,500",
+          "recon": "£4,500"
+        },
+        {
+          "application": "E-Class W212",
+          "used": "£2,800",
+          "recon": "£4,800"
+        },
+        {
+          "application": "CLS-Class C219",
+          "used": "£2,600",
+          "recon": "£4,600"
+        },
+        {
+          "application": "SL-Class R230",
+          "used": "£3,000",
+          "recon": "£5,000"
+        },
+        {
+          "application": "CLK-Class C209",
+          "used": "£2,700",
+          "recon": "£4,700"
+        },
+        {
+          "application": "ML-Class W164",
+          "used": "£2,900",
+          "recon": "£4,900"
+        }
+      ]
+    },
+    "whatYouGet": {
+      "titleLead": "What You Get with an ",
+      "titleHighlight": "M156",
+      "titleTail": " Engine",
+      "includedTitle": "What's included:",
+      "includedBody": "Complete long-block assembly; Renewed camshafts and lifters (recon); New valve stem seals and gaskets (recon); Tested-before-dispatch compression/leak-down; 6-12 month warranty.",
+      "excludedTitle": "Not included:",
+      "excluded": [
+        "Engine management ECU (requires coding)",
+        "Ancillary brackets and wiring harnesses (transfer from old unit)",
+        "Fitting and installation",
+        "Shipping/palletisation fees"
+      ],
+      "asideTitle": "Used or reconditioned?",
+      "asideBody": "Used units are available for budget-conscious repairs, but reconditioned units are strongly recommended for M156 applications due to the high-stress nature of the AMG tuning and the compounding cost of internal wear failures. Choosing a reconditioned unit ensures critical wear items like camshafts and lifters are comprehensively renewed for long-term reliability. The M156 6.2L V8 is a high-strung, naturally aspirated performance engine. Replacement demand is driven by camshaft wear, lifter failure, and oil consumption issues on higher-mileage examples. A prepared unit addresses these wear points with renewed components as standard."
+    },
+    "faqs": {
+      "title": "M156 Engine Buying FAQs",
+      "subtitle": "Everything you need to know before you buy the right M156 engine for your vehicle.",
+      "items": [
+        {
+          "q": "Which vehicles use the M156 engine?",
+          "a": "The M156 6.2L V8 was fitted to Mercedes-Benz C63, E63, CLS63, SL63, CLK63, and ML63 AMG models from 2006 to 2015. Always confirm fitment via your registration."
+        },
+        {
+          "q": "What are the aliases or cross-brand codes for this engine?",
+          "a": "In the trade, the M156 is also known as the 6.2 AMG or \"63\" series engine. This helps identify the correct high-output naturally aspirated V8 unit."
+        },
+        {
+          "q": "Should I buy a used or reconditioned M156 engine?",
+          "a": "Used units are available for budget-conscious repairs, but reconditioned units are strongly recommended for M156 applications due to the high-stress nature of the AMG tuning and the compounding cost of internal wear failures. Recon is favoured for critical wear item renewal."
+        },
+        {
+          "q": "How do I confirm fitment for my vehicle?",
+          "a": "Match the M156 code on the engine block stamp with your V5C registration and chassis number. You can also use our free registration checker to confirm exact compatibility."
+        },
+        {
+          "q": "What warranty and delivery options are available?",
+          "a": "All engines come with a 6-12 month warranty and UK nationwide palletised delivery. This ensures a secure, reliable purchase with a free compatibility check."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Get Your M156 Engine Today",
+      "body": "",
+      "buttonText": "Check Fitment by Reg",
+      "buttonHref": "#reg-check"
+    }
+  },
+  "m157": {
+    "engineSlug": "m157",
+    "seo": {
+      "title": "M157 Engine for Sale | Used & Reconditioned | Engined",
+      "description": "M157 5.5L V8 Biturbo AMG engine for sale. 6 application groups for E63, S63, CLS63, G63, ML63 & GL63. From £2,800. 6-12 month warranty, UK delivery.",
+      "canonical": "https://engined.co.uk/engines/m157"
+    },
+    "breadcrumb": [
+      {
+        "label": "Home",
+        "href": "/"
+      },
+      {
+        "label": "Engines",
+        "href": "/engines"
+      },
+      {
+        "label": "Mercedes-Benz Engines",
+        "href": "/mercedes-benz-engines"
+      },
+      {
+        "label": "M157 Engine"
+      }
+    ],
+    "hero": {
+      "brand": "Mercedes-Benz",
+      "brandLogo": "/images/brands/logo-mercedes.png",
+      "titleLead": "M157 5.5L V8 Biturbo AMG Engine -",
+      "titleHighlight": "Used & Reconditioned",
+      "titleTail": " for Sale",
+      "alsoKnownAs": "Also known as: 5.5 AMG Biturbo, \"63\"",
+      "description": "Fits E63, S63, CLS63 AMG and more — verified fitment by registration, fixed prices, UK delivery.",
+      "heroImage": "/images/hub/hero_dark_cut.png",
+      "heroImageLight": "/images/hub/hero_light_cut.png",
+      "quickSpecs": [
+        {
+          "icon": "cog",
+          "value": "5.5L",
+          "label": "Displacement"
+        },
+        {
+          "icon": "fuel",
+          "value": "Petrol",
+          "label": "Fuel"
+        },
+        {
+          "icon": "calendar",
+          "value": "2011-2018",
+          "label": "Production"
+        }
+      ],
+      "specCards": [
+        {
+          "icon": "cog",
+          "value": "5.5L",
+          "label": "Displacement"
+        },
+        {
+          "icon": "fuel",
+          "value": "Petrol",
+          "label": "Fuel"
+        },
+        {
+          "icon": "calendar",
+          "value": "2011-2018",
+          "label": "Production"
+        },
+        {
+          "icon": "config",
+          "value": "V8",
+          "label": "Configuration"
+        },
+        {
+          "icon": "box",
+          "value": "Multiple",
+          "label": "Applications"
+        }
+      ],
+      "regCheck": {
+        "countryFlag": "GB",
+        "placeholder": "ENTER REG NUMBER",
+        "buttonText": "Check fit"
+      },
+      "microTrust": [
+        "Exact model match",
+        "Engine code confirmed",
+        "100% secure"
+      ],
+      "trustBadges": [
+        {
+          "icon": "shield-check",
+          "title": "Verified Fitment",
+          "subtitle": "Checked by registration"
+        },
+        {
+          "icon": "shield-check",
+          "title": "12-Month Warranty",
+          "subtitle": "On reconditioned units"
+        },
+        {
+          "icon": "truck",
+          "title": "UK Nationwide Delivery",
+          "subtitle": "2-4 working days"
+        },
+        {
+          "icon": "repeat",
+          "title": "14-Day Returns",
+          "subtitle": "Uninstalled, full refund"
+        }
+      ]
+    },
+    "applications": {
+      "title": "Buy a M157 Engine for Your Vehicle",
+      "subtitle": "",
+      "ctaText": "View unit",
+      "units": [
+        {
+          "id": "m157-e-class-w212",
+          "condition": "Used & Reconditioned",
+          "title": "M157 - E-Class W212",
+          "subtitle": "E63 AMG (W212) 2011–2016",
+          "price": "£2,800",
+          "image": "/images/listings/engine_trim.png",
+          "href": "/engines/m157/m157-e-class-w212"
+        },
+        {
+          "id": "m157-s-class-w222",
+          "condition": "Used & Reconditioned",
+          "title": "M157 - S-Class W222",
+          "subtitle": "S63 AMG (W222) 2013–2017",
+          "price": "£3,200",
+          "image": "/images/listings/engine_trim.png",
+          "href": "/engines/m157/m157-s-class-w222"
+        },
+        {
+          "id": "m157-cls-class-c218",
+          "condition": "Used & Reconditioned",
+          "title": "M157 - CLS-Class C218",
+          "subtitle": "CLS63 AMG (C218) 2011–2017",
+          "price": "£2,900",
+          "image": "/images/listings/engine_trim.png",
+          "href": "/engines/m157/m157-cls-class-c218"
+        },
+        {
+          "id": "m157-g-class-w463",
+          "condition": "Used & Reconditioned",
+          "title": "M157 - G-Class W463",
+          "subtitle": "G63 AMG (W463) 2012–2018",
+          "price": "£3,800",
+          "image": "/images/listings/engine_trim.png",
+          "href": "/engines/m157/m157-g-class-w463"
+        },
+        {
+          "id": "m157-ml-gl-class-w166",
+          "condition": "Used & Reconditioned",
+          "title": "M157 - ML/GL-Class W166",
+          "subtitle": "ML63 / GL63 AMG (W166) 2012–2015",
+          "price": "£3,000",
+          "image": "/images/listings/engine_trim.png",
+          "href": "/engines/m157/m157-ml-gl-class-w166"
+        },
+        {
+          "id": "m157-cl-class-c216",
+          "condition": "Used & Reconditioned",
+          "title": "M157 - CL-Class C216",
+          "subtitle": "CL63 AMG (C216) 2011–2014",
+          "price": "£2,900",
+          "image": "/images/listings/engine_trim.png",
+          "href": "/engines/m157/m157-cl-class-c216"
+        }
+      ]
+    },
+    "compatibility": {
+      "title": "Full M157 Compatibility",
+      "intro": "",
+      "columns": [
+        "Model",
+        "Chassis",
+        "Variants",
+        "Years",
+        "Config.",
+        "Unit page"
+      ],
+      "note": "Confirm your exact spec with the registration checker above.",
+      "rows": [
+        {
+          "model": "E-Class",
+          "chassis": "W212",
+          "variants": "E63 AMG",
+          "years": "2011–2016",
+          "config": "Longitudinal",
+          "linkText": "View unit",
+          "href": "/engines/m157-e-class-w212"
+        },
+        {
+          "model": "S-Class",
+          "chassis": "W222",
+          "variants": "S63 AMG",
+          "years": "2013–2017",
+          "config": "Longitudinal",
+          "linkText": "View unit",
+          "href": "/engines/m157-s-class-w222"
+        },
+        {
+          "model": "CLS-Class",
+          "chassis": "C218",
+          "variants": "CLS63 AMG",
+          "years": "2011–2017",
+          "config": "Longitudinal",
+          "linkText": "View unit",
+          "href": "/engines/m157-cls-class-c218"
+        },
+        {
+          "model": "G-Class",
+          "chassis": "W463",
+          "variants": "G63 AMG",
+          "years": "2012–2018",
+          "config": "Longitudinal",
+          "linkText": "View unit",
+          "href": "/engines/m157-g-class-w463"
+        },
+        {
+          "model": "ML/GL-Class",
+          "chassis": "W166",
+          "variants": "ML63 / GL63 AMG",
+          "years": "2012–2015",
+          "config": "Longitudinal",
+          "linkText": "View unit",
+          "href": "/engines/m157-ml-gl-class-w166"
+        },
+        {
+          "model": "CL-Class",
+          "chassis": "C216",
+          "variants": "CL63 AMG",
+          "years": "2011–2014",
+          "config": "Longitudinal",
+          "linkText": "View unit",
+          "href": "/engines/m157-cl-class-c216"
+        }
+      ]
+    },
+    "prices": {
+      "title": "M157 Engine Prices",
+      "intro": "",
+      "columns": [
+        "Application",
+        "Used from",
+        "Reconditioned from"
+      ],
+      "note": "Prices shown are current lowest listed prices and update as stock changes. The price on each listing is the price you pay — no hidden fees at checkout.",
+      "rows": [
+        {
+          "application": "E-Class W212",
+          "used": "£2,800",
+          "recon": "£4,800"
+        },
+        {
+          "application": "S-Class W222",
+          "used": "£3,200",
+          "recon": "£5,500"
+        },
+        {
+          "application": "CLS-Class C218",
+          "used": "£2,900",
+          "recon": "£5,000"
+        },
+        {
+          "application": "G-Class W463",
+          "used": "£3,800",
+          "recon": "£6,000"
+        },
+        {
+          "application": "ML/GL-Class W166",
+          "used": "£3,000",
+          "recon": "£5,200"
+        },
+        {
+          "application": "CL-Class C216",
+          "used": "£2,900",
+          "recon": "£5,100"
+        }
+      ]
+    },
+    "whatYouGet": {
+      "titleLead": "What You Get with an ",
+      "titleHighlight": "M157",
+      "titleTail": " Engine",
+      "includedTitle": "What's included:",
+      "includedBody": "Complete long-block assembly; Renewed timing chains, guides and tensioners (recon); Inspected/replaced turbochargers (recon); Tested-before-dispatch compression/leak-down; 6-12 month warranty.",
+      "excludedTitle": "Not included:",
+      "excluded": [
+        "Engine management ECU (requires coding)",
+        "Ancillary brackets and wiring harnesses (transfer from old unit)",
+        "Fitting and installation",
+        "Shipping/palletisation fees"
+      ],
+      "asideTitle": "Used or reconditioned?",
+      "asideBody": "Used units are available for budget-conscious repairs, but reconditioned units are strongly recommended for M157 applications due to the high-stress nature of AMG tuning and the compounding cost of ancillary failures. Choosing a reconditioned unit ensures critical wear items like turbochargers and timing chains are comprehensively renewed for long-term reliability. The M157 5.5L V8 is a high-performance twin-turbocharged engine. Replacement demand is driven by turbocharger degradation, timing chain stretch, and camshaft adjuster wear on higher-mileage examples. A prepared unit addresses these wear points with renewed components as standard."
+    },
+    "faqs": {
+      "title": "M157 Engine Buying FAQs",
+      "subtitle": "Everything you need to know before you buy the right M157 engine for your vehicle.",
+      "items": [
+        {
+          "q": "Which vehicles use the M157 engine?",
+          "a": "The M157 5.5L V8 Biturbo was fitted to Mercedes-Benz E63 (W212), S63 (W222), CLS63 (C218), G63 (W463), ML63/GL63 (W166), and CL63 (C216) AMG models from 2011 to 2018. Always confirm fitment via your registration."
+        },
+        {
+          "q": "What are the aliases or cross-brand codes for this engine?",
+          "a": "In the trade, the M157 is also known as the 5.5 AMG Biturbo or \"63\" series engine. This helps identify the correct high-output twin-turbo V8 unit."
+        },
+        {
+          "q": "Should I buy a used or reconditioned M157 engine?",
+          "a": "Used units are available for budget-conscious repairs, but reconditioned units are strongly recommended for M157 applications due to the high-stress nature of AMG tuning and the compounding cost of ancillary failures. Recon is favoured for critical wear item renewal."
+        },
+        {
+          "q": "How do I confirm fitment for my vehicle?",
+          "a": "Match the M157 code on the engine block stamp with your V5C registration and chassis number. You can also use our free registration checker to confirm exact compatibility."
+        },
+        {
+          "q": "What warranty and delivery options are available?",
+          "a": "All engines come with a 6-12 month warranty and UK nationwide palletised delivery. This ensures a secure, reliable purchase with a free compatibility check."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Get Your M157 Engine Today",
+      "body": "",
+      "buttonText": "Check Fitment by Reg",
+      "buttonHref": "#reg-check"
+    }
   }
 }

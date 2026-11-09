@@ -90,6 +90,26 @@
       "href": "/volvo-engines"
     },
     {
+      "name": "Fiat",
+      "logo": "/images/brands/logos/fiat-logo-small.webp.webp",
+      "href": "/fiat-engines"
+    },
+    {
+      "name": "Honda",
+      "logo": "/images/brands/logos/honda-logo-small.webp.webp",
+      "href": "/honda-engines"
+    },
+    {
+      "name": "MG",
+      "logo": "/images/brands/logos/mg-logo-small.webp.webp",
+      "href": "/mg-engines"
+    },
+    {
+      "name": "Mitsubishi",
+      "logo": "/images/brands/logos/mitsubishi-logo-small.webp.webp",
+      "href": "/mitsubishi-engines"
+    },
+    {
       "name": "All brands",
       "logo": "",
       "href": "/brands"
