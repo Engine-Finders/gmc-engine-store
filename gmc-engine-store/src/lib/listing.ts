@@ -6,6 +6,7 @@ import modelPage from "@/data/modelPage.json";
 import { hubSlugs } from "@/lib/hub";
 import { pageContext, resolveLinks } from "@/lib/links";
 import { brandSlugFor } from "@/lib/slugs";
+import { resolveListingImages } from "@/lib/imageMapping";
 
 /**
  * Listing pages come from two places:
@@ -285,9 +286,9 @@ function fromLegacy(d: (typeof listingPage)[keyof typeof listingPage]): ListingP
 /** Routes are /engines/<engineSlug>/<applicationSlug>. */
 export function getListingData(engineSlug: string, applicationSlug: string): ListingPageData | undefined {
   const hand = (listingPage as Record<string, (typeof listingPage)[keyof typeof listingPage]>)[`${engineSlug}-${applicationSlug}`];
-  if (hand) return resolveLinks(fromLegacy(hand));
+  if (hand) return resolveListingImages(resolveLinks(fromLegacy(hand)), engineSlug);
   const slim = readSlim(engineSlug, applicationSlug);
-  return slim ? resolveLinks(fromSlim(slim), pageContext(slim.brand)) : undefined;
+  return slim ? resolveListingImages(resolveLinks(fromSlim(slim), pageContext(slim.brand)), engineSlug) : undefined;
 }
 
 /** Hand-built pages plus every extracted file. */

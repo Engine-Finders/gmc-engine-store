@@ -1,0 +1,7 @@
+reference_count,route,source_files
+1,"/about","footer.json"
+1,"/delivery","footer.json"
+1,"/privacy","footer.json"
+1,"/returns","footer.json"
+1,"/terms","footer.json"
+1,"/warranty","footer.json"

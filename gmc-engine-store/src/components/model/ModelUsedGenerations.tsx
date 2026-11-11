@@ -37,7 +37,7 @@ export default function ModelUsedGenerations({ usedVsRecon, generations }: { use
                 <div key={g.code} className="relative flex gap-4">
                   <span className="absolute -left-4 top-2 h-2.5 w-2.5 rounded-full bg-primary-500 ring-4 ring-[#f7f9fc] dark:ring-[#0a1120]" />
                   {/* eslint-disable-next-line @next/next/no-img-element */}
-                  <img src={g.image} alt={g.code} className="h-12 w-24 shrink-0 object-contain [mix-blend-mode:multiply] dark:[mix-blend-mode:lighten]" />
+                  <img src={g.image} alt={g.code} className="vehicle-cutout h-16 w-28 shrink-0 object-contain" />
                   <div className="min-w-0">
                     <p className="text-[15px] font-extrabold text-ink-900 dark:text-white">{g.code} <span className="ml-1 text-[12px] font-semibold text-primary-600 dark:text-primary-400">{g.years}</span></p>
                     <p className="mt-1 text-[12px] leading-relaxed text-ink-600 dark:text-white/60">{g.text}</p>

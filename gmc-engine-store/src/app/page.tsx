@@ -15,6 +15,7 @@ import hero from "@/data/hero.json";
 import brands from "@/data/brands.json";
 import engines from "@/data/engines.json";
 import { resolveHref, resolveLinks } from "@/lib/links";
+import { resolveBrandCollection, resolveEngineCollection } from "@/lib/imageMapping";
 
 export const metadata: Metadata = { alternates: { canonical: "/" } };
 
@@ -24,8 +25,8 @@ export default function HomePage() {
       <Header />
       <main>
         <Hero cardHrefs={Object.fromEntries(hero.cards.map((c) => [c.code, resolveHref(c.href)]))} />
-        <BrowseByBrand data={resolveLinks(brands)} />
-        <FeaturedEngines data={resolveLinks(engines)} />
+        <BrowseByBrand data={resolveBrandCollection(resolveLinks(brands))} />
+        <FeaturedEngines data={resolveEngineCollection(resolveLinks(engines))} />
         <HowItWorks />
         <TrustStrip />
         <ShopByBrand />

@@ -45,6 +45,7 @@ import unicodedata
 import zipfile
 from collections import Counter, OrderedDict
 from pathlib import Path
+from urllib.parse import urlparse
 
 APP = Path(__file__).resolve().parents[1]
 REPO = APP.parent
@@ -283,6 +284,33 @@ def brand_slug(name):
     return f"{slugify(name)}-engines"
 
 
+def internal_path(target):
+    """Return the path portion of an Engined URL without manufacturing a nested URL."""
+    raw = tidy(target).strip()
+    if not raw:
+        return ""
+    parsed = urlparse(raw)
+    if parsed.scheme or parsed.netloc:
+        host = (parsed.hostname or "").lower().removeprefix("www.")
+        if host and host != "engined.co.uk":
+            return None
+        raw = parsed.path
+    return raw.split("#", 1)[0].split("?", 1)[0]
+
+
+def known_engine_slugs():
+    """Engine keys already known to the app or represented by a listing folder."""
+    out = set()
+    try:
+        out.update(json.loads((DATA / "hubPage.json").read_text(encoding="utf-8")))
+    except (OSError, json.JSONDecodeError):
+        pass
+    listings = DATA / "listings"
+    if listings.exists():
+        out.update(p.name for p in listings.iterdir() if p.is_dir())
+    return out
+
+
 def years(s):
     m = re.search(r"((?:19|20)\d\d)\s*[–-]\s*((?:19|20)\d\d\+?|present|on|now|current)", s or "", re.I)
     return f"{m.group(1)}–{m.group(2)}" if m else ""
@@ -295,15 +323,19 @@ def link_target(s):
 
 def engine_href(target):
     """Turn a markdown link target into an /engines/ URL ("audi-ea111" / ".../hubs/ea111/" -> /engines/ea111)."""
-    t = re.sub(r"^https?://[^/]+", "", target).strip().strip("/")
+    path = internal_path(target)
+    if path is None:
+        return tidy(target).strip()
+    t = path.strip().strip("/")
     m = re.search(r"(?:^|/)(?:engines|hubs?)/(.+)$", t)
     t = m.group(1) if m else t.split("/")[-1]  # ".../brands/toyota/yaris/valvematic-1-0" -> the engine part
     parts = t.split("/")
-    hub = parts[0]
-    b = brand_name(hub.split("-")[0]) and hub.split("-")[0]
-    if b and "-" in hub and not (APP / "src" / "data" / "listings" / hub).exists():
-        hub = hub[len(b) + 1:]
-    return "/engines/" + "/".join([hub] + parts[1:]) if hub else ""
+    if not parts or not parts[0]:
+        return ""
+    if len(parts) > 1 and brand_name(parts[0]) and parts[1] in known_engine_slugs():
+        # Source exports occasionally use audi/ea111 where the site convention is /engines/ea111.
+        parts = parts[1:]
+    return "/engines/" + "/".join(parts)
 
 
 def image_or(path, fallback):
@@ -551,7 +583,7 @@ def build_brand(parts, text, ls, hubs_by_brand):
         code = kv(blk, "HUB")
         if code:
             code = re.sub(r"\s+(hub|family)$", "", code, flags=re.I)
-            href = re.sub(r"^https?://[^/]+", "", kv(blk, "SLUG")).rstrip("/") or f"/engines/{slugify(code.split('/')[0])}"
+            href = engine_href(kv(blk, "SLUG")) or f"/engines/{slugify(code.split('/')[0])}"
             spec = kv(blk, "SPEC").replace(" - ", "–")
             fam.append({"code": code, "spec": spec, "priceFrom": price(kv(blk, "FROM_PRICE")), "href": href})
     if not fam:
@@ -1004,9 +1036,16 @@ def build_hub(parts, text, ls):
         p = [x.strip() for x in line.split("|")]
         if len(p) < 4:
             continue
-        target = re.sub(r"^/?engines/", "", tidy(p[1]).strip("/"))
-        # "om651/mercedes-c-class" is engine/unit; a bare "ea211-seat-compact" is a unit of this engine
-        href = f"/engines/{target}" if "/" in target else (f"/engines/{slug}/{target}" if target else f"/engines/{slug}")
+        raw_target = tidy(p[1]).strip()
+        target_path = internal_path(raw_target)
+        target = (target_path or raw_target).strip().strip("/")
+        # "om651/mercedes-c-class" is engine/unit; a bare "ea211-seat-compact" is a unit of this engine.
+        if target_path is None:
+            href = raw_target
+        elif "/" in target or target.startswith(("engines/", "hubs/", "hub/")):
+            href = engine_href(target)
+        else:
+            href = f"/engines/{slug}/{target}" if target else f"/engines/{slug}"
         sub = tidy(p[4]) if len(p) > 4 and not p[4].upper().startswith("ALT") else ""
         units.append({"id": target.split("/")[-1] or slugify(p[0]), "condition": tidy(p[2]), "title": tidy(p[0]), "subtitle": sub,
                       "price": price(p[3]) or (f"£{int(tidy(p[3])):,}" if tidy(p[3]).isdigit() else tidy(p[3])), "image": ls.image(mine), "href": href})
@@ -1026,7 +1065,7 @@ def build_hub(parts, text, ls):
         target = link_target(line)
         crow.append({"model": tidy(p[0]), "chassis": tidy(p[1]), "variants": tidy(p[2]) if len(p) > 2 else "",
                      "years": tidy(p[3]) if len(p) > 3 else "", "config": tidy(p[4]) if len(p) > 4 else "",
-                     "linkText": "View unit", "href": target if target.startswith("/") else (f"/engines/{target}" if target else f"/engines/{slug}")})
+                     "linkText": "View unit", "href": engine_href(target) if target else f"/engines/{slug}"})
     if not crow:  # the matrix as markdown table(s), one per brand in some files
         mx = "\n".join(v for k, v in secs.items() if k.startswith(("matrix", "compatibility")))
         for line in mx.splitlines():
@@ -1039,7 +1078,7 @@ def build_hub(parts, text, ls):
             target = link_target(s)
             crow.append({"model": tidy(p[0]), "chassis": tidy(p[1]), "variants": tidy(p[2]), "years": tidy(p[3]),
                          "config": tidy(p[4]) if len(p) > 5 else "", "linkText": "View unit",
-                         "href": target if target.startswith("/") else (f"/engines/{target}" if target else f"/engines/{slug}")})
+                         "href": engine_href(target) if target else f"/engines/{slug}"})
     if not crow:
         rep.append("compatibility matrix: no ROW lines")
 

@@ -19,7 +19,7 @@ export default function ModelCta({ data }: { data: ModelPageData["cta"] }) {
                 <Icon name="search" className="w-4 h-4" /> {data.buttonText}
               </Link>
               {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img src={data.image} alt="" className="hidden xl:block h-[130px] w-auto object-contain opacity-90 [mix-blend-mode:screen]" />
+              <img src={data.image} alt="" className="vehicle-cutout hidden xl:block h-[130px] w-auto object-contain opacity-90" />
             </div>
           </div>
         </div>

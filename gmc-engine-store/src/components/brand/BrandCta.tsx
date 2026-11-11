@@ -43,9 +43,14 @@ export default function BrandCta({ data }: { data: Data }) {
             </div>
 
             {/* Right — car */}
-            <div className="relative hidden lg:block h-[180px]">
+            <div className="relative hidden h-[150px] lg:block">
               {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img src={data.carImage} alt="" className="absolute right-0 bottom-1/2 translate-y-1/2 w-[105%] max-w-none object-contain [mix-blend-mode:lighten]" draggable={false} />
+              <img
+                src={data.carImage}
+                alt=""
+                className="vehicle-cutout absolute bottom-1/2 right-0 h-[136px] w-[92%] max-w-[520px] translate-y-1/2 object-contain object-right"
+                draggable={false}
+              />
             </div>
           </div>
         </div>
