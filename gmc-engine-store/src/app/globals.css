@@ -195,9 +195,9 @@ a {
   left: 50%;
   /* Keep the model car in the same lower plate band as the brand hero. The
      engine rail owns the upper band, so cards never sit on top of the car. */
-  bottom: 14px;
+  bottom: clamp(6px, 1.56cqw, 14px);
   width: min(82%, 520px);
-  height: 150px;
+  height: clamp(120px, 16.67cqw, 150px);
   transform: translateX(-50%);
   object-fit: contain;
   object-position: center bottom;

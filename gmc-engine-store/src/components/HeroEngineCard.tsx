@@ -22,10 +22,11 @@ type Props = {
   onActivate?: () => void;
   tone?: "dark" | "light";
   compact?: boolean;
+  responsive?: boolean;
 };
 
 /** Shared glass engine card used by brand and model hero carousels. */
-export default function HeroEngineCard({ card, isCenter = true, onActivate, tone = "dark", compact = false }: Props) {
+export default function HeroEngineCard({ card, isCenter = true, onActivate, tone = "dark", compact = false, responsive = false }: Props) {
   const hasFamilySpecs = Boolean(card.ps || card.nm || card.years);
   const badge = card.badge ?? (hasFamilySpecs ? "Engine family" : "Featured engine");
   const isLight = tone === "light";
@@ -120,7 +121,7 @@ export default function HeroEngineCard({ card, isCenter = true, onActivate, tone
           {badge}
         </span>
 
-        <div className={`relative mt-1 flex ${compact ? "h-[108px]" : "h-[136px]"} items-center justify-center px-1`}>
+        <div className={`relative mt-1 flex ${responsive ? "h-[clamp(84px,12cqw,108px)]" : compact ? "h-[108px]" : "h-[136px]"} items-center justify-center px-1`}>
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
             src={card.image}

@@ -281,6 +281,25 @@ function engineKeys(identifier: string): string[] {
 
 const GENERIC_ENGINE_TOKENS = new Set(["v6", "v8", "v10", "v12", "tdi", "fsi", "tfsi", "tsi", "cdi", "dci", "hdi", "mpi", "gdi", "crdi", "cdti"]);
 
+// The engine archive also contains editorial/model artwork. Those files live
+// beside real engine cutouts, so a loose code or brand match can otherwise put
+// a vehicle photo inside an engine card.
+const NON_ENGINE_ASSET_PATTERN = /(vehicle|model[- ]?hero|generation|reliability|common[- ]?problems|application[- ]?(?:vehicle|identification)|ownership|identification|badge|history|dossier|route|question|request|versus|comparison|model[- ]?year)/;
+
+function isLikelyEngineAsset(asset: Asset): boolean {
+  if (NON_ENGINE_ASSET_PATTERN.test(asset.normalized)) return false;
+  if (asset.url.includes("/images/listings/engines/")) return true;
+  return /(engine|motor|powertrain|hero[- ]?real|^hero[- ]|^fe[- ]|^pop[- ])/i.test(asset.normalized);
+}
+
+function assetMatchesTerm(asset: Asset, term: string): boolean {
+  const normalizedTerm = normalize(term);
+  if (!normalizedTerm) return false;
+  const normalizedPath = normalize(asset.url);
+  const pathTokens = normalizedPath.split(" ").filter(Boolean);
+  return normalizedTerm.includes(" ") ? normalizedPath.includes(normalizedTerm) : pathTokens.includes(normalizedTerm);
+}
+
 function engineAssets(): Asset[] {
   const cached = ASSET_CACHE.get("__engine-assets__");
   if (cached) return cached;
@@ -295,7 +314,33 @@ function engineAssets(): Asset[] {
 function engineBrandTerms(brand?: string): string[] {
   if (!brand) return [];
   const key = pageBrandKey(brand);
-  return [...new Set([key, key.replace(/-/g, ""), key.split("-")[0], key === "land-rover" ? "jaguar" : ""].filter(Boolean).map(normalize))];
+  const aliases: Record<string, string[]> = {
+    volkswagen: ["volkswagen", "vw"],
+    "land-rover": ["land rover", "landrover"],
+    "mercedes-benz": ["mercedes", "mercedes benz"],
+  };
+  return [...new Set([
+    key,
+    key.replace(/-/g, ""),
+    key.split("-")[0],
+    ...(aliases[key] ?? []),
+  ].filter(Boolean).map(normalize))];
+}
+
+function brandEngineFallbacks(brand?: string): string[] {
+  const key = pageBrandKey(brand ?? "");
+  const names = key === "mercedes-benz"
+    ? ["mercedes"]
+    : key === "land-rover"
+      ? ["land-rover", "range-rover"]
+      : [key];
+  return [...new Set(names.flatMap((name) => [1, 2, 3].map((variant) => `/images/engines/${name}-engine-${variant}.webp`)))].filter(exists);
+}
+
+function stableIndex(value: string, length: number): number {
+  let hash = 0;
+  for (const character of value) hash = (hash * 31 + character.charCodeAt(0)) >>> 0;
+  return length ? hash % length : 0;
 }
 
 function findEngineAsset(identifier: string, brand?: string): string | undefined {
@@ -306,7 +351,7 @@ function findEngineAsset(identifier: string, brand?: string): string | undefined
   // Do not use trim/configuration words such as V10 or TDI as engine IDs. A
   // generic V10 asset (for example a Dodge Viper image) must never be selected
   // for an Audi or Mercedes card just because its title contains "V10".
-  const primaryKeys = keys.filter((key) => /\d/.test(key) && key.length >= 3 && !GENERIC_ENGINE_TOKENS.has(key));
+  const primaryKeys = keys.filter((key) => /[a-z]/.test(key) && /\d/.test(key) && key.length >= 3 && !GENERIC_ENGINE_TOKENS.has(key));
   const overrideKeys = primaryKeys.map(compact);
   for (const key of overrideKeys) {
     const override = ENGINE_OVERRIDES[key]?.find(exists);
@@ -318,8 +363,9 @@ function findEngineAsset(identifier: string, brand?: string): string | undefined
 
   const brandTerms = engineBrandTerms(brand);
   const candidates = engineAssets()
+    .filter(isLikelyEngineAsset)
     .map((asset) => {
-      const codeMatch = primaryKeys.some((key) => asset.normalized.split(" ").includes(normalize(key)) || asset.compact.includes(compact(key)));
+      const codeMatch = primaryKeys.some((key) => asset.normalized.split(" ").includes(normalize(key)));
       if (!codeMatch) return { asset, score: -1 };
       let score = 100;
       if (asset.url.includes("/images/engines/hero-real-")) score += 50;
@@ -327,7 +373,7 @@ function findEngineAsset(identifier: string, brand?: string): string | undefined
       else if (asset.url.includes("/images/engines/hero-")) score += 30;
       else if (asset.url.includes("/images/engines/fe-")) score += 20;
       else if (asset.url.includes("/images/engines/pop-")) score += 10;
-      if (brandTerms.some((term) => asset.normalized.includes(term))) score += 20;
+      if (brandTerms.some((term) => assetMatchesTerm(asset, term))) score += 20;
       return { asset, score };
     })
     .filter((item) => item.score >= 100)
@@ -342,9 +388,19 @@ function findEngineAsset(identifier: string, brand?: string): string | undefined
   // instead of falling back to the old generic/Mercedes engine image. This is
   // especially important for extracted brand and model feature cards whose
   // listing image may not have the engine code in its filename.
-  const brandFallback = engineAssets()
-    .filter(({ normalized }) => brandTerms.some((term) => normalized.includes(term)))
-    .sort((a, b) => a.url.localeCompare(b.url))[0]?.url;
+  const brandFallback = brandEngineFallbacks(brand)[stableIndex(identifier, brandEngineFallbacks(brand).length)]
+    ?? engineAssets()
+    .filter(isLikelyEngineAsset)
+    .filter((asset) => brandTerms.some((term) => assetMatchesTerm(asset, term)))
+    .map((asset) => {
+      let score = 0;
+      if (asset.url.includes("/images/listings/engines/")) score += 100;
+      if (asset.normalized.includes("engine")) score += 25;
+      if (asset.normalized.includes("hero")) score += 10;
+      if (brandTerms.some((term) => assetMatchesTerm(asset, term))) score += 20;
+      return { asset, score };
+    })
+    .sort((a, b) => b.score - a.score || a.asset.url.localeCompare(b.asset.url))[0]?.asset.url;
   const fallback = brandFallback ?? ENGINE_FALLBACK;
   ENGINE_RESULT_CACHE.set(cacheKey, fallback);
   return brandFallback;

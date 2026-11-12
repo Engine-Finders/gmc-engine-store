@@ -35,6 +35,7 @@ export function EngineCard({
       onActivate={onActivate}
       tone="light"
       compact
+      responsive={desktop}
     />
   );
 }
@@ -84,9 +85,9 @@ export default function ModelHeroCarousel({ cards, desktop = false }: { cards: C
   };
 
   return (
-    <div className={desktop ? "absolute inset-x-0 top-0 z-[60]" : "relative lg:hidden"}>
+    <div className={desktop ? "absolute inset-x-0 top-[-8px] z-[60]" : "relative lg:hidden"}>
       <div
-        className={`relative mx-auto ${desktop ? "h-[248px] max-w-[560px] overflow-visible" : "h-[288px] overflow-hidden"} select-none`}
+        className={`relative mx-auto ${desktop ? "h-[220px] max-w-[560px] overflow-visible" : "h-[288px] overflow-hidden"} select-none`}
         style={{ touchAction: "pan-y" }}
         onPointerDown={onDown}
         onPointerMove={onMove}
