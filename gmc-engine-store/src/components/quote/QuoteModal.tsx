@@ -32,13 +32,13 @@ function QuotePopup({ onClose, opts }: { onClose: () => void; opts: QuoteOptions
   if (opts.engine) {
     return (
       <div className="relative max-h-[94dvh] overflow-y-auto rounded-[22px] border border-[#7f9bc2] bg-white shadow-2xl">
-        <div className="relative bg-[#06172e] px-5 pb-5 pt-5 text-white sm:px-8 sm:pb-6 sm:pt-6">
+        <div className="relative bg-[#06172e] px-5 pb-3 pt-3 text-white sm:px-8 sm:pb-4 sm:pt-4">
           <button type="button" onClick={onClose} aria-label="Close" className="absolute right-4 top-4 grid h-9 w-9 place-items-center rounded-full text-white hover:bg-white/10">
             <Icon name="close" className="h-7 w-7" />
           </button>
           <p className="pr-12 text-[24px] font-extrabold leading-none tracking-tight sm:text-[26px]">Engined<span className="text-primary-500">.</span></p>
-          <h2 className="mt-4 pr-10 text-[22px] font-extrabold leading-tight tracking-tight sm:text-[26px]">Get Quotes For Your {opts.engine.brand} {opts.engine.code} Engine</h2>
-          <p className="mt-2 pr-8 text-[13px] leading-5 text-white/85 sm:text-[14px]">Tell us what you need. We’ll connect you with suitable UK engine suppliers.</p>
+          <h2 className="mt-2 pr-10 text-[20px] font-extrabold leading-tight tracking-tight sm:text-[24px]">Get Quotes For Your {opts.engine.brand} {opts.engine.code} Engine</h2>
+          <p className="mt-1 pr-8 text-[12px] leading-4 text-white/85 sm:text-[13px]">Tell us what you need. We’ll connect you with suitable UK engine suppliers.</p>
         </div>
         <EngineFamilyQuoteForm opts={opts as QuoteOptions & { engine: NonNullable<QuoteOptions["engine"]> }} onClose={onClose} />
       </div>

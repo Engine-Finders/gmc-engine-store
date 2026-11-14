@@ -69,8 +69,8 @@ export default function FindEngineForVehicleSection({ data }: { data: HomepageDi
       <div className="mx-auto max-w-content px-4 sm:px-6 lg:px-0">
         <div className="flex items-end justify-between gap-4">
           <div>
-            <h2 id="find-engine-heading" className="text-[24px] font-extrabold leading-[1.08] tracking-tight text-ink-900 sm:text-[30px] lg:text-[34px]">Find An Engine For Your Vehicle</h2>
-            <p className="mt-1.5 text-[13px] text-ink-600 sm:text-[14px]">Browse By Manufacturer, Model Or Engine Code.</p>
+            <h2 id="find-engine-heading" className="text-[24px] font-extrabold leading-[1.08] tracking-tight text-ink-900 sm:text-[30px] lg:text-[34px]">Find Replacement Engines For Your Vehicle</h2>
+            <p className="mt-1.5 text-[13px] text-ink-600 sm:text-[14px]">Browse By Manufacturer And Model To Explore Compatible Engine Applications.</p>
           </div>
           <button
             type="button"
@@ -131,22 +131,22 @@ export default function FindEngineForVehicleSection({ data }: { data: HomepageDi
         )}
 
         <div className={`mt-5 grid gap-3 lg:mt-6 lg:gap-4 ${models.length ? "lg:grid-cols-[1.08fr_0.92fr]" : "lg:grid-cols-1"}`}>
-          <article className="relative min-h-[280px] overflow-hidden rounded-2xl bg-[#071a34] p-5 text-white shadow-xl sm:min-h-[310px] sm:p-8 lg:min-h-[330px]">
-            <div className="pointer-events-none absolute inset-0 bg-[radial-gradient(circle_at_78%_56%,rgba(37,99,235,0.28),transparent_42%),linear-gradient(115deg,#071a34_0%,#0b2749_100%)]" />
-            <div className="relative z-10 max-w-[62%] sm:max-w-[52%]">
-              <div className="mb-5 flex items-center gap-2">
+          <article className="relative min-h-[360px] overflow-hidden rounded-2xl bg-[#071a34] p-5 text-white shadow-xl sm:min-h-[350px] sm:p-8 lg:min-h-[330px]">
+            <div className="pointer-events-none absolute inset-0 bg-[linear-gradient(110deg,rgba(7,26,52,.9),rgba(7,26,52,.42)),url('/images/homepage/cinematic-navy-studio.webp')] bg-cover bg-center" />
+            <div className="relative z-10 flex min-h-[318px] flex-col items-center text-center lg:block lg:min-h-[274px] lg:max-w-[52%] lg:text-left">
+              <div className="mb-3 flex items-center justify-center gap-2 lg:mb-5 lg:justify-start">
                 <BrandMark brand={selected} dark />
                 <span className="text-sm font-bold text-white/75">{selected.name}</span>
               </div>
               <h3 className="text-[22px] font-extrabold tracking-tight sm:text-[24px]">{selected.name} Engines</h3>
-              <p className="mt-2 max-w-md text-[13px] leading-5 text-white/80 sm:text-[14px]">{selected.description}</p>
-              <Link href={selected.href} className="mt-6 inline-flex items-center gap-2 rounded-xl border-2 border-white px-4 py-2.5 text-[13px] font-extrabold text-white transition hover:bg-white hover:text-[#071a34] sm:text-[14px]">
+              <p className="mt-2 max-w-[300px] text-[13px] leading-5 text-white/80 sm:text-[14px] lg:max-w-md">{selected.description}</p>
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img src={selected.image} alt={`${selected.name} vehicle`} className="relative order-3 mt-3 h-[118px] w-full object-contain object-bottom sm:h-[132px] lg:absolute lg:bottom-[-1.5rem] lg:right-[-92%] lg:mt-0 lg:h-[74%] lg:w-[118%]" />
+              <Link href={selected.href} className="relative z-10 order-4 mt-3 inline-flex items-center gap-2 rounded-xl border-2 border-white px-4 py-2.5 text-[13px] font-extrabold text-white transition hover:bg-white hover:text-[#071a34] sm:text-[14px] lg:mt-6">
                 View {selected.name} Engines
                 <Icon name="arrow-right" className="h-5 w-5" />
               </Link>
             </div>
-            {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src={selected.image} alt={`${selected.name} vehicle`} className="absolute bottom-0 right-[-3%] h-[52%] w-[58%] object-contain object-bottom sm:right-[-4%] sm:h-[74%] sm:w-[62%]" />
           </article>
 
           {models.length > 0 && (

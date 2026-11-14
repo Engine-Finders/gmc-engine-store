@@ -34,13 +34,13 @@ function Label({ icon, children, htmlFor }: { icon: string; children: React.Reac
 
 function SelectedEngine({ engine, onChange }: { engine: QuoteEngineDetails; onChange: () => void }) {
   return (
-    <div className="-mx-5 grid gap-4 bg-[#eef4fb] px-5 py-4 sm:-mx-8 sm:grid-cols-[0.9fr_1.1fr] sm:gap-6 sm:px-8 sm:py-5">
+    <div className="-mx-5 grid gap-4 bg-[#eef4fb] px-5 py-3 sm:-mx-8 sm:grid-cols-[0.9fr_1.1fr] sm:gap-6 sm:px-8 sm:py-4">
       <div className="flex flex-col items-center justify-center border-b border-[#c7d1df] pb-4 sm:border-b-0 sm:border-r sm:pb-0 sm:pr-6">
         {engine.image && (
           // eslint-disable-next-line @next/next/no-img-element
-          <img src={engine.image} alt={`${engine.brand} ${engine.code} engine`} className="h-36 w-full object-contain sm:h-40" />
+          <img src={engine.image} alt={`${engine.brand} ${engine.code} engine`} className="h-44 w-full scale-[1.08] object-contain sm:h-52 sm:scale-100" />
         )}
-        <p className="mt-2 text-center text-[12px] text-ink-700">Representative {engine.brand} engine image</p>
+        <p className="mt-1 text-center text-[12px] text-ink-700">Representative {engine.brand} engine image</p>
       </div>
 
       <div className="flex min-w-0 flex-col justify-center">

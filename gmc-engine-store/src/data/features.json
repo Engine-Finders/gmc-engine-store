@@ -1,24 +1,24 @@
 {
   "items": [
     {
+      "icon": "config",
+      "title": "Engine Matching",
+      "description": "Requirements matched first"
+    },
+    {
       "icon": "shield-check",
-      "title": "Verified Fitment",
-      "description": "Checked by registration"
+      "title": "Supplier Checks",
+      "description": "Business details reviewed"
     },
     {
-      "icon": "shield-lock",
-      "title": "12-Month Warranty",
-      "description": "On reconditioned units"
+      "icon": "lock",
+      "title": "Selective Sharing",
+      "description": "A small number of suppliers"
     },
     {
-      "icon": "truck",
-      "title": "UK Nationwide Delivery",
-      "description": "2-4 working days"
-    },
-    {
-      "icon": "returns",
-      "title": "14-Day Returns",
-      "description": "Uninstalled, full refund"
+      "icon": "check",
+      "title": "No Order Placed",
+      "description": "Agree terms directly"
     }
   ]
 }

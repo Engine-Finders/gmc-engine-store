@@ -60,7 +60,7 @@ export default function HeaderClient({ menu }: { menu: NavMenu }) {
           {/* Logo */}
           <Link href="/" className="flex items-center gap-2.5">
             {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src="/images/brands/logo.png" alt="GMC" className="w-10 h-10 object-contain" />
+            <img src="/images/brands/logo.png" alt="Engined" className="w-10 h-10 object-contain" />
             <span className="flex flex-col leading-none">
               <span className="text-lg font-extrabold tracking-tight text-white">{brand.logo}</span>
               <span className="text-[9px] tracking-[0.22em] text-ink-400 font-semibold uppercase mt-0.5">

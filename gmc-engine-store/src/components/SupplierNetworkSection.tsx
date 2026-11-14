@@ -2,7 +2,8 @@
 
 import Link from "next/link";
 import Icon from "./Icon";
-import { useQuoteModal } from "./quote/QuoteModal";
+import UkFlag from "./UkFlag";
+import { useRegCheck } from "./quote/QuoteModal";
 
 function UkMapOutline() {
   return (
@@ -44,7 +45,11 @@ function SupplierWorkshopVisual() {
 }
 
 export default function SupplierNetworkSection() {
-  const { open } = useQuoteModal();
+  const supplierSearch = useRegCheck({
+    heading: "Find Replacement Engine Suppliers For Your Vehicle",
+    part: "Engine",
+    requestService: true,
+  });
 
   return (
     <section id="supplier-network" className="scroll-mt-24 bg-white pb-8 sm:pb-10 lg:pb-12" aria-labelledby="supplier-network-heading">
@@ -54,7 +59,7 @@ export default function SupplierNetworkSection() {
             <div>
               <h2 id="supplier-network-heading" className="max-w-xl text-[24px] font-extrabold leading-[1.05] tracking-tight sm:text-[30px]">Connect With Verified UK Engine Suppliers</h2>
               <p className="mt-3 max-w-xl text-[13px] leading-5 text-white/85">Engined connects you with multiple UK engine suppliers. Our supplier checks cover Companies House registration and a physical business address.</p>
-              <p className="mt-3 max-w-xl text-[13px] leading-5 text-white/85">Tell us your vehicle registration, postcode and what you need. We match your engine requirements with suitable suppliers, prioritising those near you and considering nationwide options when needed.</p>
+              <p className="mt-3 max-w-xl text-[13px] leading-5 text-white/85">Tell us your vehicle registration and what you need. We match your requirements with suitable suppliers, prioritising those near you and considering nationwide options when needed.</p>
 
               <div className="mt-4 flex flex-wrap gap-2" aria-label="Available service options">
                 {['Supply only', 'Supply & fit', 'Engine rebuilds'].map((label) => <span key={label} className="rounded-lg border border-white/80 px-3.5 py-1.5 text-[12px] font-bold text-white">{label}</span>)}
@@ -70,12 +75,30 @@ export default function SupplierNetworkSection() {
                 </div>
               </div>
 
-              <div className="mt-5 flex flex-col items-start gap-2 sm:flex-row sm:items-center">
-                <button type="button" onClick={() => open({ heading: "Find suitable engine suppliers", part: "Engine", requestService: true })} className="inline-flex min-h-[44px] items-center justify-center gap-2 rounded-xl bg-white px-5 text-[14px] font-extrabold text-[#071a34] transition hover:bg-primary-50 focus-visible:outline-none focus-visible:ring-4 focus-visible:ring-primary-200">
-                  Find suitable engine suppliers
+              <form onSubmit={supplierSearch.onSubmit} className="relative mt-5 flex flex-col gap-2 sm:flex-row lg:gap-3">
+                <div className="flex h-[50px] shrink-0 items-center overflow-hidden rounded-lg bg-white sm:flex-1 lg:h-[54px]">
+                  <span className="flex items-center gap-1.5 self-stretch border-r border-line bg-[#eef1f6] px-2.5 py-1.5 lg:gap-2 lg:px-3">
+                    <UkFlag className="h-[18px] w-7 rounded-sm lg:h-5 lg:w-8" />
+                    <span className="text-[13px] font-bold text-ink-700 lg:text-[15px]">GB</span>
+                  </span>
+                  <input
+                    type="text"
+                    value={supplierSearch.reg}
+                    onChange={supplierSearch.onChange}
+                    placeholder="ENTER REG"
+                    aria-label="Vehicle registration"
+                    autoComplete="off"
+                    className="min-w-0 flex-1 px-3 py-1.5 text-base font-semibold tracking-wide text-ink-900 outline-none placeholder:text-ink-400 lg:px-4 lg:text-[16px]"
+                  />
+                </div>
+                <button type="submit" className="inline-flex h-[46px] shrink-0 items-center justify-center gap-2 rounded-lg bg-white px-4 text-[15px] font-bold text-[#071a34] transition-all duration-200 ease-out hover:bg-primary-50 focus-visible:outline-none focus-visible:ring-4 focus-visible:ring-primary-200 lg:h-[54px] lg:px-5 lg:text-[16px]">
+                  Find Suitable Engine Suppliers
                   <Icon name="arrow-right" className="h-5 w-5" />
                 </button>
-                <a href="#faq-match" className="text-[13px] font-bold text-white underline decoration-primary-400 underline-offset-4 hover:text-primary-300">How supplier matching works</a>
+              </form>
+              <div className="mt-2 flex flex-wrap items-center gap-x-4 gap-y-1">
+                <p className="text-[12px] leading-5 text-white/70">Your enquiry is shared with a small number of suitable suppliers.</p>
+                <a href="#faq-match" className="text-[13px] font-bold text-white underline decoration-primary-400 underline-offset-4 hover:text-primary-300">How Supplier Matching Works</a>
               </div>
             </div>
 

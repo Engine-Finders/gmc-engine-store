@@ -32,12 +32,15 @@ export default function useLeadForm(source = "quote-popup"): LeadState {
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(payload),
       });
-      if (!res.ok) throw new Error("Submission failed");
+      const response = await res.json().catch(() => null) as { status?: string; message?: string } | null;
+      if (!res.ok || response?.status !== "success") {
+        throw new Error(response?.message || "Submission failed");
+      }
       setStatus("success");
       form.reset();
-    } catch {
+    } catch (err) {
       setStatus("error");
-      setError("Something went wrong. Please try again in a moment.");
+      setError((err as Error).message || "Something went wrong. Please try again in a moment.");
     }
   }
 

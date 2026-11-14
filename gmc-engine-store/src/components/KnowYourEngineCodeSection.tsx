@@ -63,7 +63,7 @@ export default function KnowYourEngineCodeSection({ data }: { data: HomepageDisc
         <div className="flex items-end justify-between gap-4">
           <div>
             <h2 id="engine-code-heading" className="text-[24px] font-extrabold leading-[1.08] tracking-tight sm:text-[30px] lg:text-[34px]">Know Your Engine Code?</h2>
-            <p className="mt-1.5 text-[13px] text-white/80 sm:text-[14px]">Go Straight To The Engine Family. Then Choose Your Vehicle.</p>
+            <p className="mt-1.5 text-[13px] text-white/80 sm:text-[14px]">Know Your Engine Code? Explore The Engine Family, Then Select Your Model And Application.</p>
           </div>
           <Link href="/engines" className="hidden items-center gap-2 pb-1 text-[13px] font-extrabold text-white underline decoration-primary-400 underline-offset-4 hover:text-primary-300 sm:inline-flex sm:text-[14px]">
             All Engine Families

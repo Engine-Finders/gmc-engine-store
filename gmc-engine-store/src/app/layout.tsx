@@ -4,9 +4,9 @@ import QuoteModalProvider from "@/components/quote/QuoteModal";
 import { SITE_URL } from "@/lib/site";
 
 export const metadata: Metadata = {
-  title: "Buy Used & Reconditioned Engines Online | GMC",
+  title: "Replacement Engines | Used & Reconditioned | Engined",
   description:
-    "Buy used and reconditioned engines online at fixed prices. Find your engine by registration or browse by brand. Verified fitment, warranty, UK delivery.",
+    "Find used and reconditioned replacement engines for your vehicle. Explore listings, request supplier quotes and arrange your purchase directly with a UK supplier.",
   // relative canonicals in each page resolve against this; no canonical here, or every page would inherit one
   metadataBase: new URL(SITE_URL),
 };
