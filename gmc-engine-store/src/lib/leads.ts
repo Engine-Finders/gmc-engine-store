@@ -4,8 +4,23 @@ import { SITE_HOST } from "@/lib/site";
 
 export const LEAD_SOURCE = process.env.LEAD_SOURCE || SITE_HOST;
 
-const WEBHOOK_URL = process.env.SUPABASE_WEBHOOK_URL || "";
-const ANON_KEY = process.env.SUPABASE_ANON_KEY || "";
+type SupabaseTarget = {
+  name: string;
+  url: string;
+  key: string;
+};
+
+const PRIMARY_SUPABASE: SupabaseTarget = {
+  name: "primary",
+  url: process.env.SUPABASE_WEBHOOK_URL || "",
+  key: process.env.SUPABASE_ANON_KEY || "",
+};
+
+const SECONDARY_SUPABASE: SupabaseTarget = {
+  name: "secondary",
+  url: process.env.SUPABASE_WEBHOOK_URL_2 || "",
+  key: process.env.SUPABASE_ANON_KEY_2 || "",
+};
 
 type Payload = Record<string, unknown>;
 
@@ -67,21 +82,33 @@ export function toCrmLeadPayload(p: Payload = {}, sourcePage = LEAD_SOURCE) {
   };
 }
 
-/** POST a lead to the central receive-lead Edge Function. Never throws. */
+/** POST a lead to every configured receive-lead Edge Function. Never throws. */
 export async function sendLeadToCRM(crmPayload: ReturnType<typeof toCrmLeadPayload>): Promise<{ ok: boolean; duplicate?: boolean; error?: string }> {
-  if (!WEBHOOK_URL || !ANON_KEY) return { ok: false, error: "Supabase is not configured" };
-  try {
-    const res = await fetch(WEBHOOK_URL, {
-      method: "POST",
-      headers: { "Content-Type": "application/json", Authorization: `Bearer ${ANON_KEY}`, apikey: ANON_KEY },
-      body: JSON.stringify(crmPayload),
-      signal: AbortSignal.timeout(15000),
-    });
-    // 409 = the Edge Function already has this lead (duplicate window): nothing to retry.
-    if (res.status === 409) return { ok: true, duplicate: true };
-    if (!res.ok) return { ok: false, error: `receive-lead responded ${res.status}` };
-    return { ok: true };
-  } catch (err) {
-    return { ok: false, error: (err as Error).message };
-  }
+  const primaryConfigured = Boolean(PRIMARY_SUPABASE.url && PRIMARY_SUPABASE.key);
+  if (!primaryConfigured) return { ok: false, error: "Primary Supabase is not configured" };
+
+  const secondaryPartiallyConfigured = Boolean(SECONDARY_SUPABASE.url) !== Boolean(SECONDARY_SUPABASE.key);
+  if (secondaryPartiallyConfigured) return { ok: false, error: "Secondary Supabase is partially configured" };
+
+  const targets = [PRIMARY_SUPABASE, SECONDARY_SUPABASE].filter((target) => target.url && target.key);
+  const results = await Promise.all(targets.map(async (target) => {
+    try {
+      const res = await fetch(target.url, {
+        method: "POST",
+        headers: { "Content-Type": "application/json", Authorization: `Bearer ${target.key}`, apikey: target.key },
+        body: JSON.stringify(crmPayload),
+        signal: AbortSignal.timeout(15000),
+      });
+      // 409 = the Edge Function already has this lead (duplicate window): nothing to retry.
+      if (res.status === 409) return { ok: true, duplicate: true, name: target.name };
+      if (!res.ok) return { ok: false, error: `${target.name} receive-lead responded ${res.status}`, name: target.name };
+      return { ok: true, duplicate: false, name: target.name };
+    } catch (err) {
+      return { ok: false, error: `${target.name}: ${(err as Error).message}`, name: target.name };
+    }
+  }));
+
+  const failures = results.filter((result) => !result.ok);
+  if (failures.length) return { ok: false, error: failures.map((result) => result.error).filter(Boolean).join("; ") };
+  return { ok: true, duplicate: results.every((result) => result.duplicate) };
 }

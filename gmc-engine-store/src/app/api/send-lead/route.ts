@@ -70,7 +70,7 @@ export async function POST(request: Request) {
     return Response.json({ status: "error", message: "Email or phone number is required." }, { status: 400 });
   }
 
-  // Email (+ cc) and the central CRM both get the lead, independently.
+  // Email (+ cc) and every configured Supabase CRM destination get the lead independently.
   const [emailResult, crmResult] = await Promise.all([sendLeadEmail(payload, sourcePage), sendLeadToCRM(crmPayload)]);
 
   if (!emailResult.ok) console.error("lead email failed:", emailResult.error);
@@ -78,6 +78,11 @@ export async function POST(request: Request) {
 
   if (!emailResult.ok && !crmResult.ok) {
     return Response.json({ status: "error", message: "Failed to submit lead." }, { status: 502 });
+  }
+
+  // Do not report success when email worked but one or more Supabase destinations did not.
+  if (!crmResult.ok) {
+    return Response.json({ status: "error", message: "Lead email was sent, but one or more Supabase destinations failed." }, { status: 502 });
   }
 
   return Response.json({ status: "success" });
