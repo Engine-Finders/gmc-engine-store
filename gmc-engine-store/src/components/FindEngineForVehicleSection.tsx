@@ -42,7 +42,7 @@ function ModelCard({ model }: { model: HomepageModel }) {
   return (
     <Link
       href={model.href}
-      className="group flex min-h-[84px] items-center gap-1.5 rounded-xl border border-line bg-white px-2.5 py-2 shadow-card transition hover:-translate-y-0.5 hover:border-primary-300 hover:shadow-card-hover sm:min-h-[92px] sm:gap-2 sm:px-4 sm:py-3"
+      className="group flex min-h-[84px] items-center gap-1.5 rounded-xl border border-line bg-white px-2.5 py-2 shadow-card transition hover:-translate-y-0.5 hover:border-primary-300 hover:shadow-card-hover sm:min-h-[92px] sm:gap-2 sm:px-4 sm:py-3 lg:min-h-[80px]"
     >
       <span className="min-w-0 flex-1">
         <h3 className="text-[12px] font-extrabold leading-tight text-ink-900 sm:text-[15px]">{model.name}</h3>
@@ -131,9 +131,9 @@ export default function FindEngineForVehicleSection({ data }: { data: HomepageDi
         )}
 
         <div className={`mt-5 grid gap-3 lg:mt-6 lg:gap-4 ${models.length ? "lg:grid-cols-[1.08fr_0.92fr]" : "lg:grid-cols-1"}`}>
-          <article className="relative min-h-[360px] overflow-hidden rounded-2xl bg-[#071a34] p-5 text-white shadow-xl sm:min-h-[350px] sm:p-8 lg:min-h-[330px]">
+          <article className="relative min-h-[360px] overflow-hidden rounded-2xl bg-[#071a34] p-5 text-white shadow-xl sm:min-h-[350px] sm:p-8 lg:min-h-[264px] lg:self-start lg:p-5 lg:pb-3">
             <div className="pointer-events-none absolute inset-0 bg-[linear-gradient(110deg,rgba(7,26,52,.9),rgba(7,26,52,.42)),url('/images/homepage/cinematic-navy-studio.webp')] bg-cover bg-center" />
-            <div className="relative z-10 flex min-h-[318px] flex-col items-center text-center lg:block lg:min-h-[274px] lg:max-w-[52%] lg:text-left">
+            <div className="relative z-10 flex min-h-[318px] flex-col items-center text-center lg:block lg:min-h-[232px] lg:max-w-[52%] lg:text-left">
               <div className="mb-3 flex items-center justify-center gap-2 lg:mb-5 lg:justify-start">
                 <BrandMark brand={selected} dark />
                 <span className="text-sm font-bold text-white/75">{selected.name}</span>
@@ -141,8 +141,8 @@ export default function FindEngineForVehicleSection({ data }: { data: HomepageDi
               <h3 className="text-[22px] font-extrabold tracking-tight sm:text-[24px]">{selected.name} Engines</h3>
               <p className="mt-2 max-w-[300px] text-[13px] leading-5 text-white/80 sm:text-[14px] lg:max-w-md">{selected.description}</p>
               {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img src={selected.image} alt={`${selected.name} vehicle`} className="relative order-3 mt-3 h-[118px] w-full object-contain object-bottom sm:h-[132px] lg:absolute lg:bottom-[-1.5rem] lg:right-[-92%] lg:mt-0 lg:h-[74%] lg:w-[118%]" />
-              <Link href={selected.href} className="relative z-10 order-4 mt-3 inline-flex items-center gap-2 rounded-xl border-2 border-white px-4 py-2.5 text-[13px] font-extrabold text-white transition hover:bg-white hover:text-[#071a34] sm:text-[14px] lg:mt-6">
+              <img src={selected.image} alt={`${selected.name} vehicle`} className="relative order-3 mt-3 h-[118px] w-full object-contain object-bottom sm:h-[132px] lg:absolute lg:bottom-0 lg:right-[-98%] lg:mt-0 lg:h-[90%] lg:w-[132%]" />
+              <Link href={selected.href} className="relative z-10 order-4 mt-3 inline-flex items-center gap-2 rounded-xl border-2 border-white px-4 py-2.5 text-[13px] font-extrabold text-white transition hover:bg-white hover:text-[#071a34] sm:text-[14px] lg:mt-3">
                 View {selected.name} Engines
                 <Icon name="arrow-right" className="h-5 w-5" />
               </Link>
@@ -154,7 +154,7 @@ export default function FindEngineForVehicleSection({ data }: { data: HomepageDi
               {models.map((model) => <ModelCard key={`${selected.slug}-${model.name}`} model={model} />)}
               <Link
                 href={selected.modelPageHref}
-                className="group col-span-2 flex min-h-[84px] items-center justify-between rounded-xl border border-line bg-white px-3 py-2 shadow-card transition hover:-translate-y-0.5 hover:border-primary-300 hover:shadow-card-hover sm:col-span-1 sm:min-h-[92px] sm:px-4 sm:py-3"
+                className="group col-span-2 flex min-h-[84px] items-center justify-between rounded-xl border border-line bg-white px-3 py-2 shadow-card transition hover:-translate-y-0.5 hover:border-primary-300 hover:shadow-card-hover sm:col-span-1 sm:min-h-[92px] sm:px-4 sm:py-3 lg:min-h-[80px]"
               >
                 <h3 className="max-w-[150px] text-[13px] font-extrabold leading-tight text-ink-900 sm:text-[15px]">View All {selected.name} Models</h3>
                 <Icon name="arrow-right" className="h-4 w-4 shrink-0 text-primary-600 transition group-hover:translate-x-0.5 sm:h-5 sm:w-5" />
