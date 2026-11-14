@@ -1,23 +1,23 @@
 {
-  "eyebrow": "UK's Trusted Online Engine Store",
+  "eyebrow": "UK replacement engine marketplace",
   "titleLine1": "Buy your next",
   "titleHighlight": "engine",
   "titleLine1Suffix": " online.",
-  "description": "Used and reconditioned engines at fixed prices – verified fitment, warranty and UK delivery included.",
+  "description": "Browse used and reconditioned replacement engines for your vehicle. Choose an engine listing, request quotes from suitable UK suppliers and arrange your purchase directly with your chosen supplier.",
   "form": {
-    "title": "Find your engine by reg",
-    "description": "We'll confirm your exact model, year and factory engine code before you buy.",
+    "title": "Find replacement engines by registration",
+    "description": "Enter your registration and postcode to help us match your engine requirements with suitable suppliers.",
     "countryFlag": "GB",
-    "placeholder": "ENTER REG NUMBER",
-    "buttonText": "Find my engine",
+    "placeholder": "ENTER REG",
+    "buttonText": "Find My Replacement Engine",
     "badges": [
       {
         "icon": "lock",
-        "text": "100% Secure"
+        "text": "No order placed"
       },
       {
-        "icon": "check-circle",
-        "text": "No payment required"
+        "icon": "check",
+        "text": "Supplier quotes"
       }
     ]
   },

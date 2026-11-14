@@ -75,13 +75,13 @@ a {
 /* Hero engine-card floating animation (slow, smooth, premium) */
 @keyframes heroFloat {
   0% {
-    transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0) rotate(-0.7deg);
   }
   50% {
-    transform: translate3d(0, calc(-1 * var(--amp, 14px)), 0);
+    transform: translate3d(0, calc(-1 * var(--amp, 14px)), 0) rotate(0.7deg);
   }
   100% {
-    transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0) rotate(-0.7deg);
   }
 }
 .hero-float {
@@ -128,6 +128,7 @@ a {
   animation-play-state: paused;
 }
 @media (prefers-reduced-motion: reduce) {
+  .hero-float,
   .brand-marquee { animation: none; }
 }
 
@@ -159,4 +160,45 @@ a {
 }
 .nav-dropdown-scroll::-webkit-scrollbar-thumb:hover {
   background: #60a5fa;
+}
+
+/* Model image URLs are served through the cutout endpoint, which preserves
+   the vehicle colours and returns a transparent WebP. */
+.vehicle-cutout {
+  filter: saturate(1.06) contrast(1.04);
+}
+
+.brand-hero-plate {
+  position: relative;
+  isolation: isolate;
+  height: 160px;
+}
+
+.brand-hero-car {
+  position: absolute;
+  z-index: 10;
+  left: 50%;
+  /* The cutout route trims the source and adds a small transparent safety
+     margin. This baseline puts the visible tyres on the front edge of the
+     outer plate ellipse rather than on the image canvas edge. */
+  bottom: 14px;
+  width: min(82%, 520px);
+  height: 132px;
+  transform: translateX(-50%);
+  object-fit: contain;
+  object-position: center bottom;
+}
+
+.model-hero-car {
+  position: absolute;
+  z-index: 50;
+  left: 50%;
+  /* Keep the model car in the same lower plate band as the brand hero. The
+     engine rail owns the upper band, so cards never sit on top of the car. */
+  bottom: clamp(6px, 1.56cqw, 14px);
+  width: min(82%, 520px);
+  height: clamp(120px, 16.67cqw, 150px);
+  transform: translateX(-50%);
+  object-fit: contain;
+  object-position: center bottom;
 }

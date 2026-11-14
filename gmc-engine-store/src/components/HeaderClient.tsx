@@ -54,13 +54,13 @@ export default function HeaderClient({ menu }: { menu: NavMenu }) {
   };
 
   return (
-    <header className="sticky top-0 z-50 bg-navy-950/95 backdrop-blur border-b border-white/5">
+    <header className="sticky top-0 z-[100] bg-navy-950/95 backdrop-blur border-b border-white/5">
       <div className="max-w-content mx-auto px-3 lg:px-0 ">
         <div className="flex items-center justify-between h-[68px]">
           {/* Logo */}
           <Link href="/" className="flex items-center gap-2.5">
             {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src="/images/brands/logo.png" alt="GMC" className="w-10 h-10 object-contain" />
+            <img src="/images/brands/logo.png" alt="Engined" className="w-10 h-10 object-contain" />
             <span className="flex flex-col leading-none">
               <span className="text-lg font-extrabold tracking-tight text-white">{brand.logo}</span>
               <span className="text-[9px] tracking-[0.22em] text-ink-400 font-semibold uppercase mt-0.5">
@@ -90,7 +90,7 @@ export default function HeaderClient({ menu }: { menu: NavMenu }) {
                       <Icon name="chevron-down" className={`w-3.5 h-3.5 text-ink-500 transition-transform ${isOpen ? "rotate-180" : ""}`} />
                     </button>
                     {isOpen && (
-                      <div className="nav-dropdown-scroll absolute left-0 top-full max-h-[min(70vh,520px)] min-w-[260px] overflow-y-auto rounded-xl border border-white/10 bg-navy-950 p-1.5 shadow-[0_24px_60px_-20px_rgba(0,0,0,0.7)]">
+                      <div className="nav-dropdown-scroll absolute left-0 top-full z-[110] max-h-[min(70vh,520px)] min-w-[260px] overflow-y-auto rounded-xl border border-white/10 bg-navy-950 p-1.5 shadow-[0_24px_60px_-20px_rgba(0,0,0,0.7)]">
                         {list.length ? (
                           list.map((it) => (
                             <Link

@@ -4,7 +4,7 @@ import UkFlag from "../UkFlag";
 import type { ModelPageData } from "@/lib/model";
 import { resolveHref } from "@/lib/links";
 import { brandSlugFor } from "@/lib/slugs";
-import ModelHeroCarousel, { EngineCard, cqw } from "./ModelHeroCarousel";
+import ModelHeroCarousel from "./ModelHeroCarousel";
 
 type Data = ModelPageData["hero"];
 
@@ -109,22 +109,9 @@ export default function ModelHero({ data, trustBadges }: { data: Data; trustBadg
                 </g>
               </svg>
 
-              {/* floating engine cards */}
-              {data.cards.map((card) => (
-                <div
-                  key={card.code}
-                  className="absolute"
-                  style={{
-                    top: pctY(card.pos.top),
-                    left: pctX(card.pos.left),
-                    width: pctX(card.pos.width),
-                    transform: `rotate(${card.pos.rotate}deg)`,
-                    zIndex: card.pos.z,
-                  }}
-                >
-                  <EngineCard card={card} />
-                </div>
-              ))}
+              {/* The model hero uses the same glass card rail and auto-advance
+                  behavior as the brand hero. */}
+              <ModelHeroCarousel cards={data.cards} desktop />
 
               {/* glowing platform rings — under the car, above the cards */}
               <svg viewBox="0 0 900 720" className="pointer-events-none absolute inset-0 h-full w-full" fill="none" style={{ zIndex: 40, filter: "drop-shadow(0 0 14px rgba(79,157,255,0.8))" }}>
@@ -141,28 +128,20 @@ export default function ModelHero({ data, trustBadges }: { data: Data; trustBadg
                 style={{ zIndex: 44, left: pctX(186), top: pctY(588), width: pctX(560), height: pctY(96) }}
               />
 
-              {/* car — top layer, nothing crosses it. The PNG has real alpha, so NO
-                  mix-blend-mode: `lighten` would let the bright ring strokes show
-                  through the car's dark bodywork no matter what the z-index is. */}
-              {/* eslint-disable-next-line @next/next/no-img-element */}
-              {/* Two cars, toggled by the `dark` class (no JS). They are NOT
-                  interchangeable: the light PNG is 746x334 with almost no padding
-                  below the wheels (padB 0.9%) while the dark one is 612x408 with
-                  24%, so each gets coords derived to put its wheels on the rings
-                  and its body across the same span. */}
+              {/* The cutout endpoint trims the original white canvas and adds a
+                  small transparent buffer, so both theme variants can use the
+                  same normalized plate frame. */}
               {/* eslint-disable-next-line @next/next/no-img-element */}
               <img
                 src={data.carImageLight}
                 alt={data.model}
-                className="absolute block object-contain dark:hidden"
-                style={{ zIndex: 50, left: pctX(139.5), top: pctY(385), width: pctX(682) }}
+                className="vehicle-cutout model-hero-car block dark:hidden"
               />
               {/* eslint-disable-next-line @next/next/no-img-element */}
               <img
                 src={data.carImage}
                 alt={data.model}
-                className="absolute hidden object-contain dark:block"
-                style={{ zIndex: 50, left: pctX(40), top: pctY(273), width: pctX(820) }}
+                className="vehicle-cutout model-hero-car hidden dark:block"
               />
             </div>
           </div>

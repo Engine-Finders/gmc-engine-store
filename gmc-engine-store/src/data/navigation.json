@@ -1,7 +1,7 @@
 {
   "links": [
     {
-      "label": "Engines",
+      "label": "Replacement Engines",
       "menu": "engines"
     },
     {
@@ -9,19 +9,19 @@
       "menu": "brands"
     },
     {
-      "label": "Buying Guides",
-      "href": "/#buyers-guides"
+      "label": "Engine Codes",
+      "href": "/#engine-code-heading"
     },
     {
-      "label": "Warranty & Delivery",
-      "href": "/#warranty-delivery"
+      "label": "How It Works",
+      "href": "/#how-it-works"
     },
     {
-      "label": "Contact",
-      "href": "/contact"
+      "label": "Buying Help",
+      "href": "/#faq"
     }
   ],
   "checkFitment": {
-    "label": "Check Fitment"
+    "label": "Find My Replacement Engine"
   }
 }

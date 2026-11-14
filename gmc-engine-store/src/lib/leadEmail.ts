@@ -112,10 +112,19 @@ function submissionChannel(payload: LeadPayload, sourcePage: string) {
 function additionalInformationValues(payload: LeadPayload) {
   const values: string[] = [];
   const product = text(payload.vehicle_part || payload.product || payload.enquiry_type);
+  const service = text(payload.service);
   const note = text(payload.description || payload.additional_information || payload.note);
-  const engine = [formatEngineCapacity(payload.engine_capacity || payload.engine_capacity_cc), text(payload.fuel_type), text(payload.engine_code || payload.engine || payload.engine_model)].filter(Boolean);
+  const engine = [
+    text(payload.engine_brand),
+    text(payload.engine_code || payload.engine || payload.engine_model),
+    text(payload.engine_displacement),
+    text(payload.engine_fuel),
+    formatEngineCapacity(payload.engine_capacity || payload.engine_capacity_cc),
+    text(payload.fuel_type),
+  ].filter(Boolean);
 
   if (product) values.push(`Product enquiry: ${product}`);
+  if (service) values.push(`Service requested: ${service}`);
   if (engine.length) values.push(`Engine specifications: ${engine.join(" · ")}`);
   if (note) values.push(`Customer notes: ${note}`);
   return values;

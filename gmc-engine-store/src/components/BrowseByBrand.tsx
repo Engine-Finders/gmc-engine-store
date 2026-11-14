@@ -56,11 +56,11 @@ export default function BrowseByBrand({ data }: { data: typeof brands }) {
                     <p className="mt-1 text-[11px] text-white/55">{brand.engineCount} Engines</p>
                   </div>
                   {/* eslint-disable-next-line @next/next/no-img-element */}
-                  <img src={brand.car} alt="" className="absolute bottom-7 left-0 w-full h-[84px] object-cover object-center" />
+                  <img src={brand.car} alt="" className="vehicle-cutout absolute bottom-7 left-0 w-full h-[84px] object-contain object-center" />
                   {/* right-side dark gradient so the arrow stands out */}
                   <span className="pointer-events-none absolute bottom-7 right-0 h-[84px] w-2/5 bg-gradient-to-l from-black/70 via-black/30 to-transparent" />
                   {/* eslint-disable-next-line @next/next/no-img-element */}
-                  <img src={brand.car} alt="" aria-hidden className="absolute bottom-0 left-0 w-full h-[22px] object-cover object-top scale-y-[-1] opacity-20" />
+                  <img src={brand.car} alt="" aria-hidden className="vehicle-cutout absolute bottom-0 left-0 w-full h-[22px] object-contain object-top scale-y-[-1] opacity-20" />
                   <span className="absolute bottom-3.5 right-3.5 text-white/85 group-hover:text-white group-hover:translate-x-0.5 transition-all drop-shadow-[0_1px_3px_rgba(0,0,0,0.6)]">
                     <Icon name="arrow-right" className="w-4 h-4" />
                   </span>
@@ -89,7 +89,7 @@ export default function BrowseByBrand({ data }: { data: typeof brands }) {
                 <div className="relative flex items-center h-[92px] overflow-hidden rounded-[15px] bg-gradient-to-r from-navy-800 to-navy-950 pl-5">
                   <span className="pointer-events-none absolute left-0 bottom-0 h-full w-1/3" style={{ background: `radial-gradient(80% 90% at 0% 100%, ${brand.glow}55 0%, transparent 60%)` }} />
                   {/* eslint-disable-next-line @next/next/no-img-element */}
-                  <img src={brand.car} alt="" className="absolute right-0 bottom-0 h-full w-[46%] object-cover object-center" />
+                  <img src={brand.car} alt="" className="vehicle-cutout absolute right-0 bottom-0 h-full w-[46%] object-contain object-center" />
                   <span className="absolute right-[46%] top-0 h-full w-16 bg-gradient-to-l from-transparent to-navy-900" />
                   {/* right-side dark gradient so the arrow stands out */}
                   <span className="pointer-events-none absolute right-0 bottom-0 h-full w-[28%] bg-gradient-to-l from-black/70 via-black/30 to-transparent" />

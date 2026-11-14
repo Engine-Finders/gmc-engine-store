@@ -16,10 +16,10 @@ export default function BrandAbout({ data }: { data: Data }) {
           {/* Car — small, colour, edges masked into the section */}
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
+            className="vehicle-cutout hidden lg:block pointer-events-none absolute right-0 bottom-0 lg:w-[28%] max-w-none object-contain object-right-bottom opacity-95"
             src={data.carImage}
             alt=""
             aria-hidden
-            className="hidden lg:block pointer-events-none absolute right-0 bottom-0 lg:w-[28%] max-w-none object-contain object-right-bottom opacity-95"
             style={{ maskImage: CAR_MASK, WebkitMaskImage: CAR_MASK }}
           />
 

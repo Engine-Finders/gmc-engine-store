@@ -43,12 +43,12 @@ export default function ModelPriceGuide({ data }: { data: Data }) {
                       aspect 403/131 is the car's own bbox aspect, and object-position
                       25% centres that band vertically. No mix-blend-mode — the PNG has
                       real alpha, and `lighten` would erase the black W204 car in dark mode. */}
-                  <div className="my-3 w-full overflow-hidden rounded-lg">
+                  <div className="vehicle-image-frame my-3 flex h-[112px] w-full items-center justify-center overflow-hidden rounded-lg sm:h-[128px]">
                     {/* eslint-disable-next-line @next/next/no-img-element */}
                     <img
                       src={g.image}
                       alt={g.code}
-                      className="w-full aspect-[403/131] scale-[1.12] object-cover [object-position:center_25%]"
+                      className="vehicle-cutout h-full w-full object-contain"
                     />
                   </div>
                   <div className="flex items-center justify-between text-[12px]">

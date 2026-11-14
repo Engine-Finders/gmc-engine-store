@@ -34,115 +34,102 @@ function EngineCard({
       type="button"
       onClick={onActivate}
       aria-label={`${card.code} engine`}
-      className={`
-        group
-        relative
-        block
-        w-full
-        overflow-hidden
-        rounded-xl
-        border
-        text-left
-        backdrop-blur-lg
-        transition-all
-        duration-300
-
-        ${
-          /* iOS-style glass: near-transparent fill + moderate blur so the
-             backdrop stays readable THROUGH the card. The old version used a
-             0_0_60px blue bloom that washed over the surface and 24px blur that
-             erased the background — that reads as flat faded blue, not glass. */
-          /* identical fill — the featured card is marked by a thin glowing border only */
-          isCenter
-            ? `
-              border-[#6bb0ff]
-              bg-white/[0.02]
-              shadow-[
-                0_0_0_1px_rgba(107,176,255,0.45),
-                0_0_16px_-1px_rgba(107,176,255,0.6),
-                0_8px_32px_rgba(0,0,0,0.5)
-              ]
-            `
-            : `
-              border-white/12
-              bg-white/[0.02]
-              shadow-[0_8px_32px_rgba(0,0,0,0.5)]
-              hover:border-white/25
-            `
-        }
-      `}
+      className="group relative block w-full text-left outline-none focus-visible:ring-2 focus-visible:ring-primary-300 focus-visible:ring-offset-2 focus-visible:ring-offset-[#050913]"
     >
-      {/* Glass sheen */}
+      {/* Same glass treatment as the homepage hero cards: a soft outer bloom,
+          a deep navy glass fill, lit corners, and a fine vector-like rim. */}
       <span
-        className="
-          pointer-events-none
-          absolute
-          inset-x-0
-          top-0
-          h-1/3
-          bg-gradient-to-b
-          from-white/[0.05]
-          to-transparent
-        "
+        className="pointer-events-none absolute inset-0 rounded-2xl transition-opacity duration-500"
+        style={{
+          opacity: isCenter ? 1 : 0.52,
+          boxShadow:
+            "-10px 0 24px -8px rgba(56,136,255,0.5), 10px 0 24px -8px rgba(225,238,255,0.3), 0 20px 36px -14px rgba(56,136,255,0.5)",
+        }}
       />
 
-      {/* Engine image */}
-      <div className="relative px-3.5 pt-3">
-        {/* eslint-disable-next-line @next/next/no-img-element */}
-        <img
-          src={card.image}
-          alt=""
-          draggable={false}
-          className="
-            mx-auto
-            max-h-[142px]
-            w-full
-            object-contain
-          "
+      <span
+        className="relative block overflow-hidden rounded-2xl p-3"
+        style={{
+          background:
+            "linear-gradient(160deg, rgba(34,70,150,0.72) 0%, rgba(12,26,64,0.8) 34%, rgba(5,10,26,0.86) 100%)",
+          boxShadow:
+            "inset 6px 0 12px -10px rgba(80,155,255,0.32), inset -6px 0 12px -10px rgba(240,247,255,0.26), 0 20px 36px -14px rgba(0,0,0,0.75)",
+        }}
+      >
+        {/* Lit rim and corner bloom keep the small brand cards readable against the car. */}
+        <span
+          className="pointer-events-none absolute inset-0 rounded-2xl"
+          style={{
+            padding: 1.5,
+            background: [
+              "radial-gradient(50px 50px at 0 0, rgba(150,200,255,1), transparent 70%)",
+              "radial-gradient(50px 50px at 0 100%, rgba(120,185,255,1), transparent 70%)",
+              "radial-gradient(50px 50px at 100% 0, rgba(255,255,255,1), transparent 70%)",
+              "radial-gradient(50px 50px at 100% 100%, rgba(255,255,255,1), transparent 70%)",
+              "linear-gradient(90deg, rgba(70,140,255,0.6) 0%, rgba(90,150,255,0.22) 45%, rgba(200,225,255,0.25) 60%, rgba(240,247,255,0.65) 100%)",
+            ].join(", "),
+            WebkitMask: "linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0)",
+            WebkitMaskComposite: "xor",
+            mask: "linear-gradient(#000 0 0) content-box exclude, linear-gradient(#000 0 0)",
+          }}
         />
-      </div>
+        <span
+          className="pointer-events-none absolute inset-0 rounded-2xl"
+          style={{
+            background: [
+              "radial-gradient(90px 80px at 0 0, rgba(80,150,255,0.55), transparent 70%)",
+              "radial-gradient(90px 80px at 0 100%, rgba(80,150,255,0.5), transparent 70%)",
+              "radial-gradient(90px 80px at 100% 0, rgba(235,244,255,0.4), transparent 70%)",
+              "radial-gradient(90px 80px at 100% 100%, rgba(235,244,255,0.36), transparent 70%)",
+            ].join(", "),
+          }}
+        />
+        <span
+          className="pointer-events-none absolute inset-0 rounded-2xl"
+          style={{ background: "linear-gradient(125deg, rgba(255,255,255,0.14) 0%, rgba(255,255,255,0.05) 22%, transparent 50%)" }}
+        />
 
-      {/* Engine information */}
-      <div className="relative px-3.5 pb-3.5 pt-1.5">
-        <p
-          className="
-            text-[15px]
-            font-extrabold
-            leading-none
-            text-white
-            [text-shadow:0_1px_4px_rgba(0,0,0,0.6)]
-          "
-        >
-          {card.code}
-        </p>
-
-        <p
-          className="
-            mt-1
-            text-[11px]
-            text-white/70
-            [text-shadow:0_1px_3px_rgba(0,0,0,0.5)]
-          "
-        >
-          {card.name}
-        </p>
-
-        <div
-          className="
-            mt-2
-            space-y-0.5
-            text-[10px]
-            font-medium
-            leading-snug
-            text-white/55
-            [text-shadow:0_1px_2px_rgba(0,0,0,0.5)]
-          "
-        >
-          <p>{card.ps}</p>
-          <p>{card.nm}</p>
-          <p>{card.years}</p>
+        <div className="relative flex items-start justify-between">
+          <div className="min-w-0">
+            <p className="text-lg font-extrabold leading-none tracking-tight text-white [text-shadow:0_1px_3px_rgba(0,0,0,0.55)]">
+              {card.code}
+            </p>
+            <p className="mt-1 truncate text-[11px] text-white/85 [text-shadow:0_1px_3px_rgba(0,0,0,0.55)]">
+              {card.name}
+            </p>
+          </div>
+          <Icon name="heart" className="h-4 w-4 shrink-0 text-white/80" />
         </div>
-      </div>
+
+        <span className="relative mt-1.5 inline-block rounded-md bg-primary-600 px-1.5 py-0.5 text-[8px] font-bold uppercase tracking-wide text-white">
+          Engine family
+        </span>
+
+        {/* Fixed image zone prevents cards with different engine proportions from changing height. */}
+        <div className="relative mt-1 flex h-[136px] items-center justify-center px-1">
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img
+            src={card.image}
+            alt=""
+            draggable={false}
+            className="h-full w-full object-contain [filter:drop-shadow(0_8px_10px_rgba(0,0,0,0.6))]"
+          />
+        </div>
+
+        <div className="relative flex items-end justify-between border-t border-white/20 pt-2">
+          <div className="min-w-0">
+            <p className="text-[8px] font-bold uppercase tracking-[0.14em] text-primary-200/90">Specs</p>
+            <p className="mt-0.5 truncate text-[10px] font-bold text-white">{card.ps}</p>
+            <p className="truncate text-[10px] font-medium text-white/85">{card.nm}</p>
+          </div>
+          <div className="flex shrink-0 flex-col items-end gap-1">
+            <span className="rounded-md border border-primary-200/35 bg-primary-400/15 px-1.5 py-1 text-[9px] font-bold leading-none text-white shadow-[0_0_10px_rgba(96,165,250,0.15)]">
+              {card.years}
+            </span>
+            <Icon name="arrow-right" className="h-4 w-4 text-primary-100" />
+          </div>
+        </div>
+      </span>
     </button>
   );
 }
@@ -161,7 +148,6 @@ export default function BrandHero({
 
   const rc = useRegCheck();
   const [center, setCenter] = useState(0);
-  const [paused, setPaused] = useState(false);
 
   // The card offset is a JS number, so it can't be a Tailwind breakpoint. On narrow
   // screens the sm: spacing pushes both side cards off-screen, so track the viewport.
@@ -179,14 +165,14 @@ export default function BrandHero({
      ======================================================= */
 
   useEffect(() => {
-    if (paused || total <= 1) return;
+    if (total <= 1) return;
 
     const id = window.setInterval(() => {
       setCenter((current) => (current + 1) % total);
     }, 4500);
 
     return () => window.clearInterval(id);
-  }, [paused, total]);
+  }, [total]);
 
   /* =======================================================
      CAROUSEL CONTROLS
@@ -202,10 +188,6 @@ export default function BrandHero({
     setCenter((current) => {
       return (current + 1) % total;
     });
-  };
-
-  const slotAt = (offset: number) => {
-    return (center + offset + total) % total;
   };
 
   /* =======================================================
@@ -576,8 +558,6 @@ export default function BrandHero({
               relative
               min-w-0
             "
-            onMouseEnter={() => setPaused(true)}
-            onMouseLeave={() => setPaused(false)}
           >
             {/* =================================================
                 ENGINE CARDS
@@ -587,11 +567,11 @@ export default function BrandHero({
               className="
                 relative
                 z-20
-                h-[272px]
+                h-[248px]
 
-                sm:h-[322px]
+                sm:h-[286px]
 
-                lg:h-[312px]
+                lg:h-[276px]
               "
             >
               <div
@@ -679,66 +659,67 @@ export default function BrandHero({
                     inset-0
                     flex
                     items-center
-                    justify-center mb-6
+                    justify-center
                   "
                 >
-                  {[-1, 0, 1].map((offset) => {
-                    const cardIdx = slotAt(offset);
-                    const card = cards[cardIdx];
-
+                  {cards.map((card, cardIdx) => {
+                    // Keep every card mounted, like the homepage orbit. When the
+                    // center index changes, the incoming card travels from its
+                    // existing side position into the front instead of being
+                    // swapped directly into the center slot.
+                    const forwardOffset = (cardIdx - center + total) % total;
+                    const offset = forwardOffset > total / 2 ? forwardOffset - total : forwardOffset;
+                    const distance = Math.abs(offset);
                     const isCenter = offset === 0;
+                    const isSide = distance === 1;
 
-                    // portrait cards: narrower than before, and the image below is
-                    // taller, so each card reads as ~3:4 rather than landscape
-                    const widthClass = isCenter
-                      ? "w-[150px] sm:w-[202px]"
-                      : "w-[118px] sm:w-[164px]";
+                    const xOffset = offset * (narrow ? 148 : 190);
+                    const yOffset = isCenter ? 0 : isSide ? 8 : 18;
+                    const scale = isCenter ? 1 : isSide ? 0.78 : 0.56;
+                    const opacity = isCenter ? 1 : isSide ? 0.72 : 0;
+                    const rotate = isCenter ? 0 : offset * -6;
 
-                    // sm+: (202+164)/2 = 183, so 214 leaves a real gap between
-                    // neighbours. Narrow: 132 keeps all three inside a 390px screen
-                    // (side cards render at scale .86, so they sit just clear of centre).
-                    const xOffset = isCenter
-                      ? 0
-                      : offset * (narrow ? 132 : 214);
-
-                    const yOffset = isCenter
-                      ? 0
-                      : 14;
+                    const floatVars = {
+                      ["--dur" as string]: `${7 + (cardIdx % 3) * 0.7}s`,
+                      ["--delay" as string]: `${-(cardIdx % 3) * 1.2}s`,
+                      ["--amp" as string]: isCenter ? "7px" : "9px",
+                    } as React.CSSProperties;
 
                     return (
                       <motion.div
-                        key={`slot-${offset}`}
+                        key={card.code}
                         initial={false}
                         animate={{
                           x: xOffset,
                           y: yOffset,
-                          scale: isCenter ? 1 : 0.86,
-                          opacity: isCenter ? 1 : 0.72,
+                          scale,
+                          opacity,
+                          rotate,
                         }}
                         transition={{
-                          duration: 0.7,
+                          duration: 0.85,
                           ease: [0.22, 1, 0.36, 1],
                         }}
-                        className={`
-                          absolute
-                          ${widthClass}
-                        `}
+                        className="absolute w-[150px] sm:w-[202px]"
                         style={{
-                          zIndex: isCenter ? 25 : 15,
+                          zIndex: isCenter ? 25 : isSide ? 15 : 1,
+                          pointerEvents: isCenter || isSide ? "auto" : "none",
                         }}
                       >
-                        <EngineCard
-                          card={card}
-                          isCenter={isCenter}
-                          onActivate={() => {
-                            if (isCenter) {
-                              window.location.assign(card.href);
-                              return;
-                            }
+                        <div className="hero-float" style={floatVars}>
+                          <EngineCard
+                            card={card}
+                            isCenter={isCenter}
+                            onActivate={() => {
+                              if (isCenter) {
+                                window.location.assign(card.href);
+                                return;
+                              }
 
-                            setCenter(cardIdx);
-                          }}
-                        />
+                              setCenter(cardIdx);
+                            }}
+                          />
+                        </div>
                       </motion.div>
                     );
                   })}
@@ -750,17 +731,7 @@ export default function BrandHero({
                 CAR + ORBIT RINGS
                 ================================================= */}
 
-            <div
-  className="
-    relative
-    isolate
-    hidden
-    lg:block
-
-    lg:mt-0
-    lg:h-[168px]
-  "
->
+            <div className="brand-hero-plate hidden lg:block">
               {/* Rings */}
               <svg
                 viewBox="0 0 1000 320"
@@ -770,8 +741,8 @@ export default function BrandHero({
                   absolute
                   bottom-0
                   left-1/2
-                  h-[160px]
-                  w-[118%]
+                  h-[132px]
+                  w-[106%]
                   -translate-x-1/2
                 "
                 fill="none"
@@ -818,18 +789,7 @@ export default function BrandHero({
                 src={data.carImage}
                 alt={`${data.name} car`}
                 draggable={false}
-                className="
-                  pointer-events-none
-                  absolute
-                  bottom-0
-                  left-1/2
-                  hidden
-                  lg:block
-                  -translate-x-1/2
-                  select-none
-                  object-contain
-                  object-bottom
-                "
+                className="vehicle-cutout brand-hero-car pointer-events-none hidden select-none lg:block"
                 style={{
                   zIndex: 10,
                 }}

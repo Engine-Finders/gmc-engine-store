@@ -11,16 +11,16 @@ type Engine = Data["engines"][number];
 function FeaturedCard({ e, buyText, fav, onFav }: { e: Engine; buyText: string; fav: boolean; onFav: () => void }) {
   const recon = e.condition === "Reconditioned";
   return (
-    <div className="group flex h-full flex-col rounded-xl bg-white border border-line shadow-card overflow-hidden transition-all duration-300 hover:-translate-y-1 hover:shadow-card-hover">
-      <div className="relative flex h-[152px] items-center justify-center px-4 pt-4 shrink-0">
-        <span className={`absolute top-4 left-4 z-10 rounded-md px-2 py-0.5 text-[10px] font-bold ${recon ? "bg-primary-100 text-primary-700" : "bg-[#eef1f6] text-ink-600"}`}>{e.condition}</span>
-        <button onClick={onFav} aria-label="Save" className="absolute top-4 right-4 z-10 text-ink-400 hover:text-primary-600 transition-colors">
+    <div className="group relative flex h-full flex-col overflow-hidden rounded-2xl border border-white/80 bg-white/60 shadow-[0_20px_45px_-25px_rgba(15,23,42,0.5)] backdrop-blur-xl transition-all duration-300 hover:-translate-y-1 hover:border-primary-200 hover:shadow-[0_24px_48px_-24px_rgba(37,99,235,0.38)]">
+      <div className="relative flex h-[190px] shrink-0 items-center justify-center overflow-hidden border-b border-white/60 bg-[radial-gradient(circle_at_50%_15%,rgba(147,197,253,0.38),transparent_58%),linear-gradient(180deg,rgba(255,255,255,0.62),rgba(239,246,255,0.42))] px-4 pt-4">
+        <span className={`absolute left-4 top-4 z-10 rounded-full border px-2.5 py-1 text-[10px] font-bold shadow-sm ${recon ? "border-primary-200 bg-primary-500/90 text-white" : "border-white/80 bg-white/70 text-ink-700 backdrop-blur-md"}`}>{e.condition}</span>
+        <button onClick={onFav} aria-label="Save" className="absolute right-4 top-4 z-10 rounded-full border border-white/80 bg-white/65 p-1.5 text-ink-400 shadow-sm backdrop-blur-md transition-colors hover:text-primary-600">
           <Icon name="heart" className={`w-5 h-5 ${fav ? "text-red-500 fill-red-500" : ""}`} />
         </button>
         {/* eslint-disable-next-line @next/next/no-img-element */}
-        <img src={e.image} alt={e.title} className="mx-auto max-h-full max-w-full object-contain" draggable={false} />
+        <img src={e.image} alt={e.title} className="relative z-[1] h-[174px] w-full max-w-[270px] object-contain drop-shadow-[0_14px_15px_rgba(15,23,42,0.28)]" draggable={false} />
       </div>
-      <div className="flex flex-col flex-1 px-4 pb-4 pt-2">
+      <div className="flex flex-1 flex-col bg-white/35 px-4 pb-4 pt-3">
         <h3 className="text-[13px] font-bold text-ink-900 leading-snug">
           <span className="block line-clamp-1">{e.title}</span>
           <span className="block line-clamp-2 min-h-[34px]">{e.subtitle}</span>

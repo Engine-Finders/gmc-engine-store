@@ -27,17 +27,22 @@ export function brandSlugFor(brand: string): string {
   return BRAND_PAGE_SLUG[slug.replace(/-/g, "")] ?? `${slug}-engines`;
 }
 
-/** Pages that exist without a JSON entry. */
-export const STATIC_PAGES = new Set(["/", "/contact"]);
+/** Pages that exist without a brand, model, hub or listing JSON entry. */
+export const STATIC_PAGES = new Set([
+  "/",
+  "/contact",
+  "/brands",
+  "/engines",
+  "/guides",
+  "/guides/whats-included",
+  "/guides/core-exchange",
+]);
 
 /**
  * Planned URLs that have no page yet, and where links to them go in the meantime.
  * When one of these pages is built, delete its line here (and add it to STATIC_PAGES).
  */
 export const STATIC_FALLBACK: Record<string, string> = {
-  "/engines": "/#featured-engines",
-  "/brands": "/#shop-by-brand",
-  "/guides": "/#buyers-guides",
   "/warranty": "/#warranty-delivery",
   "/delivery": "/#warranty-delivery",
   "/returns": "/#warranty-delivery",

@@ -8,4 +8,6 @@ GMC Brandpage UI/
 GMC Modelpage UI/
 GMC ListingPage UI/
 GMCHub/
+
+# local env files (restored after the 2026-11 malware cleanup)
 config.bat

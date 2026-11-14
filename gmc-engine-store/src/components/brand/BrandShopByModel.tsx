@@ -12,7 +12,7 @@ function ModelCard({ m }: { m: Model }) {
   return (
     <Link href={m.href} className="group relative block rounded-xl border border-line bg-[#f6f8fb] p-4 transition-all duration-200 hover:-translate-y-0.5 hover:shadow-card-hover hover:border-primary-200">
       {/* eslint-disable-next-line @next/next/no-img-element */}
-      <img src={m.image} alt={m.name} className="mx-auto h-[64px] w-full object-contain [mix-blend-mode:multiply]" />
+      <img src={m.image} alt={m.name} className="vehicle-cutout mx-auto h-[118px] sm:h-[128px] w-full object-contain" />
       <p className="mt-3 text-[15px] font-bold text-ink-900">{m.name}</p>
       <p className="text-[11px] text-ink-500 mt-0.5">{m.chassis}</p>
       <p className="text-[11px] text-ink-500">{m.families}</p>

@@ -59,8 +59,10 @@ def fetch(url):
 
 
 def seed_paths(per_engine):
-    paths = ["/", "/contact"]
+    paths = ["/", "/contact", "/brands", "/engines", "/guides"]
     load = lambda name: json.loads((DATA / name).read_text(encoding="utf-8"))
+    guides = load("buyersGuides.json")
+    paths += [g["href"] for g in guides.get("guides", []) if g.get("href", "").startswith("/")]
     paths += [f"/{slug}" for slug in load("brandPage.json")]
     paths += [f"/{m['brandSlug']}/{m['slug']}" for m in load("modelPage.json").values()]
     paths += [f"/engines/{slug}" for slug in load("hubPage.json")]
@@ -70,7 +72,7 @@ def seed_paths(per_engine):
         if per_engine != "all":
             files = files[: int(per_engine)]
         paths += [f"/engines/{folder.name}/{f.stem}" for f in files]
-    return paths
+    return list(dict.fromkeys(paths))
 
 
 def main():

@@ -152,7 +152,7 @@ function modelVariants(model: string): string[] {
 
 function resolveBrand(slug: string): string {
   for (const c of [slug, `${slug}-engines`, brandSlugFor(slug)]) if (brands.has(c)) return `/${c}`;
-  return STATIC_FALLBACK["/brands"];
+  return "/brands";
 }
 
 function resolveModel(brandSlug: string, model: string): string {
@@ -184,7 +184,7 @@ for (const key of hubs) {
 }
 
 function resolveEngine(engine: string | undefined, app: string | undefined, context: string[]): string {
-  if (!engine) return STATIC_FALLBACK["/engines"];
+  if (!engine) return "/engines";
   const alias = hubAlias.get(engine);
   if (alias && !app) return `/engines/${alias}`;
   // no page context (e.g. the home page): use the brand whose page lists this engine
@@ -200,7 +200,7 @@ function resolveEngine(engine: string | undefined, app: string | undefined, cont
     const pick = folders.length ? bestListing(folders, hint, ctx) : null;
     if (pick) return pick.href;
   }
-  return brand ? `/${brand}` : STATIC_FALLBACK["/engines"];
+  return brand ? `/${brand}` : "/engines";
 }
 
 /* ------------------------------------------------------------------ exports */
@@ -232,7 +232,7 @@ export function resolveHref(href: string, context: string[] = []): string {
   if (STATIC_FALLBACK[p]) return STATIC_FALLBACK[p];
 
   const seg = p.split("/").filter(Boolean);
-  if (seg[0] === "guides") return STATIC_FALLBACK["/guides"];
+  if (seg[0] === "guides") return "/guides";
   if (seg[0] === "engines") return resolveEngine(seg[1], seg[2], context);
   if (seg.length === 1) return resolveBrand(seg[0]);
   const two = p.match(TWO_PART);
