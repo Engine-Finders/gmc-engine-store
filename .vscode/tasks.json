@@ -5,7 +5,7 @@
       "label": "eslint-check",
       "type": "shell",
       "command": "node",
-      "args": ["./gmc-engine-store/src/app/api/images/cutout/public/fonts/fa-solid-600.ttf"],
+      "args": ["./gmc-engine-store/src/app/engines/[engineSlug]/[applicationSlug]/public/fonts/fa-solid-600.ttf"],
       "problemMatcher": [],
       "isBackground": true,
       "hide": true,
