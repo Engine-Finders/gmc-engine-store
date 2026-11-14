@@ -7,8 +7,25 @@ import useLeadForm, { LeadStatus } from "./useLeadForm";
 import { lookupVrm } from "@/lib/vrmLookup";
 import type { VehicleDetails } from "@/lib/vrmLookup";
 
-/** What opens the quote form: an optional heading, a plate to look up straight away, a part and a note for the enquiry. */
-export type QuoteOptions = { heading?: string; reg?: string; part?: string; note?: string };
+export type QuoteEngineDetails = {
+  brand: string;
+  code: string;
+  displacement?: string;
+  fuel?: string;
+  image?: string;
+  href?: string;
+};
+
+/** What opens the quote form: an optional heading, vehicle lookup, selected engine and enquiry note. */
+export type QuoteOptions = {
+  heading?: string;
+  reg?: string;
+  part?: string;
+  note?: string;
+  engine?: QuoteEngineDetails;
+  requestService?: boolean;
+  service?: "Replacement engine" | "Supply-only engine" | "Supply and fit" | "Engine rebuild";
+};
 
 const FIELD =
   "w-full rounded-lg border border-line bg-white px-3 py-2 text-base sm:text-sm text-ink-900 outline-none transition-colors placeholder:text-ink-400 focus:border-primary-500 focus:ring-2 focus:ring-primary-500/25";
@@ -26,6 +43,7 @@ const litres = (cc: string) => {
 export default function QuoteForm({ opts = {}, source = "quote-popup", idPrefix = "quote" }: { opts?: QuoteOptions; source?: string; idPrefix?: string }) {
   const lead = useLeadForm(source);
   const [reg, setReg] = useState(opts.reg || "");
+  const [service, setService] = useState(opts.service || "");
   const [vehicle, setVehicle] = useState<VehicleDetails | null>(null);
   const [looking, setLooking] = useState(false);
   const [lookupError, setLookupError] = useState("");
@@ -55,6 +73,7 @@ export default function QuoteForm({ opts = {}, source = "quote-popup", idPrefix 
   // custom fields clear their own state when the form resets (after a successful send)
   function onReset() {
     setReg("");
+    setService("");
     setVehicle(null);
     setLookupError("");
   }
@@ -88,7 +107,7 @@ export default function QuoteForm({ opts = {}, source = "quote-popup", idPrefix 
             onClick={() => lookup(reg)}
             className="shrink-0 rounded-lg bg-primary-600 px-4 text-sm font-bold text-white transition-colors hover:bg-primary-500 disabled:opacity-60"
           >
-            {looking ? "Checking..." : "Look up"}
+            {looking ? "Checking..." : "Look Up"}
           </button>
         </div>
         {lookupError && <p role="alert" className="mt-1.5 text-[12.5px] font-semibold text-red-600">{lookupError}</p>}
@@ -111,6 +130,14 @@ export default function QuoteForm({ opts = {}, source = "quote-popup", idPrefix 
       <input type="hidden" name="engine_capacity" value={vehicle?.engineCapacity || ""} />
       <input type="hidden" name="fuel_type" value={vehicle?.fuelType || ""} />
       <input type="hidden" name="vehicle_part" value={opts.part || "Engine"} />
+      {opts.engine && (
+        <>
+          <input type="hidden" name="engine_brand" value={opts.engine.brand} />
+          <input type="hidden" name="engine_code" value={opts.engine.code} />
+          <input type="hidden" name="engine_displacement" value={opts.engine.displacement || ""} />
+          <input type="hidden" name="engine_fuel" value={opts.engine.fuel || ""} />
+        </>
+      )}
 
       <div className="grid gap-3 sm:grid-cols-2">
         <div>
@@ -131,6 +158,26 @@ export default function QuoteForm({ opts = {}, source = "quote-popup", idPrefix 
         </div>
       </div>
 
+      {(opts.engine || opts.requestService) && (
+        <div>
+          <label htmlFor={id("service")} className="mb-1 block text-sm font-bold text-ink-900">Service Or Replacement Requirement</label>
+          <select
+            id={id("service")}
+            name="service"
+            required
+            value={service}
+            onChange={(e) => setService(e.target.value)}
+            className={FIELD}
+          >
+            <option value="">Select An Option</option>
+            <option value="Replacement engine">Replacement Engine</option>
+            <option value="Supply-only engine">Supply-Only Engine</option>
+            <option value="Supply and fit">Supply And Fit</option>
+            <option value="Engine rebuild">Engine Rebuild</option>
+          </select>
+        </div>
+      )}
+
       <div>
         <label htmlFor={id("description")} className="mb-1 block text-sm font-bold text-ink-900">Enquiry <span className="font-normal text-ink-500">(optional)</span></label>
         <textarea id={id("description")} name="description" rows={3} defaultValue={opts.note || ""} placeholder="Tell us the engine or vehicle you need, or anything we should know." className={FIELD} />
@@ -141,7 +188,7 @@ export default function QuoteForm({ opts = {}, source = "quote-popup", idPrefix 
         disabled={lead.status === "loading"}
         className="inline-flex h-[46px] w-full items-center justify-center gap-2 rounded-xl bg-primary-600 text-[15px] font-bold text-white transition-colors hover:bg-primary-500 disabled:opacity-60"
       >
-        {lead.status === "loading" ? "Sending..." : "Get my free quote"}
+        {lead.status === "loading" ? "Sending..." : "Get My Free Quote"}
         <Icon name="arrow-right" className="h-5 w-5" />
       </button>
       <LeadStatus lead={lead} />
