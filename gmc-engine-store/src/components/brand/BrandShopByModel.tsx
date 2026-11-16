@@ -8,63 +8,56 @@ import type { BrandPageData } from "@/lib/brand";
 type Data = BrandPageData["shopByModel"];
 type Model = Data["models"][number];
 
-function ModelCard({ m }: { m: Model }) {
+const MERCEDES_ORDER = ["A-Class", "C-Class", "E-Class", "S-Class", "GLA", "GLC", "G-Class", "Sprinter"];
+
+function ModelCard({ model }: { model: Model }) {
   return (
-    <Link href={m.href} className="group relative block rounded-xl border border-line bg-[#f6f8fb] p-4 transition-all duration-200 hover:-translate-y-0.5 hover:shadow-card-hover hover:border-primary-200">
-      {/* eslint-disable-next-line @next/next/no-img-element */}
-      <img src={m.image} alt={m.name} className="vehicle-cutout mx-auto h-[118px] sm:h-[128px] w-full object-contain" />
-      <p className="mt-3 text-[15px] font-bold text-ink-900">{m.name}</p>
-      <p className="text-[11px] text-ink-500 mt-0.5">{m.chassis}</p>
-      <p className="text-[11px] text-ink-500">{m.families}</p>
-      <span className="absolute bottom-4 right-4 grid place-items-center w-8 h-8 rounded-full border border-primary-300 text-primary-600 group-hover:bg-primary-600 group-hover:text-white group-hover:border-primary-600 transition-colors">
-        <Icon name="arrow-right" className="w-4 h-4" />
-      </span>
+    <Link href={model.href} className="group relative flex min-h-[168px] flex-col rounded-xl border border-line bg-white p-3 transition hover:-translate-y-0.5 hover:border-primary-200 hover:shadow-card-hover sm:min-h-[190px] sm:p-3.5">
+      <div className="flex h-[86px] items-center justify-center sm:h-[112px]">
+        <img src={model.image} alt={`${model.name} vehicle`} loading="lazy" className="vehicle-cutout h-full w-full object-contain" />
+      </div>
+      <div className="mt-auto flex items-end justify-between gap-3">
+        <div className="min-w-0">
+          <h3 className="truncate text-[15px] font-extrabold text-ink-900">{model.name}</h3>
+          <p className="mt-0.5 truncate text-[11px] text-ink-500">{model.chassis || model.families}</p>
+        </div>
+        <span aria-hidden className="grid h-7 w-7 shrink-0 place-items-center rounded-full border border-primary-300 text-primary-600 transition group-hover:bg-primary-600 group-hover:text-white"><Icon name="arrow-right" className="h-4 w-4" /></span>
+      </div>
     </Link>
   );
 }
 
-export default function BrandShopByModel({ data }: { data: Data }) {
+export default function BrandShopByModel({ data, brand }: { data: Data; brand: string }) {
+  const isMercedes = brand.toLowerCase().includes("mercedes");
+  const allModels = isMercedes
+    ? [...data.models].sort((a, b) => {
+        const ai = MERCEDES_ORDER.indexOf(a.name);
+        const bi = MERCEDES_ORDER.indexOf(b.name);
+        return (ai < 0 ? 99 : ai) - (bi < 0 ? 99 : bi);
+      })
+    : data.models;
   const [expanded, setExpanded] = useState(false);
-  const models = data.models;
-  const shown = expanded ? models : models.slice(0, 10);
+  const models = expanded ? allModels : allModels.slice(0, 8);
+  const canExpand = allModels.length > 8;
 
   return (
-    <section id="shop-by-model" className="scroll-mt-20 bg-white pb-10 lg:pb-12">
-      <div className="max-w-content mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex items-end justify-between gap-4">
+    <section id="shop-by-model" className="scroll-mt-20 bg-[#f4f7fb] py-9 sm:py-10">
+      <div className="mx-auto max-w-content px-4 sm:px-6 lg:px-8">
+        <div className="flex flex-col gap-3 sm:flex-row sm:items-end sm:justify-between">
           <div>
-            <h2 className="text-[22px] sm:text-[26px] font-extrabold tracking-tight text-ink-900">{data.title}</h2>
-            <p className="mt-1 text-[13px] text-ink-500 max-w-xl">{data.subtitle}</p>
+            <h2 className="text-[24px] font-extrabold tracking-tight text-ink-900 sm:text-[28px]">Find {brand} replacement engines by model</h2>
+            <p className="mt-1 text-[13px] text-ink-500">{data.subtitle}</p>
           </div>
+          {canExpand ? <button type="button" onClick={() => setExpanded((value) => !value)} aria-expanded={expanded} className="inline-flex items-center gap-1.5 text-[13px] font-bold text-primary-700 underline underline-offset-4 hover:text-primary-600">{expanded ? "Show fewer models" : `View all ${brand} models`} <Icon name={expanded ? "chevron-up" : "arrow-right"} className="h-4 w-4" /></button> : <Link href={data.viewAllHref} className="inline-flex items-center gap-1.5 text-[13px] font-bold text-primary-700 underline underline-offset-4 hover:text-primary-600">View all {brand} models <Icon name="arrow-right" className="h-4 w-4" /></Link>}
         </div>
 
-        {/* Mobile — horizontal scroll */}
-        <div className="mt-6 sm:hidden -mx-4 px-4 flex gap-3 overflow-x-auto snap-x no-scrollbar">
-          {models.map((m) => (
-            <div key={m.name} className="w-[160px] shrink-0 snap-start">
-              <ModelCard m={m} />
-            </div>
-          ))}
+        <div className="mt-6 grid grid-cols-2 gap-3 lg:grid-cols-4 lg:gap-4">
+          {models.map((model) => <ModelCard key={model.name} model={model} />)}
         </div>
 
-        {/* Desktop — grid, 10 then expand */}
-        <div className="mt-6 hidden sm:grid grid-cols-3 lg:grid-cols-5 gap-4">
-          {shown.map((m) => (
-            <ModelCard key={m.name} m={m} />
-          ))}
+        <div className="mt-6 flex justify-center">
+          {canExpand ? <button type="button" onClick={() => setExpanded((value) => !value)} aria-expanded={expanded} className="inline-flex items-center gap-2 rounded-lg border border-primary-600 bg-white px-5 py-2.5 text-[13px] font-bold text-ink-900 transition hover:bg-primary-600 hover:text-white">{expanded ? "Show fewer models" : "Explore all models"} <Icon name={expanded ? "chevron-up" : "arrow-right"} className="h-4 w-4" /></button> : <Link href={data.viewAllHref} className="inline-flex items-center gap-2 rounded-lg border border-primary-600 bg-white px-5 py-2.5 text-[13px] font-bold text-ink-900 transition hover:bg-primary-600 hover:text-white">Explore all models <Icon name="arrow-right" className="h-4 w-4" /></Link>}
         </div>
-
-        {models.length > 10 && (
-          <div className="hidden sm:flex justify-center mt-7">
-            <button
-              onClick={() => setExpanded((v) => !v)}
-              className="inline-flex items-center gap-2 rounded-full border border-line bg-white px-5 py-2.5 text-[13px] font-bold text-ink-800 shadow-card hover:border-primary-300 hover:text-primary-600 transition-colors"
-            >
-              {expanded ? "Show fewer models" : `Show all ${models.length} models`}
-              <Icon name={expanded ? "chevron-up" : "chevron-down"} className="w-4 h-4" />
-            </button>
-          </div>
-        )}
       </div>
     </section>
   );

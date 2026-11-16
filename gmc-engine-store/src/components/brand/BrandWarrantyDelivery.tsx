@@ -1,37 +1,26 @@
 import Icon from "../Icon";
-import UkMap from "../UkMap";
 import type { BrandPageData } from "@/lib/brand";
 
 type Data = BrandPageData["warrantyDelivery"];
 
-export default function BrandWarrantyDelivery({ data }: { data: Data }) {
+const fallback = [
+  { icon: "shield", title: "Warranty & coverage", paragraphs: ["Ask about the warranty period, covered parts, labour exclusions and fitting conditions. Obtain the terms from your supplier."] },
+  { icon: "truck", title: "Delivery, collection & fitting", paragraphs: ["Confirm delivery availability, charges and timescales. For fitting or rebuilding, agree workshop and vehicle arrangements directly."] },
+  { icon: "returns", title: "Returns, refunds & disputes", paragraphs: ["Confirm the supplier’s returns and refund arrangements. Contact your chosen supplier about the purchase, service or any dispute."] },
+];
+
+export default function BrandWarrantyDelivery({ data, brand }: { data: Data; brand: string }) {
+  const items = data.items.length >= 3 ? data.items.slice(0, 3) : fallback;
   return (
-    <section className="bg-white pb-10 lg:pb-12">
-      <div className="max-w-content mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="rounded-xl border border-line bg-white px-6 lg:px-8 py-7 lg:py-8">
-          <h2 className="text-[22px] sm:text-[26px] font-extrabold tracking-tight text-ink-900">{data.title}</h2>
-
-          <div className="mt-6 grid grid-cols-1 lg:grid-cols-[1fr_1fr_260px] gap-6 lg:gap-8 lg:divide-x lg:divide-line">
-            {/* icon sits beside the heading; copy below starts at the icon's left edge */}
-            {data.items.map((item) => (
-              <div key={item.title} className="lg:px-4 lg:first:pl-0">
-                <div className="flex items-center gap-3">
-                  <span className="grid place-items-center w-10 h-10 shrink-0 rounded-full bg-primary-50 text-primary-600">
-                    <Icon name={item.icon} className="w-5 h-5" />
-                  </span>
-                  <h3 className="text-[15px] font-bold text-ink-900">{item.title}</h3>
-                </div>
-                {item.paragraphs.map((p, i) => (
-                  <p key={i} className="mt-3 first:mt-2.5 text-[12.5px] leading-relaxed text-ink-500">{p}</p>
-                ))}
-              </div>
-            ))}
-
-            {/* map column — stacked below on mobile, inline on lg+ */}
-            <div className="flex items-center justify-center pt-2 lg:pl-4 lg:pt-0">
-              <img src="/images/brands/uk_map.png" className="w-auto h-[140px] sm:h-[180px] lg:h-[210px]" />
-            </div>
+    <section className="bg-white py-9 sm:py-10">
+      <div className="mx-auto max-w-content px-4 sm:px-6 lg:px-8">
+        <div className="navy-panel rounded-xl border-t-4 border-primary-500 px-5 py-7 text-white sm:px-7 lg:px-8">
+          <h2 className="text-[24px] font-extrabold tracking-tight sm:text-[28px]">Supplier warranty, delivery and returns</h2>
+          <p className="mt-1.5 max-w-3xl text-[13px] text-white/75">Your chosen supplier sets the terms for the {brand} engine or service. Confirm them before purchasing or authorising work.</p>
+          <div className="mt-6 grid gap-6 lg:grid-cols-3 lg:divide-x lg:divide-white/20">
+            {items.map((item, index) => <div key={`${item.title}-${index}`} className="lg:px-5 first:lg:pl-0"><Icon name={index === 0 ? "shield" : index === 1 ? "truck" : "returns"} className="h-9 w-9 text-primary-400" /><h3 className="mt-4 text-[16px] font-extrabold">{index === 0 ? "Warranty & coverage" : index === 1 ? "Delivery, collection & fitting" : "Returns, refunds & disputes"}</h3>{item.paragraphs.map((paragraph) => <p key={paragraph} className="mt-2 text-[12.5px] leading-relaxed text-white/70">{paragraph}</p>)}</div>)}
           </div>
+          <div className="mt-6 border-t border-white/20 pt-4 text-[11px] leading-relaxed text-white/70">Engined connects buyers with suppliers. We do not sell engines, provide fitting or rebuilding services, or arbitrate buyer-supplier disputes. You arrange the purchase or service directly with your chosen supplier.</div>
         </div>
       </div>
     </section>

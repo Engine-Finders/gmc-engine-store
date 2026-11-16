@@ -1,41 +1,25 @@
+import Link from "next/link";
+import Icon from "../Icon";
 import type { BrandPageData } from "@/lib/brand";
 
 type Data = BrandPageData["about"];
 
-// Radial mask so the car photo (on a black backdrop) fades cleanly into the light
-// section instead of showing a dark rectangle — keeps it in colour.
-const CAR_MASK =
-  "radial-gradient(60% 74% at 54% 52%, #000 40%, rgba(0,0,0,0.3) 66%, transparent 82%)";
+export default function BrandAbout({ data, brand }: { data: Data; brand: string }) {
+  const image = brand.toLowerCase().includes("mercedes") ? "/images/brand-page/mercedes-guidance-workshop-v2.png" : data.carImage;
 
-export default function BrandAbout({ data }: { data: Data }) {
   return (
-    <section className="bg-white pb-10 lg:pb-12">
-      <div className="max-w-content mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="relative overflow-hidden rounded-xl border border-line bg-gradient-to-r from-white via-[#f7f9fc] to-[#eaf0f9] px-5 sm:px-6 lg:px-9 py-6 lg:py-7">
-
-          {/* Car — small, colour, edges masked into the section */}
-          {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img
-            className="vehicle-cutout hidden lg:block pointer-events-none absolute right-0 bottom-0 lg:w-[28%] max-w-none object-contain object-right-bottom opacity-95"
-            src={data.carImage}
-            alt=""
-            aria-hidden
-            style={{ maskImage: CAR_MASK, WebkitMaskImage: CAR_MASK }}
-          />
-
-          {/* logo stacks above the heading so the copy starts at the same left edge
-              instead of being indented past a floating mark */}
-          <div className="relative max-w-full lg:max-w-[74%] pr-0">
-            <div className="flex items-center gap-3">
-              {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img src={data.logo} alt="" aria-hidden className="w-10 lg:w-[52px] shrink-0 object-contain opacity-40 [filter:brightness(0.85)]" />
-              <h2 className="text-[20px] sm:text-[26px] font-extrabold tracking-tight text-ink-900">{data.title}</h2>
-            </div>
-            {data.paragraphs.map((p, i) => (
-              <p key={i} className="mt-3 text-[13px] leading-relaxed text-ink-600">{p}</p>
-            ))}
-          </div>
+    <section className="bg-[#f4f7fb] py-9 sm:py-10">
+      <div className="mx-auto grid max-w-content items-center gap-7 px-4 sm:px-6 lg:grid-cols-[0.95fr_1.2fr] lg:gap-10 lg:px-8">
+        <div>
+          <p className="text-[12px] font-extrabold uppercase tracking-[0.16em] text-primary-700">Engine buying guidance</p>
+          <h2 className="mt-2 text-[25px] font-extrabold leading-tight tracking-tight text-ink-900 sm:text-[30px]">About {brand} replacement engines</h2>
+          {data.paragraphs.map((paragraph) => <p key={paragraph} className="mt-4 text-[13px] leading-relaxed text-ink-600">{paragraph}</p>)}
+          <Link href="#engine-families" className="mt-5 inline-flex items-center gap-2 text-[13px] font-bold text-primary-700 underline underline-offset-4 hover:text-primary-600">Explore {brand} engine families <Icon name="arrow-right" className="h-4 w-4" /></Link>
         </div>
+        <figure className="relative overflow-hidden rounded-xl lg:[clip-path:polygon(12%_0,100%_0,100%_100%,0_100%)]">
+          <img src={image} alt={`${brand} vehicle with bonnet open in a workshop`} loading="lazy" className="h-[260px] w-full object-cover object-center sm:h-[320px] lg:h-[365px]" />
+          <figcaption className="absolute bottom-2 right-3 text-[11px] italic text-white drop-shadow">Illustrative workshop image</figcaption>
+        </figure>
       </div>
     </section>
   );

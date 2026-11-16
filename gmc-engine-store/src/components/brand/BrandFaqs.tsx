@@ -1,74 +1,44 @@
 "use client";
 
 import { useState } from "react";
+import Link from "next/link";
 import Icon from "../Icon";
 import type { BrandPageData } from "@/lib/brand";
 
 type Data = BrandPageData["faqs"];
 
-export default function BrandFaqs({ data }: { data: Data }) {
-  // All collapsed by default, on every breakpoint. Each panel toggles on its own —
-  // there is no viewport-driven reset, which previously reopened everything on
-  // desktop and clobbered whatever the user had closed.
-  const [open, setOpen] = useState<Set<number>>(() => new Set());
+function questions(brand: string) {
+  return [
+    { q: `Does Engined sell ${brand} engines directly?`, a: "No. Engined connects buyers with UK engine suppliers. You arrange your purchase or service directly with your chosen supplier." },
+    { q: "Can I request used and reconditioned engines?", a: "Yes. Where the catalogue supports both conditions, you can request used or reconditioned options. Your supplier confirms the available unit, included components, warranty and final terms." },
+    { q: "How is the correct engine specification confirmed?", a: "Enter your vehicle registration or share the vehicle model, year and engine details. Your supplier confirms the exact application, engine code and fitment before quoting." },
+    { q: "Are the displayed prices final quotes?", a: "No. Displayed prices are indicative starting prices or listing prices. The chosen supplier confirms compatibility, availability, delivery, fitting and the final quote." },
+    { q: "Can I request supply and fit or an engine rebuild?", a: "Yes. Tell us whether you need supply only, supply and fit, or a rebuild enquiry. Any workshop work and service terms are arranged directly with the chosen supplier." },
+    { q: "Who handles warranties, delivery and refunds?", a: "The supplier you choose sets and handles the warranty, delivery, return and refund terms. Confirm those terms before purchasing or authorising work." },
+  ];
+}
 
-  const toggle = (i: number) =>
-    setOpen((p) => {
-      const n = new Set(p);
-      n.has(i) ? n.delete(i) : n.add(i);
-      return n;
-    });
+export default function BrandFaqs({ data, brand }: { data: Data; brand: string }) {
+  const items = questions(brand);
+  const [open, setOpen] = useState<number | null>(0);
 
   return (
-    <section className="bg-white pb-10 lg:pb-12">
-      <div className="max-w-content mx-auto px-4 sm:px-6 lg:px-8">
-        <h2 className="text-[22px] sm:text-[28px] font-extrabold tracking-tight text-ink-900">{data.title}</h2>
-        <p className="mt-1 text-[13px] text-ink-500">{data.subtitle}</p>
-
-        {/* items-start + self-start: grid cells stretch to the row height by default,
-            so expanding one panel dragged its row-neighbour open too. */}
-        <div className="mt-6 grid grid-cols-1 lg:grid-cols-2 gap-4 items-start">
-          {data.items.map((item, i) => {
-            const isOpen = open.has(i);
-            return (
-              <div key={i} className={`self-start rounded-xl border bg-white transition-all ${isOpen ? "border-primary-200 border-l-[3px] border-l-primary-600 shadow-card" : "border-line"}`}>
-                <button onClick={() => toggle(i)} className="w-full flex items-start justify-between gap-3 p-4 lg:p-5 text-left" aria-expanded={isOpen}>
-                  <span className="flex items-start gap-3">
-                    <span className="grid place-items-center w-7 h-7 shrink-0 rounded-full bg-primary-600 text-white text-[11px] font-bold">Q{i + 1}</span>
-                    <span className="pt-0.5 text-[14px] font-bold text-ink-900">{item.q}</span>
-                  </span>
-                  <Icon name={isOpen ? "minus" : "plus"} className="w-5 h-5 shrink-0 mt-1 text-primary-600" />
-                </button>
-                <div className={`grid transition-all duration-300 ${isOpen ? "grid-rows-[1fr]" : "grid-rows-[0fr]"}`}>
-                  <div className="overflow-hidden">
-                    <div className="flex gap-3 px-4 lg:px-5 pb-5 -mt-1">
-                      <span className="grid place-items-center w-7 h-7 shrink-0 rounded-full bg-primary-50 text-primary-600 text-[11px] font-bold">A</span>
-                      <p className="pt-0.5 text-[12.5px] leading-relaxed text-ink-500">{item.a}</p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            );
-          })}
+    <section className="bg-white py-9 sm:py-10">
+      <div className="mx-auto grid max-w-content gap-7 px-4 sm:px-6 lg:grid-cols-[0.7fr_1.6fr] lg:gap-10 lg:px-8">
+        <div>
+          <h2 className="text-[25px] font-extrabold leading-tight tracking-tight text-ink-900 sm:text-[30px]">{brand} engine buying FAQs</h2>
+          <p className="mt-2 text-[13px] leading-relaxed text-ink-500">Practical answers before you request supplier quotes.</p>
+          <Link href="#supplier-quote" className="mt-6 inline-flex items-center gap-2 text-[13px] font-bold text-primary-700 hover:text-primary-600"><span className="grid h-8 w-8 place-items-center rounded-full border-2 border-primary-600"><Icon name="chat" className="h-4 w-4" /></span>Get engine quotes <Icon name="arrow-right" className="h-4 w-4" /></Link>
         </div>
-
-        {/* Why buy */}
-        <div className="mt-12 text-center">
-          <h3 className="text-[18px] sm:text-[20px] font-extrabold text-ink-900">{data.whyBuy.title}</h3>
-          <span className="mt-2 mx-auto block h-0.5 w-10 rounded bg-primary-500" />
-        </div>
-        <div className="mt-6 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 rounded-xl border border-line divide-y sm:divide-y-0 sm:divide-x divide-line">
-          {data.whyBuy.items.map((w) => (
-            <div key={w.title} className="p-5">
-              <div className="flex items-center gap-2.5">
-                <span className="text-primary-600 shrink-0">
-                  <Icon name={w.icon} className="w-6 h-6" />
-                </span>
-                <p className="text-[13.5px] font-bold text-ink-900 leading-tight">{w.title}</p>
-              </div>
-              <p className="mt-1.5 text-[11.5px] leading-snug text-ink-500">{w.description}</p>
-            </div>
-          ))}
+        <div>
+          <div className="space-y-2">
+            {items.map((item, index) => {
+              const isOpen = open === index;
+              const panelId = `brand-faq-panel-${index}`;
+              return <div key={item.q} className={`overflow-hidden rounded-lg border transition ${isOpen ? "border-primary-200 bg-primary-50" : "border-line bg-white"}`}><h3><button type="button" aria-expanded={isOpen} aria-controls={panelId} onClick={() => setOpen(isOpen ? null : index)} className="flex min-h-14 w-full items-center justify-between gap-4 px-4 py-3 text-left focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary-500 focus-visible:ring-inset"><span className="text-[13px] font-bold leading-snug text-ink-900">{item.q}</span><Icon name={isOpen ? "minus" : "plus"} className="h-5 w-5 shrink-0 text-primary-600" /></button></h3><div id={panelId} hidden={!isOpen} className="px-4 pb-4 text-[12.5px] leading-relaxed text-ink-600">{item.a}</div></div>;
+            })}
+          </div>
+          <div className="mt-4 flex items-start gap-2 rounded-lg bg-primary-50 px-4 py-3 text-[11.5px] leading-relaxed text-ink-700"><Icon name="info" className="mt-0.5 h-5 w-5 shrink-0 text-primary-600" />Supplier checks cover Companies House registration and a physical business address. They do not guarantee engine condition or service quality.</div>
         </div>
       </div>
     </section>

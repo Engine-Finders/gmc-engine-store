@@ -1,85 +1,39 @@
 import type { BrandPageData } from "@/lib/brand";
+import Icon from "../Icon";
 
 type Data = BrandPageData["priceGuide"];
 
-function PriceTable({ data, scroll }: { data: Data; scroll?: boolean }) {
+function PriceTable({ data }: { data: Data }) {
   return (
-    <div className={`overflow-hidden rounded-xl border border-line ${scroll ? "overflow-x-auto" : ""}`}>
-      <table className={`w-full text-left border-collapse ${scroll ? "min-w-[600px]" : ""}`}>
-        <thead>
-          <tr className="bg-[#f1f4f9]">
-            {data.columns.map((c) => (
-              <th key={c} className="px-4 py-3 text-[12px] font-bold text-ink-700 whitespace-nowrap">{c}</th>
-            ))}
-          </tr>
+    <div className="overflow-x-auto rounded-xl border border-line">
+      <table className="min-w-[650px] w-full border-collapse text-left">
+        <thead className="bg-navy-900 text-white">
+          <tr>{data.columns.map((column) => <th key={column} className="px-4 py-3 text-[12px] font-bold">{column === "Note" ? "Application note" : column}</th>)}</tr>
         </thead>
         <tbody>
-          {data.rows.map((r, i) => (
-            <tr key={r.family} className={i % 2 ? "bg-[#fafbfd]" : "bg-white"}>
-              <td className="px-4 py-3 text-[12.5px] font-semibold text-ink-900 whitespace-nowrap border-t border-line">{r.family}</td>
-              <td className="px-4 py-3 text-[12.5px] text-ink-700 whitespace-nowrap border-t border-line">{r.used}</td>
-              <td className="px-4 py-3 text-[12.5px] text-ink-700 whitespace-nowrap border-t border-line">{r.recon}</td>
-              <td className="px-4 py-3 text-[12px] text-ink-500 border-t border-line">{r.note}</td>
-            </tr>
-          ))}
+          {data.rows.map((row, index) => <tr key={row.family} className={index % 2 ? "bg-[#f5f7fb]" : "bg-white"}><td className="border-t border-line px-4 py-2.5 text-[12.5px] font-extrabold text-ink-900">{row.family}</td><td className="border-t border-line px-4 py-2.5 text-[12.5px] text-ink-700">{row.used || "—"}</td><td className="border-t border-line px-4 py-2.5 text-[12.5px] text-ink-700">{row.recon || "—"}</td><td className="border-t border-line px-4 py-2.5 text-[12px] text-ink-500">{row.note}</td></tr>)}
         </tbody>
       </table>
     </div>
   );
 }
 
-function InfoBox({ text }: { text: string }) {
+export default function BrandPriceGuide({ data, brand }: { data: Data; brand: string }) {
   return (
-    <div className="flex gap-3 rounded-xl border border-primary-100 bg-primary-50 p-4 items-start">
-      <span className="grid place-items-center w-8 h-8 shrink-0 rounded-full bg-primary-600 text-white text-[13px] font-bold italic">i</span>
-      <p className="text-[12.5px] leading-relaxed text-ink-600">{text}</p>
-    </div>
-  );
-}
-
-function EngineCard({ src, className = "" }: { src: string; className?: string }) {
-  return (
-    <div className={`navy-panel relative overflow-hidden rounded-xl border border-white/10 grid place-items-center min-h-[180px] p-4 ${className}`}>
-      <div className="hero-dots absolute inset-0 opacity-30" />
-      {/* eslint-disable-next-line @next/next/no-img-element */}
-      <img src={src} alt="" className="relative w-[240px] max-w-full object-contain" />
-    </div>
-  );
-}
-
-export default function BrandPriceGuide({ data }: { data: Data }) {
-  return (
-    <section className="bg-white pb-10 lg:pb-12">
-      <div className="max-w-content mx-auto px-4 sm:px-6 lg:px-8">
-        {/* Desktop — heading spans the row so the right column starts level with the
-            table's top edge, and `items-stretch` + `flex-1` on the engine card makes
-            it end flush with the table's bottom border. */}
-        <div className="hidden lg:block">
-          <h2 className="text-[26px] font-extrabold tracking-tight text-ink-900">{data.title}</h2>
-          <p className="mt-1.5 text-[13px] leading-relaxed text-ink-500 max-w-xl">{data.description}</p>
-          <div className="mt-5 grid grid-cols-[1fr_360px] gap-8 items-stretch">
-            <PriceTable data={data} />
-            <div className="flex flex-col gap-4">
-              <InfoBox text={data.note} />
-              <EngineCard src={data.image} className="flex-1" />
+    <section className="bg-[#f4f7fb] py-9 sm:py-10">
+      <div className="mx-auto max-w-content px-4 sm:px-6 lg:px-8">
+        <h2 className="text-[24px] font-extrabold tracking-tight text-ink-900 sm:text-[28px]">{brand} replacement engine price guide</h2>
+        <p className="mt-1.5 text-[13px] text-ink-500">{data.description} Your supplier confirms the final quote.</p>
+        <div className="mt-6 grid gap-5 lg:grid-cols-[minmax(0,2fr)_minmax(260px,0.9fr)] lg:items-stretch">
+          <PriceTable data={data} />
+          <aside className="navy-panel flex min-h-full flex-col rounded-xl p-5 text-white">
+            <div className="flex h-[210px] items-center justify-center"><img src={data.image} alt={`${brand} replacement engine`} loading="lazy" className="h-full w-full object-contain" /></div>
+            <div className="mt-auto pt-4"><div className="flex items-center gap-2"><Icon name="info" className="h-6 w-6 text-primary-400" /><h3 className="text-[19px] font-extrabold">Confirm your quote</h3></div>
+            <p className="mt-2 text-[12px] leading-relaxed text-white/75">Ask what is included, whether fitting or delivery costs extra, and which supplier terms apply.</p>
             </div>
-          </div>
+          </aside>
         </div>
-
-        {/* Mobile — stacked: title, description, image, table, info note */}
-        <div className="lg:hidden">
-          <h2 className="text-[22px] sm:text-[26px] font-extrabold tracking-tight text-ink-900">{data.title}</h2>
-          <p className="mt-1.5 text-[13px] leading-relaxed text-ink-500">{data.description}</p>
-          <div className="mt-6">
-            <EngineCard src={data.image} />
-          </div>
-          <div className="mt-6">
-            <PriceTable data={data} scroll />
-          </div>
-          <div className="mt-5">
-            <InfoBox text={data.note} />
-          </div>
-        </div>
+        <p className="mt-4 text-[11px] leading-relaxed text-ink-500">{data.note} Specification, condition and service requirements affect the final quote.</p>
       </div>
     </section>
   );

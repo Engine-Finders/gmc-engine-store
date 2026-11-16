@@ -449,12 +449,13 @@ export function resolveBrandImages<T extends Record<string, any>>(data: T, brand
   const representative = brandImageFor(brandSlug);
   const heroRepresentative = brandImageFor(brandSlug, "hero");
   const firstFamilyCode = data.engineFamilies?.families?.[0]?.code ?? data.hero?.cards?.[0]?.code ?? brand;
+  const priceFor = (code: string) => data.engineFamilies?.families?.find((family: Record<string, unknown>) => String(family.code).toLowerCase().startsWith(String(code).toLowerCase()))?.priceFrom;
   return {
     ...data,
     hero: {
       ...data.hero,
       carImage: heroRepresentative,
-      cards: engineCards(data.hero?.cards, brand),
+      cards: engineCards(data.hero?.cards, brand)?.map((card: Record<string, unknown>) => ({ ...card, priceFrom: priceFor(String(card.code ?? "")) })),
     },
     featuredEngines: {
       ...data.featuredEngines,
@@ -470,6 +471,7 @@ export function resolveBrandImages<T extends Record<string, any>>(data: T, brand
     engineFamilies: {
       ...data.engineFamilies,
       image: engineImageFor(firstFamilyCode, brand),
+      families: data.engineFamilies?.families?.map((family: Record<string, unknown>) => ({ ...family, image: engineImageFor(String(family.code ?? ""), brand) })),
     },
     priceGuide: {
       ...data.priceGuide,

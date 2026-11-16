@@ -1,6 +1,6 @@
 "use client";
 
-import { createContext, useCallback, useContext, useEffect, useMemo, useState } from "react";
+import { createContext, useCallback, useContext, useEffect, useMemo, useRef, useState } from "react";
 import type { ReactNode } from "react";
 import Icon from "../Icon";
 import QuoteForm from "./QuoteForm";
@@ -61,6 +61,7 @@ function QuotePopup({ onClose, opts }: { onClose: () => void; opts: QuoteOptions
 
 export default function QuoteModalProvider({ children }: { children: ReactNode }) {
   const [opts, setOpts] = useState<QuoteOptions | null>(null);
+  const previousOpts = useRef<QuoteOptions | null>(null);
   // open() may also be handed straight to onClick, so only a plain options object counts
   const open = useCallback((o?: QuoteOptions) => {
     const plain = o && typeof o === "object" && !("nativeEvent" in o) ? o : {};
@@ -68,6 +69,14 @@ export default function QuoteModalProvider({ children }: { children: ReactNode }
   }, []);
   const close = useCallback(() => setOpts(null), []);
   const value = useMemo(() => ({ open }), [open]);
+
+  useEffect(() => {
+    if (!opts && previousOpts.current?.returnFocusId) {
+      const target = previousOpts.current.returnFocusId;
+      window.setTimeout(() => document.getElementById(target)?.focus(), 0);
+    }
+    previousOpts.current = opts;
+  }, [opts]);
 
   useEffect(() => {
     if (!opts) return;
