@@ -10,7 +10,7 @@ type Data = BrandPageData["faqs"];
 function questions(brand: string) {
   return [
     { q: `Does Engined sell ${brand} engines directly?`, a: "No. Engined connects buyers with UK engine suppliers. You arrange your purchase or service directly with your chosen supplier." },
-    { q: "Can I request used and reconditioned engines?", a: "Yes. Where the catalogue supports both conditions, you can request used or reconditioned options. Your supplier confirms the available unit, included components, warranty and final terms." },
+    { q: `Can I request used and reconditioned ${brand} engines?`, a: `Yes. You can enquire about used or reconditioned ${brand} engines where suitable suppliers offer them. Confirm the engine condition, included components and any reconditioning work with the supplier.` },
     { q: "How is the correct engine specification confirmed?", a: "Enter your vehicle registration or share the vehicle model, year and engine details. Your supplier confirms the exact application, engine code and fitment before quoting." },
     { q: "Are the displayed prices final quotes?", a: "No. Displayed prices are indicative starting prices or listing prices. The chosen supplier confirms compatibility, availability, delivery, fitting and the final quote." },
     { q: "Can I request supply and fit or an engine rebuild?", a: "Yes. Tell us whether you need supply only, supply and fit, or a rebuild enquiry. Any workshop work and service terms are arranged directly with the chosen supplier." },

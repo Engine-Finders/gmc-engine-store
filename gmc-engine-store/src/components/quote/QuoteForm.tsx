@@ -180,7 +180,7 @@ export default function QuoteForm({ opts = {}, source = "quote-popup", idPrefix 
 
       {(opts.engine || opts.requestService) && (
         <div>
-          <label htmlFor={id("service")} className="mb-1 block text-sm font-bold text-ink-900">Service Or Replacement Requirement</label>
+          <label htmlFor={id("service")} className="mb-1 block text-sm font-bold text-ink-900">What Do You Need?</label>
           <select
             id={id("service")}
             name="service"
@@ -211,6 +211,7 @@ export default function QuoteForm({ opts = {}, source = "quote-popup", idPrefix 
         {lead.status === "loading" ? "Sending..." : "Get My Free Quote"}
         <Icon name="arrow-right" className="h-5 w-5" />
       </button>
+      <p className="text-[12px] leading-5 text-ink-600">We use your enquiry details to match your request and share them with a small number of suitable suppliers who may contact you. Read our <a href="/privacy" className="font-semibold text-primary-700 underline underline-offset-2">Privacy Policy</a>.</p>
       <LeadStatus lead={lead} />
     </form>
   );

@@ -1,5 +1,6 @@
 "use client";
 
+import Link from "next/link";
 import Icon from "./Icon";
 import UkFlag from "./UkFlag";
 import HeroOrbit from "./HeroOrbit";
@@ -74,22 +75,12 @@ function RegistrationForm() {
         </button>
       </form>
 
-      {/* Badges */}
-      <div className="relative mt-2.5 flex items-center gap-0 lg:mt-5">
-        {hero.form.badges.map((badge, i) => (
-          <span
-            key={badge.text}
-            className={`inline-flex items-center gap-1.5 text-[11px] text-white/80 lg:gap-2.5 lg:text-[15px] lg:text-white/85 ${i > 0 ? "ml-3 border-l border-white/20 pl-3 lg:ml-6 lg:pl-6" : ""}`}
-          >
-            <Icon
-              name={badge.icon}
-              className="h-4 w-4 text-white/80 lg:h-5 lg:w-5 lg:text-white/85"
-            />
-
-            {badge.text}
-          </span>
-        ))}
-      </div>
+      <Link href="/brands" className="relative mt-3 inline-flex items-center gap-1.5 text-[12px] font-bold text-white underline decoration-primary-400 underline-offset-4 hover:text-white">
+        {hero.alternativeLinkText}
+        <Icon name="arrow-right" className="h-4 w-4" />
+      </Link>
+      <p className="relative mt-2 text-[11px] leading-relaxed text-white/70 lg:text-[12px]">{hero.microcopy}</p>
+      <p className="relative mt-1 text-[11px] leading-relaxed text-white/55 lg:text-[12px]">{hero.roleStatement}</p>
     </div>
   );
 }

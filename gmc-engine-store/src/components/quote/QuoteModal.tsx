@@ -18,12 +18,15 @@ export const useQuoteModal = () => useContext(QuoteModalContext);
 export function useRegCheck(extra: QuoteOptions = {}) {
   const { open } = useQuoteModal();
   const [reg, setReg] = useState("");
+  const [postcode, setPostcode] = useState("");
   return {
     reg,
+    postcode,
     onChange: (e: React.ChangeEvent<HTMLInputElement>) => setReg(e.target.value.toUpperCase()),
+    onPostcodeChange: (e: React.ChangeEvent<HTMLInputElement>) => setPostcode(e.target.value.toUpperCase()),
     onSubmit: (e: React.FormEvent) => {
       e.preventDefault();
-      open({ ...extra, reg: reg.trim() });
+      open({ ...extra, reg: reg.trim(), postcode: postcode.trim() });
     },
   };
 }
@@ -52,7 +55,7 @@ function QuotePopup({ onClose, opts }: { onClose: () => void; opts: QuoteOptions
       </button>
 
       <h2 className="pr-8 text-[22px] font-extrabold leading-tight tracking-tight text-ink-900">{opts.heading || "Get Your Free Engine Quote"}</h2>
-      <p className="mb-4 mt-1 text-[13px] text-ink-500">Enter your registration to confirm fitment, then leave your details and a specialist will call you back.</p>
+      <p className="mb-4 mt-1 text-[13px] text-ink-500">Enter your registration and postcode, then tell us what you need so suitable suppliers can respond.</p>
 
       <QuoteForm opts={opts} source="quote-popup" idPrefix="popup" />
     </div>

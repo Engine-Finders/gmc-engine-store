@@ -73,7 +73,7 @@ function SelectedEngine({ engine, onChange }: { engine: QuoteEngineDetails; onCh
 
 export default function EngineFamilyQuoteForm({ opts, onClose }: { opts: QuoteOptions & { engine: QuoteEngineDetails }; onClose: () => void }) {
   const lead = useLeadForm("quote-popup");
-  const [service, setService] = useState("Supply only");
+  const [service, setService] = useState("");
   const id = (name: string) => `engine-popup-${name}`;
 
   return (
@@ -117,7 +117,7 @@ export default function EngineFamilyQuoteForm({ opts, onClose }: { opts: QuoteOp
       <fieldset className="mt-5">
         <legend className="text-[20px] font-extrabold leading-tight tracking-tight text-[#071a34] sm:text-[22px]">What Do You Need?</legend>
         <div className="mt-3 grid gap-2.5 sm:grid-cols-2">
-          {SERVICE_OPTIONS.map((option) => (
+          {SERVICE_OPTIONS.map((option, index) => (
             <label key={option.value} className="relative flex cursor-pointer items-center gap-3 rounded-xl border border-[#aab3c2] px-3.5 py-2.5 transition hover:border-primary-500 has-[:checked]:border-2 has-[:checked]:border-primary-600 has-[:checked]:bg-primary-50">
               <input
                 type="radio"
@@ -125,6 +125,7 @@ export default function EngineFamilyQuoteForm({ opts, onClose }: { opts: QuoteOp
                 value={option.value}
                 checked={service === option.value}
                 onChange={() => setService(option.value)}
+                required={index === 0}
                 className="h-4 w-4 accent-primary-600"
               />
               <Icon name={option.icon} className="h-5 w-5 shrink-0 text-ink-900" />
@@ -139,10 +140,10 @@ export default function EngineFamilyQuoteForm({ opts, onClose }: { opts: QuoteOp
         <Icon name="arrow-right" className="h-5 w-5" />
       </button>
 
-      <p className="mt-3 text-[12px] leading-5 text-ink-700">A small number of suitable suppliers will contact you about your selected engine and service. Nearby suppliers are prioritised where available.</p>
+      <p className="mt-3 text-[12px] leading-5 text-ink-700">A small number of suitable suppliers may contact you about your selected engine and service. Nearby suppliers are prioritised where suitable.</p>
       <p className="mt-2 flex items-start gap-2 text-[12px] leading-5 text-ink-700">
         <Icon name="lock" className="mt-0.5 h-4 w-4 shrink-0 text-ink-800" />
-        <span>We share your enquiry details only with a small number of suitable suppliers. Read our <a href="/contact" className="font-semibold text-primary-700 underline underline-offset-2">Privacy Policy</a>.</span>
+        <span>We use your enquiry details to match your request and share them with a small number of suitable suppliers who may contact you. Read our <a href="/privacy" className="font-semibold text-primary-700 underline underline-offset-2">Privacy Policy</a>.</span>
       </p>
       <p className="mt-3 border-t border-[#aab3c2] pt-3 text-[12px] leading-5 text-ink-700">Engined connects buyers with suppliers. You agree the final price and all purchase or service terms directly with your chosen supplier.</p>
       <LeadStatus lead={lead} />

@@ -61,10 +61,10 @@ function LeadMessage({ lead }: { lead: LeadState }) {
           <span className="mx-auto flex h-14 w-14 items-center justify-center rounded-full bg-primary-600 text-2xl text-white" aria-hidden>
             ✓
           </span>
-          <p className="mt-4 text-xl font-extrabold text-ink-900">Your Enquiry Has Been Submitted</p>
-          <p className="mt-2 text-sm text-ink-900">A specialist will be in touch soon.</p>
+          <p className="mt-4 text-xl font-extrabold text-ink-900">Your Engine Enquiry Has Been Received</p>
+          <p className="mt-2 text-sm text-ink-900">Suitable suppliers may contact you to confirm the engine specification, availability and quotation. Your enquiry is not an order.</p>
           <button type="button" onClick={lead.dismiss} className="mt-5 rounded-lg bg-primary-600 px-8 py-2.5 text-sm font-bold uppercase text-white transition hover:bg-primary-500">
-            Close
+            Continue Browsing
           </button>
         </div>
       </div>

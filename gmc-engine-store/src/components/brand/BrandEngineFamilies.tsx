@@ -8,12 +8,18 @@ import type { BrandPageData } from "@/lib/brand";
 
 type Data = BrandPageData["engineFamilies"];
 type Family = Data["families"][number] & { image?: string };
-type Filter = "All engines" | "Diesel" | "Petrol" | "AMG";
+type Filter = "All engines" | "Diesel" | "Petrol" | "Shared Platform" | "AMG";
 
 function familyType(family: Family): Filter {
+  const code = family.code.toLowerCase();
   const spec = family.spec.toLowerCase();
+  if ("classification" in family && typeof family.classification === "string" && family.classification.toLowerCase().includes("shared")) return "Shared Platform";
+  if (spec.includes("shared platform")) return "Shared Platform";
   if (spec.includes("amg")) return "AMG";
   if (spec.includes("petrol")) return "Petrol";
+  if (spec.includes("diesel") || /\b(cdi|dci|tdi|hdi|cdti|crdi|bluehdi|multijet|jtd)\b/.test(spec)) return "Diesel";
+  if (/^om\d/.test(code)) return "Diesel";
+  if (/^m\d/.test(code) && !/\bd\b/.test(code)) return "Petrol";
   return "Diesel";
 }
 
@@ -23,18 +29,21 @@ function details(family: Family) {
   return { displacement: parts[0] || family.spec, fuel };
 }
 
-function FamilyCard({ family, brand, onOpen, id }: { family: Family; brand: string; onOpen: () => void; id: string }) {
+function FamilyCard({ family, brand, onOpen, id }: { family: Family; brand: string; onOpen?: () => void; id: string }) {
   const { displacement, fuel } = details(family);
-  return (
-    <button id={id} type="button" onClick={onOpen} className="group relative flex min-h-[136px] w-full items-center justify-between overflow-hidden rounded-xl border border-white/25 bg-white/[0.04] p-4 text-left transition hover:-translate-y-0.5 hover:border-primary-400/80 hover:bg-white/[0.08] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary-400">
+  const className = "group relative flex min-h-[136px] w-full items-center justify-between overflow-hidden rounded-xl border border-white/25 bg-white/[0.04] p-4 text-left transition hover:-translate-y-0.5 hover:border-primary-400/80 hover:bg-white/[0.08] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary-400";
+  const content = (
+    <>
       <span className="relative z-10 min-w-0 pr-2">
         <span className="block text-[24px] font-extrabold leading-none tracking-tight text-white">{family.code}</span>
         <span className="mt-2 block text-[12px] font-semibold text-white/85">{displacement} {fuel}</span>
-        <span className="mt-5 inline-flex items-center gap-1.5 text-[11px] font-semibold text-primary-300">Explore applications <Icon name="arrow-right" className="h-4 w-4 transition group-hover:translate-x-0.5" /></span>
+        <span className="mt-5 inline-flex items-center gap-1.5 text-[11px] font-semibold text-primary-300">{family.href ? "Explore applications" : "Get engine quotes"} <Icon name="arrow-right" className="h-4 w-4 transition group-hover:translate-x-0.5" /></span>
       </span>
-      <img src={family.image || ""} alt={`${brand} ${family.code} engine`} className="pointer-events-none absolute right-[-20px] top-1/2 h-[120px] w-[58%] -translate-y-1/2 object-contain opacity-90 mix-blend-screen" />
-    </button>
+      {family.image && <img src={family.image} alt={`${brand} ${family.code} engine`} className="pointer-events-none absolute right-[-20px] top-1/2 h-[120px] w-[58%] -translate-y-1/2 object-contain opacity-90 mix-blend-screen" />}
+    </>
   );
+  if (family.href) return <Link id={id} href={family.href} className={className}>{content}</Link>;
+  return <button id={id} type="button" onClick={onOpen} className={className}>{content}</button>;
 }
 
 export default function BrandEngineFamilies({ data, brand, brandSlug }: { data: Data; brand: string; brandSlug: string }) {
@@ -42,6 +51,7 @@ export default function BrandEngineFamilies({ data, brand, brandSlug }: { data: 
   const [filter, setFilter] = useState<Filter>("All engines");
   const [search, setSearch] = useState("");
   const { open } = useQuoteModal();
+  const filters = ["All engines", ...(["Diesel", "Petrol", "Shared Platform", "AMG"] as Filter[]).filter((item) => families.some((family) => familyType(family) === item))] as Filter[];
   const searchActive = search.trim().length > 0;
   const filtered = useMemo(() => {
     const term = search.trim().toLowerCase();
@@ -82,7 +92,7 @@ export default function BrandEngineFamilies({ data, brand, brandSlug }: { data: 
               <input value={search} onChange={(event) => setSearch(event.target.value)} placeholder="Search engine code or specification" className="w-full rounded-lg border border-white/15 bg-white/[0.08] py-2.5 pl-9 pr-3 text-sm text-white outline-none placeholder:text-white/45 focus:border-primary-400 focus:ring-2 focus:ring-primary-400/30" />
             </label>
             <div className="flex flex-wrap gap-2" role="tablist" aria-label={`${brand} engine family filters`}>
-              {(["All engines", "Diesel", "Petrol", "AMG"] as Filter[]).map((item) => <button key={item} type="button" role="tab" aria-selected={filter === item} onClick={() => setFilter(item)} className={`rounded-lg border px-3.5 py-2 text-[12px] font-bold transition ${filter === item ? "border-primary-500 bg-primary-600 text-white" : "border-white/25 bg-white/[0.04] text-white/75 hover:border-primary-400 hover:text-white"}`}>{item}</button>)}
+              {filters.map((item) => <button key={item} type="button" role="tab" aria-selected={filter === item} onClick={() => setFilter(item)} className={`rounded-lg border px-3.5 py-2 text-[12px] font-bold transition ${filter === item ? "border-primary-500 bg-primary-600 text-white" : "border-white/25 bg-white/[0.04] text-white/75 hover:border-primary-400 hover:text-white"}`}>{item}</button>)}
             </div>
           </div>
 

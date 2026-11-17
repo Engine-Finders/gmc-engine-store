@@ -42,6 +42,9 @@ Thumbs.db
 # extractor input (listing markdown) - kept locally, not in the repo
 /listing-md/
 
+# local attachment extraction
+/tmp/brand-content-reference/
+
 # python caches
 __pycache__/
 *.pyc

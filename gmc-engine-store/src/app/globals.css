@@ -189,6 +189,19 @@ a {
   object-position: center bottom;
 }
 
+@media (min-width: 1024px) {
+  .brand-hero-plate {
+    height: 340px;
+  }
+
+  .brand-hero-car {
+    bottom: 14px;
+    width: min(132%, 1080px);
+    max-width: none;
+    height: 330px;
+  }
+}
+
 @media (max-width: 639px) {
   .brand-hero-plate {
     height: 160px;

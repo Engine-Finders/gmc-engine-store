@@ -31,6 +31,8 @@ export function brandSlugFor(brand: string): string {
 export const STATIC_PAGES = new Set([
   "/",
   "/contact",
+  "/privacy",
+  "/terms",
   "/brands",
   "/engines",
   "/guides",
@@ -47,8 +49,6 @@ export const STATIC_FALLBACK: Record<string, string> = {
   "/delivery": "/#warranty-delivery",
   "/returns": "/#warranty-delivery",
   "/about": "/contact",
-  "/privacy": "/contact",
-  "/terms": "/contact",
 };
 
 /** For hard-coded links in client components (the full resolver needs the server). */

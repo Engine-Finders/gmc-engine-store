@@ -1,20 +1,11 @@
 "use client";
 
-import { useState } from "react";
 import Link from "next/link";
 import Icon from "./Icon";
 import SectionHeading from "./SectionHeading";
 import rawEngines from "@/data/engines.json";
 
 export default function FeaturedEngines({ data: engines }: { data: typeof rawEngines }) {
-  const [favorites, setFavorites] = useState<Set<string>>(new Set());
-  const toggleFav = (id: string) =>
-    setFavorites((prev) => {
-      const next = new Set(prev);
-      next.has(id) ? next.delete(id) : next.add(id);
-      return next;
-    });
-
   return (
     <section id="featured-engines" className="scroll-mt-20 bg-white pb-10 lg:pb-12">
       <div className="max-w-content mx-auto px-3 lg:px-0 ">
@@ -41,9 +32,6 @@ export default function FeaturedEngines({ data: engines }: { data: typeof rawEng
                     <span className={`absolute top-3 left-3 z-10 rounded-md px-2 py-0.5 text-[9px] font-bold uppercase tracking-wide ${reconditioned ? "bg-primary-100 text-primary-700" : "bg-ink-100 text-ink-700"}`} style={reconditioned ? {} : { background: "#e8ecf3" }}>
                       {engine.condition}
                     </span>
-                    <button onClick={() => toggleFav(engine.id)} aria-label="Save" className="absolute top-3 right-3 z-10 text-ink-400 hover:text-primary-600 transition-colors">
-                      <Icon name="heart" className={`w-4 h-4 ${favorites.has(engine.id) ? "text-red-500 fill-red-500" : ""}`} />
-                    </button>
                     {/* eslint-disable-next-line @next/next/no-img-element */}
                     <img src={engine.image} alt={engine.title} className="mx-auto h-[150px] sm:h-[160px] w-auto object-contain" />
                   </div>
@@ -51,17 +39,13 @@ export default function FeaturedEngines({ data: engines }: { data: typeof rawEng
                   <div className="flex flex-col flex-1 px-3.5 pb-3.5 pt-2">
                     <h3 className="text-[13px] sm:text-[14px] font-bold text-ink-900 leading-tight whitespace-nowrap overflow-hidden text-ellipsis">{engine.title}</h3>
                     <p className="text-[12px] sm:text-[13px] text-ink-500">{engine.subtitle}</p>
-                    <p className="mt-2 text-xl sm:text-2xl font-extrabold text-ink-900">{engine.price}</p>
+                    <p className="mt-2 text-xl sm:text-2xl font-extrabold text-ink-900">{engine.price === "Request A Quote" ? engine.price : `From ${engine.price}`}</p>
                     <p className="text-[11px] sm:text-[12px] text-ink-500">{engine.installments}</p>
-                    <p className="mt-2 inline-flex items-center gap-1.5 text-[11px] sm:text-[12px] text-green-600">
-                      <span className="w-1.5 h-1.5 rounded-full bg-green-500" />
-                      {engine.stockLabel}
-                    </p>
                     <Link
                       href={engine.buyHref}
                       className="mt-3 inline-flex h-10 sm:h-11 items-center justify-center gap-2 rounded-lg border-2 border-ink-900 bg-ink-900 text-[13px] sm:text-sm font-bold text-white transition-colors duration-200 hover:bg-white hover:text-ink-900"
                     >
-                      <Icon name="shopping-cart" className="w-4 h-4" />
+                      <Icon name="arrow-right" className="w-4 h-4" />
                       {engines.buyButtonText}
                     </Link>
                   </div>

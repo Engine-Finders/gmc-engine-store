@@ -17,7 +17,8 @@ export default function CTA() {
             <p className="mt-1 max-w-md text-[13px] leading-relaxed text-ink-400">{data.description}</p>
           </div>
 
-          <form onSubmit={rc.onSubmit} className="flex flex-col sm:flex-row gap-2.5">
+          <form onSubmit={rc.onSubmit} className="flex flex-col gap-2.5">
+            <div className="flex flex-col gap-2.5 sm:flex-row">
             <div className="flex flex-1 items-center rounded-lg border border-white/15 bg-white/10 backdrop-blur-md overflow-hidden">
               <span className="flex items-center gap-1.5 px-3 py-2.5 border-r border-white/15">
                 <UkFlag className="w-6 h-4 rounded-sm" />
@@ -30,6 +31,16 @@ export default function CTA() {
                 className="flex-1 min-w-0 px-3 py-2.5 text-base sm:text-sm font-semibold tracking-wide text-white placeholder:text-white/60 outline-none bg-transparent"
               />
             </div>
+            <input
+              type="text"
+              placeholder="POSTCODE"
+              value={rc.postcode}
+              onChange={rc.onPostcodeChange}
+              name="postcode"
+              autoComplete="postal-code"
+              aria-label="Postcode"
+              className="min-w-0 flex-1 rounded-lg border border-white/15 bg-white/10 px-3 py-2.5 text-base font-semibold tracking-wide text-white placeholder:text-white/60 outline-none sm:text-sm"
+            />
             <button
               type="submit"
               className="shrink-0 inline-flex items-center justify-center gap-2 rounded-lg bg-white px-6 py-2.5 text-sm font-bold text-ink-900 transition-all duration-200 ease-out hover:-translate-y-0.5 hover:shadow-[0_10px_30px_-8px_rgba(255,255,255,0.4)]"
@@ -37,6 +48,8 @@ export default function CTA() {
               {data.buttonText}
               <Icon name="arrow-right" className="w-4 h-4" />
             </button>
+            </div>
+            <p className="text-[12px] leading-5 text-white/70">Supply-only <span aria-hidden> | </span> Supply and fit <span aria-hidden> | </span> Rebuild your engine</p>
           </form>
         </div>
       </div>

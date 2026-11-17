@@ -1,32 +1,30 @@
 {
-  "logo": "GMC",
-  "tagline": "Engine Store",
-  "description": "© GMC. Engine compatibility is general fitment guidance - always confirm against your vehicle's registration before ordering.",
+  "logo": "Engined",
+  "tagline": "Replacement engine marketplace",
+  "description": "Engined.co.uk is a third-party platform connecting buyers with engine suppliers. We do not sell engines, provide fitting or rebuilding services, or arbitrate buyer-supplier disputes. Prices are indicative starting prices. Compatibility, availability, final pricing, payment, warranty, delivery, returns and refunds must be agreed directly with your chosen supplier. This does not affect your statutory rights. © 2026 Engined.co.uk",
   "columns": [
     {
-      "title": "Shop",
+      "title": "Browse",
       "links": [
-        { "label": "All Engines", "href": "/engines" },
-        { "label": "All Brands", "href": "/brands" },
-        { "label": "Mercedes-Benz Engines", "href": "/mercedes-benz-engines" }
+        { "label": "Replacement Engines", "href": "/engines" },
+        { "label": "Brands", "href": "/brands" },
+        { "label": "Engine Codes", "href": "/#engine-code-heading" }
       ]
     },
     {
-      "title": "Help",
+      "title": "Buying Help",
       "links": [
-        { "label": "Buying Guides", "href": "/guides" },
-        { "label": "Warranty", "href": "/warranty" },
-        { "label": "Delivery", "href": "/delivery" },
-        { "label": "Returns", "href": "/returns" }
+        { "label": "How It Works", "href": "/#how-it-works" },
+        { "label": "Buying Essentials", "href": "/#buying-essentials" },
+        { "label": "Supplier Verification", "href": "/#supplier-network" }
       ]
     },
     {
       "title": "Company",
       "links": [
-        { "label": "About Us", "href": "/about" },
         { "label": "Contact", "href": "/contact" },
         { "label": "Privacy Policy", "href": "/privacy" },
-        { "label": "Terms", "href": "/terms" }
+        { "label": "Terms Of Use", "href": "/terms" }
       ]
     }
   ],
@@ -35,9 +33,5 @@
     { "name": "Instagram", "icon": "instagram", "href": "#" },
     { "name": "YouTube", "icon": "youtube", "href": "#" }
   ],
-  "trustpilot": {
-    "rating": 4.8,
-    "label": "Excellent",
-    "basedOn": "2,365+ reviews"
-  }
+  "trustpilot": null
 }

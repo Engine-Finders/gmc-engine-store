@@ -1,6 +1,6 @@
 "use client";
 
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import Link from "next/link";
 import Icon from "../Icon";
 import type { BrandPageData } from "@/lib/brand";
@@ -24,7 +24,7 @@ function ListingCard({ engine }: { engine: Engine }) {
       <div className="flex flex-1 flex-col p-3.5">
         <h3 className="text-[14px] font-extrabold leading-snug text-ink-900">{engine.title.replace(/\s+—\s*$/, "")}</h3>
         <p className="mt-1 text-[11px] leading-snug text-ink-500">{engine.subtitle}</p>
-        <p className="mt-3 text-[18px] font-extrabold text-ink-900">From {engine.price}</p>
+        <p className="mt-3 text-[18px] font-extrabold text-ink-900">{engine.price === "Request A Quote" ? engine.price : `From ${engine.price}`}</p>
         <Link href={engine.buyHref} className="mt-auto inline-flex min-h-10 items-center justify-center gap-2 rounded-lg bg-navy-900 px-3 py-2 text-center text-[11px] font-bold leading-tight text-white transition hover:bg-primary-700">View engine &amp; request quotes <Icon name="arrow-right" className="h-4 w-4 shrink-0" /></Link>
       </div>
     </article>
@@ -33,7 +33,28 @@ function ListingCard({ engine }: { engine: Engine }) {
 
 export default function BrandFeaturedEngines({ data, brand, brandSlug }: { data: Data; brand: string; brandSlug: string }) {
   const [condition, setCondition] = useState<Condition>("All listings");
+  const listingsRef = useRef<HTMLDivElement>(null);
+  const [canScrollLeft, setCanScrollLeft] = useState(false);
+  const [canScrollRight, setCanScrollRight] = useState(false);
   const filtered = useMemo(() => condition === "All listings" ? data.engines : data.engines.filter((engine) => conditionKey(engine.condition) === condition), [condition, data.engines]);
+
+  function updateScrollState() {
+    const node = listingsRef.current;
+    if (!node) return;
+    setCanScrollLeft(node.scrollLeft > 4);
+    setCanScrollRight(node.scrollLeft + node.clientWidth < node.scrollWidth - 4);
+  }
+
+  function scrollListings(direction: "left" | "right") {
+    listingsRef.current?.scrollBy({ left: (listingsRef.current.clientWidth * 0.86) * (direction === "right" ? 1 : -1), behavior: "smooth" });
+  }
+
+  useEffect(() => {
+    const node = listingsRef.current;
+    if (!node) return;
+    node.scrollLeft = 0;
+    window.requestAnimationFrame(updateScrollState);
+  }, [condition, filtered.length]);
 
   return (
     <section id="replacement-engines" className="scroll-mt-20 bg-white py-9 sm:py-10">
@@ -50,8 +71,19 @@ export default function BrandFeaturedEngines({ data, brand, brandSlug }: { data:
           {(["All listings", "Used engines", "Reconditioned engines"] as Condition[]).map((item) => <button key={item} type="button" role="tab" aria-selected={condition === item} onClick={() => setCondition(item)} className={`rounded-lg border px-4 py-2 text-[12px] font-bold transition ${condition === item ? "border-navy-900 bg-navy-900 text-white" : "border-line bg-white text-ink-700 hover:border-primary-300 hover:text-primary-700"}`}>{item}</button>)}
         </div>
 
-        {filtered.length ? <div className="mt-5 grid grid-cols-1 gap-3 sm:grid-cols-2 lg:grid-cols-4 lg:gap-4">{filtered.slice(0, 8).map((engine) => <ListingCard key={engine.id} engine={engine} />)}</div> : <div className="mt-5 rounded-xl border border-dashed border-line bg-[#f8fafc] px-4 py-8 text-center text-[13px] text-ink-500">No {condition.toLowerCase()} are currently published for this brand.</div>}
-        <p className="mt-4 text-[11px] leading-relaxed text-ink-500">Illustrative starting prices. Your supplier confirms compatibility, availability, included components and the final quote. Prices vary by application and condition.</p>
+        {filtered.length ? <>
+          <div className="mt-4 flex items-center justify-between gap-3">
+            <p className="text-[11px] text-ink-500">Swipe or use the arrows to browse listings.</p>
+            <div className="flex gap-2">
+              <button type="button" onClick={() => scrollListings("left")} disabled={!canScrollLeft} aria-label="Previous engine listings" aria-controls="brand-listings-scroller" className="grid h-8 w-8 place-items-center rounded-full border border-line bg-white text-ink-700 transition hover:border-primary-300 hover:text-primary-700 disabled:cursor-not-allowed disabled:opacity-35"><Icon name="chevron-left" className="h-4 w-4" /></button>
+              <button type="button" onClick={() => scrollListings("right")} disabled={!canScrollRight} aria-label="Next engine listings" aria-controls="brand-listings-scroller" className="grid h-8 w-8 place-items-center rounded-full border border-line bg-white text-ink-700 transition hover:border-primary-300 hover:text-primary-700 disabled:cursor-not-allowed disabled:opacity-35"><Icon name="chevron-right" className="h-4 w-4" /></button>
+            </div>
+          </div>
+          <div id="brand-listings-scroller" ref={listingsRef} onScroll={updateScrollState} role="region" aria-label={`${brand} replacement engine listings`} className="no-scrollbar mt-3 flex snap-x snap-mandatory gap-3 overflow-x-auto pb-2 lg:gap-4">
+            {filtered.slice(0, 8).map((engine) => <div key={engine.id} className="min-w-[calc(100%-2rem)] snap-start sm:min-w-[calc((100%-0.75rem)/2)] lg:min-w-[calc((100%-3rem)/4)]"><ListingCard engine={engine} /></div>)}
+          </div>
+        </> : <div className="mt-5 rounded-xl border border-dashed border-line bg-[#f8fafc] px-4 py-8 text-center text-[13px] text-ink-500">No {condition.toLowerCase()} are currently published for this brand.</div>}
+        <p className="mt-4 text-[11px] leading-relaxed text-ink-500">Prices are indicative starting prices. Your supplier confirms compatibility, availability, included components and the final quote.</p>
       </div>
     </section>
   );

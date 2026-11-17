@@ -71,7 +71,7 @@ export default function SupplierNetworkSection() {
                 <span className="h-12 w-px bg-white/45" />
                 <div>
                   <h3 className="text-[15px] font-extrabold">Your enquiry, shared selectively</h3>
-                  <p className="mt-1 text-[13px] leading-5 text-white/80">Your name, contact details and vehicle requirements are shared with a small number of suppliers selected for your enquiry. Read our <Link href="/contact" className="font-semibold text-white underline underline-offset-2 hover:text-primary-300">Privacy Policy</Link> to understand how your information is used and shared.</p>
+                  <p className="mt-1 text-[13px] leading-5 text-white/80">Your name, contact details and vehicle requirements are shared with a small number of suppliers selected for your enquiry. Read our <Link href="/privacy" className="font-semibold text-white underline underline-offset-2 hover:text-primary-300">Privacy Policy</Link> to understand how your information is used and shared.</p>
                 </div>
               </div>
 

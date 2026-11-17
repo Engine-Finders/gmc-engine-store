@@ -1,9 +1,9 @@
 {
-  "sectionTitle": "Featured Engines in Stock",
-  "sectionDescription": "Ready-stock units available to buy now – sourced from our currently verified-demand catalogue.",
-  "viewAllText": "See all engines",
+  "sectionTitle": "Explore replacement engine listings",
+  "sectionDescription": "Browse used and reconditioned engine listings. Select the application that matches your vehicle, then request supplier quotes for your requirements.",
+  "viewAllText": "View all replacement engines",
   "viewAllHref": "/engines",
-  "buyButtonText": "Buy it now",
+  "buyButtonText": "View engine & request quotes",
   "engines": [
     {
       "id": "om651-w204",
@@ -11,10 +11,8 @@
       "condition": "Reconditioned",
       "title": "Mercedes OM651 Engine",
       "subtitle": "C-Class W204",
-      "price": "£1,795.00",
-      "installments": "or pay in instalments at checkout",
-      "inStock": true,
-      "stockLabel": "In stock - ready to ship",
+      "price": "Request A Quote",
+      "installments": "Guide price - supplier confirms final quote",
       "buyHref": "/engines/om651/mercedes-c-class-w204"
     },
     {
@@ -23,10 +21,8 @@
       "condition": "Used",
       "title": "Mercedes OM642 Engine",
       "subtitle": "Sprinter W906",
-      "price": "£1,495.00",
-      "installments": "or pay in instalments at checkout",
-      "inStock": true,
-      "stockLabel": "In stock - ready to ship",
+      "price": "Request A Quote",
+      "installments": "Guide price - supplier confirms final quote",
       "buyHref": "/engines/om642-w906"
     },
     {
@@ -35,10 +31,8 @@
       "condition": "Used",
       "title": "Mercedes M274 Engine",
       "subtitle": "C-Class W205",
-      "price": "£1,095.00",
-      "installments": "or pay in instalments at checkout",
-      "inStock": true,
-      "stockLabel": "In stock - ready to ship",
+      "price": "Request A Quote",
+      "installments": "Guide price - supplier confirms final quote",
       "buyHref": "/engines/m274-w205"
     },
     {
@@ -47,10 +41,8 @@
       "condition": "Used",
       "title": "Mercedes OM646 Engine",
       "subtitle": "C-Class W204",
-      "price": "£695.00",
-      "installments": "or pay in instalments at checkout",
-      "inStock": true,
-      "stockLabel": "In stock - ready to ship",
+      "price": "Request A Quote",
+      "installments": "Guide price - supplier confirms final quote",
       "buyHref": "/engines/om646-w204"
     }
   ]

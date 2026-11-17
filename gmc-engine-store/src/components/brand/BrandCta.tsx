@@ -37,6 +37,7 @@ export default function BrandCta({ data, brand }: { data: Data; brand: string })
               </form>
               <p className="mt-3 text-[12px] font-bold text-white">Your enquiry is shared with a small number of suitable suppliers who may contact you.</p>
               <p className="mt-1 text-[12px] leading-relaxed text-white/70">Your supplier confirms compatibility, availability, final pricing and all service terms.</p>
+              <p className="mt-2 text-[11px] leading-relaxed text-white/65">We use your details to match your enquiry and share it with suitable suppliers. Read our <a href="/privacy" className="font-semibold text-white underline underline-offset-2">Privacy Policy</a>.</p>
               <div className="mt-5 border-t border-white/20 pt-3 text-[11px] leading-relaxed text-white/65">Submitting an enquiry does not place an order. You arrange any purchase or service directly with your chosen supplier.</div>
             </div>
             <div className="relative flex min-h-[180px] items-end justify-center lg:min-h-[240px]"><img src={data.carImage} alt={`${brand} vehicle`} loading="lazy" className="relative z-10 h-[190px] w-full object-contain object-bottom sm:h-[235px]" /></div>
