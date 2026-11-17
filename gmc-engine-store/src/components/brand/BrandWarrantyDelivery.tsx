@@ -12,7 +12,7 @@ const fallback = [
 export default function BrandWarrantyDelivery({ data, brand }: { data: Data; brand: string }) {
   const items = data.items.length >= 3 ? data.items.slice(0, 3) : fallback;
   return (
-    <section className="bg-white py-9 sm:py-10">
+    <section className="bg-white py-7 sm:py-8">
       <div className="mx-auto max-w-content px-4 sm:px-6 lg:px-8">
         <div className="navy-panel rounded-xl border-t-4 border-primary-500 px-5 py-7 text-white sm:px-7 lg:px-8">
           <h2 className="text-[24px] font-extrabold tracking-tight sm:text-[28px]">Supplier warranty, delivery and returns</h2>

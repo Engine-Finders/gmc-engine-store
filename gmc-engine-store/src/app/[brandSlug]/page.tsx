@@ -34,7 +34,7 @@ export default function BrandPage({ params }: { params: { brandSlug: string } })
     <>
       <Header />
       <main>
-        <BrandHero data={data.hero} />
+        <BrandHero data={data.hero} carImages={data.shopByModel.models.slice(0, 5).map((model) => model.image)} />
         <BrandShopByModel data={data.shopByModel} brand={data.hero.brand} />
         <BrandFeaturedEngines data={data.featuredEngines} brand={data.hero.brand} brandSlug={params.brandSlug} />
         <BrandEngineFamilies data={data.engineFamilies} brand={data.hero.brand} brandSlug={params.brandSlug} />

@@ -8,7 +8,7 @@ export default function BrandAbout({ data, brand }: { data: Data; brand: string 
   const image = brand.toLowerCase().includes("mercedes") ? "/images/brand-page/mercedes-guidance-workshop-v2.png" : data.carImage;
 
   return (
-    <section className="bg-[#f4f7fb] py-9 sm:py-10">
+    <section className="bg-[#f4f7fb] py-7 sm:py-8">
       <div className="mx-auto grid max-w-content items-center gap-7 px-4 sm:px-6 lg:grid-cols-[0.95fr_1.2fr] lg:gap-10 lg:px-8">
         <div>
           <p className="text-[12px] font-extrabold uppercase tracking-[0.16em] text-primary-700">Engine buying guidance</p>

@@ -9,7 +9,7 @@ const items = [
 
 export default function BrandWhyUse({ brand }: { brand: string }) {
   return (
-    <section className="bg-white py-9 sm:py-10">
+    <section className="bg-white py-7 sm:py-8">
       <div className="mx-auto max-w-content px-4 sm:px-6 lg:px-8">
         <h2 className="text-center text-[24px] font-extrabold tracking-tight text-ink-900 sm:text-[28px]">Why use Engined for {brand} replacement engines?</h2>
         <span className="mx-auto mt-4 block h-1 w-24 rounded-full bg-primary-600" />

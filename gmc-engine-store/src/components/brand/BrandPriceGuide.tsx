@@ -20,7 +20,7 @@ function PriceTable({ data }: { data: Data }) {
 
 export default function BrandPriceGuide({ data, brand }: { data: Data; brand: string }) {
   return (
-    <section className="bg-[#f4f7fb] py-9 sm:py-10">
+    <section className="bg-[#f4f7fb] py-7 sm:py-8">
       <div className="mx-auto max-w-content px-4 sm:px-6 lg:px-8">
         <h2 className="text-[24px] font-extrabold tracking-tight text-ink-900 sm:text-[28px]">{brand} replacement engine price guide</h2>
         <p className="mt-1.5 text-[13px] text-ink-500">{data.description} Your supplier confirms the final quote.</p>

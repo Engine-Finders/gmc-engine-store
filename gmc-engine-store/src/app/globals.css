@@ -181,9 +181,9 @@ a {
   /* The cutout route trims the source and adds a small transparent safety
      margin. This baseline puts the visible tyres on the front edge of the
      outer plate ellipse rather than on the image canvas edge. */
-  bottom: 6px;
+  bottom: 4px;
   width: min(98%, 680px);
-  height: 180px;
+  height: 172px;
   transform: translateX(-50%);
   object-fit: contain;
   object-position: center bottom;
@@ -195,10 +195,9 @@ a {
   }
 
   .brand-hero-car {
-    bottom: 14px;
-    width: min(132%, 1080px);
-    max-width: none;
-    height: 330px;
+    bottom: -4px;
+    width: min(98%, 760px);
+    height: 306px;
   }
 }
 
@@ -208,9 +207,9 @@ a {
   }
 
   .brand-hero-car {
-    bottom: 4px;
-    width: 100%;
-    height: 158px;
+    bottom: 2px;
+    width: 108%;
+    height: 166px;
   }
 }
 

@@ -18,17 +18,19 @@ function ListingCard({ engine }: { engine: Engine }) {
   const quoteOnly = engine.price === "Request A Quote";
   return (
     <article className="flex h-full flex-col overflow-hidden rounded-xl border border-line bg-white">
-      <div className="relative flex h-[155px] items-center justify-center bg-[#f5f8fc] p-3 sm:h-[175px]">
+      <div className="relative flex h-[180px] items-center justify-center bg-[#f5f8fc] p-3 sm:h-[200px]">
         <span className="absolute left-3 top-3 rounded-md bg-primary-100 px-2 py-1 text-[9px] font-extrabold uppercase tracking-wide text-primary-800">{condition.replace(" engines", "")}</span>
-        <img src={engine.image} alt={`${engine.title} engine`} loading="lazy" className="h-full w-full object-contain" />
+        <img src={engine.image} alt={`${engine.title} engine`} loading="lazy" className="h-full w-full scale-110 object-contain" />
       </div>
       <div className="flex flex-1 flex-col p-3.5">
         <h3 className="text-[14px] font-extrabold leading-snug text-ink-900">{engine.title.replace(/\s+—\s*$/, "")}</h3>
-        <p className="mt-1 text-[11px] leading-snug text-ink-500">{engine.subtitle}</p>
-        {quoteOnly ? <Link href="#supplier-quote" className="mt-3 inline-flex w-fit text-[11px] font-extrabold uppercase tracking-[0.06em] text-primary-700 underline decoration-primary-300 underline-offset-2 transition hover:text-primary-600" aria-label={`Request a quote for ${engine.title.replace(/\s+—\s*$/, "")}`}>
-          Request A Quote
-        </Link> : <p className="mt-3 text-[18px] font-extrabold text-ink-900">From {engine.price}</p>}
-        <Link href={engine.buyHref} className="mt-auto inline-flex min-h-10 items-center justify-center gap-2 rounded-lg bg-navy-900 px-3 py-2 text-center text-[11px] font-bold leading-tight text-white transition hover:bg-primary-700">View engine &amp; request quotes <Icon name="arrow-right" className="h-4 w-4 shrink-0" /></Link>
+        <p className="mt-0.5 text-[11px] leading-snug text-ink-500">{engine.subtitle}</p>
+        <div className="mt-auto flex min-h-6 items-center">
+          {quoteOnly ? <Link href="#supplier-quote" className="inline-flex w-fit text-[13px] font-extrabold leading-none text-ink-900 underline decoration-primary-400 underline-offset-4 transition hover:text-primary-600" aria-label={`Request a quote for ${engine.title.replace(/\s+—\s*$/, "")}`}>
+            Request A Quote
+          </Link> : <p className="text-[18px] font-extrabold leading-none text-ink-900">From {engine.price}</p>}
+        </div>
+        <Link href={engine.buyHref} className="mt-2 inline-flex min-h-10 items-center justify-center gap-2 rounded-lg bg-navy-900 px-3 py-2 text-center text-[11px] font-bold leading-tight text-white transition hover:bg-primary-700">View engine &amp; request quotes <Icon name="arrow-right" className="h-4 w-4 shrink-0" /></Link>
       </div>
     </article>
   );
@@ -60,7 +62,7 @@ export default function BrandFeaturedEngines({ data, brand, brandSlug }: { data:
   }, [condition, filtered.length]);
 
   return (
-    <section id="replacement-engines" className="scroll-mt-20 bg-white py-9 sm:py-10">
+    <section id="replacement-engines" className="scroll-mt-20 bg-white py-7 sm:py-8">
       <div className="mx-auto max-w-content px-4 sm:px-6 lg:px-8">
         <div className="flex flex-col gap-3 sm:flex-row sm:items-end sm:justify-between">
           <div>

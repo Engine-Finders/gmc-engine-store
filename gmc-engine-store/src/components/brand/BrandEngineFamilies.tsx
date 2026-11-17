@@ -73,10 +73,10 @@ export default function BrandEngineFamilies({ data, brand, brandSlug }: { data: 
   }
 
   return (
-    <section id="engine-families" className="scroll-mt-20 bg-white py-9 sm:py-10">
+    <section id="engine-families" className="scroll-mt-20 bg-white">
       <div className="navy-panel relative overflow-hidden border-y border-primary-500/70">
         <div className="hero-dots pointer-events-none absolute inset-0 opacity-40" />
-        <div className="relative mx-auto max-w-content px-4 py-9 sm:px-6 lg:px-8 lg:py-10">
+        <div className="relative mx-auto max-w-content px-4 py-7 sm:px-6 lg:px-8 lg:py-8">
           <div className="flex flex-col gap-3 sm:flex-row sm:items-end sm:justify-between">
             <div>
               <h2 className="text-[24px] font-extrabold tracking-tight text-white sm:text-[28px]">Explore {brand} engine families</h2>

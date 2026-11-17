@@ -23,7 +23,7 @@ export default function BrandFaqs({ data, brand }: { data: Data; brand: string }
   const [open, setOpen] = useState<number | null>(0);
 
   return (
-    <section className="bg-white py-9 sm:py-10">
+    <section className="bg-white py-5 sm:py-6">
       <div className="mx-auto grid max-w-content gap-7 px-4 sm:px-6 lg:grid-cols-[0.7fr_1.6fr] lg:gap-10 lg:px-8">
         <div>
           <h2 className="text-[25px] font-extrabold leading-tight tracking-tight text-ink-900 sm:text-[30px]">{brand} engine buying FAQs</h2>

@@ -19,9 +19,9 @@ export default function BrandCta({ data, brand }: { data: Data; brand: string })
   }
 
   return (
-    <section id="supplier-quote" className="scroll-mt-20 bg-white py-9 sm:py-10">
+    <section id="supplier-quote" className="scroll-mt-20 bg-white py-5 sm:py-6">
       <div className="mx-auto max-w-content px-4 sm:px-6 lg:px-8">
-        <div className="navy-panel relative overflow-hidden rounded-2xl border border-primary-400/40 px-5 py-7 sm:px-7 lg:px-9 lg:py-8">
+        <div className="navy-panel relative overflow-hidden rounded-2xl border border-primary-400/40 px-5 py-5 sm:px-7 sm:py-6 lg:px-9 lg:py-6">
           <div className="hero-dots pointer-events-none absolute inset-0 opacity-25" />
           <div className="relative grid gap-7 lg:grid-cols-[1.1fr_0.9fr] lg:items-center">
             <div>

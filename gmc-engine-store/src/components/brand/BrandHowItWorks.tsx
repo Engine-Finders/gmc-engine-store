@@ -18,16 +18,16 @@ export default function BrandHowItWorks({ data, brand }: { data: Data; brand: st
   ];
 
   return (
-    <section className="bg-white py-9 sm:py-10">
+    <section className="bg-white py-7 sm:py-8">
       <div className="mx-auto max-w-content px-4 sm:px-6 lg:px-8">
         <p className="text-[12px] font-extrabold uppercase tracking-[0.16em] text-primary-700">How it works</p>
         <h2 className="mt-1 text-[24px] font-extrabold tracking-tight text-ink-900 sm:text-[28px]">How to get {brand} engine quotes</h2>
         <ol className="mt-7 grid gap-7 md:grid-cols-3 md:gap-8">
           {steps.map((step, index) => (
-            <li key={step.number} className="relative text-center md:text-left">
-              <div className="flex items-center gap-3 md:flex-col md:items-start">
-                <span className="grid h-9 w-9 shrink-0 place-items-center rounded-full bg-primary-600 text-[13px] font-extrabold text-white">{step.number}</span>
-                <div className="flex h-[90px] flex-1 items-center justify-center rounded-lg bg-[#f5f8fc] md:mt-3 md:h-[112px] md:w-full">
+            <li key={step.number} className="relative pl-12 text-center md:pl-0 md:text-left">
+              <div className="relative md:flex md:items-start md:gap-3 md:flex-col">
+                <span className="absolute left-[-48px] top-1 grid h-9 w-9 shrink-0 place-items-center rounded-full bg-primary-600 text-[13px] font-extrabold text-white md:static">{step.number}</span>
+                <div className="flex h-[90px] w-full items-center justify-center rounded-lg bg-[#f5f8fc] md:mt-3 md:h-[112px]">
                   <img src={illustrations[index]} alt="" aria-hidden loading="lazy" className="h-[74px] max-w-[150px] object-contain md:h-[94px]" />
                 </div>
               </div>

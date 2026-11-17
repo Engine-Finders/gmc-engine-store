@@ -41,7 +41,7 @@ export default function BrandShopByModel({ data, brand }: { data: Data; brand: s
   const canExpand = allModels.length > 8;
 
   return (
-    <section id="shop-by-model" className="scroll-mt-20 bg-[#f4f7fb] py-9 sm:py-10">
+    <section id="shop-by-model" className="scroll-mt-20 bg-[#f4f7fb] py-7 sm:py-8">
       <div className="mx-auto max-w-content px-4 sm:px-6 lg:px-8">
         <div className="flex flex-col gap-3 sm:flex-row sm:items-end sm:justify-between">
           <div>
