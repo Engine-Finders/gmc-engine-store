@@ -15,6 +15,7 @@ function conditionKey(condition: string) {
 
 function ListingCard({ engine }: { engine: Engine }) {
   const condition = conditionKey(engine.condition);
+  const quoteOnly = engine.price === "Request A Quote";
   return (
     <article className="flex h-full flex-col overflow-hidden rounded-xl border border-line bg-white">
       <div className="relative flex h-[155px] items-center justify-center bg-[#f5f8fc] p-3 sm:h-[175px]">
@@ -24,7 +25,9 @@ function ListingCard({ engine }: { engine: Engine }) {
       <div className="flex flex-1 flex-col p-3.5">
         <h3 className="text-[14px] font-extrabold leading-snug text-ink-900">{engine.title.replace(/\s+—\s*$/, "")}</h3>
         <p className="mt-1 text-[11px] leading-snug text-ink-500">{engine.subtitle}</p>
-        <p className="mt-3 text-[18px] font-extrabold text-ink-900">{engine.price === "Request A Quote" ? engine.price : `From ${engine.price}`}</p>
+        {quoteOnly ? <Link href="#supplier-quote" className="mt-3 inline-flex w-fit text-[11px] font-extrabold uppercase tracking-[0.06em] text-primary-700 underline decoration-primary-300 underline-offset-2 transition hover:text-primary-600" aria-label={`Request a quote for ${engine.title.replace(/\s+—\s*$/, "")}`}>
+          Request A Quote
+        </Link> : <p className="mt-3 text-[18px] font-extrabold text-ink-900">From {engine.price}</p>}
         <Link href={engine.buyHref} className="mt-auto inline-flex min-h-10 items-center justify-center gap-2 rounded-lg bg-navy-900 px-3 py-2 text-center text-[11px] font-bold leading-tight text-white transition hover:bg-primary-700">View engine &amp; request quotes <Icon name="arrow-right" className="h-4 w-4 shrink-0" /></Link>
       </div>
     </article>

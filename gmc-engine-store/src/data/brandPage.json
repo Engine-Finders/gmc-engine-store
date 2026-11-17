@@ -3525,7 +3525,7 @@
       "cards": [
         {
           "code": "Tritec",
-          "name": "From £750",
+          "name": "1.6L Petrol · Confirm exact variant",
           "ps": "",
           "nm": "",
           "years": "",
@@ -3764,7 +3764,7 @@
       "families": [
         {
           "code": "Tritec",
-          "spec": "From £750",
+          "spec": "1.6L · Petrol · confirm exact variant",
           "href": "/engines/tritec"
         },
         {
@@ -7593,7 +7593,7 @@
         },
         {
           "code": "T5:T6",
-          "name": "From £995",
+          "name": "Petrol · Confirm exact variant",
           "ps": "",
           "nm": "",
           "years": "",
@@ -7800,7 +7800,7 @@
         },
         {
           "code": "T5:T6",
-          "spec": "From £995",
+          "spec": "Petrol · confirm exact variant",
           "href": "/engines/t5-t6-legacy"
         }
       ]
