@@ -1,5 +1,6 @@
 import fs from "fs";
 import path from "path";
+import { createHash } from "crypto";
 
 /**
  * The public image collection is deliberately resolved on the server. Browsers
@@ -16,6 +17,7 @@ type Asset = { url: string; name: string; normalized: string; compact: string };
 const ASSET_CACHE = new Map<string, Asset[]>();
 const MODEL_RESULT_CACHE = new Map<string, string>();
 const ENGINE_RESULT_CACHE = new Map<string, string>();
+const MODEL_ASSET_VERSION_CACHE = new Map<string, string>();
 
 const MODEL_FOLDER_BY_BRAND: Record<string, string> = {
   audi: "Audi",
@@ -148,9 +150,26 @@ function publicUrl(file: string): string {
   return `/${path.relative(PUBLIC_DIR, file).replace(/\\/g, "/")}`;
 }
 
+function modelAssetVersion(url: string): string {
+  const cached = MODEL_ASSET_VERSION_CACHE.get(url);
+  if (cached) return cached;
+
+  try {
+    const relativePath = url.replace(/^\/+/, "");
+    const source = fs.readFileSync(path.join(PUBLIC_DIR, relativePath));
+    const version = createHash("sha1").update(source).digest("hex").slice(0, 12);
+    MODEL_ASSET_VERSION_CACHE.set(url, version);
+    return version;
+  } catch {
+    // A missing asset will still be handled by the cutout route's fallback.
+    return "missing";
+  }
+}
+
 function modelCutoutUrl(url: string, variant?: "hero"): string {
-  const variantParam = variant ? `&variant=${variant}` : "";
-  return `/api/images/cutout?src=${encodeURIComponent(url)}${variantParam}`;
+  const params = new URLSearchParams({ src: url, v: modelAssetVersion(url) });
+  if (variant) params.set("variant", variant);
+  return `/api/images/cutout?${params.toString()}`;
 }
 
 function readAssets(directory: string): Asset[] {
