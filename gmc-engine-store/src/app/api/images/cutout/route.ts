@@ -24,8 +24,12 @@ function nearWhite(data: Buffer, offset: number, heroVariant = false): boolean {
 
   // Model assets use white studio backgrounds. Keeping the colour-spread
   // check prevents pale vehicle paint from being treated as background.
-  const threshold = heroVariant ? 226 : 238;
-  return red >= threshold && green >= threshold && blue >= threshold && spread <= 22;
+  // Some of the model renders have a softly shaded white studio surround
+  // rather than a pure-white canvas. Keep the flood-fill achromatic so light
+  // vehicle paint is protected, but allow the surround to be removed as one
+  // connected background region.
+  const threshold = heroVariant ? 220 : 232;
+  return red >= threshold && green >= threshold && blue >= threshold && spread <= 32;
 }
 
 function removeBorderBackground(data: Buffer, width: number, height: number, heroVariant = false): Buffer {
@@ -70,12 +74,13 @@ function removeBorderBackground(data: Buffer, width: number, height: number, her
 
 /**
  * Some model renders leave a pale studio-floor reflection below the vehicle.
- * For the brand hero only, clear that light achromatic strip after the border
- * flood-fill. The vehicle remains opaque because its lower body and tyres are
- * substantially darker than the floor.
+ * Clear that light achromatic strip after the border flood-fill for both the
+ * model cards and brand hero. The vehicle remains opaque because its lower
+ * body and tyres are substantially darker than the floor.
  */
-function removeHeroFloor(data: Buffer, width: number, height: number): Buffer {
-  const floorStart = Math.floor(height * 0.8);
+function removeHeroFloor(data: Buffer, width: number, height: number, heroVariant = false): Buffer {
+  const floorStart = Math.floor(height * (heroVariant ? 0.76 : 0.66));
+  const threshold = heroVariant ? 180 : 205;
   for (let y = floorStart; y < height; y += 1) {
     for (let x = 0; x < width; x += 1) {
       const offset = (y * width + x) * 4;
@@ -84,7 +89,7 @@ function removeHeroFloor(data: Buffer, width: number, height: number): Buffer {
       const green = data[offset + 1];
       const blue = data[offset + 2];
       const spread = Math.max(red, green, blue) - Math.min(red, green, blue);
-      if (red >= 180 && green >= 180 && blue >= 180 && spread <= 24) {
+      if (red >= threshold && green >= threshold && blue >= threshold && spread <= 32) {
         data[offset + 3] = 0;
       }
     }
@@ -112,7 +117,7 @@ export async function GET(request: Request) {
       .raw()
       .toBuffer({ resolveWithObject: true });
     const cutout = removeBorderBackground(data, info.width, info.height, heroVariant);
-    if (heroVariant) removeHeroFloor(cutout, info.width, info.height);
+    removeHeroFloor(cutout, info.width, info.height, heroVariant);
     const output = await sharp(cutout, {
       raw: { width: info.width, height: info.height, channels: 4 },
     })

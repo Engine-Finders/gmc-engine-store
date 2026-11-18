@@ -41,7 +41,7 @@ export default function BrandShopByModel({ data, brand }: { data: Data; brand: s
   const canExpand = allModels.length > 8;
 
   return (
-    <section id="shop-by-model" className="scroll-mt-20 bg-[#f4f7fb] py-7 sm:py-8">
+    <section id="shop-by-model" className="scroll-mt-20 bg-[#f4f7fb] py-5 sm:py-8">
       <div className="mx-auto max-w-content px-4 sm:px-6 lg:px-8">
         <div className="flex flex-col gap-3 sm:flex-row sm:items-end sm:justify-between">
           <div>
@@ -51,11 +51,11 @@ export default function BrandShopByModel({ data, brand }: { data: Data; brand: s
           {canExpand ? <button type="button" onClick={() => setExpanded((value) => !value)} aria-expanded={expanded} className="inline-flex items-center gap-1.5 text-[13px] font-bold text-primary-700 underline underline-offset-4 hover:text-primary-600">{expanded ? "Show fewer models" : `View all ${brand} models`} <Icon name={expanded ? "chevron-up" : "arrow-right"} className="h-4 w-4" /></button> : <Link href={data.viewAllHref} className="inline-flex items-center gap-1.5 text-[13px] font-bold text-primary-700 underline underline-offset-4 hover:text-primary-600">View all {brand} models <Icon name="arrow-right" className="h-4 w-4" /></Link>}
         </div>
 
-        <div className="mt-6 grid grid-cols-2 gap-3 lg:grid-cols-4 lg:gap-4">
+        <div className="mt-4 grid grid-cols-2 gap-3 sm:mt-6 lg:grid-cols-4 lg:gap-4">
           {models.map((model) => <ModelCard key={model.name} model={model} />)}
         </div>
 
-        <div className="mt-6 flex justify-center">
+        <div className="mt-4 flex justify-center sm:mt-6">
           {canExpand ? <button type="button" onClick={() => setExpanded((value) => !value)} aria-expanded={expanded} className="inline-flex items-center gap-2 rounded-lg border border-primary-600 bg-white px-5 py-2.5 text-[13px] font-bold text-ink-900 transition hover:bg-primary-600 hover:text-white">{expanded ? "Show fewer models" : "Explore all models"} <Icon name={expanded ? "chevron-up" : "arrow-right"} className="h-4 w-4" /></button> : <Link href={data.viewAllHref} className="inline-flex items-center gap-2 rounded-lg border border-primary-600 bg-white px-5 py-2.5 text-[13px] font-bold text-ink-900 transition hover:bg-primary-600 hover:text-white">Explore all models <Icon name="arrow-right" className="h-4 w-4" /></Link>}
         </div>
       </div>

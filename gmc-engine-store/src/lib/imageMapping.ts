@@ -337,6 +337,10 @@ function brandEngineFallbacks(brand?: string): string[] {
   return [...new Set(names.flatMap((name) => [1, 2, 3].map((variant) => `/images/engines/${name}-engine-${variant}.webp`)))].filter(exists);
 }
 
+export function brandEngineImagesFor(brand: string): string[] {
+  return brandEngineFallbacks(brand).slice(0, 2);
+}
+
 function stableIndex(value: string, length: number): number {
   let hash = 0;
   for (const character of value) hash = (hash * 31 + character.charCodeAt(0)) >>> 0;
@@ -448,6 +452,7 @@ export function resolveBrandImages<T extends Record<string, any>>(data: T, brand
   const brand = data.hero?.brand ?? brandSlug;
   const representative = brandImageFor(brandSlug);
   const heroRepresentative = brandImageFor(brandSlug, "hero");
+  const brandEngineImages = brandEngineImagesFor(brand);
   const firstFamilyCode = data.engineFamilies?.families?.[0]?.code ?? data.hero?.cards?.[0]?.code ?? brand;
   const priceFor = (code: string) => data.engineFamilies?.families?.find((family: Record<string, unknown>) => String(family.code).toLowerCase().startsWith(String(code).toLowerCase()))?.priceFrom;
   return {
@@ -476,6 +481,13 @@ export function resolveBrandImages<T extends Record<string, any>>(data: T, brand
     priceGuide: {
       ...data.priceGuide,
       image: engineImageFor(firstFamilyCode, brand),
+    },
+    usedVsRecon: {
+      ...data.usedVsRecon,
+      options: data.usedVsRecon?.options?.map((option: Record<string, unknown>, index: number) => ({
+        ...option,
+        image: brandEngineImages[index] ?? option.image,
+      })),
     },
     about: { ...data.about, carImage: representative },
     cta: { ...data.cta, carImage: heroRepresentative },

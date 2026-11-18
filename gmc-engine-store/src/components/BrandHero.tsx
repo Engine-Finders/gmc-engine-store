@@ -2,7 +2,7 @@
 
 import { useEffect, useState, type CSSProperties } from "react";
 import Link from "next/link";
-import { motion } from "framer-motion";
+import { AnimatePresence, motion } from "framer-motion";
 import Icon from "./Icon";
 import { useRegCheck } from "./quote/QuoteModal";
 import type { BrandPageData } from "@/lib/brand";
@@ -41,6 +41,7 @@ export default function BrandHero({ data, carImages = [] }: { data: HeroData; ca
   const rc = useRegCheck();
   const [center, setCenter] = useState(0);
   const [carIndex, setCarIndex] = useState(0);
+  const [carDirection, setCarDirection] = useState<1 | -1>(1);
   const [narrow, setNarrow] = useState(false);
 
   useEffect(() => {
@@ -60,15 +61,24 @@ export default function BrandHero({ data, carImages = [] }: { data: HeroData; ca
   const vehicles = [data.carImage, ...carImages.filter((image) => image && image !== data.carImage)].slice(0, 5);
   useEffect(() => {
     if (vehicles.length < 2) return;
-    const timer = window.setInterval(() => setCarIndex((value) => (value + 1) % vehicles.length), 5200);
+    const timer = window.setInterval(() => {
+      setCarDirection(1);
+      setCarIndex((value) => (value + 1) % vehicles.length);
+    }, 5200);
     return () => window.clearInterval(timer);
   }, [vehicles.length]);
 
-  function step(direction: 1 | -1) { setCenter((value) => (value + direction + total) % total); }
-  function stepVehicle(direction: 1 | -1) { setCarIndex((value) => (value + direction + vehicles.length) % vehicles.length); }
+  function stepVehicle(direction: 1 | -1) {
+    setCarDirection(direction);
+    setCarIndex((value) => (value + direction + vehicles.length) % vehicles.length);
+  }
+  function selectVehicle(index: number) {
+    setCarDirection(index >= carIndex ? 1 : -1);
+    setCarIndex(index);
+  }
 
   return (
-    <section className="hero-bg relative overflow-hidden pb-8 text-white sm:pb-0">
+    <section className="hero-bg relative overflow-hidden pb-5 text-white sm:pb-0">
       <div className="hero-dots pointer-events-none absolute inset-0 overflow-hidden" />
       <div className="relative z-10 mx-auto w-full max-w-[1400px] px-4 pb-2 pt-4 sm:px-6 lg:px-8 lg:pb-6 lg:pt-6">
         <nav aria-label="Breadcrumb" className="flex items-center gap-2 text-[11px] font-semibold text-white/55"><Link href="/" className="transition-colors hover:text-white">Home</Link><span aria-hidden>/</span><Link href="/brands" className="transition-colors hover:text-white">Brands</Link><span aria-hidden>/</span><span aria-current="page" className="text-white/85">{data.brand}</span></nav>
@@ -84,11 +94,10 @@ export default function BrandHero({ data, carImages = [] }: { data: HeroData; ca
 
           <div className="relative min-w-0 lg:col-span-3 lg:-translate-x-10">
             <div className="relative z-20 mt-0 h-[218px] sm:mt-0 sm:h-[268px] lg:-translate-y-8 lg:h-[235px]"><div className="relative mx-auto h-full max-w-[900px]">
-              {total > 1 && <><button type="button" onClick={() => step(-1)} aria-label="Previous engine" className="absolute -left-1 top-1/2 z-30 grid h-9 w-9 -translate-y-1/2 place-items-center rounded-full border border-primary-400/60 bg-primary-500/10 text-primary-300 backdrop-blur-xl transition-all hover:bg-primary-500/25 hover:text-white sm:left-0"><Icon name="chevron-left" className="h-4 w-4" /></button><button type="button" onClick={() => step(1)} aria-label="Next engine" className="absolute -right-1 top-1/2 z-30 grid h-9 w-9 -translate-y-1/2 place-items-center rounded-full border border-primary-400/60 bg-primary-500/10 text-primary-300 backdrop-blur-xl transition-all hover:bg-primary-500/25 hover:text-white sm:right-0"><Icon name="chevron-right" className="h-4 w-4" /></button></>}
               <div className="absolute inset-0 flex items-center justify-center">{cards.map((card, cardIndex) => { const forwardOffset = (cardIndex - center + total) % total; const offset = forwardOffset > total / 2 ? forwardOffset - total : forwardOffset; const distance = Math.abs(offset); const isCenter = offset === 0; const isSide = distance === 1; const visible = narrow ? distance <= 1 : distance <= 2; const xOffset = narrow ? offset * 116 : distance === 0 ? 0 : Math.sign(offset) * (distance === 1 ? 165 : 305); const yOffset = isCenter ? -5 : distance === 1 ? 5 : 10; const scale = isCenter ? 0.96 : distance === 1 ? 0.82 : 0.74; const opacity = visible ? (isCenter ? 1 : distance === 1 ? 0.86 : 0.62) : 0; const rotate = isCenter ? 0 : distance === 1 ? offset * 2 : offset * 3; const floatVars = { "--dur": `${7 + (cardIndex % 3) * 0.7}s`, "--delay": `${-(cardIndex % 3) * 1.2}s`, "--amp": isCenter ? "5px" : "7px" } as CSSProperties; return <motion.div key={card.code} initial={false} animate={{ x: xOffset, y: yOffset, scale, opacity, rotate }} transition={{ duration: 0.85, ease: [0.22, 1, 0.36, 1] }} className="absolute w-[126px] sm:w-[184px] lg:w-[198px]" style={{ zIndex: isCenter ? 25 : isSide ? 15 : 10, pointerEvents: visible ? "auto" : "none" }}><div className="hero-float" style={floatVars}><EngineCard card={card} isCenter={isCenter} onActivate={() => isCenter ? window.location.assign(card.href) : setCenter(cardIndex)} /></div></motion.div>; })}</div>
             </div></div>
-            <div className="brand-hero-plate lg:-mt-12"><svg viewBox="0 0 1000 320" preserveAspectRatio="none" className="pointer-events-none absolute bottom-0 left-1/2 h-[96px] w-[96%] -translate-x-1/2 sm:h-[112px] sm:w-[92%] lg:h-[180px] lg:w-[96%]" fill="none" style={{ filter: "drop-shadow(0 0 5px rgba(72,150,255,0.95)) drop-shadow(0 0 16px rgba(37,99,235,0.72))", zIndex: 1 }}><ellipse cx="500" cy="270" rx="450" ry="54" stroke="#67b1ff" strokeWidth="2.5" opacity="0.9" /><ellipse cx="500" cy="270" rx="350" ry="38" stroke="#83c2ff" strokeWidth="1.5" opacity="0.62" /><ellipse cx="500" cy="270" rx="220" ry="22" stroke="#8ecbff" strokeWidth="1.5" opacity="0.42" /></svg>{vehicles.length > 1 && <><button type="button" onClick={() => stepVehicle(-1)} aria-label="Previous vehicle image" className="absolute left-[8%] top-[58%] z-20 grid h-9 w-9 -translate-y-1/2 place-items-center rounded-full border border-primary-300/70 bg-navy-900/70 text-primary-200 backdrop-blur transition hover:bg-primary-600 hover:text-white lg:left-[17%]"><Icon name="chevron-left" className="h-4 w-4" /></button><button type="button" onClick={() => stepVehicle(1)} aria-label="Next vehicle image" className="absolute right-[8%] top-[58%] z-20 grid h-9 w-9 -translate-y-1/2 place-items-center rounded-full border border-primary-300/70 bg-navy-900/70 text-primary-200 backdrop-blur transition hover:bg-primary-600 hover:text-white lg:right-[17%]"><Icon name="chevron-right" className="h-4 w-4" /></button></>}<motion.div key={vehicles[carIndex] ?? data.carImage} initial={{ opacity: 0, x: 12 }} animate={{ opacity: 1, x: 0 }} transition={{ duration: 0.35 }} className="absolute inset-0" style={{ zIndex: 10 }}><img src={vehicles[carIndex] ?? data.carImage} alt={`${data.name} car`} draggable={false} className="vehicle-cutout brand-hero-car pointer-events-none select-none" /></motion.div></div>
-            {vehicles.length > 1 && <div className="relative z-30 -mt-2 flex items-center justify-center gap-2"><span className="sr-only">Vehicle image controls</span>{vehicles.map((image, index) => <button key={image} type="button" onClick={() => setCarIndex(index)} aria-label={`Show vehicle image ${index + 1}`} aria-current={carIndex === index ? "true" : undefined} className={`h-2.5 w-2.5 rounded-full transition ${carIndex === index ? "bg-primary-500" : "bg-white/35 hover:bg-white/65"}`} />)}</div>}
+            <div className="brand-hero-plate lg:-mt-12"><svg viewBox="0 0 1000 320" preserveAspectRatio="none" className="pointer-events-none absolute bottom-0 left-1/2 h-[96px] w-[96%] -translate-x-1/2 sm:h-[112px] sm:w-[92%] lg:h-[180px] lg:w-[96%]" fill="none" style={{ filter: "drop-shadow(0 0 5px rgba(72,150,255,0.95)) drop-shadow(0 0 16px rgba(37,99,235,0.72))", zIndex: 1 }}><ellipse cx="500" cy="270" rx="450" ry="54" stroke="#67b1ff" strokeWidth="2.5" opacity="0.9" /><ellipse cx="500" cy="270" rx="350" ry="38" stroke="#83c2ff" strokeWidth="1.5" opacity="0.62" /><ellipse cx="500" cy="270" rx="220" ry="22" stroke="#8ecbff" strokeWidth="1.5" opacity="0.42" /></svg>{vehicles.length > 1 && <><button type="button" onClick={() => stepVehicle(-1)} aria-label="Previous vehicle image" className="absolute left-[3%] top-[58%] z-20 grid h-9 w-9 -translate-y-1/2 place-items-center rounded-full border border-primary-300/70 bg-navy-900/70 text-primary-200 backdrop-blur transition hover:bg-primary-600 hover:text-white lg:left-[8%]"><Icon name="chevron-left" className="h-4 w-4" /></button><button type="button" onClick={() => stepVehicle(1)} aria-label="Next vehicle image" className="absolute right-[3%] top-[58%] z-20 grid h-9 w-9 -translate-y-1/2 place-items-center rounded-full border border-primary-300/70 bg-navy-900/70 text-primary-200 backdrop-blur transition hover:bg-primary-600 hover:text-white lg:right-[8%]"><Icon name="chevron-right" className="h-4 w-4" /></button></>}<AnimatePresence initial={false} mode="sync"><motion.div key={vehicles[carIndex] ?? data.carImage} initial={{ opacity: 0, x: carDirection > 0 ? 120 : -120, scale: 0.96, filter: "blur(7px)" }} animate={{ opacity: 1, x: 0, scale: 1, filter: "blur(0px)" }} exit={{ opacity: 0, x: carDirection > 0 ? -120 : 120, scale: 0.98, filter: "blur(6px)" }} transition={{ duration: 0.72, ease: [0.22, 1, 0.36, 1] }} className="absolute inset-0" style={{ zIndex: 10 }}><img src={vehicles[carIndex] ?? data.carImage} alt={`${data.name} car`} draggable={false} className="vehicle-cutout brand-hero-car pointer-events-none select-none" /></motion.div></AnimatePresence></div>
+            {vehicles.length > 1 && <div className="relative z-30 -mt-2 flex items-center justify-center gap-2"><span className="sr-only">Vehicle image controls</span>{vehicles.map((image, index) => <button key={image} type="button" onClick={() => selectVehicle(index)} aria-label={`Show vehicle image ${index + 1}`} aria-current={carIndex === index ? "true" : undefined} className={`h-2.5 w-2.5 rounded-full transition ${carIndex === index ? "bg-primary-500" : "bg-white/35 hover:bg-white/65"}`} />)}</div>}
             <p className="mt-2 text-center text-[10px] text-white/55">Indicative starting prices — supplier confirms final quote</p>
           </div>
         </div>

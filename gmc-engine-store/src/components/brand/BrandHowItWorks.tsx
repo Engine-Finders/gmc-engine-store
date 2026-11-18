@@ -11,33 +11,27 @@ const illustrations = [
 ];
 
 export default function BrandHowItWorks({ data, brand }: { data: Data; brand: string }) {
-  const steps = [
-    { number: "01", title: "Find your engine", description: `Browse by model or engine code, or enter your registration. Choose supply only, supply and fit, or an engine rebuild.` },
-    { number: "02", title: "Receive supplier quotes", description: `We match your ${brand} engine requirements first, prioritising nearby suppliers and nationwide options where needed.` },
-    { number: "03", title: "Choose your supplier", description: "Compare the specification, final price and terms. Arrange your purchase or service directly with your chosen supplier." },
-  ];
+  const steps = data.steps.slice(0, 3);
 
   return (
-    <section className="bg-white py-7 sm:py-8">
+    <section className="bg-white py-5 sm:py-8">
       <div className="mx-auto max-w-content px-4 sm:px-6 lg:px-8">
         <p className="text-[12px] font-extrabold uppercase tracking-[0.16em] text-primary-700">How it works</p>
-        <h2 className="mt-1 text-[24px] font-extrabold tracking-tight text-ink-900 sm:text-[28px]">How to get {brand} engine quotes</h2>
-        <ol className="mt-7 grid gap-7 md:grid-cols-3 md:gap-8">
+        <h2 className="mt-1 text-[24px] font-extrabold tracking-tight text-ink-900 sm:text-[28px]">{data.title || `How to get ${brand} engine quotes`}</h2>
+        <ol className="mt-5 grid gap-4 md:mt-7 md:grid-cols-3 md:gap-5">
           {steps.map((step, index) => (
-            <li key={step.number} className="relative pl-12 text-center md:pl-0 md:text-left">
-              <div className="relative md:flex md:items-start md:gap-3 md:flex-col">
-                <span className="absolute left-[-48px] top-1 grid h-9 w-9 shrink-0 place-items-center rounded-full bg-primary-600 text-[13px] font-extrabold text-white md:static">{step.number}</span>
-                <div className="flex h-[90px] w-full items-center justify-center rounded-lg bg-[#f5f8fc] md:mt-3 md:h-[112px]">
-                  <img src={illustrations[index]} alt="" aria-hidden loading="lazy" className="h-[74px] max-w-[150px] object-contain md:h-[94px]" />
-                </div>
+            <li key={step.number} className="relative rounded-xl border border-line bg-white p-4 shadow-[0_14px_32px_-24px_rgba(11,18,32,0.5)] sm:p-5">
+              <div className="relative flex min-h-[104px] items-center justify-center">
+                <span className="absolute left-0 top-0 grid h-10 w-10 shrink-0 place-items-center rounded-full bg-primary-600 text-[13px] font-extrabold text-white shadow-cta">{String(step.number).padStart(2, "0")}</span>
+                <img src={illustrations[index]} alt="" aria-hidden loading="lazy" className="h-24 w-32 object-contain" />
               </div>
-              {index < 2 && <span aria-hidden className="absolute right-[-22px] top-[66px] hidden w-8 border-t-2 border-dotted border-primary-400 md:block" />}
-              <h3 className="mt-4 text-[17px] font-extrabold text-ink-900">{step.title}</h3>
-              <p className="mt-1.5 text-[13px] leading-relaxed text-ink-500">{step.description}</p>
+              {index < steps.length - 1 && <span aria-hidden className="absolute right-[-21px] top-10 z-10 hidden w-8 border-t-2 border-dotted border-primary-400 md:block" />}
+              <h3 className="mt-4 text-[17px] font-extrabold leading-tight text-ink-900">{step.title}</h3>
+              <p className="mt-2 text-[13px] leading-relaxed text-ink-500">{step.description}</p>
             </li>
           ))}
         </ol>
-        <div className="mt-7 flex flex-col gap-4 sm:flex-row sm:items-center">
+        <div className="mt-5 flex flex-col gap-4 sm:mt-7 sm:flex-row sm:items-center">
           <Link href="#supplier-quote" className="inline-flex items-center justify-center gap-2 rounded-lg bg-primary-600 px-5 py-3 text-[13px] font-bold text-white transition hover:bg-primary-500">Get free engine quotes <Icon name="arrow-right" className="h-4 w-4" /></Link>
           <p className="border-l border-line pl-4 text-[12px] text-ink-500">Your enquiry is not an order. We share it with a small number of suitable suppliers.</p>
         </div>
