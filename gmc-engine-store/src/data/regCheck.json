@@ -1,11 +1,11 @@
 {
-  "title": "Find your engine by reg",
-  "description": "We'll confirm your exact model, year and factory engine code before you buy.",
-  "placeholder": "ENTER REG NUMBER",
-  "buttonText": "Find my engine",
+  "title": "Find replacement engines by registration",
+  "description": "Enter your registration and postcode to help us match your engine requirements with suitable suppliers.",
+  "placeholder": "Enter Reg Number",
+  "buttonText": "Find My Replacement Engine",
   "securityBadges": [
-    { "icon": "shield", "text": "100% Secure" },
-    { "icon": "card", "text": "No payment required" }
+    { "icon": "check", "text": "No order placed" },
+    { "icon": "config", "text": "Supplier quotes" }
   ],
   "countryFlag": "GB"
 }

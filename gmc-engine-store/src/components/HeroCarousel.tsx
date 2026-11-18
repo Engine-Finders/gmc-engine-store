@@ -10,7 +10,6 @@ type Card = {
   spec: string;
   condition: string;
   price: string;
-  inStock: boolean;
   image: string;
   href: string;
   featured: boolean;
@@ -91,12 +90,6 @@ function CardFace({ card, active }: { card: Card; active: boolean }) {
         <div className="relative flex items-end justify-between">
           <div>
             <p className="text-lg font-extrabold text-white [text-shadow:0_1px_3px_rgba(0,0,0,0.55)]">{card.price}</p>
-            {card.inStock && (
-              <span className="mt-0.5 inline-flex items-center gap-1 text-[10px] font-medium text-green-400">
-                <span className="w-1.5 h-1.5 rounded-full bg-green-400" />
-                In stock
-              </span>
-            )}
           </div>
           <Icon name="arrow-right" className="w-4 h-4 text-white/80" />
         </div>

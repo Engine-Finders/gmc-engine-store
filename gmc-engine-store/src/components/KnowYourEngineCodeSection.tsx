@@ -3,14 +3,12 @@
 import Link from "next/link";
 import { useMemo, useState } from "react";
 import Icon from "./Icon";
-import { useQuoteModal } from "./quote/QuoteModal";
 import type { HomepageDiscoveryData, HomepageEngineFamily } from "@/lib/homepageDiscovery";
 
-function EngineFamilyCard({ family, onSelect }: { family: HomepageEngineFamily; onSelect: (family: HomepageEngineFamily) => void }) {
+function EngineFamilyCard({ family }: { family: HomepageEngineFamily }) {
   return (
-    <button
-      type="button"
-      onClick={() => onSelect(family)}
+    <Link
+      href={family.href}
       className="group flex h-[162px] flex-col rounded-xl border border-white/60 bg-[#0a203e] p-3.5 text-left transition hover:-translate-y-1 hover:border-primary-400 hover:shadow-[0_16px_36px_rgba(0,0,0,0.22)] sm:h-[172px] sm:p-4"
       aria-label={`Explore applications for ${family.brand} ${family.code}`}
     >
@@ -27,12 +25,11 @@ function EngineFamilyCard({ family, onSelect }: { family: HomepageEngineFamily; 
         Explore Applications
         <Icon name="arrow-right" className="h-5 w-5 text-primary-400 transition group-hover:translate-x-0.5" />
       </span>
-    </button>
+    </Link>
   );
 }
 
 export default function KnowYourEngineCodeSection({ data }: { data: HomepageDiscoveryData }) {
-  const { open } = useQuoteModal();
   const [query, setQuery] = useState("");
   const normalizedQuery = query.trim().toLowerCase();
   const matches = useMemo(
@@ -41,32 +38,16 @@ export default function KnowYourEngineCodeSection({ data }: { data: HomepageDisc
   );
   const visibleFamilies = normalizedQuery ? matches : matches.slice(0, 4);
 
-  function selectFamily(family: HomepageEngineFamily) {
-    open({
-      heading: "Find Your Replacement Engine",
-      part: "Engine",
-      note: `Selected engine family: ${family.brand} ${family.code}${family.displacement ? ` (${family.displacement}${family.fuel ? `, ${family.fuel}` : ""})` : ""}.`,
-      engine: {
-        brand: family.brand,
-        code: family.code,
-        displacement: family.displacement,
-        fuel: family.fuel,
-        image: family.image,
-        href: family.href,
-      },
-    });
-  }
-
   return (
     <section className="border-t-4 border-primary-500 bg-[#06172e] py-8 text-white sm:py-10 lg:py-12" aria-labelledby="engine-code-heading">
       <div className="mx-auto max-w-content px-4 sm:px-6 lg:px-0">
         <div className="flex items-end justify-between gap-4">
           <div>
-            <h2 id="engine-code-heading" className="text-[24px] font-extrabold leading-[1.08] tracking-tight sm:text-[30px] lg:text-[34px]">Know Your Engine Code?</h2>
-            <p className="mt-1.5 text-[13px] text-white/80 sm:text-[14px]">Know Your Engine Code? Explore The Engine Family, Then Select Your Model And Application.</p>
+            <h2 id="engine-code-heading" className="text-[24px] font-extrabold leading-[1.08] tracking-tight sm:text-[30px] lg:text-[34px]">Find Replacement Engines By Engine Code</h2>
+            <p className="mt-1.5 text-[13px] text-white/80 sm:text-[14px]">Know your engine code? Explore the engine family, then select your model and application.</p>
           </div>
           <Link href="/engines" className="hidden items-center gap-2 pb-1 text-[13px] font-extrabold text-white underline decoration-primary-400 underline-offset-4 hover:text-primary-300 sm:inline-flex sm:text-[14px]">
-            All Engine Families
+            View All Engine Families
             <Icon name="arrow-right" className="h-5 w-5" />
           </Link>
         </div>
@@ -79,24 +60,24 @@ export default function KnowYourEngineCodeSection({ data }: { data: HomepageDisc
             type="search"
             value={query}
             onChange={(event) => setQuery(event.target.value)}
-            placeholder="Search Engine Code, E.G. N47 Or OM651"
+            placeholder="Search engine code, e.g. N47 or OM651"
             className="min-w-0 flex-1 bg-transparent text-[14px] outline-none placeholder:text-ink-500 sm:text-[15px]"
           />
         </div>
 
         {matches.length > 0 ? (
           <div className="mt-4 grid gap-3 sm:mt-5 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
-            {visibleFamilies.map((family) => <EngineFamilyCard key={family.slug} family={family} onSelect={selectFamily} />)}
+            {visibleFamilies.map((family) => <EngineFamilyCard key={family.slug} family={family} />)}
           </div>
         ) : (
           <p role="status" className="mt-5 rounded-xl border border-white/25 bg-white/5 px-4 py-7 text-center text-[13px] font-semibold text-white/85 sm:text-[14px]">
-            No Engine Families Match That Code.
+            No engine families match that code.
           </p>
         )}
 
-        <p className="mt-4 text-[12px] italic leading-5 text-white/75 sm:text-[13px]">Engine Family Alone Does Not Confirm Fitment. Check Your Vehicle Specification Before Ordering.</p>
+        <p className="mt-4 text-[12px] italic leading-5 text-white/75 sm:text-[13px]">An engine code alone does not confirm compatibility. Your supplier must check the exact specification for your vehicle before you buy.</p>
         <Link href="/engines" className="mt-4 inline-flex items-center gap-2 text-[13px] font-extrabold text-white underline decoration-primary-400 underline-offset-4 hover:text-primary-300 sm:hidden">
-          All Engine Families
+          View All Engine Families
           <Icon name="arrow-right" className="h-5 w-5" />
         </Link>
       </div>

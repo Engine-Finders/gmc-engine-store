@@ -24,8 +24,12 @@ function nearWhite(data: Buffer, offset: number, heroVariant = false): boolean {
 
   // Model assets use white studio backgrounds. Keeping the colour-spread
   // check prevents pale vehicle paint from being treated as background.
-  const threshold = heroVariant ? 226 : 238;
-  return red >= threshold && green >= threshold && blue >= threshold && spread <= 22;
+  // Some of the model renders have a softly shaded white studio surround
+  // rather than a pure-white canvas. Keep the flood-fill achromatic so light
+  // vehicle paint is protected, but allow the surround to be removed as one
+  // connected background region.
+  const threshold = heroVariant ? 220 : 232;
+  return red >= threshold && green >= threshold && blue >= threshold && spread <= 32;
 }
 
 function removeBorderBackground(data: Buffer, width: number, height: number, heroVariant = false): Buffer {
@@ -70,24 +74,70 @@ function removeBorderBackground(data: Buffer, width: number, height: number, her
 
 /**
  * Some model renders leave a pale studio-floor reflection below the vehicle.
- * For the brand hero only, clear that light achromatic strip after the border
- * flood-fill. The vehicle remains opaque because its lower body and tyres are
- * substantially darker than the floor.
+ * Remove only the achromatic floor component that is connected to the bottom
+ * canvas edge. This is safer than a global brightness key: silver/white body
+ * panels remain protected behind the car's dark lower contour.
  */
-function removeHeroFloor(data: Buffer, width: number, height: number): Buffer {
-  const floorStart = Math.floor(height * 0.8);
-  for (let y = floorStart; y < height; y += 1) {
+function removeHeroFloor(data: Buffer, width: number, height: number, heroVariant = false): Buffer {
+  const floorStart = Math.floor(height * (heroVariant ? 0.60 : 0.66));
+  // The remaining contact shadow can be medium-grey rather than white. Keep
+  // this threshold low enough to remove that studio floor, but still require
+  // an achromatic colour and connection to transparent background.
+  const threshold = 80;
+  const spreadLimit = 45;
+  const pixelCount = width * height;
+  const visited = new Uint8Array(pixelCount);
+  const queue = new Int32Array(pixelCount);
+  let head = 0;
+  let tail = 0;
+
+  const isFloor = (index: number): boolean => {
+    const y = Math.floor(index / width);
+    if (y < floorStart) return false;
+    const offset = index * 4;
+    if (data[offset + 3] === 0) return false;
+    const red = data[offset];
+    const green = data[offset + 1];
+    const blue = data[offset + 2];
+    return (
+      Math.min(red, green, blue) >= threshold &&
+      Math.max(red, green, blue) - Math.min(red, green, blue) <= spreadLimit
+    );
+  };
+
+  const enqueue = (index: number) => {
+    if (visited[index] || !isFloor(index)) return;
+    visited[index] = 1;
+    queue[tail++] = index;
+  };
+
+  // The first flood-fill may already have made the white surround transparent.
+  // Seed from every transparent neighbour, not only the original canvas edge,
+  // so a grey floor reflection separated from the border by that transparent
+  // surround is still removed.
+  for (let y = 0; y < height; y += 1) {
     for (let x = 0; x < width; x += 1) {
-      const offset = (y * width + x) * 4;
-      if (data[offset + 3] === 0) continue;
-      const red = data[offset];
-      const green = data[offset + 1];
-      const blue = data[offset + 2];
-      const spread = Math.max(red, green, blue) - Math.min(red, green, blue);
-      if (red >= 180 && green >= 180 && blue >= 180 && spread <= 24) {
-        data[offset + 3] = 0;
-      }
+      const index = y * width + x;
+      if (data[index * 4 + 3] !== 0) continue;
+      if (x > 0) enqueue(index - 1);
+      if (x < width - 1) enqueue(index + 1);
+      if (y > 0) enqueue(index - width);
+      if (y < height - 1) enqueue(index + width);
     }
+  }
+
+  while (head < tail) {
+    const index = queue[head++];
+    const x = index % width;
+    const y = Math.floor(index / width);
+    if (x > 0) enqueue(index - 1);
+    if (x < width - 1) enqueue(index + 1);
+    if (y > 0) enqueue(index - width);
+    if (y < height - 1) enqueue(index + width);
+  }
+
+  for (let index = 0; index < pixelCount; index += 1) {
+    if (visited[index]) data[index * 4 + 3] = 0;
   }
   return data;
 }
@@ -112,7 +162,7 @@ export async function GET(request: Request) {
       .raw()
       .toBuffer({ resolveWithObject: true });
     const cutout = removeBorderBackground(data, info.width, info.height, heroVariant);
-    if (heroVariant) removeHeroFloor(cutout, info.width, info.height);
+    removeHeroFloor(cutout, info.width, info.height, heroVariant);
     const output = await sharp(cutout, {
       raw: { width: info.width, height: info.height, channels: 4 },
     })

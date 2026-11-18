@@ -43,7 +43,6 @@ type Card = {
   spec: string;
   condition: string;
   price: string;
-  inStock: boolean;
   image: string;
   href: string;
 };
@@ -402,13 +401,7 @@ function OrbitCard({ card, index }: { card: Card; index: number }) {
 
         <div className="relative flex items-end justify-between px-6 pb-6 pt-2">
           <div>
-            <p className="text-[38px] font-extrabold leading-none text-white [text-shadow:0_2px_6px_rgba(0,0,0,0.6)]">{card.price}</p>
-            {card.inStock && (
-              <span className="mt-2.5 inline-flex items-center gap-2 text-[17px] font-medium text-green-400">
-                <span className="h-2.5 w-2.5 rounded-full bg-green-400 shadow-[0_0_8px_rgba(74,222,128,0.9)]" />
-                In stock
-              </span>
-            )}
+            <p className="whitespace-nowrap text-[30px] font-extrabold leading-none text-white [text-shadow:0_2px_6px_rgba(0,0,0,0.6)]">{card.price}</p>
           </div>
           <span data-arrow className="mb-1 grid place-items-center text-white/85">
             <Icon name="arrow-right" className="h-7 w-7" />

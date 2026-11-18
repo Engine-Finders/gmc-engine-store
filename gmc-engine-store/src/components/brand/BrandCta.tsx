@@ -1,57 +1,46 @@
 "use client";
 
+import { useState } from "react";
 import Icon from "../Icon";
 import UkFlag from "../UkFlag";
-import { useRegCheck } from "../quote/QuoteModal";
+import { useQuoteModal } from "../quote/QuoteModal";
 import type { BrandPageData } from "@/lib/brand";
 
 type Data = BrandPageData["cta"];
 
-export default function BrandCta({ data }: { data: Data }) {
-  const rc = useRegCheck();
+export default function BrandCta({ data, brand }: { data: Data; brand: string }) {
+  const { open } = useQuoteModal();
+  const [reg, setReg] = useState("");
+  const [postcode, setPostcode] = useState("");
+
+  function submit(event: React.FormEvent<HTMLFormElement>) {
+    event.preventDefault();
+    open({ reg: reg.trim(), postcode: postcode.trim(), brand, requestService: true, heading: `Get quotes for your ${brand} replacement engine` });
+  }
+
   return (
-    <section className="bg-white pb-10 lg:pb-12">
-      <div className="max-w-content mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="navy-panel relative overflow-hidden rounded-xl border border-white/10 px-6 lg:px-10 py-8 lg:py-9">
-          <div className="hero-dots absolute inset-0 opacity-40" />
-          <div className="relative grid grid-cols-1 lg:grid-cols-2 gap-8 items-center">
-            {/* Left */}
+    <section id="supplier-quote" className="scroll-mt-20 bg-white py-5 sm:py-6">
+      <div className="mx-auto max-w-content px-4 sm:px-6 lg:px-8">
+        <div className="navy-panel relative overflow-hidden rounded-2xl border border-primary-400/40 px-5 py-5 sm:px-7 sm:py-6 lg:px-9 lg:py-6">
+          <div className="hero-dots pointer-events-none absolute inset-0 opacity-25" />
+          <div className="relative grid gap-7 lg:grid-cols-[1.1fr_0.9fr] lg:items-center">
             <div>
-              <h2 className="text-[26px] sm:text-[32px] font-extrabold leading-[1.1] tracking-tight text-white">
-                {data.title} <br className="hidden sm:block" />
-                <span className="text-primary-500">{data.highlight}</span>
-              </h2>
-              <p className="mt-3 max-w-md text-[13px] leading-relaxed text-ink-400">{data.description}</p>
-
-              <form onSubmit={rc.onSubmit} className="mt-5 flex max-w-md items-stretch overflow-hidden rounded-lg bg-white">
-                <span className="flex items-center gap-1.5 px-2.5 bg-[#eef1f6] border-r border-line">
-                  <UkFlag className="w-6 h-4 rounded-sm" />
-                  <span className="text-[11px] font-bold text-ink-700">{data.countryFlag}</span>
-                </span>
-                <input type="text" placeholder={data.placeholder} value={rc.reg} onChange={rc.onChange} name="reg" autoComplete="off" aria-label="Vehicle registration" className="flex-1 min-w-0 px-3 py-3 text-base sm:text-[13px] font-semibold tracking-wide text-ink-900 placeholder:text-ink-400 outline-none" />
-                <button type="submit" className="shrink-0 bg-primary-600 px-5 text-sm font-bold text-white transition-colors hover:bg-primary-500">{data.buttonText}</button>
+              <p className="text-[12px] font-extrabold uppercase tracking-[0.12em] text-primary-400">Request supplier quotes</p>
+              <h2 className="mt-2 max-w-xl text-[27px] font-extrabold leading-tight tracking-tight text-white sm:text-[34px]">Get quotes for your {brand} replacement engine</h2>
+              <p className="mt-3 max-w-xl text-[13px] leading-relaxed text-white/75">Enter your registration and postcode to find suitable UK suppliers. Choose supply only, supply and fit, or a rebuild of your existing engine.</p>
+              <form onSubmit={submit} className="mt-5 max-w-[620px]">
+                <div className="grid gap-3 sm:grid-cols-2">
+                  <div className="flex overflow-hidden rounded-lg bg-white"><label htmlFor="supplier-quote-reg" className="sr-only">Vehicle registration</label><span className="flex items-center gap-1.5 bg-primary-600 px-3 text-[11px] font-bold text-white"><UkFlag className="h-4 w-6 rounded-sm" />{data.countryFlag}</span><input id="supplier-quote-reg" value={reg} onChange={(event) => setReg(event.target.value.toUpperCase())} autoComplete="off" placeholder={data.placeholder} className="min-w-0 flex-1 px-3 py-3 text-sm font-semibold tracking-wide text-ink-900 outline-none placeholder:text-ink-400" /></div>
+                  <div><label htmlFor="supplier-quote-postcode" className="sr-only">Postcode</label><input id="supplier-quote-postcode" value={postcode} onChange={(event) => setPostcode(event.target.value)} autoComplete="postal-code" placeholder="POSTCODE" className="w-full rounded-lg bg-white px-3 py-3 text-sm font-semibold tracking-wide text-ink-900 outline-none placeholder:text-ink-400" /></div>
+                </div>
+                <button type="submit" className="mt-3 inline-flex w-full items-center justify-center gap-2 rounded-lg bg-primary-600 px-5 py-3 text-[14px] font-extrabold text-white transition hover:bg-primary-500">Get free engine quotes <Icon name="arrow-right" className="h-5 w-5" /></button>
               </form>
-
-              <div className="mt-4 flex flex-wrap items-center gap-x-5 gap-y-2">
-                {data.badges.map((b) => (
-                  <span key={b.text} className="inline-flex items-center gap-1.5 text-[12px] font-medium text-white/75">
-                    <Icon name={b.icon} className="w-4 h-4 text-primary-400" />
-                    {b.text}
-                  </span>
-                ))}
-              </div>
+              <p className="mt-3 text-[12px] font-bold text-white">Your enquiry is shared with a small number of suitable suppliers who may contact you.</p>
+              <p className="mt-1 text-[12px] leading-relaxed text-white/70">Your supplier confirms compatibility, availability, final pricing and all service terms.</p>
+              <p className="mt-2 text-[11px] leading-relaxed text-white/65">We use your details to match your enquiry and share it with suitable suppliers. Read our <a href="/privacy" className="font-semibold text-white underline underline-offset-2">Privacy Policy</a>.</p>
+              <div className="mt-5 border-t border-white/20 pt-3 text-[11px] leading-relaxed text-white/65">Submitting an enquiry does not place an order. You arrange any purchase or service directly with your chosen supplier.</div>
             </div>
-
-            {/* Right — car */}
-            <div className="relative hidden h-[150px] lg:block">
-              {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img
-                src={data.carImage}
-                alt=""
-                className="vehicle-cutout absolute bottom-1/2 right-0 h-[136px] w-[92%] max-w-[520px] translate-y-1/2 object-contain object-right"
-                draggable={false}
-              />
-            </div>
+            <div className="relative flex min-h-[180px] items-end justify-center lg:min-h-[240px]"><img src={data.carImage} alt={`${brand} vehicle`} loading="lazy" className="relative z-10 h-[190px] w-full object-contain object-bottom sm:h-[235px]" /></div>
           </div>
         </div>
       </div>

@@ -1,31 +1,31 @@
 {
   "seo": {
-    "title": "Contact GMC Engine Store | Free Engine Quote",
-    "description": "Get a free, fixed-price quote for a used or reconditioned engine. Enter your registration, tell us what you need and a specialist will call you back.",
+    "title": "Contact Engined | Replacement Engine Enquiries",
+    "description": "Tell us your vehicle and engine requirements. We connect buyers with suitable UK suppliers who may contact you with quotes.",
     "path": "/contact"
   },
   "hero": {
     "kicker": "Contact",
     "title": "Get your free",
     "highlight": "engine quote",
-    "description": "Enter your registration and leave your details. A specialist confirms fitment and comes back to you with a fixed price, UK delivery included."
+    "description": "Enter your registration, postcode and requirements. Suitable suppliers can contact you with availability, specification and quotation details."
   },
   "form": {
     "title": "Request a quote",
-    "description": "Takes a minute. We use your registration to check the exact engine for your car."
+    "description": "Share your vehicle details and service requirement so we can match your enquiry with suitable suppliers."
   },
   "steps": {
     "title": "What happens next",
     "items": [
-      { "icon": "search", "title": "We check your registration", "description": "We match your car to the exact engine and variant before quoting." },
-      { "icon": "clipboard", "title": "You get a fixed price", "description": "Used and reconditioned options, with the warranty terms on each listing." },
-      { "icon": "truck", "title": "We deliver across the UK", "description": "Tested, packed and sent to your door or your garage." }
+      { "icon": "search", "title": "We identify your requirements", "description": "We use your vehicle and engine details to identify suitable applications." },
+      { "icon": "clipboard", "title": "Suitable suppliers respond", "description": "A small number of suitable suppliers may contact you with their quotation and terms." },
+      { "icon": "check-circle", "title": "You choose the supplier", "description": "Compare the specification, final price and service terms directly with the supplier." }
     ]
   },
   "reasons": [
-    { "icon": "shield-check", "title": "12-Month Warranty", "subtitle": "Unlimited mileage" },
-    { "icon": "shield", "title": "Verified Fitment", "subtitle": "Checked by registration" },
-    { "icon": "returns", "title": "14-Day Returns", "subtitle": "Uninstalled, full refund" }
+    { "icon": "shield-check", "title": "UK business details", "subtitle": "Companies House and address checked" },
+    { "icon": "config", "title": "Engine-specific matching", "subtitle": "Supplier confirms specification" },
+    { "icon": "wrench", "title": "Choose your service", "subtitle": "Supply, fit or rebuild" }
   ],
   "details": {
     "title": "Other ways to reach us",

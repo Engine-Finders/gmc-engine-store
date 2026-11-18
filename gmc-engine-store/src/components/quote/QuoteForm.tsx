@@ -19,6 +19,7 @@ export type QuoteEngineDetails = {
 /** What opens the quote form: an optional heading, vehicle lookup, selected engine and enquiry note. */
 export type QuoteOptions = {
   heading?: string;
+  brand?: string;
   reg?: string;
   postcode?: string;
   engineCode?: string;
@@ -27,6 +28,7 @@ export type QuoteOptions = {
   engine?: QuoteEngineDetails;
   requestService?: boolean;
   service?: "Replacement engine" | "Supply-only engine" | "Supply and fit" | "Engine rebuild";
+  returnFocusId?: string;
 };
 
 const FIELD =
@@ -148,9 +150,9 @@ export default function QuoteForm({ opts = {}, source = "quote-popup", idPrefix 
       <input type="hidden" name="engine_capacity" value={vehicle?.engineCapacity || ""} />
       <input type="hidden" name="fuel_type" value={vehicle?.fuelType || ""} />
       <input type="hidden" name="vehicle_part" value={opts.part || "Engine"} />
-      {(opts.engine || engineCode) && (
+      {(opts.engine || engineCode || opts.brand) && (
         <>
-          <input type="hidden" name="engine_brand" value={opts.engine?.brand || ""} />
+          <input type="hidden" name="engine_brand" value={opts.engine?.brand || opts.brand || ""} />
           <input type="hidden" name="engine_code" value={opts.engine?.code || engineCode} />
           <input type="hidden" name="engine_displacement" value={opts.engine?.displacement || ""} />
           <input type="hidden" name="engine_fuel" value={opts.engine?.fuel || ""} />
@@ -178,7 +180,7 @@ export default function QuoteForm({ opts = {}, source = "quote-popup", idPrefix 
 
       {(opts.engine || opts.requestService) && (
         <div>
-          <label htmlFor={id("service")} className="mb-1 block text-sm font-bold text-ink-900">Service Or Replacement Requirement</label>
+          <label htmlFor={id("service")} className="mb-1 block text-sm font-bold text-ink-900">What Do You Need?</label>
           <select
             id={id("service")}
             name="service"
@@ -209,6 +211,7 @@ export default function QuoteForm({ opts = {}, source = "quote-popup", idPrefix 
         {lead.status === "loading" ? "Sending..." : "Get My Free Quote"}
         <Icon name="arrow-right" className="h-5 w-5" />
       </button>
+      <p className="text-[12px] leading-5 text-ink-600">We use your enquiry details to match your request and share them with a small number of suitable suppliers who may contact you. Read our <a href="/privacy" className="font-semibold text-primary-700 underline underline-offset-2">Privacy Policy</a>.</p>
       <LeadStatus lead={lead} />
     </form>
   );

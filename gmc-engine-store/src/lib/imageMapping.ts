@@ -1,5 +1,6 @@
 import fs from "fs";
 import path from "path";
+import { createHash } from "crypto";
 
 /**
  * The public image collection is deliberately resolved on the server. Browsers
@@ -16,6 +17,7 @@ type Asset = { url: string; name: string; normalized: string; compact: string };
 const ASSET_CACHE = new Map<string, Asset[]>();
 const MODEL_RESULT_CACHE = new Map<string, string>();
 const ENGINE_RESULT_CACHE = new Map<string, string>();
+const MODEL_ASSET_VERSION_CACHE = new Map<string, string>();
 
 const MODEL_FOLDER_BY_BRAND: Record<string, string> = {
   audi: "Audi",
@@ -148,9 +150,26 @@ function publicUrl(file: string): string {
   return `/${path.relative(PUBLIC_DIR, file).replace(/\\/g, "/")}`;
 }
 
+function modelAssetVersion(url: string): string {
+  const cached = MODEL_ASSET_VERSION_CACHE.get(url);
+  if (cached) return cached;
+
+  try {
+    const relativePath = url.replace(/^\/+/, "");
+    const source = fs.readFileSync(path.join(PUBLIC_DIR, relativePath));
+    const version = createHash("sha1").update(source).digest("hex").slice(0, 12);
+    MODEL_ASSET_VERSION_CACHE.set(url, version);
+    return version;
+  } catch {
+    // A missing asset will still be handled by the cutout route's fallback.
+    return "missing";
+  }
+}
+
 function modelCutoutUrl(url: string, variant?: "hero"): string {
-  const variantParam = variant ? `&variant=${variant}` : "";
-  return `/api/images/cutout?src=${encodeURIComponent(url)}${variantParam}`;
+  const params = new URLSearchParams({ src: url, v: modelAssetVersion(url) });
+  if (variant) params.set("variant", variant);
+  return `/api/images/cutout?${params.toString()}`;
 }
 
 function readAssets(directory: string): Asset[] {
@@ -202,6 +221,12 @@ function viewScore(asset: Asset): number {
   return 0;
 }
 
+function formatScore(asset: Asset): number {
+  // Transparent replacements are written as lossless PNGs. Prefer them while
+  // an old WEBP is still present during the replacement pass.
+  return path.extname(asset.name).toLowerCase() === ".png" ? 2 : 1;
+}
+
 function latestYear(asset: Asset): number {
   const years = asset.name.match(/(?:19|20)\d{2}/g)?.map(Number) ?? [];
   return Math.max(0, ...years);
@@ -228,7 +253,14 @@ function findModelAsset(brand: string, modelSlug: string, modelName?: string, pr
         const tokens = term.split(" ").filter((token) => token.length > 1);
         if (tokens.length > 1 && tokens.every((token) => asset.normalized.includes(token))) matchScore = Math.max(matchScore, 120 + tokens.length * 4);
       }
-      return { asset, matchScore, viewScore: viewScore(asset), year: latestYear(asset), duplicate: asset.name.includes("(1)") ? 1 : 0 };
+      return {
+        asset,
+        matchScore,
+        viewScore: viewScore(asset),
+        formatScore: formatScore(asset),
+        year: latestYear(asset),
+        duplicate: asset.name.includes("(1)") ? 1 : 0,
+      };
     })
     .filter((item) => item.matchScore > 0)
     .sort(
@@ -236,6 +268,7 @@ function findModelAsset(brand: string, modelSlug: string, modelName?: string, pr
         b.matchScore - a.matchScore ||
         (preferLatest ? b.year - a.year : 0) ||
         b.viewScore - a.viewScore ||
+        b.formatScore - a.formatScore ||
         a.duplicate - b.duplicate ||
         a.asset.url.localeCompare(b.asset.url),
     );
@@ -335,6 +368,10 @@ function brandEngineFallbacks(brand?: string): string[] {
       ? ["land-rover", "range-rover"]
       : [key];
   return [...new Set(names.flatMap((name) => [1, 2, 3].map((variant) => `/images/engines/${name}-engine-${variant}.webp`)))].filter(exists);
+}
+
+export function brandEngineImagesFor(brand: string): string[] {
+  return brandEngineFallbacks(brand).slice(0, 2);
 }
 
 function stableIndex(value: string, length: number): number {
@@ -448,13 +485,15 @@ export function resolveBrandImages<T extends Record<string, any>>(data: T, brand
   const brand = data.hero?.brand ?? brandSlug;
   const representative = brandImageFor(brandSlug);
   const heroRepresentative = brandImageFor(brandSlug, "hero");
+  const brandEngineImages = brandEngineImagesFor(brand);
   const firstFamilyCode = data.engineFamilies?.families?.[0]?.code ?? data.hero?.cards?.[0]?.code ?? brand;
+  const priceFor = (code: string) => data.engineFamilies?.families?.find((family: Record<string, unknown>) => String(family.code).toLowerCase().startsWith(String(code).toLowerCase()))?.priceFrom;
   return {
     ...data,
     hero: {
       ...data.hero,
       carImage: heroRepresentative,
-      cards: engineCards(data.hero?.cards, brand),
+      cards: engineCards(data.hero?.cards, brand)?.map((card: Record<string, unknown>) => ({ ...card, priceFrom: priceFor(String(card.code ?? "")) })),
     },
     featuredEngines: {
       ...data.featuredEngines,
@@ -470,10 +509,18 @@ export function resolveBrandImages<T extends Record<string, any>>(data: T, brand
     engineFamilies: {
       ...data.engineFamilies,
       image: engineImageFor(firstFamilyCode, brand),
+      families: data.engineFamilies?.families?.map((family: Record<string, unknown>) => ({ ...family, image: engineImageFor(String(family.code ?? ""), brand) })),
     },
     priceGuide: {
       ...data.priceGuide,
       image: engineImageFor(firstFamilyCode, brand),
+    },
+    usedVsRecon: {
+      ...data.usedVsRecon,
+      options: data.usedVsRecon?.options?.map((option: Record<string, unknown>, index: number) => ({
+        ...option,
+        image: brandEngineImages[index] ?? option.image,
+      })),
     },
     about: { ...data.about, carImage: representative },
     cta: { ...data.cta, carImage: heroRepresentative },

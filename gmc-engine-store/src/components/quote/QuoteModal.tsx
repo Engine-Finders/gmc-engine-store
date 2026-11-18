@@ -1,6 +1,6 @@
 "use client";
 
-import { createContext, useCallback, useContext, useEffect, useMemo, useState } from "react";
+import { createContext, useCallback, useContext, useEffect, useMemo, useRef, useState } from "react";
 import type { ReactNode } from "react";
 import Icon from "../Icon";
 import QuoteForm from "./QuoteForm";
@@ -18,12 +18,15 @@ export const useQuoteModal = () => useContext(QuoteModalContext);
 export function useRegCheck(extra: QuoteOptions = {}) {
   const { open } = useQuoteModal();
   const [reg, setReg] = useState("");
+  const [postcode, setPostcode] = useState("");
   return {
     reg,
+    postcode,
     onChange: (e: React.ChangeEvent<HTMLInputElement>) => setReg(e.target.value.toUpperCase()),
+    onPostcodeChange: (e: React.ChangeEvent<HTMLInputElement>) => setPostcode(e.target.value.toUpperCase()),
     onSubmit: (e: React.FormEvent) => {
       e.preventDefault();
-      open({ ...extra, reg: reg.trim() });
+      open({ ...extra, reg: reg.trim(), postcode: postcode.trim() });
     },
   };
 }
@@ -52,7 +55,7 @@ function QuotePopup({ onClose, opts }: { onClose: () => void; opts: QuoteOptions
       </button>
 
       <h2 className="pr-8 text-[22px] font-extrabold leading-tight tracking-tight text-ink-900">{opts.heading || "Get Your Free Engine Quote"}</h2>
-      <p className="mb-4 mt-1 text-[13px] text-ink-500">Enter your registration to confirm fitment, then leave your details and a specialist will call you back.</p>
+      <p className="mb-4 mt-1 text-[13px] text-ink-500">Enter your registration and postcode, then tell us what you need so suitable suppliers can respond.</p>
 
       <QuoteForm opts={opts} source="quote-popup" idPrefix="popup" />
     </div>
@@ -61,6 +64,7 @@ function QuotePopup({ onClose, opts }: { onClose: () => void; opts: QuoteOptions
 
 export default function QuoteModalProvider({ children }: { children: ReactNode }) {
   const [opts, setOpts] = useState<QuoteOptions | null>(null);
+  const previousOpts = useRef<QuoteOptions | null>(null);
   // open() may also be handed straight to onClick, so only a plain options object counts
   const open = useCallback((o?: QuoteOptions) => {
     const plain = o && typeof o === "object" && !("nativeEvent" in o) ? o : {};
@@ -68,6 +72,14 @@ export default function QuoteModalProvider({ children }: { children: ReactNode }
   }, []);
   const close = useCallback(() => setOpts(null), []);
   const value = useMemo(() => ({ open }), [open]);
+
+  useEffect(() => {
+    if (!opts && previousOpts.current?.returnFocusId) {
+      const target = previousOpts.current.returnFocusId;
+      window.setTimeout(() => document.getElementById(target)?.focus(), 0);
+    }
+    previousOpts.current = opts;
+  }, [opts]);
 
   useEffect(() => {
     if (!opts) return;
