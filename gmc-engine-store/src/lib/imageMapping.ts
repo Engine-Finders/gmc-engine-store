@@ -202,6 +202,12 @@ function viewScore(asset: Asset): number {
   return 0;
 }
 
+function formatScore(asset: Asset): number {
+  // Transparent replacements are written as lossless PNGs. Prefer them while
+  // an old WEBP is still present during the replacement pass.
+  return path.extname(asset.name).toLowerCase() === ".png" ? 2 : 1;
+}
+
 function latestYear(asset: Asset): number {
   const years = asset.name.match(/(?:19|20)\d{2}/g)?.map(Number) ?? [];
   return Math.max(0, ...years);
@@ -228,7 +234,14 @@ function findModelAsset(brand: string, modelSlug: string, modelName?: string, pr
         const tokens = term.split(" ").filter((token) => token.length > 1);
         if (tokens.length > 1 && tokens.every((token) => asset.normalized.includes(token))) matchScore = Math.max(matchScore, 120 + tokens.length * 4);
       }
-      return { asset, matchScore, viewScore: viewScore(asset), year: latestYear(asset), duplicate: asset.name.includes("(1)") ? 1 : 0 };
+      return {
+        asset,
+        matchScore,
+        viewScore: viewScore(asset),
+        formatScore: formatScore(asset),
+        year: latestYear(asset),
+        duplicate: asset.name.includes("(1)") ? 1 : 0,
+      };
     })
     .filter((item) => item.matchScore > 0)
     .sort(
@@ -236,6 +249,7 @@ function findModelAsset(brand: string, modelSlug: string, modelName?: string, pr
         b.matchScore - a.matchScore ||
         (preferLatest ? b.year - a.year : 0) ||
         b.viewScore - a.viewScore ||
+        b.formatScore - a.formatScore ||
         a.duplicate - b.duplicate ||
         a.asset.url.localeCompare(b.asset.url),
     );
