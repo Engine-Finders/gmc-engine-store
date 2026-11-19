@@ -6,15 +6,15 @@ type Data = ModelPageData["priceGuide"];
 export default function ModelPriceGuide({ data }: { data: Data }) {
   return (
     // band 4 (alt)
-    <section className="bg-[#f7f9fc] dark:bg-[#0a1120] py-6 lg:py-7">
-      <div className="max-w-content mx-auto px-4 sm:px-6 lg:px-8">
+    <section className="bg-[#f7f9fc] py-5 dark:bg-[#0a1120] sm:py-6">
+      <div className="mx-auto max-w-content px-4 sm:px-6 lg:px-8">
         {/* raised: the band behind is now #f7f9fc, so the panel goes white to stay legible */}
-        <div className="relative rounded-xl border border-line dark:border-white/10 bg-white dark:bg-white/[0.04] p-6 sm:p-8">
-          <h2 className="text-[22px] sm:text-[26px] font-extrabold tracking-tight text-ink-900 dark:text-white">{data.title}</h2>
+        <div className="relative rounded-xl border border-line bg-white p-4 dark:border-white/10 dark:bg-white/[0.04] sm:p-5 lg:p-6">
+          <h2 className="text-[24px] font-extrabold tracking-tight text-ink-900 dark:text-white sm:text-[28px]">{data.title}</h2>
           <p className="mt-2 max-w-2xl text-[13px] leading-relaxed text-ink-500 dark:text-white/55">{data.subtitle}</p>
 
           {/* timeline */}
-          <div className="relative mt-8 flex items-center">
+          <div className="relative mt-5 flex items-center sm:mt-6">
             <span className="text-[13px] font-bold text-primary-600 dark:text-primary-400">{data.rangeStart}</span>
             <div className="relative mx-3 flex-1">
               {/* connector: ink-300 is NOT a defined shade (400/500/700/800/900 only) — it rendered invisible */}
@@ -29,10 +29,10 @@ export default function ModelPriceGuide({ data }: { data: Data }) {
           </div>
 
           {/* generation cards */}
-          <div className="relative mt-6">
-            <div className="grid grid-cols-2 lg:grid-cols-4 gap-4">
+          <div className="relative mt-4 sm:mt-5">
+            <div className="grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-[repeat(auto-fit,minmax(160px,1fr))]">
               {data.generations.map((g) => (
-                <div key={g.code} className={`rounded-xl border p-4 transition-colors ${g.current ? "border-primary-400 bg-primary-50 dark:bg-primary-500/10" : "border-line dark:border-white/10 bg-white dark:bg-white/[0.03]"}`}>
+                <div key={g.code} className={`rounded-xl border p-3 transition-colors ${g.current ? "border-primary-400 bg-primary-50 dark:bg-primary-500/10" : "border-line dark:border-white/10 bg-white dark:bg-white/[0.03]"}`}>
                   <div className="text-center">
                     <p className={`text-[17px] font-extrabold ${g.current ? "text-primary-600 dark:text-primary-400" : "text-ink-900 dark:text-white"}`}>{g.code}</p>
                     <p className={`text-[12px] ${g.current ? "text-primary-500 dark:text-primary-300" : "text-ink-500 dark:text-white/55"}`}>{g.years}</p>
@@ -43,7 +43,7 @@ export default function ModelPriceGuide({ data }: { data: Data }) {
                       aspect 403/131 is the car's own bbox aspect, and object-position
                       25% centres that band vertically. No mix-blend-mode — the PNG has
                       real alpha, and `lighten` would erase the black W204 car in dark mode. */}
-                  <div className="vehicle-image-frame my-3 flex h-[112px] w-full items-center justify-center overflow-hidden rounded-lg sm:h-[128px]">
+                  <div className="vehicle-image-frame my-2 flex h-[82px] w-full items-center justify-center overflow-hidden rounded-lg sm:h-[96px]">
                     {/* eslint-disable-next-line @next/next/no-img-element */}
                     <img
                       src={g.image}
@@ -64,7 +64,7 @@ export default function ModelPriceGuide({ data }: { data: Data }) {
             </div>
           </div>
 
-          <p className="mt-6 text-center text-[12.5px] leading-relaxed text-ink-500 dark:text-white/50 max-w-2xl mx-auto">{data.note}</p>
+          <p className="mx-auto mt-4 max-w-2xl text-center text-[12px] leading-relaxed text-ink-500 dark:text-white/50">{data.note}</p>
         </div>
       </div>
     </section>

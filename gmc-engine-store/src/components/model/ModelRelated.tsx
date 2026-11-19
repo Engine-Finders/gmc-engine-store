@@ -2,7 +2,13 @@ import Link from "next/link";
 import Icon from "../Icon";
 import type { ModelPageData } from "@/lib/model";
 
-export default function ModelRelated({ data }: { data: ModelPageData["related"] }) {
+type Props = {
+  data: ModelPageData["related"];
+  image?: string;
+  imageLight?: string;
+};
+
+export default function ModelRelated({ data }: Props) {
   return (
     <section className="bg-white dark:bg-[#070c18] py-6 lg:py-7">
       <div className="max-w-content mx-auto px-4 sm:px-6 lg:px-8">
