@@ -45,7 +45,7 @@ export default function ModelPage({ params }: { params: Params }) {
           <ModelPriceGuide data={data.priceGuide} />
           <ModelUsedGenerations usedVsRecon={data.usedVsRecon} generations={data.generations} />
           <ModelFaqs data={data.faqs} />
-          <ModelRelated data={data.related} />
+          <ModelRelated data={data.related} image={data.hero.carImage} imageLight={data.hero.carImageLight} />
           <ModelCta data={data.cta} />
         </main>
       </ModelThemeShell>
